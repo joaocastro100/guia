@@ -1,0 +1,502 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="DEUTSCHE WELLE">
+    <display-name lang="pt">DEUTSCHE WELLE</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/deutsche-welle.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="RTP 1">
+    <display-name lang="pt">RTP 1</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp1-hd.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">RTP 2</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-2.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">SIC</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sic-hd.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">TVI</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvi.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <programme start="20201212021500 +0000" stop="20201212030000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Docfilm</title>
+  </programme>
+  <programme start="20201212030000 +0000" stop="20201212031500 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212031500 +0000" stop="20201212033000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Business</title>
+  </programme>
+  <programme start="20201212033000 +0000" stop="20201212040000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Tomorrow Today</title>
+  </programme>
+  <programme start="20201212040000 +0000" stop="20201212040200 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212040200 +0000" stop="20201212043000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Arts.21</title>
+  </programme>
+  <programme start="20201212043000 +0000" stop="20201212050000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Euromaxx</title>
+  </programme>
+  <programme start="20201212050000 +0000" stop="20201212051500 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212051500 +0000" stop="20201212053000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">World Stories</title>
+  </programme>
+  <programme start="20201212053000 +0000" stop="20201212060000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">The 77 Percent</title>
+  </programme>
+  <programme start="20201212060000 +0000" stop="20201212061500 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212061500 +0000" stop="20201212063000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Shift</title>
+  </programme>
+  <programme start="20201212063000 +0000" stop="20201212070000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Rev</title>
+  </programme>
+  <programme start="20201212070000 +0000" stop="20201212071500 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212071500 +0000" stop="20201212073000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Arts And Culture</title>
+  </programme>
+  <programme start="20201212073000 +0000" stop="20201212080000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Check-In</title>
+  </programme>
+  <programme start="20201212080000 +0000" stop="20201212081500 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212081500 +0000" stop="20201212090000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Docfilm</title>
+  </programme>
+  <programme start="20201212090000 +0000" stop="20201212091500 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212091500 +0000" stop="20201212093000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Sports Life</title>
+  </programme>
+  <programme start="20201212093000 +0000" stop="20201212100000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Euromaxx</title>
+  </programme>
+  <programme start="20201212100000 +0000" stop="20201212101500 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212101500 +0000" stop="20201212103000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Shift</title>
+  </programme>
+  <programme start="20201212103000 +0000" stop="20201212110000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Check-In</title>
+  </programme>
+  <programme start="20201212110000 +0000" stop="20201212111500 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212111500 +0000" stop="20201212113000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Reporter</title>
+  </programme>
+  <programme start="20201212113000 +0000" stop="20201212120000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Arts.21</title>
+  </programme>
+  <programme start="20201212120000 +0000" stop="20201212121500 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212121500 +0000" stop="20201212130000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Docfilm</title>
+  </programme>
+  <programme start="20201212130000 +0000" stop="20201212131500 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212131500 +0000" stop="20201212133000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">World Stories</title>
+  </programme>
+  <programme start="20201212133000 +0000" stop="20201212140000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Euromaxx</title>
+  </programme>
+  <programme start="20201212140000 +0000" stop="20201212141500 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212141500 +0000" stop="20201212143000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Reporter</title>
+  </programme>
+  <programme start="20201212143000 +0000" stop="20201212150000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">The 77 Percent</title>
+  </programme>
+  <programme start="20201212150000 +0000" stop="20201212151500 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212151500 +0000" stop="20201212160000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Docfilm</title>
+  </programme>
+  <programme start="20201212160000 +0000" stop="20201212161500 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212161500 +0000" stop="20201212163000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Sports Life</title>
+  </programme>
+  <programme start="20201212163000 +0000" stop="20201212170000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Conflict Zone</title>
+  </programme>
+  <programme start="20201212170000 +0000" stop="20201212171500 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212171500 +0000" stop="20201212173000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Shift</title>
+  </programme>
+  <programme start="20201212173000 +0000" stop="20201212180000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">The 77 Percent</title>
+  </programme>
+  <programme start="20201212180000 +0000" stop="20201212181500 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212181500 +0000" stop="20201212183000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Reporter</title>
+  </programme>
+  <programme start="20201212183000 +0000" stop="20201212190000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Tomorrow Today</title>
+  </programme>
+  <programme start="20201212190000 +0000" stop="20201212191500 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212191500 +0000" stop="20201212200000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Docfilm</title>
+  </programme>
+  <programme start="20201212200000 +0000" stop="20201212201500 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212201500 +0000" stop="20201212203000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">World Stories</title>
+  </programme>
+  <programme start="20201212203000 +0000" stop="20201212210000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Arts.21</title>
+  </programme>
+  <programme start="20201212210000 +0000" stop="20201212211500 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212211500 +0000" stop="20201212213000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Shift</title>
+  </programme>
+  <programme start="20201212213000 +0000" stop="20201212220000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Eco Africa</title>
+  </programme>
+  <programme start="20201212220000 +0000" stop="20201212220200 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212220200 +0000" stop="20201212223000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Docfilm</title>
+  </programme>
+  <programme start="20201212223000 +0000" stop="20201212230000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Euromaxx</title>
+  </programme>
+  <programme start="20201212230000 +0000" stop="20201212231500 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Dw News</title>
+  </programme>
+  <programme start="20201212231500 +0000" stop="20201212233000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Sports Life</title>
+  </programme>
+  <programme start="20201212233000 +0000" stop="20201213000000 +0000" channel="DEUTSCHE WELLE">
+    <title lang="pt">Check-In</title>
+  </programme>
+  <programme start="20201212025400 +0000" stop="20201212033700 +0000" channel="RTP 1">
+    <title lang="pt">O Sábio</title>
+  </programme>
+  <programme start="20201212033700 +0000" stop="20201212053800 +0000" channel="RTP 1">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20201212053800 +0000" stop="20201212063000 +0000" channel="RTP 1">
+    <title lang="pt">Animais Incríveis</title>
+  </programme>
+  <programme start="20201212063000 +0000" stop="20201212080000 +0000" channel="RTP 1">
+    <title lang="pt">Zig Zag</title>
+  </programme>
+  <programme start="20201212080000 +0000" stop="20201212100800 +0000" channel="RTP 1">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+  </programme>
+  <programme start="20201212100800 +0000" stop="20201212110000 +0000" channel="RTP 1">
+    <title lang="pt">Animais Incríveis</title>
+  </programme>
+  <programme start="20201212110000 +0000" stop="20201212130000 +0000" channel="RTP 1">
+    <title lang="pt">Aqui Portugal (Manhã)</title>
+  </programme>
+  <programme start="20201212130000 +0000" stop="20201212141500 +0000" channel="RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20201212141500 +0000" stop="20201212144200 +0000" channel="RTP 1">
+    <title lang="pt">Voz do Cidadão</title>
+  </programme>
+  <programme start="20201212144200 +0000" stop="20201212191200 +0000" channel="RTP 1">
+    <title lang="pt">Aqui Portugal (Tarde)</title>
+  </programme>
+  <programme start="20201212191200 +0000" stop="20201212195900 +0000" channel="RTP 1">
+    <title lang="pt">O Preço Certo</title>
+  </programme>
+  <programme start="20201212195900 +0000" stop="20201212210000 +0000" channel="RTP 1">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20201212210000 +0000" stop="20201212215200 +0000" channel="RTP 1">
+    <title lang="pt">Missão: 100% Português</title>
+  </programme>
+  <programme start="20201212215200 +0000" stop="20201212224900 +0000" channel="RTP 1">
+    <title lang="pt">Conta-me Como Foi</title>
+  </programme>
+  <programme start="20201212224900 +0000" stop="20201213004800 +0000" channel="RTP 1">
+    <title lang="pt">I Love Portugal</title>
+  </programme>
+  <programme start="20201212021200 +0000" stop="20201212054500 +0000" channel="RTP 2">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20201212054500 +0000" stop="20201212063100 +0000" channel="RTP 2">
+    <title lang="pt">Lusitana Paixão</title>
+  </programme>
+  <programme start="20201212063100 +0000" stop="20201212070000 +0000" channel="RTP 2">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+  </programme>
+  <programme start="20201212070000 +0000" stop="20201212080000 +0000" channel="RTP 2">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20201212080000 +0000" stop="20201212080100 +0000" channel="RTP 2">
+    <title lang="pt">Espaço Zig Zag</title>
+  </programme>
+  <programme start="20201212080100 +0000" stop="20201212080200 +0000" channel="RTP 2">
+    <title lang="pt">Banda Zig Zag</title>
+  </programme>
+  <programme start="20201212080200 +0000" stop="20201212080500 +0000" channel="RTP 2">
+    <title lang="pt">As Aventuras do Xavier</title>
+  </programme>
+  <programme start="20201212080500 +0000" stop="20201212082900 +0000" channel="RTP 2">
+    <title lang="pt">Zafari</title>
+  </programme>
+  <programme start="20201212082900 +0000" stop="20201212083400 +0000" channel="RTP 2">
+    <title lang="pt">A Grande Descoberta</title>
+  </programme>
+  <programme start="20201212083400 +0000" stop="20201212084000 +0000" channel="RTP 2">
+    <title lang="pt">A Grande Descoberta</title>
+  </programme>
+  <programme start="20201212084000 +0000" stop="20201212084700 +0000" channel="RTP 2">
+    <title lang="pt">Inui</title>
+  </programme>
+  <programme start="20201212084700 +0000" stop="20201212085400 +0000" channel="RTP 2">
+    <title lang="pt">Inui</title>
+  </programme>
+  <programme start="20201212085400 +0000" stop="20201212090500 +0000" channel="RTP 2">
+    <title lang="pt">Shane, O Chef</title>
+  </programme>
+  <programme start="20201212090500 +0000" stop="20201212091600 +0000" channel="RTP 2">
+    <title lang="pt">Shane, O Chef</title>
+  </programme>
+  <programme start="20201212091600 +0000" stop="20201212092100 +0000" channel="RTP 2">
+    <title lang="pt">Minúsculo</title>
+  </programme>
+  <programme start="20201212092100 +0000" stop="20201212092800 +0000" channel="RTP 2">
+    <title lang="pt">As Aventuras da Miffy</title>
+  </programme>
+  <programme start="20201212092800 +0000" stop="20201212093500 +0000" channel="RTP 2">
+    <title lang="pt">As Aventuras da Miffy</title>
+  </programme>
+  <programme start="20201212093500 +0000" stop="20201212094600 +0000" channel="RTP 2">
+    <title lang="pt">Kody Kapow</title>
+  </programme>
+  <programme start="20201212094600 +0000" stop="20201212095700 +0000" channel="RTP 2">
+    <title lang="pt">Kody Kapow</title>
+  </programme>
+  <programme start="20201212095700 +0000" stop="20201212100900 +0000" channel="RTP 2">
+    <title lang="pt">Twirlywoos</title>
+  </programme>
+  <programme start="20201212100900 +0000" stop="20201212102000 +0000" channel="RTP 2">
+    <title lang="pt">Twirlywoos</title>
+  </programme>
+  <programme start="20201212102000 +0000" stop="20201212103100 +0000" channel="RTP 2">
+    <title lang="pt">Ao Resgate da Selva</title>
+  </programme>
+  <programme start="20201212103100 +0000" stop="20201212104200 +0000" channel="RTP 2">
+    <title lang="pt">Ao Resgate da Selva</title>
+  </programme>
+  <programme start="20201212104200 +0000" stop="20201212110400 +0000" channel="RTP 2">
+    <title lang="pt">Team Dronix</title>
+  </programme>
+  <programme start="20201212110400 +0000" stop="20201212112600 +0000" channel="RTP 2">
+    <title lang="pt">Team Dronix</title>
+  </programme>
+  <programme start="20201212112600 +0000" stop="20201212114900 +0000" channel="RTP 2">
+    <title lang="pt">Team Dronix</title>
+  </programme>
+  <programme start="20201212114900 +0000" stop="20201212121100 +0000" channel="RTP 2">
+    <title lang="pt">Casa</title>
+  </programme>
+  <programme start="20201212121100 +0000" stop="20201212123300 +0000" channel="RTP 2">
+    <title lang="pt">Casa</title>
+  </programme>
+  <programme start="20201212123300 +0000" stop="20201212125600 +0000" channel="RTP 2">
+    <title lang="pt">Casa</title>
+  </programme>
+  <programme start="20201212125600 +0000" stop="20201212130800 +0000" channel="RTP 2">
+    <title lang="pt">Lou!</title>
+  </programme>
+  <programme start="20201212130800 +0000" stop="20201212132100 +0000" channel="RTP 2">
+    <title lang="pt">Lou!</title>
+  </programme>
+  <programme start="20201212132100 +0000" stop="20201212133300 +0000" channel="RTP 2">
+    <title lang="pt">Os Vizinhos Piratas</title>
+  </programme>
+  <programme start="20201212133300 +0000" stop="20201212134400 +0000" channel="RTP 2">
+    <title lang="pt">Os Vizinhos Piratas</title>
+  </programme>
+  <programme start="20201212134400 +0000" stop="20201212135900 +0000" channel="RTP 2">
+    <title lang="pt">Sim, Eu Consigo</title>
+  </programme>
+  <programme start="20201212135900 +0000" stop="20201212142700 +0000" channel="RTP 2">
+    <title lang="pt">Leonardo</title>
+  </programme>
+  <programme start="20201212142700 +0000" stop="20201212145500 +0000" channel="RTP 2">
+    <title lang="pt">Leonardo</title>
+  </programme>
+  <programme start="20201212145500 +0000" stop="20201212150200 +0000" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20201212150200 +0000" stop="20201212164500 +0000" channel="RTP 2">
+    <title lang="pt">O Comissário Montalbano</title>
+  </programme>
+  <programme start="20201212164500 +0000" stop="20201212171300 +0000" channel="RTP 2">
+    <title lang="pt">Eco-Lógica</title>
+  </programme>
+  <programme start="20201212171300 +0000" stop="20201212174300 +0000" channel="RTP 2">
+    <title lang="pt">Biosfera</title>
+  </programme>
+  <programme start="20201212174300 +0000" stop="20201212191500 +0000" channel="RTP 2">
+    <title lang="pt">Dia da Mãe</title>
+  </programme>
+  <programme start="20201212191500 +0000" stop="20201212194600 +0000" channel="RTP 2">
+    <title lang="pt">Faça Chuva Faça Sol</title>
+  </programme>
+  <programme start="20201212194600 +0000" stop="20201212201500 +0000" channel="RTP 2">
+    <title lang="pt">Saber Sabe Bem</title>
+  </programme>
+  <programme start="20201212201500 +0000" stop="20201212204700 +0000" channel="RTP 2">
+    <title lang="pt">Sons de Nova Iorque: Vicente Archer</title>
+  </programme>
+  <programme start="20201212204700 +0000" stop="20201212210200 +0000" channel="RTP 2">
+    <title lang="pt">Cuidado com a Língua!</title>
+  </programme>
+  <programme start="20201212210200 +0000" stop="20201212213000 +0000" channel="RTP 2">
+    <title lang="pt">Ao Serviço da França</title>
+  </programme>
+  <programme start="20201212213000 +0000" stop="20201212214800 +0000" channel="RTP 2">
+    <title lang="pt">Jornal 2</title>
+  </programme>
+  <programme start="20201212214800 +0000" stop="20201212220500 +0000" channel="RTP 2">
+    <title lang="pt">Página 2</title>
+  </programme>
+  <programme start="20201212220500 +0000" stop="20201212221400 +0000" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20201212221400 +0000" stop="20201212233000 +0000" channel="RTP 2">
+    <title lang="pt">VSPRS Show and Tell</title>
+  </programme>
+  <programme start="20201212233000 +0000" stop="20201213005700 +0000" channel="RTP 2">
+    <title lang="pt">Corte de Cabelo</title>
+  </programme>
+  <programme start="20201212011000 +0000" stop="20201212034000 +0000" channel="SIC">
+    <title lang="pt">Fernando Rocha - 20 Anos</title>
+  </programme>
+  <programme start="20201212034000 +0000" stop="20201212040500 +0000" channel="SIC">
+    <title lang="pt">Volante</title>
+  </programme>
+  <programme start="20201212040500 +0000" stop="20201212053500 +0000" channel="SIC">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20201212053500 +0000" stop="20201212060000 +0000" channel="SIC">
+    <title lang="pt">Os Malucos do Riso</title>
+  </programme>
+  <programme start="20201212060000 +0000" stop="20201212064500 +0000" channel="SIC">
+    <title lang="pt">Etnias</title>
+  </programme>
+  <programme start="20201212064500 +0000" stop="20201212080500 +0000" channel="SIC">
+    <title lang="pt">Uma Aventura</title>
+  </programme>
+  <programme start="20201212080500 +0000" stop="20201212090500 +0000" channel="SIC">
+    <title lang="pt">À Descoberta Com...</title>
+  </programme>
+  <programme start="20201212090500 +0000" stop="20201212121500 +0000" channel="SIC">
+    <title lang="pt">Olhó Baião</title>
+  </programme>
+  <programme start="20201212121500 +0000" stop="20201212130000 +0000" channel="SIC">
+    <title lang="pt">Nosso Mundo</title>
+  </programme>
+  <programme start="20201212130000 +0000" stop="20201212140000 +0000" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20201212140000 +0000" stop="20201212145500 +0000" channel="SIC">
+    <title lang="pt">Alta Definição</title>
+  </programme>
+  <programme start="20201212145500 +0000" stop="20201212152000 +0000" channel="SIC">
+    <title lang="pt">E-Especial</title>
+  </programme>
+  <programme start="20201212152000 +0000" stop="20201212153000 +0000" channel="SIC">
+    <title lang="pt">#Eu Quero Arrumar</title>
+  </programme>
+  <programme start="20201212153000 +0000" stop="20201212154000 +0000" channel="SIC">
+    <title lang="pt">Casa Nova, Vida Nova</title>
+  </programme>
+  <programme start="20201212154000 +0000" stop="20201212175000 +0000" channel="SIC">
+    <title lang="pt">Olha quem Fala agora!</title>
+  </programme>
+  <programme start="20201212175000 +0000" stop="20201212200000 +0000" channel="SIC">
+    <title lang="pt">Circo de Monte Carlo</title>
+  </programme>
+  <programme start="20201212200000 +0000" stop="20201212214000 +0000" channel="SIC">
+    <title lang="pt">Jornal Da Noite</title>
+  </programme>
+  <programme start="20201212214000 +0000" stop="20201212222500 +0000" channel="SIC">
+    <title lang="pt">Patrões Fora</title>
+  </programme>
+  <programme start="20201212222500 +0000" stop="20201213000000 +0000" channel="SIC">
+    <title lang="pt">Terra Nossa</title>
+  </programme>
+  <programme start="20201212023500 +0000" stop="20201212041500 +0000" channel="TVI">
+    <title lang="pt">A Outra</title>
+  </programme>
+  <programme start="20201212041500 +0000" stop="20201212054500 +0000" channel="TVI">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20201212054500 +0000" stop="20201212062000 +0000" channel="TVI">
+    <title lang="pt">Os Batanetes</title>
+  </programme>
+  <programme start="20201212062000 +0000" stop="20201212070500 +0000" channel="TVI">
+    <title lang="pt">Detective Maravilhas</title>
+  </programme>
+  <programme start="20201212070500 +0000" stop="20201212074500 +0000" channel="TVI">
+    <title lang="pt">Campeões E Detectives</title>
+  </programme>
+  <programme start="20201212074500 +0000" stop="20201212095000 +0000" channel="TVI">
+    <title lang="pt">Diário Da Manhã</title>
+  </programme>
+  <programme start="20201212095000 +0000" stop="20201212121500 +0000" channel="TVI">
+    <title lang="pt">Inspetor Max</title>
+  </programme>
+  <programme start="20201212121500 +0000" stop="20201212130000 +0000" channel="TVI">
+    <title lang="pt">Querido, Mudei A Casa!</title>
+  </programme>
+  <programme start="20201212130000 +0000" stop="20201212144500 +0000" channel="TVI">
+    <title lang="pt">Jornal Da Uma</title>
+  </programme>
+  <programme start="20201212144500 +0000" stop="20201212195700 +0000" channel="TVI">
+    <title lang="pt">Em Família</title>
+  </programme>
+  <programme start="20201212195700 +0000" stop="20201212214500 +0000" channel="TVI">
+    <title lang="pt">Jornal Das 8</title>
+  </programme>
+  <programme start="20201212214500 +0000" stop="20201212230000 +0000" channel="TVI">
+    <title lang="pt">Bem me Quer</title>
+  </programme>
+  <programme start="20201212230000 +0000" stop="20201213000000 +0000" channel="TVI">
+    <title lang="pt">Amar Demais</title>
+  </programme>
+</tv>
