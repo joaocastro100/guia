@@ -2,538 +2,900 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="RTP1">
     <display-name lang="pt">RTP1</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp1-hd.png" />
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="RTP2">
     <display-name lang="pt">RTP2</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-2.png" />
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="SIC">
     <display-name lang="pt">SIC</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sic-hd.png" />
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="TVI">
     <display-name lang="pt">TVI</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvi.png" />
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="SIC Notícias">
     <display-name lang="pt">SIC Notícias</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="RTP Informação">
     <display-name lang="pt">RTP Informação</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="TVI24">
     <display-name lang="pt">TVI24</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvi24.png" />
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="SIC Mulher">
     <display-name lang="pt">SIC Mulher</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="SIC Radical">
     <display-name lang="pt">SIC Radical</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="RTP1 HD">
     <display-name lang="pt">RTP1 HD</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="RTP Memória">
     <display-name lang="pt">RTP Memória</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Porto Canal">
     <display-name lang="pt">Porto Canal</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Canal Q">
     <display-name lang="pt">Canal Q</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="ETV HD">
     <display-name lang="pt">ETV HD</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="RTP Madeira">
     <display-name lang="pt">RTP Madeira</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="RTP Açores">
     <display-name lang="pt">RTP Açores</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="SPORT TV 1">
     <display-name lang="pt">SPORT TV 1</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="SPORT TV 2">
     <display-name lang="pt">SPORT TV 2</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="SPORT TV 3">
     <display-name lang="pt">SPORT TV 3</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="SPORT TV 4">
     <display-name lang="pt">SPORT TV 4</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="SPORT TV 1 HD">
     <display-name lang="pt">SPORT TV 1 HD</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="SPORT TV LIGA INGLESA">
     <display-name lang="pt">SPORT TV LIGA INGLESA</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Benfica TV">
     <display-name lang="pt">Benfica TV</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Eurosport HD">
     <display-name lang="pt">Eurosport HD</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Eurosport">
     <display-name lang="pt">Eurosport</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Eurosport 2">
     <display-name lang="pt">Eurosport 2</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Eurosport News">
     <display-name lang="pt">Eurosport News</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="ESPN Classic">
     <display-name lang="pt">ESPN Classic</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="ESPN America HD">
     <display-name lang="pt">ESPN America HD</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="ESPN America">
     <display-name lang="pt">ESPN America</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="SPORT TV GOLFE">
     <display-name lang="pt">SPORT TV GOLFE</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Disney Channel">
     <display-name lang="pt">Disney Channel</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="SIC K">
     <display-name lang="pt">SIC K</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Panda">
     <display-name lang="pt">Panda</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Cartoon Network">
     <display-name lang="pt">Cartoon Network</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="JimJam">
     <display-name lang="pt">JimJam</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Baby TV">
     <display-name lang="pt">Baby TV</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="TVCINE 1">
     <display-name lang="pt">TVCINE 1</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="TVCINE 2">
     <display-name lang="pt">TVCINE 2</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="TVCINE 3">
     <display-name lang="pt">TVCINE 3</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="TVCINE 4">
     <display-name lang="pt">TVCINE 4</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Hollywood">
     <display-name lang="pt">Hollywood</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="TCM">
     <display-name lang="pt">TCM</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="MGM">
     <display-name lang="pt">MGM</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="AXN HD">
     <display-name lang="pt">AXN HD</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="AXN">
     <display-name lang="pt">AXN</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="AXN Black">
     <display-name lang="pt">AXN Black</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="AXN White">
     <display-name lang="pt">AXN White</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Sy Fy HD">
     <display-name lang="pt">Sy Fy HD</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Sy Fy">
     <display-name lang="pt">Sy Fy</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="FOX HD">
     <display-name lang="pt">FOX HD</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="FOX">
     <display-name lang="pt">FOX</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="FOX Life">
     <display-name lang="pt">FOX Life</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="FOX CRIME">
     <display-name lang="pt">FOX CRIME</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="FX">
     <display-name lang="pt">FX</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="FOX Movies HD">
     <display-name lang="pt">FOX Movies HD</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="FOX Movies">
     <display-name lang="pt">FOX Movies</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="MTV Portugal">
     <display-name lang="pt">MTV Portugal</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Fuel TV HD">
     <display-name lang="pt">Fuel TV HD</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Fuel TV">
     <display-name lang="pt">Fuel TV</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="E! Entertainment">
     <display-name lang="pt">E! Entertainment</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="The Poker Channel">
     <display-name lang="pt">The Poker Channel</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="PFC">
     <display-name lang="pt">PFC</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="TV Globo Portugal">
     <display-name lang="pt">TV Globo Portugal</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Eurochannel">
     <display-name lang="pt">Eurochannel</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="TLC">
     <display-name lang="pt">TLC</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="TV Record">
     <display-name lang="pt">TV Record</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Real Madrid TV">
     <display-name lang="pt">Real Madrid TV</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Barça TV">
     <display-name lang="pt">Barça TV</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="MU TV">
     <display-name lang="pt">MU TV</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Chelsea TV">
     <display-name lang="pt">Chelsea TV</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Inter TV">
     <display-name lang="pt">Inter TV</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Fashion TV">
     <display-name lang="pt">Fashion TV</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="F-Men">
     <display-name lang="pt">F-Men</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Luxe TV HD">
     <display-name lang="pt">Luxe TV HD</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="FOOD NETWORK HD">
     <display-name lang="pt">FOOD NETWORK HD</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="FOOD NETWORK">
     <display-name lang="pt">FOOD NETWORK</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="24 Kitchen">
     <display-name lang="pt">24 Kitchen</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Style">
     <display-name lang="pt">Style</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Fine Living">
     <display-name lang="pt">Fine Living</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Casa Club">
     <display-name lang="pt">Casa Club</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="CAÇAVISION">
     <display-name lang="pt">CAÇAVISION</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Nautical Channel">
     <display-name lang="pt">Nautical Channel</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Motors TV">
     <display-name lang="pt">Motors TV</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Discovery Channel">
     <display-name lang="pt">Discovery Channel</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Odisseia">
     <display-name lang="pt">Odisseia</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="História">
     <display-name lang="pt">História</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="The Biography Channel">
     <display-name lang="pt">The Biography Channel</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="National Geographic Channel HD">
     <display-name lang="pt">National Geographic Channel HD</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="National Geographic Channel">
     <display-name lang="pt">National Geographic Channel</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="National Geographic Wild">
     <display-name lang="pt">National Geographic Wild</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Travel Channel HD">
     <display-name lang="pt">Travel Channel HD</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Travel Channel">
     <display-name lang="pt">Travel Channel</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="MCM Top">
     <display-name lang="pt">MCM Top</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="MCM Pop">
     <display-name lang="pt">MCM Pop</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Trace TV HD">
     <display-name lang="pt">Trace TV HD</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Trace TV">
     <display-name lang="pt">Trace TV</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="VH1">
     <display-name lang="pt">VH1</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="iConcerts (HD)">
     <display-name lang="pt">iConcerts (HD)</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Afro Music">
     <display-name lang="pt">Afro Music</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="BRAVA HDTV">
     <display-name lang="pt">BRAVA HDTV</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Mezzo Live HD">
     <display-name lang="pt">Mezzo Live HD</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="MEZZO">
     <display-name lang="pt">MEZZO</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="C-Music TV">
     <display-name lang="pt">C-Music TV</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="ETV">
     <display-name lang="pt">ETV</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Euronews">
     <display-name lang="pt">Euronews</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="CNN">
     <display-name lang="pt">CNN</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Sky News">
     <display-name lang="pt">Sky News</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="FOX NEWS">
     <display-name lang="pt">FOX NEWS</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="BBC World News">
     <display-name lang="pt">BBC World News</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Aljazeera English">
     <display-name lang="pt">Aljazeera English</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="France 24 (I)">
     <display-name lang="pt">France 24 (I)</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="France 24 (F)">
     <display-name lang="pt">France 24 (F)</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="TVE 24H">
     <display-name lang="pt">TVE 24H</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="CNBC Europe">
     <display-name lang="pt">CNBC Europe</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Bloomberg">
     <display-name lang="pt">Bloomberg</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="AR TV">
     <display-name lang="pt">AR TV</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="TV Galicia">
     <display-name lang="pt">TV Galicia</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="TVE Internacional">
     <display-name lang="pt">TVE Internacional</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Cubavision">
     <display-name lang="pt">Cubavision</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="TV5 Monde">
     <display-name lang="pt">TV5 Monde</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="M6">
     <display-name lang="pt">M6</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="BBC Entertainment">
     <display-name lang="pt">BBC Entertainment</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Deutsche Welle TV">
     <display-name lang="pt">Deutsche Welle TV</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="RTP África">
     <display-name lang="pt">RTP África</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Inter +">
     <display-name lang="pt">Inter +</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Channel 1 Russia">
     <display-name lang="pt">Channel 1 Russia</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Russia Today">
     <display-name lang="pt">Russia Today</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Pro TV">
     <display-name lang="pt">Pro TV</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="BNT TV">
     <display-name lang="pt">BNT TV</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Phoenix CNE">
     <display-name lang="pt">Phoenix CNE</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="Meo Demo">
     <display-name lang="pt">Meo Demo</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="ABOLA TV">
     <display-name lang="pt">ABOLA TV</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="TVI Ficção">
     <display-name lang="pt">TVI Ficção</display-name>
-    <url>http://www.tv.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
+  <programme start="20201218024900 +0000" stop="20201218032800 +0000" channel="RTP1">
+    <title lang="pt">O Sábio</title>
+  </programme>
+  <programme start="20201218032800 +0000" stop="20201218055900 +0000" channel="RTP1">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20201218055900 +0000" stop="20201218063000 +0000" channel="RTP1">
+    <title lang="pt">Manchetes 3</title>
+  </programme>
+  <programme start="20201218063000 +0000" stop="20201218100000 +0000" channel="RTP1">
+    <title lang="pt">Bom Dia Portugal</title>
+  </programme>
+  <programme start="20201218100000 +0000" stop="20201218130000 +0000" channel="RTP1">
+    <title lang="pt">Praça da Alegria</title>
+  </programme>
+  <programme start="20201218130000 +0000" stop="20201218142500 +0000" channel="RTP1">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20201218142500 +0000" stop="20201218150300 +0000" channel="RTP1">
+    <title lang="pt">Miúdo Graúdo</title>
+  </programme>
+  <programme start="20201218150300 +0000" stop="20201218173000 +0000" channel="RTP1">
+    <title lang="pt">A Nossa Tarde</title>
+  </programme>
+  <programme start="20201218173000 +0000" stop="20201218190800 +0000" channel="RTP1">
+    <title lang="pt">Portugal em Direto</title>
+  </programme>
+  <programme start="20201218190800 +0000" stop="20201218195900 +0000" channel="RTP1">
+    <title lang="pt">O Preço Certo</title>
+  </programme>
+  <programme start="20201218195900 +0000" stop="20201218210000 +0000" channel="RTP1">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20201218210000 +0000" stop="20201218214000 +0000" channel="RTP1">
+    <title lang="pt">Sexta às 9</title>
+  </programme>
+  <programme start="20201218214000 +0000" stop="20201218225100 +0000" channel="RTP1">
+    <title lang="pt">Joker - Kids</title>
+  </programme>
+  <programme start="20201218225100 +0000" stop="20201218234500 +0000" channel="RTP1">
+    <title lang="pt">O Rapaz do Tambor</title>
+  </programme>
+  <programme start="20201218234500 +0000" stop="20201219003300 +0000" channel="RTP1">
+    <title lang="pt">Histórias do Fado</title>
+  </programme>
+  <programme start="20201218021000 +0000" stop="20201218050100 +0000" channel="RTP2">
+    <title lang="pt">Vela: America\u0027s Cup World Series 2020</title>
+  </programme>
+  <programme start="20201218050100 +0000" stop="20201218054600 +0000" channel="RTP2">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20201218054600 +0000" stop="20201218063200 +0000" channel="RTP2">
+    <title lang="pt">Lusitana Paixão</title>
+  </programme>
+  <programme start="20201218063200 +0000" stop="20201218070000 +0000" channel="RTP2">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+  </programme>
+  <programme start="20201218070000 +0000" stop="20201218070100 +0000" channel="RTP2">
+    <title lang="pt">Espaço Zig Zag</title>
+  </programme>
+  <programme start="20201218070100 +0000" stop="20201218070200 +0000" channel="RTP2">
+    <title lang="pt">Banda Zig Zag</title>
+  </programme>
+  <programme start="20201218070200 +0000" stop="20201218071100 +0000" channel="RTP2">
+    <title lang="pt">Lucas e Emília</title>
+  </programme>
+  <programme start="20201218071100 +0000" stop="20201218072000 +0000" channel="RTP2">
+    <title lang="pt">Lucas e Emília</title>
+  </programme>
+  <programme start="20201218072000 +0000" stop="20201218072700 +0000" channel="RTP2">
+    <title lang="pt">Rato Renato</title>
+  </programme>
+  <programme start="20201218072700 +0000" stop="20201218075100 +0000" channel="RTP2">
+    <title lang="pt">Zafari</title>
+  </programme>
+  <programme start="20201218075100 +0000" stop="20201218075800 +0000" channel="RTP2">
+    <title lang="pt">As Aventuras da Miffy</title>
+  </programme>
+  <programme start="20201218075800 +0000" stop="20201218080500 +0000" channel="RTP2">
+    <title lang="pt">As Aventuras da Miffy</title>
+  </programme>
+  <programme start="20201218080500 +0000" stop="20201218081000 +0000" channel="RTP2">
+    <title lang="pt">Kiwi</title>
+  </programme>
+  <programme start="20201218081000 +0000" stop="20201218081500 +0000" channel="RTP2">
+    <title lang="pt">Kiwi</title>
+  </programme>
+  <programme start="20201218081500 +0000" stop="20201218082500 +0000" channel="RTP2">
+    <title lang="pt">Kody Kapow</title>
+  </programme>
+  <programme start="20201218082500 +0000" stop="20201218083100 +0000" channel="RTP2">
+    <title lang="pt">A Grande Descoberta</title>
+  </programme>
+  <programme start="20201218083100 +0000" stop="20201218083800 +0000" channel="RTP2">
+    <title lang="pt">Inui</title>
+  </programme>
+  <programme start="20201218083800 +0000" stop="20201218085000 +0000" channel="RTP2">
+    <title lang="pt">Twirlywoos</title>
+  </programme>
+  <programme start="20201218085000 +0000" stop="20201218090100 +0000" channel="RTP2">
+    <title lang="pt">Radar XS</title>
+  </programme>
+  <programme start="20201218090100 +0000" stop="20201218090300 +0000" channel="RTP2">
+    <title lang="pt">Glumpers</title>
+  </programme>
+  <programme start="20201218090300 +0000" stop="20201218091600 +0000" channel="RTP2">
+    <title lang="pt">Lou!</title>
+  </programme>
+  <programme start="20201218091600 +0000" stop="20201218092800 +0000" channel="RTP2">
+    <title lang="pt">Lou!</title>
+  </programme>
+  <programme start="20201218092800 +0000" stop="20201218094000 +0000" channel="RTP2">
+    <title lang="pt">Danger Mouse</title>
+  </programme>
+  <programme start="20201218094000 +0000" stop="20201218095300 +0000" channel="RTP2">
+    <title lang="pt">Danger Mouse</title>
+  </programme>
+  <programme start="20201218095300 +0000" stop="20201218102300 +0000" channel="RTP2">
+    <title lang="pt">Paraíso</title>
+  </programme>
+  <programme start="20201218102300 +0000" stop="20201218120400 +0000" channel="RTP2">
+    <title lang="pt">Maria Teresa</title>
+  </programme>
+  <programme start="20201218120400 +0000" stop="20201218125700 +0000" channel="RTP2">
+    <title lang="pt">Histórias de Teerão</title>
+  </programme>
+  <programme start="20201218125700 +0000" stop="20201218130900 +0000" channel="RTP2">
+    <title lang="pt">Os Vizinhos Piratas</title>
+  </programme>
+  <programme start="20201218130900 +0000" stop="20201218133100 +0000" channel="RTP2">
+    <title lang="pt">Drama Total em Ação</title>
+  </programme>
+  <programme start="20201218133100 +0000" stop="20201218135300 +0000" channel="RTP2">
+    <title lang="pt">Drama Total em Ação</title>
+  </programme>
+  <programme start="20201218135300 +0000" stop="20201218140000 +0000" channel="RTP2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20201218140000 +0000" stop="20201218145800 +0000" channel="RTP2">
+    <title lang="pt">Sociedade Civil</title>
+  </programme>
+  <programme start="20201218145800 +0000" stop="20201218153200 +0000" channel="RTP2">
+    <title lang="pt">A Fé dos Homens</title>
+  </programme>
+  <programme start="20201218153200 +0000" stop="20201218155900 +0000" channel="RTP2">
+    <title lang="pt">Esec-Tv</title>
+  </programme>
+  <programme start="20201218155900 +0000" stop="20201218165200 +0000" channel="RTP2">
+    <title lang="pt">Os Cinco Incríveis: História de uma Chita</title>
+  </programme>
+  <programme start="20201218165200 +0000" stop="20201218165300 +0000" channel="RTP2">
+    <title lang="pt">Espaço Zig Zag</title>
+  </programme>
+  <programme start="20201218165300 +0000" stop="20201218170100 +0000" channel="RTP2">
+    <title lang="pt">Lucas e Emília</title>
+  </programme>
+  <programme start="20201218170100 +0000" stop="20201218171000 +0000" channel="RTP2">
+    <title lang="pt">Lucas e Emília</title>
+  </programme>
+  <programme start="20201218171000 +0000" stop="20201218172200 +0000" channel="RTP2">
+    <title lang="pt">A Vaca, o Gato e o Oceano</title>
+  </programme>
+  <programme start="20201218172200 +0000" stop="20201218172700 +0000" channel="RTP2">
+    <title lang="pt">A Grande Descoberta</title>
+  </programme>
+  <programme start="20201218172700 +0000" stop="20201218173200 +0000" channel="RTP2">
+    <title lang="pt">Kiwi</title>
+  </programme>
+  <programme start="20201218173200 +0000" stop="20201218175500 +0000" channel="RTP2">
+    <title lang="pt">O Gato da Cartola</title>
+  </programme>
+  <programme start="20201218175500 +0000" stop="20201218180600 +0000" channel="RTP2">
+    <title lang="pt">Danger Mouse</title>
+  </programme>
+  <programme start="20201218180600 +0000" stop="20201218181800 +0000" channel="RTP2">
+    <title lang="pt">Danger Mouse</title>
+  </programme>
+  <programme start="20201218181800 +0000" stop="20201218184000 +0000" channel="RTP2">
+    <title lang="pt">Boss Baby</title>
+  </programme>
+  <programme start="20201218184000 +0000" stop="20201218185100 +0000" channel="RTP2">
+    <title lang="pt">Radar XS</title>
+  </programme>
+  <programme start="20201218185100 +0000" stop="20201218191400 +0000" channel="RTP2">
+    <title lang="pt">Casa</title>
+  </programme>
+  <programme start="20201218191400 +0000" stop="20201218192500 +0000" channel="RTP2">
+    <title lang="pt">Os Vizinhos Piratas</title>
+  </programme>
+  <programme start="20201218192500 +0000" stop="20201218194700 +0000" channel="RTP2">
+    <title lang="pt">Vale dos Mumins</title>
+  </programme>
+  <programme start="20201218194700 +0000" stop="20201218200000 +0000" channel="RTP2">
+    <title lang="pt">O Vale Encantado</title>
+  </programme>
+  <programme start="20201218200000 +0000" stop="20201218201200 +0000" channel="RTP2">
+    <title lang="pt">O Vale Encantado</title>
+  </programme>
+  <programme start="20201218201200 +0000" stop="20201218202500 +0000" channel="RTP2">
+    <title lang="pt">Histórias à Solta</title>
+  </programme>
+  <programme start="20201218202500 +0000" stop="20201218203100 +0000" channel="RTP2">
+    <title lang="pt">Banda Zig Zag</title>
+  </programme>
+  <programme start="20201218203100 +0000" stop="20201218213000 +0000" channel="RTP2">
+    <title lang="pt">Caminho para o Calvário</title>
+  </programme>
+  <programme start="20201218213000 +0000" stop="20201218220100 +0000" channel="RTP2">
+    <title lang="pt">Jornal 2</title>
+  </programme>
+  <programme start="20201218220100 +0000" stop="20201218220500 +0000" channel="RTP2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20201218220500 +0000" stop="20201218230800 +0000" channel="RTP2">
+    <title lang="pt">O Restaurante</title>
+  </programme>
+  <programme start="20201218230800 +0000" stop="20201219003400 +0000" channel="RTP2">
+    <title lang="pt">Monty Python: A Vida de Brian</title>
+  </programme>
+  <programme start="20201218020000 +0000" stop="20201218030500 +0000" channel="SIC">
+    <title lang="pt">Original É Cultura</title>
+  </programme>
+  <programme start="20201218030500 +0000" stop="20201218035500 +0000" channel="SIC">
+    <title lang="pt">Linha Aberta</title>
+  </programme>
+  <programme start="20201218035500 +0000" stop="20201218053500 +0000" channel="SIC">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20201218053500 +0000" stop="20201218060000 +0000" channel="SIC">
+    <title lang="pt">Camilo, O Presidente</title>
+  </programme>
+  <programme start="20201218060000 +0000" stop="20201218091500 +0000" channel="SIC">
+    <title lang="pt">Edição Da Manhã</title>
+  </programme>
+  <programme start="20201218091500 +0000" stop="20201218101500 +0000" channel="SIC">
+    <title lang="pt">Alô Portugal</title>
+  </programme>
+  <programme start="20201218101500 +0000" stop="20201218130000 +0000" channel="SIC">
+    <title lang="pt">Casa Feliz</title>
+  </programme>
+  <programme start="20201218130000 +0000" stop="20201218145500 +0000" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20201218145500 +0000" stop="20201218161500 +0000" channel="SIC">
+    <title lang="pt">Rainha das Flores</title>
+  </programme>
+  <programme start="20201218161500 +0000" stop="20201218182000 +0000" channel="SIC">
+    <title lang="pt">Júlia</title>
+  </programme>
+  <programme start="20201218182000 +0000" stop="20201218190500 +0000" channel="SIC">
+    <title lang="pt">Viver a Vida</title>
+  </programme>
+  <programme start="20201218190500 +0000" stop="20201218195700 +0000" channel="SIC">
+    <title lang="pt">Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20201218195700 +0000" stop="20201218214500 +0000" channel="SIC">
+    <title lang="pt">Jornal Da Noite</title>
+  </programme>
+  <programme start="20201218214500 +0000" stop="20201218221000 +0000" channel="SIC">
+    <title lang="pt">Nazaré</title>
+  </programme>
+  <programme start="20201218221000 +0000" stop="20201218232500 +0000" channel="SIC">
+    <title lang="pt">Terra Brava</title>
+  </programme>
+  <programme start="20201218232500 +0000" stop="20201219001000 +0000" channel="SIC">
+    <title lang="pt">Golpe De Sorte</title>
+  </programme>
+  <programme start="20201218025000 +0000" stop="20201218043000 +0000" channel="TVI">
+    <title lang="pt">A Outra</title>
+  </programme>
+  <programme start="20201218043000 +0000" stop="20201218060000 +0000" channel="TVI">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20201218060000 +0000" stop="20201218063000 +0000" channel="TVI">
+    <title lang="pt">Os Batanetes</title>
+  </programme>
+  <programme start="20201218063000 +0000" stop="20201218101500 +0000" channel="TVI">
+    <title lang="pt">Diário Da Manhã</title>
+  </programme>
+  <programme start="20201218101500 +0000" stop="20201218130000 +0000" channel="TVI">
+    <title lang="pt">Você Na TV!</title>
+  </programme>
+  <programme start="20201218130000 +0000" stop="20201218145500 +0000" channel="TVI">
+    <title lang="pt">Jornal Da Uma</title>
+  </programme>
+  <programme start="20201218145500 +0000" stop="20201218161500 +0000" channel="TVI">
+    <title lang="pt">Destinos Cruzados</title>
+  </programme>
+  <programme start="20201218161500 +0000" stop="20201218181400 +0000" channel="TVI">
+    <title lang="pt">A Tarde É Sua</title>
+  </programme>
+  <programme start="20201218181400 +0000" stop="20201218191400 +0000" channel="TVI">
+    <title lang="pt">Big Brother - A Revolução: Última Hora</title>
+  </programme>
+  <programme start="20201218191400 +0000" stop="20201218195700 +0000" channel="TVI">
+    <title lang="pt">Big Brother - A Revolução: Diário</title>
+  </programme>
+  <programme start="20201218195700 +0000" stop="20201218215000 +0000" channel="TVI">
+    <title lang="pt">Jornal Das 8</title>
+  </programme>
+  <programme start="20201218215000 +0000" stop="20201218230000 +0000" channel="TVI">
+    <title lang="pt">Bem me Quer</title>
+  </programme>
+  <programme start="20201218230000 +0000" stop="20201219000000 +0000" channel="TVI">
+    <title lang="pt">Amar Demais</title>
+  </programme>
+  <programme start="20201218022500 +0000" stop="20201218032000 +0000" channel="TVI24">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201218032000 +0000" stop="20201218033800 +0000" channel="TVI24">
+    <title lang="pt">GTi</title>
+  </programme>
+  <programme start="20201218033800 +0000" stop="20201218040000 +0000" channel="TVI24">
+    <title lang="pt">Mesa Nacional</title>
+  </programme>
+  <programme start="20201218040000 +0000" stop="20201218060000 +0000" channel="TVI24">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20201218060000 +0000" stop="20201218063000 +0000" channel="TVI24">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201218063000 +0000" stop="20201218100000 +0000" channel="TVI24">
+    <title lang="pt">Diário Da Manhã</title>
+  </programme>
+  <programme start="20201218100000 +0000" stop="20201218110000 +0000" channel="TVI24">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201218110000 +0000" stop="20201218120000 +0000" channel="TVI24">
+    <title lang="pt">Segunda Vaga</title>
+  </programme>
+  <programme start="20201218120000 +0000" stop="20201218130000 +0000" channel="TVI24">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201218130000 +0000" stop="20201218145200 +0000" channel="TVI24">
+    <title lang="pt">Jornal Da Uma</title>
+  </programme>
+  <programme start="20201218145200 +0000" stop="20201218175500 +0000" channel="TVI24">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201218175500 +0000" stop="20201218190000 +0000" channel="TVI24">
+    <title lang="pt">Mais Bastidores - Tarde</title>
+  </programme>
+  <programme start="20201218190000 +0000" stop="20201218195700 +0000" channel="TVI24">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201218195700 +0000" stop="20201218213000 +0000" channel="TVI24">
+    <title lang="pt">Jornal Das 8</title>
+  </programme>
+  <programme start="20201218213000 +0000" stop="20201218220000 +0000" channel="TVI24">
+    <title lang="pt">Noite 24</title>
+  </programme>
+  <programme start="20201218220000 +0000" stop="20201218230000 +0000" channel="TVI24">
+    <title lang="pt">Mais Futebol</title>
+  </programme>
+  <programme start="20201218230000 +0000" stop="20201219000000 +0000" channel="TVI24">
+    <title lang="pt">Noite 24</title>
+  </programme>
 </tv>
