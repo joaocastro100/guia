@@ -170,6 +170,92 @@
     <display-name lang="pt">Motorvision HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+  <channel id="Disney Channel">
+    <display-name lang="pt">Disney Channel</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pt">Nickelodeon</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Canal Panda">
+    <display-name lang="pt">Canal Panda</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Biggs">
+    <display-name lang="pt">Biggs</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="pt">Disney Junior</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="NICK JR">
+    <display-name lang="pt">NICK JR</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="pt">Baby TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC K HD">
+    <display-name lang="pt">SIC K HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="JIMJAM">
+    <display-name lang="pt">JIMJAM</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/jimjam.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVCine 1">
+    <display-name lang="pt">TVCine 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCine 2">
+    <display-name lang="pt">TVCine 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCine 3">
+    <display-name lang="pt">TVCine 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCine 4">
+    <display-name lang="pt">TVCine 4</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVSéries">
+    <display-name lang="pt">TVSéries</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Canal Hollywood">
+    <display-name lang="pt">Canal Hollywood</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="NOS Studios">
+    <display-name lang="pt">NOS Studios</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX Movies">
+    <display-name lang="pt">FOX Movies</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CINEMUNDO HD">
+    <display-name lang="pt">CINEMUNDO HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/cinemundo-hd.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="EUROCHANNEL HD">
+    <display-name lang="pt">EUROCHANNEL HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
   <programme start="20201219003300 +0000" stop="20201219013400 +0000" channel="RTP 1">
     <title lang="pt">Eléctrico</title>
   </programme>
@@ -3331,5 +3417,2729 @@
   </programme>
   <programme start="20201219234500 +0000" stop="20201220001500 +0000" channel="Motorvision HD">
     <title lang="pt">ADAC GT Masters</title>
+  </programme>
+  <programme start="20201219000300 +0000" stop="20201219001500 +0000" channel="Disney Channel">
+    <title lang="pt">Clube Houdini</title>
+  </programme>
+  <programme start="20201219001500 +0000" stop="20201219003700 +0000" channel="Disney Channel">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+  </programme>
+  <programme start="20201219003700 +0000" stop="20201219004900 +0000" channel="Disney Channel">
+    <title lang="pt">Sadie Sparks</title>
+  </programme>
+  <programme start="20201219004900 +0000" stop="20201219010000 +0000" channel="Disney Channel">
+    <title lang="pt">Sadie Sparks</title>
+  </programme>
+  <programme start="20201219010000 +0000" stop="20201219011100 +0000" channel="Disney Channel">
+    <title lang="pt">Sadie Sparks</title>
+  </programme>
+  <programme start="20201219011100 +0000" stop="20201219012200 +0000" channel="Disney Channel">
+    <title lang="pt">Sadie Sparks</title>
+  </programme>
+  <programme start="20201219012200 +0000" stop="20201219013400 +0000" channel="Disney Channel">
+    <title lang="pt">Clube Houdini</title>
+  </programme>
+  <programme start="20201219013400 +0000" stop="20201219014800 +0000" channel="Disney Channel">
+    <title lang="pt">Clube Houdini</title>
+  </programme>
+  <programme start="20201219014800 +0000" stop="20201219020200 +0000" channel="Disney Channel">
+    <title lang="pt">Clube Houdini</title>
+  </programme>
+  <programme start="20201219020200 +0000" stop="20201219021400 +0000" channel="Disney Channel">
+    <title lang="pt">Clube Houdini</title>
+  </programme>
+  <programme start="20201219021400 +0000" stop="20201219022500 +0000" channel="Disney Channel">
+    <title lang="pt">Sadie Sparks</title>
+  </programme>
+  <programme start="20201219022500 +0000" stop="20201219023600 +0000" channel="Disney Channel">
+    <title lang="pt">Sadie Sparks</title>
+  </programme>
+  <programme start="20201219023600 +0000" stop="20201219024800 +0000" channel="Disney Channel">
+    <title lang="pt">Sadie Sparks</title>
+  </programme>
+  <programme start="20201219024800 +0000" stop="20201219025900 +0000" channel="Disney Channel">
+    <title lang="pt">Sadie Sparks</title>
+  </programme>
+  <programme start="20201219025900 +0000" stop="20201219032100 +0000" channel="Disney Channel">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+  </programme>
+  <programme start="20201219032100 +0000" stop="20201219034400 +0000" channel="Disney Channel">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+  </programme>
+  <programme start="20201219034400 +0000" stop="20201219035600 +0000" channel="Disney Channel">
+    <title lang="pt">Sadie Sparks</title>
+  </programme>
+  <programme start="20201219035600 +0000" stop="20201219040800 +0000" channel="Disney Channel">
+    <title lang="pt">Sadie Sparks</title>
+  </programme>
+  <programme start="20201219040800 +0000" stop="20201219042000 +0000" channel="Disney Channel">
+    <title lang="pt">Sadie Sparks</title>
+  </programme>
+  <programme start="20201219042000 +0000" stop="20201219043100 +0000" channel="Disney Channel">
+    <title lang="pt">Sadie Sparks</title>
+  </programme>
+  <programme start="20201219043100 +0000" stop="20201219045300 +0000" channel="Disney Channel">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+  </programme>
+  <programme start="20201219045300 +0000" stop="20201219051600 +0000" channel="Disney Channel">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+  </programme>
+  <programme start="20201219051600 +0000" stop="20201219052800 +0000" channel="Disney Channel">
+    <title lang="pt">Sadie Sparks</title>
+  </programme>
+  <programme start="20201219052800 +0000" stop="20201219053900 +0000" channel="Disney Channel">
+    <title lang="pt">Sadie Sparks</title>
+  </programme>
+  <programme start="20201219053900 +0000" stop="20201219055100 +0000" channel="Disney Channel">
+    <title lang="pt">Sadie Sparks</title>
+  </programme>
+  <programme start="20201219055100 +0000" stop="20201219060000 +0000" channel="Disney Channel">
+    <title lang="pt">Sadie Sparks</title>
+  </programme>
+  <programme start="20201219060000 +0000" stop="20201219062300 +0000" channel="Disney Channel">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+  </programme>
+  <programme start="20201219062300 +0000" stop="20201219064500 +0000" channel="Disney Channel">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+  </programme>
+  <programme start="20201219064500 +0000" stop="20201219070800 +0000" channel="Disney Channel">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+  </programme>
+  <programme start="20201219070800 +0000" stop="20201219072000 +0000" channel="Disney Channel">
+    <title lang="pt">Sadie Sparks</title>
+  </programme>
+  <programme start="20201219072000 +0000" stop="20201219073200 +0000" channel="Disney Channel">
+    <title lang="pt">Sadie Sparks</title>
+  </programme>
+  <programme start="20201219073200 +0000" stop="20201219074300 +0000" channel="Disney Channel">
+    <title lang="pt">Sadie Sparks</title>
+  </programme>
+  <programme start="20201219074300 +0000" stop="20201219075900 +0000" channel="Disney Channel">
+    <title lang="pt">Sadie Sparks</title>
+  </programme>
+  <programme start="20201219075900 +0000" stop="20201219082100 +0000" channel="Disney Channel">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+  </programme>
+  <programme start="20201219082100 +0000" stop="20201219084600 +0000" channel="Disney Channel">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+  </programme>
+  <programme start="20201219084600 +0000" stop="20201219091000 +0000" channel="Disney Channel">
+    <title lang="pt">Gravity Falls</title>
+  </programme>
+  <programme start="20201219091000 +0000" stop="20201219093400 +0000" channel="Disney Channel">
+    <title lang="pt">Gravity Falls</title>
+  </programme>
+  <programme start="20201219093400 +0000" stop="20201219094600 +0000" channel="Disney Channel">
+    <title lang="pt">Anfibilândia</title>
+  </programme>
+  <programme start="20201219094600 +0000" stop="20201219095700 +0000" channel="Disney Channel">
+    <title lang="pt">Anfibilândia</title>
+  </programme>
+  <programme start="20201219095700 +0000" stop="20201219101000 +0000" channel="Disney Channel">
+    <title lang="pt">Anfibilândia</title>
+  </programme>
+  <programme start="20201219101000 +0000" stop="20201219102200 +0000" channel="Disney Channel">
+    <title lang="pt">Anfibilândia</title>
+  </programme>
+  <programme start="20201219102200 +0000" stop="20201219103300 +0000" channel="Disney Channel">
+    <title lang="pt">Os Green na Cidade Grande</title>
+  </programme>
+  <programme start="20201219103300 +0000" stop="20201219104500 +0000" channel="Disney Channel">
+    <title lang="pt">Os Green na Cidade Grande</title>
+  </programme>
+  <programme start="20201219104500 +0000" stop="20201219105700 +0000" channel="Disney Channel">
+    <title lang="pt">Clube Houdini</title>
+  </programme>
+  <programme start="20201219105700 +0000" stop="20201219111000 +0000" channel="Disney Channel">
+    <title lang="pt">Clube Houdini</title>
+  </programme>
+  <programme start="20201219111000 +0000" stop="20201219113500 +0000" channel="Disney Channel">
+    <title lang="pt">Jessie</title>
+  </programme>
+  <programme start="20201219113500 +0000" stop="20201219120000 +0000" channel="Disney Channel">
+    <title lang="pt">Jessie</title>
+  </programme>
+  <programme start="20201219120000 +0000" stop="20201219122500 +0000" channel="Disney Channel">
+    <title lang="pt">Jessie</title>
+  </programme>
+  <programme start="20201219122500 +0000" stop="20201219125000 +0000" channel="Disney Channel">
+    <title lang="pt">Jessie</title>
+  </programme>
+  <programme start="20201219125000 +0000" stop="20201219131500 +0000" channel="Disney Channel">
+    <title lang="pt">Jessie</title>
+  </programme>
+  <programme start="20201219131500 +0000" stop="20201219132600 +0000" channel="Disney Channel">
+    <title lang="pt">Clube Houdini</title>
+  </programme>
+  <programme start="20201219132600 +0000" stop="20201219134000 +0000" channel="Disney Channel">
+    <title lang="pt">Clube Houdini</title>
+  </programme>
+  <programme start="20201219134000 +0000" stop="20201219140500 +0000" channel="Disney Channel">
+    <title lang="pt">A Raven Voltou</title>
+  </programme>
+  <programme start="20201219140500 +0000" stop="20201219143000 +0000" channel="Disney Channel">
+    <title lang="pt">A Raven Voltou</title>
+  </programme>
+  <programme start="20201219143000 +0000" stop="20201219145500 +0000" channel="Disney Channel">
+    <title lang="pt">Coop &amp; Cami</title>
+  </programme>
+  <programme start="20201219145500 +0000" stop="20201219152000 +0000" channel="Disney Channel">
+    <title lang="pt">Coop &amp; Cami</title>
+  </programme>
+  <programme start="20201219152000 +0000" stop="20201219154400 +0000" channel="Disney Channel">
+    <title lang="pt">Acampamento Kikiwaka</title>
+  </programme>
+  <programme start="20201219154400 +0000" stop="20201219160700 +0000" channel="Disney Channel">
+    <title lang="pt">Acampamento Kikiwaka</title>
+  </programme>
+  <programme start="20201219160700 +0000" stop="20201219163100 +0000" channel="Disney Channel">
+    <title lang="pt">Acampamento Kikiwaka</title>
+  </programme>
+  <programme start="20201219163100 +0000" stop="20201219165500 +0000" channel="Disney Channel">
+    <title lang="pt">A Irmã do Meio</title>
+  </programme>
+  <programme start="20201219165500 +0000" stop="20201219171900 +0000" channel="Disney Channel">
+    <title lang="pt">A Irmã do Meio</title>
+  </programme>
+  <programme start="20201219171900 +0000" stop="20201219174200 +0000" channel="Disney Channel">
+    <title lang="pt">A Irmã do Meio</title>
+  </programme>
+  <programme start="20201219174200 +0000" stop="20201219180500 +0000" channel="Disney Channel">
+    <title lang="pt">Gravity Falls</title>
+  </programme>
+  <programme start="20201219180500 +0000" stop="20201219182900 +0000" channel="Disney Channel">
+    <title lang="pt">Gravity Falls</title>
+  </programme>
+  <programme start="20201219182900 +0000" stop="20201219184000 +0000" channel="Disney Channel">
+    <title lang="pt">Anfibilândia</title>
+  </programme>
+  <programme start="20201219184000 +0000" stop="20201219185200 +0000" channel="Disney Channel">
+    <title lang="pt">Anfibilândia</title>
+  </programme>
+  <programme start="20201219185200 +0000" stop="20201219190300 +0000" channel="Disney Channel">
+    <title lang="pt">Anfibilândia</title>
+  </programme>
+  <programme start="20201219190300 +0000" stop="20201219191500 +0000" channel="Disney Channel">
+    <title lang="pt">Anfibilândia</title>
+  </programme>
+  <programme start="20201219191500 +0000" stop="20201219192600 +0000" channel="Disney Channel">
+    <title lang="pt">Os Green na Cidade Grande</title>
+  </programme>
+  <programme start="20201219192600 +0000" stop="20201219194000 +0000" channel="Disney Channel">
+    <title lang="pt">Os Green na Cidade Grande</title>
+  </programme>
+  <programme start="20201219194000 +0000" stop="20201219195100 +0000" channel="Disney Channel">
+    <title lang="pt">Os Green na Cidade Grande</title>
+  </programme>
+  <programme start="20201219195100 +0000" stop="20201219200500 +0000" channel="Disney Channel">
+    <title lang="pt">Os Green na Cidade Grande</title>
+  </programme>
+  <programme start="20201219200500 +0000" stop="20201219203000 +0000" channel="Disney Channel">
+    <title lang="pt">Lab Rats</title>
+  </programme>
+  <programme start="20201219203000 +0000" stop="20201219205400 +0000" channel="Disney Channel">
+    <title lang="pt">Lab Rats</title>
+  </programme>
+  <programme start="20201219205400 +0000" stop="20201219211700 +0000" channel="Disney Channel">
+    <title lang="pt">Gabby Duran Alien Total</title>
+  </programme>
+  <programme start="20201219211700 +0000" stop="20201219214000 +0000" channel="Disney Channel">
+    <title lang="pt">Gabby Duran Alien Total</title>
+  </programme>
+  <programme start="20201219214000 +0000" stop="20201219215300 +0000" channel="Disney Channel">
+    <title lang="pt">Clube Houdini</title>
+  </programme>
+  <programme start="20201219215300 +0000" stop="20201219220500 +0000" channel="Disney Channel">
+    <title lang="pt">Clube Houdini</title>
+  </programme>
+  <programme start="20201219220500 +0000" stop="20201219223000 +0000" channel="Disney Channel">
+    <title lang="pt">Gravity Falls</title>
+  </programme>
+  <programme start="20201219223000 +0000" stop="20201219225200 +0000" channel="Disney Channel">
+    <title lang="pt">Lab Rats</title>
+  </programme>
+  <programme start="20201219225200 +0000" stop="20201219231500 +0000" channel="Disney Channel">
+    <title lang="pt">Lab Rats</title>
+  </programme>
+  <programme start="20201219231500 +0000" stop="20201219234000 +0000" channel="Disney Channel">
+    <title lang="pt">Jessie</title>
+  </programme>
+  <programme start="20201219234000 +0000" stop="20201220000400 +0000" channel="Disney Channel">
+    <title lang="pt">Jessie</title>
+  </programme>
+  <programme start="20201219000100 +0000" stop="20201219002400 +0000" channel="Nickelodeon">
+    <title lang="pt">Sam &amp; Cat</title>
+  </programme>
+  <programme start="20201219002400 +0000" stop="20201219004700 +0000" channel="Nickelodeon">
+    <title lang="pt">Sam &amp; Cat</title>
+  </programme>
+  <programme start="20201219004700 +0000" stop="20201219010800 +0000" channel="Nickelodeon">
+    <title lang="pt">Eu Sou Frankie</title>
+  </programme>
+  <programme start="20201219010800 +0000" stop="20201219013000 +0000" channel="Nickelodeon">
+    <title lang="pt">Eu Sou Frankie</title>
+  </programme>
+  <programme start="20201219013000 +0000" stop="20201219015200 +0000" channel="Nickelodeon">
+    <title lang="pt">Escola De Rock</title>
+  </programme>
+  <programme start="20201219015200 +0000" stop="20201219021300 +0000" channel="Nickelodeon">
+    <title lang="pt">Escola De Rock</title>
+  </programme>
+  <programme start="20201219021300 +0000" stop="20201219023600 +0000" channel="Nickelodeon">
+    <title lang="pt">Game Shakers</title>
+  </programme>
+  <programme start="20201219023600 +0000" stop="20201219025800 +0000" channel="Nickelodeon">
+    <title lang="pt">Game Shakers</title>
+  </programme>
+  <programme start="20201219025800 +0000" stop="20201219030900 +0000" channel="Nickelodeon">
+    <title lang="pt">Atchoo</title>
+  </programme>
+  <programme start="20201219030900 +0000" stop="20201219032000 +0000" channel="Nickelodeon">
+    <title lang="pt">Atchoo</title>
+  </programme>
+  <programme start="20201219032000 +0000" stop="20201219033100 +0000" channel="Nickelodeon">
+    <title lang="pt">Atchoo</title>
+  </programme>
+  <programme start="20201219033100 +0000" stop="20201219034500 +0000" channel="Nickelodeon">
+    <title lang="pt">Alvinnn!!! e os Esquilos</title>
+  </programme>
+  <programme start="20201219034500 +0000" stop="20201219035900 +0000" channel="Nickelodeon">
+    <title lang="pt">Alvinnn!!! e os Esquilos</title>
+  </programme>
+  <programme start="20201219035900 +0000" stop="20201219042200 +0000" channel="Nickelodeon">
+    <title lang="pt">Alvinnn!!! e os Esquilos</title>
+  </programme>
+  <programme start="20201219042200 +0000" stop="20201219043500 +0000" channel="Nickelodeon">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20201219043500 +0000" stop="20201219044800 +0000" channel="Nickelodeon">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20201219044800 +0000" stop="20201219050000 +0000" channel="Nickelodeon">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20201219050000 +0000" stop="20201219051200 +0000" channel="Nickelodeon">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20201219051200 +0000" stop="20201219052400 +0000" channel="Nickelodeon">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20201219052400 +0000" stop="20201219054600 +0000" channel="Nickelodeon">
+    <title lang="pt">Alvinnn!!! e os Esquilos</title>
+  </programme>
+  <programme start="20201219054600 +0000" stop="20201219055700 +0000" channel="Nickelodeon">
+    <title lang="pt">Atchoo</title>
+  </programme>
+  <programme start="20201219055700 +0000" stop="20201219061400 +0000" channel="Nickelodeon">
+    <title lang="pt">Atchoo</title>
+  </programme>
+  <programme start="20201219061400 +0000" stop="20201219064200 +0000" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20201219064200 +0000" stop="20201219070900 +0000" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20201219070900 +0000" stop="20201219073700 +0000" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20201219073700 +0000" stop="20201219080500 +0000" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20201219080500 +0000" stop="20201219083300 +0000" channel="Nickelodeon">
+    <title lang="pt">Spongebob Squarepants</title>
+  </programme>
+  <programme start="20201219083300 +0000" stop="20201219085500 +0000" channel="Nickelodeon">
+    <title lang="pt">Loud em Casa</title>
+  </programme>
+  <programme start="20201219085500 +0000" stop="20201219092200 +0000" channel="Nickelodeon">
+    <title lang="pt">Loud em Casa</title>
+  </programme>
+  <programme start="20201219092200 +0000" stop="20201219095200 +0000" channel="Nickelodeon">
+    <title lang="pt">Os Casagrandes</title>
+  </programme>
+  <programme start="20201219095200 +0000" stop="20201219100900 +0000" channel="Nickelodeon">
+    <title lang="pt">Os Casagrandes</title>
+  </programme>
+  <programme start="20201219100900 +0000" stop="20201219103700 +0000" channel="Nickelodeon">
+    <title lang="pt">É o Pónei!</title>
+  </programme>
+  <programme start="20201219103700 +0000" stop="20201219105900 +0000" channel="Nickelodeon">
+    <title lang="pt">É o Pónei!</title>
+  </programme>
+  <programme start="20201219105900 +0000" stop="20201219112700 +0000" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20201219112700 +0000" stop="20201219115600 +0000" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20201219115600 +0000" stop="20201219122400 +0000" channel="Nickelodeon">
+    <title lang="pt">Game Shakers</title>
+  </programme>
+  <programme start="20201219122400 +0000" stop="20201219125200 +0000" channel="Nickelodeon">
+    <title lang="pt">Spongebob Squarepants</title>
+  </programme>
+  <programme start="20201219125200 +0000" stop="20201219132000 +0000" channel="Nickelodeon">
+    <title lang="pt">Spongebob Squarepants</title>
+  </programme>
+  <programme start="20201219132000 +0000" stop="20201219134800 +0000" channel="Nickelodeon">
+    <title lang="pt">Nicky, Ricky, Dicky &amp; Dawn</title>
+  </programme>
+  <programme start="20201219134800 +0000" stop="20201219141400 +0000" channel="Nickelodeon">
+    <title lang="pt">Escola De Rock</title>
+  </programme>
+  <programme start="20201219141400 +0000" stop="20201219144200 +0000" channel="Nickelodeon">
+    <title lang="pt">Spongebob Squarepants</title>
+  </programme>
+  <programme start="20201219144200 +0000" stop="20201219153700 +0000" channel="Nickelodeon">
+    <title lang="pt">É o Pónei!</title>
+  </programme>
+  <programme start="20201219153700 +0000" stop="20201219155900 +0000" channel="Nickelodeon">
+    <title lang="pt">Alvinnn!!! E Os Esquilos</title>
+  </programme>
+  <programme start="20201219155900 +0000" stop="20201219162700 +0000" channel="Nickelodeon">
+    <title lang="pt">Spyders</title>
+  </programme>
+  <programme start="20201219162700 +0000" stop="20201219165500 +0000" channel="Nickelodeon">
+    <title lang="pt">Loud em Casa</title>
+  </programme>
+  <programme start="20201219165500 +0000" stop="20201219172200 +0000" channel="Nickelodeon">
+    <title lang="pt">Os Casagrandes</title>
+  </programme>
+  <programme start="20201219172200 +0000" stop="20201219173400 +0000" channel="Nickelodeon">
+    <title lang="pt">É o Pónei!</title>
+  </programme>
+  <programme start="20201219173400 +0000" stop="20201219175400 +0000" channel="Nickelodeon">
+    <title lang="pt">Spongebob Squarepants</title>
+  </programme>
+  <programme start="20201219175400 +0000" stop="20201219182300 +0000" channel="Nickelodeon">
+    <title lang="pt">Loud em Casa</title>
+  </programme>
+  <programme start="20201219182300 +0000" stop="20201219185000 +0000" channel="Nickelodeon">
+    <title lang="pt">Danger Force</title>
+  </programme>
+  <programme start="20201219185000 +0000" stop="20201219191800 +0000" channel="Nickelodeon">
+    <title lang="pt">Victorious</title>
+  </programme>
+  <programme start="20201219191800 +0000" stop="20201219194600 +0000" channel="Nickelodeon">
+    <title lang="pt">Victorious</title>
+  </programme>
+  <programme start="20201219194600 +0000" stop="20201219201400 +0000" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20201219201400 +0000" stop="20201219204100 +0000" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20201219204100 +0000" stop="20201219211000 +0000" channel="Nickelodeon">
+    <title lang="pt">Spongebob Squarepants</title>
+  </programme>
+  <programme start="20201219211000 +0000" stop="20201219213900 +0000" channel="Nickelodeon">
+    <title lang="pt">Spongebob Squarepants</title>
+  </programme>
+  <programme start="20201219213900 +0000" stop="20201219220100 +0000" channel="Nickelodeon">
+    <title lang="pt">Loud em Casa</title>
+  </programme>
+  <programme start="20201219220100 +0000" stop="20201219222800 +0000" channel="Nickelodeon">
+    <title lang="pt">Loud em Casa</title>
+  </programme>
+  <programme start="20201219222800 +0000" stop="20201219225600 +0000" channel="Nickelodeon">
+    <title lang="pt">Nicky, Ricky, Dicky &amp; Dawn</title>
+  </programme>
+  <programme start="20201219225600 +0000" stop="20201219231900 +0000" channel="Nickelodeon">
+    <title lang="pt">Nicky, Ricky, Dicky &amp; Dawn</title>
+  </programme>
+  <programme start="20201219231900 +0000" stop="20201219234100 +0000" channel="Nickelodeon">
+    <title lang="pt">A Família Hunter</title>
+  </programme>
+  <programme start="20201219234100 +0000" stop="20201220000400 +0000" channel="Nickelodeon">
+    <title lang="pt">A Família Hunter</title>
+  </programme>
+  <programme start="20201219001400 +0000" stop="20201219003000 +0000" channel="Canal Panda">
+    <title lang="pt">O Carrinho Poli</title>
+  </programme>
+  <programme start="20201219003000 +0000" stop="20201219004400 +0000" channel="Canal Panda">
+    <title lang="pt">O Carrinho Poli</title>
+  </programme>
+  <programme start="20201219004400 +0000" stop="20201219010000 +0000" channel="Canal Panda">
+    <title lang="pt">O Carrinho Poli</title>
+  </programme>
+  <programme start="20201219010000 +0000" stop="20201219011200 +0000" channel="Canal Panda">
+    <title lang="pt">Bob, o Construtor</title>
+  </programme>
+  <programme start="20201219011200 +0000" stop="20201219013000 +0000" channel="Canal Panda">
+    <title lang="pt">Bob, o Construtor</title>
+  </programme>
+  <programme start="20201219013000 +0000" stop="20201219014200 +0000" channel="Canal Panda">
+    <title lang="pt">Bob, o Construtor</title>
+  </programme>
+  <programme start="20201219014200 +0000" stop="20201219020000 +0000" channel="Canal Panda">
+    <title lang="pt">Bob, o Construtor</title>
+  </programme>
+  <programme start="20201219020000 +0000" stop="20201219021200 +0000" channel="Canal Panda">
+    <title lang="pt">Bob, o Construtor</title>
+  </programme>
+  <programme start="20201219021200 +0000" stop="20201219023000 +0000" channel="Canal Panda">
+    <title lang="pt">Bob, o Construtor</title>
+  </programme>
+  <programme start="20201219023000 +0000" stop="20201219024200 +0000" channel="Canal Panda">
+    <title lang="pt">Robin dos Bosques - Travessuras em Sherwood</title>
+  </programme>
+  <programme start="20201219024200 +0000" stop="20201219030000 +0000" channel="Canal Panda">
+    <title lang="pt">Robin dos Bosques - Travessuras em Sherwood</title>
+  </programme>
+  <programme start="20201219030000 +0000" stop="20201219031200 +0000" channel="Canal Panda">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219031200 +0000" stop="20201219033000 +0000" channel="Canal Panda">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219033000 +0000" stop="20201219034200 +0000" channel="Canal Panda">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219034200 +0000" stop="20201219040000 +0000" channel="Canal Panda">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219040000 +0000" stop="20201219041200 +0000" channel="Canal Panda">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219041200 +0000" stop="20201219043000 +0000" channel="Canal Panda">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219043000 +0000" stop="20201219044200 +0000" channel="Canal Panda">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219044200 +0000" stop="20201219050000 +0000" channel="Canal Panda">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219050000 +0000" stop="20201219051500 +0000" channel="Canal Panda">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219051500 +0000" stop="20201219053000 +0000" channel="Canal Panda">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219053000 +0000" stop="20201219054500 +0000" channel="Canal Panda">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219054500 +0000" stop="20201219060000 +0000" channel="Canal Panda">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219060000 +0000" stop="20201219060800 +0000" channel="Canal Panda">
+    <title lang="pt">Hey Duggee</title>
+  </programme>
+  <programme start="20201219060800 +0000" stop="20201219061600 +0000" channel="Canal Panda">
+    <title lang="pt">Hey Duggee</title>
+  </programme>
+  <programme start="20201219061600 +0000" stop="20201219063000 +0000" channel="Canal Panda">
+    <title lang="pt">Hey Duggee</title>
+  </programme>
+  <programme start="20201219063000 +0000" stop="20201219063500 +0000" channel="Canal Panda">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219063500 +0000" stop="20201219064000 +0000" channel="Canal Panda">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219064000 +0000" stop="20201219064500 +0000" channel="Canal Panda">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219064500 +0000" stop="20201219065000 +0000" channel="Canal Panda">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219065000 +0000" stop="20201219070000 +0000" channel="Canal Panda">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219070000 +0000" stop="20201219073000 +0000" channel="Canal Panda">
+    <title lang="pt">Ruca</title>
+  </programme>
+  <programme start="20201219073000 +0000" stop="20201219080000 +0000" channel="Canal Panda">
+    <title lang="pt">O Comboio dos Dinossauros</title>
+  </programme>
+  <programme start="20201219080000 +0000" stop="20201219083000 +0000" channel="Canal Panda">
+    <title lang="pt">Heidi</title>
+  </programme>
+  <programme start="20201219083000 +0000" stop="20201219083800 +0000" channel="Canal Panda">
+    <title lang="pt">Pocoyo</title>
+  </programme>
+  <programme start="20201219083800 +0000" stop="20201219084600 +0000" channel="Canal Panda">
+    <title lang="pt">Pocoyo</title>
+  </programme>
+  <programme start="20201219084600 +0000" stop="20201219090000 +0000" channel="Canal Panda">
+    <title lang="pt">Pocoyo</title>
+  </programme>
+  <programme start="20201219090000 +0000" stop="20201219090600 +0000" channel="Canal Panda">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219090600 +0000" stop="20201219091200 +0000" channel="Canal Panda">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219091200 +0000" stop="20201219091800 +0000" channel="Canal Panda">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219091800 +0000" stop="20201219093000 +0000" channel="Canal Panda">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219093000 +0000" stop="20201219095500 +0000" channel="Canal Panda">
+    <title lang="pt">Vera e o Reino do Arco Íris</title>
+  </programme>
+  <programme start="20201219095500 +0000" stop="20201219100300 +0000" channel="Canal Panda">
+    <title lang="pt">O Lobo</title>
+  </programme>
+  <programme start="20201219100300 +0000" stop="20201219101300 +0000" channel="Canal Panda">
+    <title lang="pt">O Lobo</title>
+  </programme>
+  <programme start="20201219101300 +0000" stop="20201219102100 +0000" channel="Canal Panda">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20201219102100 +0000" stop="20201219103000 +0000" channel="Canal Panda">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20201219103000 +0000" stop="20201219104200 +0000" channel="Canal Panda">
+    <title lang="pt">Super Monstrinhos</title>
+  </programme>
+  <programme start="20201219104200 +0000" stop="20201219110000 +0000" channel="Canal Panda">
+    <title lang="pt">Super Monstrinhos</title>
+  </programme>
+  <programme start="20201219110000 +0000" stop="20201219111200 +0000" channel="Canal Panda">
+    <title lang="pt">Ricky Zoom</title>
+  </programme>
+  <programme start="20201219111200 +0000" stop="20201219113000 +0000" channel="Canal Panda">
+    <title lang="pt">Ricky Zoom</title>
+  </programme>
+  <programme start="20201219113000 +0000" stop="20201219114200 +0000" channel="Canal Panda">
+    <title lang="pt">Super Wings</title>
+  </programme>
+  <programme start="20201219114200 +0000" stop="20201219120000 +0000" channel="Canal Panda">
+    <title lang="pt">Super Wings</title>
+  </programme>
+  <programme start="20201219120000 +0000" stop="20201219121100 +0000" channel="Canal Panda">
+    <title lang="pt">Megaman</title>
+  </programme>
+  <programme start="20201219121100 +0000" stop="20201219123000 +0000" channel="Canal Panda">
+    <title lang="pt">Megaman</title>
+  </programme>
+  <programme start="20201219123000 +0000" stop="20201219130000 +0000" channel="Canal Panda">
+    <title lang="pt">Rev &amp; Roll</title>
+  </programme>
+  <programme start="20201219130000 +0000" stop="20201219131200 +0000" channel="Canal Panda">
+    <title lang="pt">Noddy, o Detetive do País dos Brinquedos</title>
+  </programme>
+  <programme start="20201219131200 +0000" stop="20201219133000 +0000" channel="Canal Panda">
+    <title lang="pt">Noddy, o Detetive do País dos Brinquedos</title>
+  </programme>
+  <programme start="20201219133000 +0000" stop="20201219133800 +0000" channel="Canal Panda">
+    <title lang="pt">Pocoyo</title>
+  </programme>
+  <programme start="20201219133800 +0000" stop="20201219134700 +0000" channel="Canal Panda">
+    <title lang="pt">Pocoyo</title>
+  </programme>
+  <programme start="20201219134700 +0000" stop="20201219135400 +0000" channel="Canal Panda">
+    <title lang="pt">O Lobo</title>
+  </programme>
+  <programme start="20201219135400 +0000" stop="20201219140500 +0000" channel="Canal Panda">
+    <title lang="pt">O Lobo</title>
+  </programme>
+  <programme start="20201219140500 +0000" stop="20201219141100 +0000" channel="Canal Panda">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219141100 +0000" stop="20201219141700 +0000" channel="Canal Panda">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219141700 +0000" stop="20201219142300 +0000" channel="Canal Panda">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219142300 +0000" stop="20201219143000 +0000" channel="Canal Panda">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219143000 +0000" stop="20201219150000 +0000" channel="Canal Panda">
+    <title lang="pt">Esme e Roy</title>
+  </programme>
+  <programme start="20201219150000 +0000" stop="20201219151200 +0000" channel="Canal Panda">
+    <title lang="pt">Super Monstrinhos</title>
+  </programme>
+  <programme start="20201219151200 +0000" stop="20201219153000 +0000" channel="Canal Panda">
+    <title lang="pt">Super Monstrinhos</title>
+  </programme>
+  <programme start="20201219153000 +0000" stop="20201219160000 +0000" channel="Canal Panda">
+    <title lang="pt">Onde Está o Wally?</title>
+  </programme>
+  <programme start="20201219160000 +0000" stop="20201219161200 +0000" channel="Canal Panda">
+    <title lang="pt">Super Wings</title>
+  </programme>
+  <programme start="20201219161200 +0000" stop="20201219163000 +0000" channel="Canal Panda">
+    <title lang="pt">Super Wings</title>
+  </programme>
+  <programme start="20201219163000 +0000" stop="20201219164200 +0000" channel="Canal Panda">
+    <title lang="pt">Ricky Zoom</title>
+  </programme>
+  <programme start="20201219164200 +0000" stop="20201219170000 +0000" channel="Canal Panda">
+    <title lang="pt">Ricky Zoom</title>
+  </programme>
+  <programme start="20201219170000 +0000" stop="20201219173000 +0000" channel="Canal Panda">
+    <title lang="pt">Vera e o Reino do Arco Íris</title>
+  </programme>
+  <programme start="20201219173000 +0000" stop="20201219174500 +0000" channel="Canal Panda">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20201219174500 +0000" stop="20201219175700 +0000" channel="Canal Panda">
+    <title lang="pt">Super Monstrinhos</title>
+  </programme>
+  <programme start="20201219175700 +0000" stop="20201219181500 +0000" channel="Canal Panda">
+    <title lang="pt">Super Monstrinhos</title>
+  </programme>
+  <programme start="20201219181500 +0000" stop="20201219184000 +0000" channel="Canal Panda">
+    <title lang="pt">Onde Está o Wally?</title>
+  </programme>
+  <programme start="20201219184000 +0000" stop="20201219185500 +0000" channel="Canal Panda">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20201219185500 +0000" stop="20201219190300 +0000" channel="Canal Panda">
+    <title lang="pt">Pocoyo</title>
+  </programme>
+  <programme start="20201219190300 +0000" stop="20201219191500 +0000" channel="Canal Panda">
+    <title lang="pt">Pocoyo</title>
+  </programme>
+  <programme start="20201219191500 +0000" stop="20201219194500 +0000" channel="Canal Panda">
+    <title lang="pt">Rev &amp; Roll</title>
+  </programme>
+  <programme start="20201219194500 +0000" stop="20201219195600 +0000" channel="Canal Panda">
+    <title lang="pt">Ricky Zoom</title>
+  </programme>
+  <programme start="20201219195600 +0000" stop="20201219201500 +0000" channel="Canal Panda">
+    <title lang="pt">Ricky Zoom</title>
+  </programme>
+  <programme start="20201219201500 +0000" stop="20201219202700 +0000" channel="Canal Panda">
+    <title lang="pt">Super Wings</title>
+  </programme>
+  <programme start="20201219202700 +0000" stop="20201219204500 +0000" channel="Canal Panda">
+    <title lang="pt">Super Wings</title>
+  </programme>
+  <programme start="20201219204500 +0000" stop="20201219205600 +0000" channel="Canal Panda">
+    <title lang="pt">Megaman</title>
+  </programme>
+  <programme start="20201219205600 +0000" stop="20201219211500 +0000" channel="Canal Panda">
+    <title lang="pt">Megaman</title>
+  </programme>
+  <programme start="20201219211500 +0000" stop="20201219212900 +0000" channel="Canal Panda">
+    <title lang="pt">Sissi, a Jovem Imperatriz</title>
+  </programme>
+  <programme start="20201219212900 +0000" stop="20201219214500 +0000" channel="Canal Panda">
+    <title lang="pt">Sissi, a Jovem Imperatriz</title>
+  </programme>
+  <programme start="20201219214500 +0000" stop="20201219215400 +0000" channel="Canal Panda">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20201219215400 +0000" stop="20201219220200 +0000" channel="Canal Panda">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20201219220200 +0000" stop="20201219221500 +0000" channel="Canal Panda">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20201219221500 +0000" stop="20201219222100 +0000" channel="Canal Panda">
+    <title lang="pt">As Histórias Espantosas da Masha</title>
+  </programme>
+  <programme start="20201219222100 +0000" stop="20201219222700 +0000" channel="Canal Panda">
+    <title lang="pt">As Histórias Espantosas da Masha</title>
+  </programme>
+  <programme start="20201219222700 +0000" stop="20201219223300 +0000" channel="Canal Panda">
+    <title lang="pt">As Histórias Espantosas da Masha</title>
+  </programme>
+  <programme start="20201219223300 +0000" stop="20201219224500 +0000" channel="Canal Panda">
+    <title lang="pt">As Histórias Espantosas da Masha</title>
+  </programme>
+  <programme start="20201219224500 +0000" stop="20201219225400 +0000" channel="Canal Panda">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20201219225400 +0000" stop="20201219230200 +0000" channel="Canal Panda">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20201219230200 +0000" stop="20201219231500 +0000" channel="Canal Panda">
+    <title lang="pt">Masha e o Urso</title>
+  </programme>
+  <programme start="20201219231500 +0000" stop="20201219232900 +0000" channel="Canal Panda">
+    <title lang="pt">O Carrinho Poli</title>
+  </programme>
+  <programme start="20201219232900 +0000" stop="20201219235000 +0000" channel="Canal Panda">
+    <title lang="pt">O Carrinho Poli</title>
+  </programme>
+  <programme start="20201219235000 +0000" stop="20201220000400 +0000" channel="Canal Panda">
+    <title lang="pt">O Carrinho Poli</title>
+  </programme>
+  <programme start="20201219003000 +0000" stop="20201219010000 +0000" channel="Biggs">
+    <title lang="pt">Dragon Ball Super</title>
+  </programme>
+  <programme start="20201219010000 +0000" stop="20201219013000 +0000" channel="Biggs">
+    <title lang="pt">As Histórias Épicas do Capitão Cuecas</title>
+  </programme>
+  <programme start="20201219013000 +0000" stop="20201219020000 +0000" channel="Biggs">
+    <title lang="pt">As Aventuras de Rocky e Bullwinkle</title>
+  </programme>
+  <programme start="20201219020000 +0000" stop="20201219023000 +0000" channel="Biggs">
+    <title lang="pt">Dragões: Em Busca do Desconhecido</title>
+  </programme>
+  <programme start="20201219023000 +0000" stop="20201219030000 +0000" channel="Biggs">
+    <title lang="pt">As Aventuras de Rocky e Bullwinkle</title>
+  </programme>
+  <programme start="20201219030000 +0000" stop="20201219033000 +0000" channel="Biggs">
+    <title lang="pt">As Aventuras de Rocky e Bullwinkle</title>
+  </programme>
+  <programme start="20201219033000 +0000" stop="20201219040000 +0000" channel="Biggs">
+    <title lang="pt">Beyblade Burst Evolution</title>
+  </programme>
+  <programme start="20201219040000 +0000" stop="20201219043000 +0000" channel="Biggs">
+    <title lang="pt">Beyblade Burst Evolution</title>
+  </programme>
+  <programme start="20201219043000 +0000" stop="20201219050000 +0000" channel="Biggs">
+    <title lang="pt">Beyblade Burst Evolution</title>
+  </programme>
+  <programme start="20201219050000 +0000" stop="20201219053000 +0000" channel="Biggs">
+    <title lang="pt">Pokémon, A Série: Sol &amp; Lua</title>
+  </programme>
+  <programme start="20201219053000 +0000" stop="20201219060000 +0000" channel="Biggs">
+    <title lang="pt">Pokémon, A Série: Sol &amp; Lua</title>
+  </programme>
+  <programme start="20201219060000 +0000" stop="20201219063000 +0000" channel="Biggs">
+    <title lang="pt">Beyblade Burst Rise</title>
+  </programme>
+  <programme start="20201219063000 +0000" stop="20201219070000 +0000" channel="Biggs">
+    <title lang="pt">Beyblade Burst Rise</title>
+  </programme>
+  <programme start="20201219070000 +0000" stop="20201219073000 +0000" channel="Biggs">
+    <title lang="pt">Beyblade Burst Rise</title>
+  </programme>
+  <programme start="20201219073000 +0000" stop="20201219080000 +0000" channel="Biggs">
+    <title lang="pt">Beyblade Burst Rise</title>
+  </programme>
+  <programme start="20201219080000 +0000" stop="20201219083000 +0000" channel="Biggs">
+    <title lang="pt">Beyblade Burst Rise</title>
+  </programme>
+  <programme start="20201219083000 +0000" stop="20201219090000 +0000" channel="Biggs">
+    <title lang="pt">Jornadas Pokémon</title>
+  </programme>
+  <programme start="20201219090000 +0000" stop="20201219093000 +0000" channel="Biggs">
+    <title lang="pt">Jornadas Pokémon</title>
+  </programme>
+  <programme start="20201219093000 +0000" stop="20201219100000 +0000" channel="Biggs">
+    <title lang="pt">Jornadas Pokémon</title>
+  </programme>
+  <programme start="20201219100000 +0000" stop="20201219103000 +0000" channel="Biggs">
+    <title lang="pt">As Histórias Épicas do Capitão Cuecas</title>
+  </programme>
+  <programme start="20201219103000 +0000" stop="20201219110000 +0000" channel="Biggs">
+    <title lang="pt">As Histórias Épicas do Capitão Cuecas</title>
+  </programme>
+  <programme start="20201219110000 +0000" stop="20201219113000 +0000" channel="Biggs">
+    <title lang="pt">As Histórias Épicas do Capitão Cuecas</title>
+  </programme>
+  <programme start="20201219113000 +0000" stop="20201219115500 +0000" channel="Biggs">
+    <title lang="pt">As Histórias Épicas do Capitão Cuecas</title>
+  </programme>
+  <programme start="20201219115500 +0000" stop="20201219122000 +0000" channel="Biggs">
+    <title lang="pt">As Histórias Épicas do Capitão Cuecas</title>
+  </programme>
+  <programme start="20201219122000 +0000" stop="20201219130500 +0000" channel="Biggs">
+    <title lang="pt">Eu sou Franky</title>
+  </programme>
+  <programme start="20201219130500 +0000" stop="20201219135000 +0000" channel="Biggs">
+    <title lang="pt">Eu sou Franky</title>
+  </programme>
+  <programme start="20201219135000 +0000" stop="20201219143300 +0000" channel="Biggs">
+    <title lang="pt">Eu sou Franky</title>
+  </programme>
+  <programme start="20201219143300 +0000" stop="20201219150000 +0000" channel="Biggs">
+    <title lang="pt">The Next Step</title>
+  </programme>
+  <programme start="20201219150000 +0000" stop="20201219153000 +0000" channel="Biggs">
+    <title lang="pt">The Next Step</title>
+  </programme>
+  <programme start="20201219153000 +0000" stop="20201219160000 +0000" channel="Biggs">
+    <title lang="pt">The Next Step</title>
+  </programme>
+  <programme start="20201219160000 +0000" stop="20201219163000 +0000" channel="Biggs">
+    <title lang="pt">The Next Step</title>
+  </programme>
+  <programme start="20201219163000 +0000" stop="20201219170000 +0000" channel="Biggs">
+    <title lang="pt">The Next Step</title>
+  </programme>
+  <programme start="20201219170000 +0000" stop="20201219180000 +0000" channel="Biggs">
+    <title lang="pt">Morangos com Açúcar</title>
+  </programme>
+  <programme start="20201219180000 +0000" stop="20201219185500 +0000" channel="Biggs">
+    <title lang="pt">Morangos com Açúcar</title>
+  </programme>
+  <programme start="20201219185500 +0000" stop="20201219195000 +0000" channel="Biggs">
+    <title lang="pt">Morangos com Açúcar</title>
+  </programme>
+  <programme start="20201219195000 +0000" stop="20201219204500 +0000" channel="Biggs">
+    <title lang="pt">Morangos com Açúcar</title>
+  </programme>
+  <programme start="20201219204500 +0000" stop="20201219214500 +0000" channel="Biggs">
+    <title lang="pt">Morangos com Açúcar</title>
+  </programme>
+  <programme start="20201219214500 +0000" stop="20201219220500 +0000" channel="Biggs">
+    <title lang="pt">Gargalhadas À Grande</title>
+  </programme>
+  <programme start="20201219220500 +0000" stop="20201219223000 +0000" channel="Biggs">
+    <title lang="pt">As Histórias Épicas do Capitão Cuecas</title>
+  </programme>
+  <programme start="20201219223000 +0000" stop="20201219230000 +0000" channel="Biggs">
+    <title lang="pt">As Histórias Épicas do Capitão Cuecas</title>
+  </programme>
+  <programme start="20201219230000 +0000" stop="20201219233000 +0000" channel="Biggs">
+    <title lang="pt">Bakugan: Battle Planet</title>
+  </programme>
+  <programme start="20201219233000 +0000" stop="20201220000000 +0000" channel="Biggs">
+    <title lang="pt">Bakugan: Battle Planet</title>
+  </programme>
+  <programme start="20201219002500 +0000" stop="20201219005000 +0000" channel="Disney Junior">
+    <title lang="pt">PJ Masks</title>
+  </programme>
+  <programme start="20201219005000 +0000" stop="20201219010000 +0000" channel="Disney Junior">
+    <title lang="pt">Paprika</title>
+  </programme>
+  <programme start="20201219010000 +0000" stop="20201219011500 +0000" channel="Disney Junior">
+    <title lang="pt">Zou</title>
+  </programme>
+  <programme start="20201219011500 +0000" stop="20201219013000 +0000" channel="Disney Junior">
+    <title lang="pt">Zou</title>
+  </programme>
+  <programme start="20201219013000 +0000" stop="20201219015500 +0000" channel="Disney Junior">
+    <title lang="pt">Henry, o Monstro Feliz</title>
+  </programme>
+  <programme start="20201219015500 +0000" stop="20201219022000 +0000" channel="Disney Junior">
+    <title lang="pt">Henry, o Monstro Feliz</title>
+  </programme>
+  <programme start="20201219022000 +0000" stop="20201219023000 +0000" channel="Disney Junior">
+    <title lang="pt">Paprika</title>
+  </programme>
+  <programme start="20201219023000 +0000" stop="20201219024000 +0000" channel="Disney Junior">
+    <title lang="pt">Paprika</title>
+  </programme>
+  <programme start="20201219024000 +0000" stop="20201219025500 +0000" channel="Disney Junior">
+    <title lang="pt">Zou</title>
+  </programme>
+  <programme start="20201219025500 +0000" stop="20201219031000 +0000" channel="Disney Junior">
+    <title lang="pt">Zou</title>
+  </programme>
+  <programme start="20201219031000 +0000" stop="20201219032500 +0000" channel="Disney Junior">
+    <title lang="pt">Zou</title>
+  </programme>
+  <programme start="20201219032500 +0000" stop="20201219033500 +0000" channel="Disney Junior">
+    <title lang="pt">Paprika</title>
+  </programme>
+  <programme start="20201219033500 +0000" stop="20201219034500 +0000" channel="Disney Junior">
+    <title lang="pt">Paprika</title>
+  </programme>
+  <programme start="20201219034500 +0000" stop="20201219035500 +0000" channel="Disney Junior">
+    <title lang="pt">Paprika</title>
+  </programme>
+  <programme start="20201219035500 +0000" stop="20201219041000 +0000" channel="Disney Junior">
+    <title lang="pt">Henry, o Monstro Feliz</title>
+  </programme>
+  <programme start="20201219041000 +0000" stop="20201219043500 +0000" channel="Disney Junior">
+    <title lang="pt">Gigantosaurus</title>
+  </programme>
+  <programme start="20201219043500 +0000" stop="20201219050000 +0000" channel="Disney Junior">
+    <title lang="pt">Gigantosaurus</title>
+  </programme>
+  <programme start="20201219050000 +0000" stop="20201219052500 +0000" channel="Disney Junior">
+    <title lang="pt">PJ Masks</title>
+  </programme>
+  <programme start="20201219052500 +0000" stop="20201219053000 +0000" channel="Disney Junior">
+    <title lang="pt">PJ Masks</title>
+  </programme>
+  <programme start="20201219053000 +0000" stop="20201219055500 +0000" channel="Disney Junior">
+    <title lang="pt">PJ Masks</title>
+  </programme>
+  <programme start="20201219055500 +0000" stop="20201219060000 +0000" channel="Disney Junior">
+    <title lang="pt">Minnie Toons</title>
+  </programme>
+  <programme start="20201219060000 +0000" stop="20201219063000 +0000" channel="Disney Junior">
+    <title lang="pt">A Casa do Mickey Mouse</title>
+  </programme>
+  <programme start="20201219063000 +0000" stop="20201219070000 +0000" channel="Disney Junior">
+    <title lang="pt">A Casa do Mickey Mouse</title>
+  </programme>
+  <programme start="20201219070000 +0000" stop="20201219071000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219071000 +0000" stop="20201219072000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219072000 +0000" stop="20201219073000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219073000 +0000" stop="20201219074000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219074000 +0000" stop="20201219075000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219075000 +0000" stop="20201219080000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219080000 +0000" stop="20201219083000 +0000" channel="Disney Junior">
+    <title lang="pt">Mickey e os Superpilotos</title>
+  </programme>
+  <programme start="20201219083000 +0000" stop="20201219090000 +0000" channel="Disney Junior">
+    <title lang="pt">Mickey Mouse: Vamos à Aventura!</title>
+  </programme>
+  <programme start="20201219090000 +0000" stop="20201219093000 +0000" channel="Disney Junior">
+    <title lang="pt">Mickey Mouse Vamos a Aventura!</title>
+  </programme>
+  <programme start="20201219093000 +0000" stop="20201219100000 +0000" channel="Disney Junior">
+    <title lang="pt">Mickey Mouse Vamos a Aventura!</title>
+  </programme>
+  <programme start="20201219100000 +0000" stop="20201219103000 +0000" channel="Disney Junior">
+    <title lang="pt">Tops: Transporte Oficial de Pequenotes</title>
+  </programme>
+  <programme start="20201219103000 +0000" stop="20201219110000 +0000" channel="Disney Junior">
+    <title lang="pt">Vampirina</title>
+  </programme>
+  <programme start="20201219110000 +0000" stop="20201219120000 +0000" channel="Disney Junior">
+    <title lang="pt">A Casa do Mickey Mouse: Road Rally (VP)</title>
+  </programme>
+  <programme start="20201219120000 +0000" stop="20201219121000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219121000 +0000" stop="20201219122000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219122000 +0000" stop="20201219123000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219123000 +0000" stop="20201219124000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219124000 +0000" stop="20201219125000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219125000 +0000" stop="20201219130000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219130000 +0000" stop="20201219131000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219131000 +0000" stop="20201219132000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219132000 +0000" stop="20201219133000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219133000 +0000" stop="20201219134000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219134000 +0000" stop="20201219135000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219135000 +0000" stop="20201219140000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219140000 +0000" stop="20201219141000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219141000 +0000" stop="20201219142000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219142000 +0000" stop="20201219143000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219143000 +0000" stop="20201219144000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219144000 +0000" stop="20201219145000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219145000 +0000" stop="20201219150000 +0000" channel="Disney Junior">
+    <title lang="pt">Bluey</title>
+  </programme>
+  <programme start="20201219150000 +0000" stop="20201219153000 +0000" channel="Disney Junior">
+    <title lang="pt">Rocketeer</title>
+  </programme>
+  <programme start="20201219153000 +0000" stop="20201219160000 +0000" channel="Disney Junior">
+    <title lang="pt">Vampirina</title>
+  </programme>
+  <programme start="20201219160000 +0000" stop="20201219163000 +0000" channel="Disney Junior">
+    <title lang="pt">Tops: Transporte Oficial de Pequenotes</title>
+  </programme>
+  <programme start="20201219163000 +0000" stop="20201219170000 +0000" channel="Disney Junior">
+    <title lang="pt">PJ Masks</title>
+  </programme>
+  <programme start="20201219170000 +0000" stop="20201219173000 +0000" channel="Disney Junior">
+    <title lang="pt">Rocketeer</title>
+  </programme>
+  <programme start="20201219173000 +0000" stop="20201219182500 +0000" channel="Disney Junior">
+    <title lang="pt">A Casa do Mickey Mouse: A Aventura Espacial do Mickey (VP)</title>
+  </programme>
+  <programme start="20201219182500 +0000" stop="20201219183000 +0000" channel="Disney Junior">
+    <title lang="pt">Histórias Que Nos Unem</title>
+  </programme>
+  <programme start="20201219183000 +0000" stop="20201219190000 +0000" channel="Disney Junior">
+    <title lang="pt">A Guarda do Leão</title>
+  </programme>
+  <programme start="20201219190000 +0000" stop="20201219193000 +0000" channel="Disney Junior">
+    <title lang="pt">A Princesa Sofia</title>
+  </programme>
+  <programme start="20201219193000 +0000" stop="20201219200000 +0000" channel="Disney Junior">
+    <title lang="pt">Rocketeer</title>
+  </programme>
+  <programme start="20201219200000 +0000" stop="20201219203000 +0000" channel="Disney Junior">
+    <title lang="pt">PJ Masks</title>
+  </programme>
+  <programme start="20201219203000 +0000" stop="20201219210000 +0000" channel="Disney Junior">
+    <title lang="pt">Mickey Mouse: Vamos à Aventura!</title>
+  </programme>
+  <programme start="20201219210000 +0000" stop="20201219213000 +0000" channel="Disney Junior">
+    <title lang="pt">PJ Masks</title>
+  </programme>
+  <programme start="20201219213000 +0000" stop="20201219220000 +0000" channel="Disney Junior">
+    <title lang="pt">Gigantosaurus</title>
+  </programme>
+  <programme start="20201219220000 +0000" stop="20201219223000 +0000" channel="Disney Junior">
+    <title lang="pt">Gigantosaurus</title>
+  </programme>
+  <programme start="20201219223000 +0000" stop="20201219230000 +0000" channel="Disney Junior">
+    <title lang="pt">Gigantosaurus</title>
+  </programme>
+  <programme start="20201219230000 +0000" stop="20201219233000 +0000" channel="Disney Junior">
+    <title lang="pt">Gigantosaurus</title>
+  </programme>
+  <programme start="20201219233000 +0000" stop="20201220000000 +0000" channel="Disney Junior">
+    <title lang="pt">PJ Masks</title>
+  </programme>
+  <programme start="20201219000700 +0000" stop="20201219001800 +0000" channel="Cartoon Network">
+    <title lang="pt">Regular Show</title>
+  </programme>
+  <programme start="20201219001800 +0000" stop="20201219003100 +0000" channel="Cartoon Network">
+    <title lang="pt">Regular Show</title>
+  </programme>
+  <programme start="20201219003100 +0000" stop="20201219004100 +0000" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventuras</title>
+  </programme>
+  <programme start="20201219004100 +0000" stop="20201219005100 +0000" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventuras</title>
+  </programme>
+  <programme start="20201219005100 +0000" stop="20201219010200 +0000" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventuras</title>
+  </programme>
+  <programme start="20201219010200 +0000" stop="20201219011400 +0000" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventuras</title>
+  </programme>
+  <programme start="20201219011400 +0000" stop="20201219012500 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219012500 +0000" stop="20201219013600 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219013600 +0000" stop="20201219014800 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219014800 +0000" stop="20201219015900 +0000" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+  </programme>
+  <programme start="20201219015900 +0000" stop="20201219020900 +0000" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+  </programme>
+  <programme start="20201219020900 +0000" stop="20201219022000 +0000" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+  </programme>
+  <programme start="20201219022000 +0000" stop="20201219023100 +0000" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+  </programme>
+  <programme start="20201219023100 +0000" stop="20201219024200 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219024200 +0000" stop="20201219025200 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219025200 +0000" stop="20201219030300 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219030300 +0000" stop="20201219031500 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219031500 +0000" stop="20201219032600 +0000" channel="Cartoon Network">
+    <title lang="pt">Power Players</title>
+  </programme>
+  <programme start="20201219032600 +0000" stop="20201219033700 +0000" channel="Cartoon Network">
+    <title lang="pt">Power Players</title>
+  </programme>
+  <programme start="20201219033700 +0000" stop="20201219034700 +0000" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventuras</title>
+  </programme>
+  <programme start="20201219034700 +0000" stop="20201219035900 +0000" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventuras</title>
+  </programme>
+  <programme start="20201219035900 +0000" stop="20201219040900 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219040900 +0000" stop="20201219042000 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219042000 +0000" stop="20201219043100 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219043100 +0000" stop="20201219044300 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219044300 +0000" stop="20201219045400 +0000" channel="Cartoon Network">
+    <title lang="pt">Power Players</title>
+  </programme>
+  <programme start="20201219045400 +0000" stop="20201219050400 +0000" channel="Cartoon Network">
+    <title lang="pt">Power Players</title>
+  </programme>
+  <programme start="20201219050400 +0000" stop="20201219051600 +0000" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+  </programme>
+  <programme start="20201219051600 +0000" stop="20201219052700 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219052700 +0000" stop="20201219053800 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219053800 +0000" stop="20201219054800 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219054800 +0000" stop="20201219060000 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219060000 +0000" stop="20201219061000 +0000" channel="Cartoon Network">
+    <title lang="pt">Clarence</title>
+  </programme>
+  <programme start="20201219061000 +0000" stop="20201219062000 +0000" channel="Cartoon Network">
+    <title lang="pt">Clarence</title>
+  </programme>
+  <programme start="20201219062000 +0000" stop="20201219063100 +0000" channel="Cartoon Network">
+    <title lang="pt">Clarence</title>
+  </programme>
+  <programme start="20201219063100 +0000" stop="20201219064200 +0000" channel="Cartoon Network">
+    <title lang="pt">Clarence</title>
+  </programme>
+  <programme start="20201219064200 +0000" stop="20201219065200 +0000" channel="Cartoon Network">
+    <title lang="pt">Clarence</title>
+  </programme>
+  <programme start="20201219065200 +0000" stop="20201219070200 +0000" channel="Cartoon Network">
+    <title lang="pt">Clarence</title>
+  </programme>
+  <programme start="20201219070200 +0000" stop="20201219071200 +0000" channel="Cartoon Network">
+    <title lang="pt">Clarence</title>
+  </programme>
+  <programme start="20201219071200 +0000" stop="20201219072400 +0000" channel="Cartoon Network">
+    <title lang="pt">Clarence</title>
+  </programme>
+  <programme start="20201219072400 +0000" stop="20201219073500 +0000" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+  </programme>
+  <programme start="20201219073500 +0000" stop="20201219074500 +0000" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+  </programme>
+  <programme start="20201219074500 +0000" stop="20201219075500 +0000" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+  </programme>
+  <programme start="20201219075500 +0000" stop="20201219080800 +0000" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+  </programme>
+  <programme start="20201219080800 +0000" stop="20201219081800 +0000" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+  </programme>
+  <programme start="20201219081800 +0000" stop="20201219083000 +0000" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+  </programme>
+  <programme start="20201219083000 +0000" stop="20201219084000 +0000" channel="Cartoon Network">
+    <title lang="pt">Nós, os Ursos</title>
+  </programme>
+  <programme start="20201219084000 +0000" stop="20201219085100 +0000" channel="Cartoon Network">
+    <title lang="pt">Nós, os Ursos</title>
+  </programme>
+  <programme start="20201219085100 +0000" stop="20201219090100 +0000" channel="Cartoon Network">
+    <title lang="pt">Nós, os Ursos</title>
+  </programme>
+  <programme start="20201219090100 +0000" stop="20201219091500 +0000" channel="Cartoon Network">
+    <title lang="pt">Nós, os Ursos</title>
+  </programme>
+  <programme start="20201219091500 +0000" stop="20201219092500 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219092500 +0000" stop="20201219093600 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219093600 +0000" stop="20201219094700 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219094700 +0000" stop="20201219100000 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219100000 +0000" stop="20201219100900 +0000" channel="Cartoon Network">
+    <title lang="pt">Teen Titans Go!</title>
+  </programme>
+  <programme start="20201219100900 +0000" stop="20201219102200 +0000" channel="Cartoon Network">
+    <title lang="pt">Teen Titans Go!</title>
+  </programme>
+  <programme start="20201219102200 +0000" stop="20201219103100 +0000" channel="Cartoon Network">
+    <title lang="pt">Teen Titans Go!</title>
+  </programme>
+  <programme start="20201219103100 +0000" stop="20201219104300 +0000" channel="Cartoon Network">
+    <title lang="pt">Teen Titans Go!</title>
+  </programme>
+  <programme start="20201219104300 +0000" stop="20201219105400 +0000" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+  </programme>
+  <programme start="20201219105400 +0000" stop="20201219110700 +0000" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+  </programme>
+  <programme start="20201219110700 +0000" stop="20201219111700 +0000" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Craig</title>
+  </programme>
+  <programme start="20201219111700 +0000" stop="20201219113000 +0000" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Craig</title>
+  </programme>
+  <programme start="20201219113000 +0000" stop="20201219114100 +0000" channel="Cartoon Network">
+    <title lang="pt">Os Fungies</title>
+  </programme>
+  <programme start="20201219114100 +0000" stop="20201219115300 +0000" channel="Cartoon Network">
+    <title lang="pt">Os Fungies</title>
+  </programme>
+  <programme start="20201219115300 +0000" stop="20201219120400 +0000" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebolinha</title>
+  </programme>
+  <programme start="20201219120400 +0000" stop="20201219121500 +0000" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebolinha</title>
+  </programme>
+  <programme start="20201219121500 +0000" stop="20201219122700 +0000" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebolinha</title>
+  </programme>
+  <programme start="20201219122700 +0000" stop="20201219123800 +0000" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+  </programme>
+  <programme start="20201219123800 +0000" stop="20201219125000 +0000" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+  </programme>
+  <programme start="20201219125000 +0000" stop="20201219130000 +0000" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+  </programme>
+  <programme start="20201219130000 +0000" stop="20201219131300 +0000" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+  </programme>
+  <programme start="20201219131300 +0000" stop="20201219132300 +0000" channel="Cartoon Network">
+    <title lang="pt">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20201219132300 +0000" stop="20201219133400 +0000" channel="Cartoon Network">
+    <title lang="pt">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20201219133400 +0000" stop="20201219134600 +0000" channel="Cartoon Network">
+    <title lang="pt">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20201219134600 +0000" stop="20201219135600 +0000" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Craig</title>
+  </programme>
+  <programme start="20201219135600 +0000" stop="20201219140900 +0000" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Craig</title>
+  </programme>
+  <programme start="20201219140900 +0000" stop="20201219141900 +0000" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Craig</title>
+  </programme>
+  <programme start="20201219141900 +0000" stop="20201219143200 +0000" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Craig</title>
+  </programme>
+  <programme start="20201219143200 +0000" stop="20201219144300 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219144300 +0000" stop="20201219145500 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219145500 +0000" stop="20201219150600 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219150600 +0000" stop="20201219152000 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219152000 +0000" stop="20201219153000 +0000" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebolinha</title>
+  </programme>
+  <programme start="20201219153000 +0000" stop="20201219154300 +0000" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebolinha</title>
+  </programme>
+  <programme start="20201219154300 +0000" stop="20201219155400 +0000" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebolinha</title>
+  </programme>
+  <programme start="20201219155400 +0000" stop="20201219160700 +0000" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebolinha</title>
+  </programme>
+  <programme start="20201219160700 +0000" stop="20201219161600 +0000" channel="Cartoon Network">
+    <title lang="pt">Teen Titans Go!</title>
+  </programme>
+  <programme start="20201219161600 +0000" stop="20201219162800 +0000" channel="Cartoon Network">
+    <title lang="pt">Teen Titans Go!</title>
+  </programme>
+  <programme start="20201219162800 +0000" stop="20201219164000 +0000" channel="Cartoon Network">
+    <title lang="pt">Gormiti</title>
+  </programme>
+  <programme start="20201219164000 +0000" stop="20201219165400 +0000" channel="Cartoon Network">
+    <title lang="pt">Gormiti</title>
+  </programme>
+  <programme start="20201219165400 +0000" stop="20201219170500 +0000" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+  </programme>
+  <programme start="20201219170500 +0000" stop="20201219171700 +0000" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+  </programme>
+  <programme start="20201219171700 +0000" stop="20201219172700 +0000" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+  </programme>
+  <programme start="20201219172700 +0000" stop="20201219174000 +0000" channel="Cartoon Network">
+    <title lang="pt">Titio Avô</title>
+  </programme>
+  <programme start="20201219174000 +0000" stop="20201219175100 +0000" channel="Cartoon Network">
+    <title lang="pt">Nós, os Ursos</title>
+  </programme>
+  <programme start="20201219175100 +0000" stop="20201219180300 +0000" channel="Cartoon Network">
+    <title lang="pt">Nós, os Ursos</title>
+  </programme>
+  <programme start="20201219180300 +0000" stop="20201219181600 +0000" channel="Cartoon Network">
+    <title lang="pt">Nós, os Ursos</title>
+  </programme>
+  <programme start="20201219181600 +0000" stop="20201219182700 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219182700 +0000" stop="20201219184000 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219184000 +0000" stop="20201219185000 +0000" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+  </programme>
+  <programme start="20201219185000 +0000" stop="20201219190400 +0000" channel="Cartoon Network">
+    <title lang="pt">Victor e Valentino</title>
+  </programme>
+  <programme start="20201219190400 +0000" stop="20201219191400 +0000" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Craig</title>
+  </programme>
+  <programme start="20201219191400 +0000" stop="20201219192700 +0000" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Craig</title>
+  </programme>
+  <programme start="20201219192700 +0000" stop="20201219193700 +0000" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Craig</title>
+  </programme>
+  <programme start="20201219193700 +0000" stop="20201219194900 +0000" channel="Cartoon Network">
+    <title lang="pt">O Mundo de Craig</title>
+  </programme>
+  <programme start="20201219194900 +0000" stop="20201219195900 +0000" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebolinha</title>
+  </programme>
+  <programme start="20201219195900 +0000" stop="20201219201200 +0000" channel="Cartoon Network">
+    <title lang="pt">Maçã e Cebolinha</title>
+  </programme>
+  <programme start="20201219201200 +0000" stop="20201219202200 +0000" channel="Cartoon Network">
+    <title lang="pt">Os Fungies</title>
+  </programme>
+  <programme start="20201219202200 +0000" stop="20201219203200 +0000" channel="Cartoon Network">
+    <title lang="pt">Os Fungies</title>
+  </programme>
+  <programme start="20201219203200 +0000" stop="20201219204500 +0000" channel="Cartoon Network">
+    <title lang="pt">Os Fungies</title>
+  </programme>
+  <programme start="20201219204500 +0000" stop="20201219205500 +0000" channel="Cartoon Network">
+    <title lang="pt">Teen Titans Go!</title>
+  </programme>
+  <programme start="20201219205500 +0000" stop="20201219210400 +0000" channel="Cartoon Network">
+    <title lang="pt">Teen Titans Go!</title>
+  </programme>
+  <programme start="20201219210400 +0000" stop="20201219211500 +0000" channel="Cartoon Network">
+    <title lang="pt">Teen Titans Go!</title>
+  </programme>
+  <programme start="20201219211500 +0000" stop="20201219212800 +0000" channel="Cartoon Network">
+    <title lang="pt">Teen Titans Go!</title>
+  </programme>
+  <programme start="20201219212800 +0000" stop="20201219213900 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219213900 +0000" stop="20201219215000 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219215000 +0000" stop="20201219220300 +0000" channel="Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+  </programme>
+  <programme start="20201219220300 +0000" stop="20201219221400 +0000" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventuras</title>
+  </programme>
+  <programme start="20201219221400 +0000" stop="20201219222400 +0000" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventuras</title>
+  </programme>
+  <programme start="20201219222400 +0000" stop="20201219223400 +0000" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventuras</title>
+  </programme>
+  <programme start="20201219223400 +0000" stop="20201219224500 +0000" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventuras</title>
+  </programme>
+  <programme start="20201219224500 +0000" stop="20201219225500 +0000" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventuras</title>
+  </programme>
+  <programme start="20201219225500 +0000" stop="20201219230700 +0000" channel="Cartoon Network">
+    <title lang="pt">Hora de Aventuras</title>
+  </programme>
+  <programme start="20201219230700 +0000" stop="20201219231800 +0000" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+  </programme>
+  <programme start="20201219231800 +0000" stop="20201219232900 +0000" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+  </programme>
+  <programme start="20201219232900 +0000" stop="20201219233900 +0000" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+  </programme>
+  <programme start="20201219233900 +0000" stop="20201219235000 +0000" channel="Cartoon Network">
+    <title lang="pt">Steven Universe</title>
+  </programme>
+  <programme start="20201219235000 +0000" stop="20201220000100 +0000" channel="Cartoon Network">
+    <title lang="pt">Regular Show</title>
+  </programme>
+  <programme start="20201219002300 +0000" stop="20201219004700 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219004700 +0000" stop="20201219011000 +0000" channel="NICK JR">
+    <title lang="pt">Blaze e as Monster Machines</title>
+  </programme>
+  <programme start="20201219011000 +0000" stop="20201219013300 +0000" channel="NICK JR">
+    <title lang="pt">Blaze e as Monster Machines</title>
+  </programme>
+  <programme start="20201219013300 +0000" stop="20201219015500 +0000" channel="NICK JR">
+    <title lang="pt">Rusty Rivets</title>
+  </programme>
+  <programme start="20201219015500 +0000" stop="20201219020000 +0000" channel="NICK JR">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219020000 +0000" stop="20201219020500 +0000" channel="NICK JR">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219020500 +0000" stop="20201219021400 +0000" channel="NICK JR">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219021400 +0000" stop="20201219021900 +0000" channel="NICK JR">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219021900 +0000" stop="20201219024300 +0000" channel="NICK JR">
+    <title lang="pt">Rusty Rivets</title>
+  </programme>
+  <programme start="20201219024300 +0000" stop="20201219030500 +0000" channel="NICK JR">
+    <title lang="pt">Rusty Rivets</title>
+  </programme>
+  <programme start="20201219030500 +0000" stop="20201219032800 +0000" channel="NICK JR">
+    <title lang="pt">Bubble Guppies</title>
+  </programme>
+  <programme start="20201219032800 +0000" stop="20201219035100 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219035100 +0000" stop="20201219041500 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219041500 +0000" stop="20201219043600 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219043600 +0000" stop="20201219050000 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219050000 +0000" stop="20201219053200 +0000" channel="NICK JR">
+    <title lang="pt">Blaze e as Monster Machines</title>
+  </programme>
+  <programme start="20201219053200 +0000" stop="20201219053700 +0000" channel="NICK JR">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219053700 +0000" stop="20201219054800 +0000" channel="NICK JR">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219054800 +0000" stop="20201219061000 +0000" channel="NICK JR">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219061000 +0000" stop="20201219063900 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219063900 +0000" stop="20201219070700 +0000" channel="NICK JR">
+    <title lang="pt">As Pistas da Blue &amp; Tu!</title>
+  </programme>
+  <programme start="20201219070700 +0000" stop="20201219073500 +0000" channel="NICK JR">
+    <title lang="pt">As Pistas da Blue &amp; Tu!</title>
+  </programme>
+  <programme start="20201219073500 +0000" stop="20201219082700 +0000" channel="NICK JR">
+    <title lang="pt">Blaze e as Monster Machines: Blaze Glorioso</title>
+  </programme>
+  <programme start="20201219082700 +0000" stop="20201219085400 +0000" channel="NICK JR">
+    <title lang="pt">Butterbean</title>
+  </programme>
+  <programme start="20201219085400 +0000" stop="20201219092400 +0000" channel="NICK JR">
+    <title lang="pt">Bubble Guppies</title>
+  </programme>
+  <programme start="20201219092400 +0000" stop="20201219095200 +0000" channel="NICK JR">
+    <title lang="pt">Abby Hatcher</title>
+  </programme>
+  <programme start="20201219095200 +0000" stop="20201219100100 +0000" channel="NICK JR">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219100100 +0000" stop="20201219100600 +0000" channel="NICK JR">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219100600 +0000" stop="20201219101700 +0000" channel="NICK JR">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219101700 +0000" stop="20201219104400 +0000" channel="NICK JR">
+    <title lang="pt">Blaze e as Monster Machines</title>
+  </programme>
+  <programme start="20201219104400 +0000" stop="20201219111200 +0000" channel="NICK JR">
+    <title lang="pt">Blaze e as Monster Machines</title>
+  </programme>
+  <programme start="20201219111200 +0000" stop="20201219114100 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219114100 +0000" stop="20201219121000 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219121000 +0000" stop="20201219123900 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219123900 +0000" stop="20201219130800 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219130800 +0000" stop="20201219133700 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219133700 +0000" stop="20201219140600 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219140600 +0000" stop="20201219143400 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219143400 +0000" stop="20201219145700 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219145700 +0000" stop="20201219152600 +0000" channel="NICK JR">
+    <title lang="pt">Butterbean</title>
+  </programme>
+  <programme start="20201219152600 +0000" stop="20201219155500 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219155500 +0000" stop="20201219161300 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219161300 +0000" stop="20201219164200 +0000" channel="NICK JR">
+    <title lang="pt">Blaze e as Monster Machines</title>
+  </programme>
+  <programme start="20201219164200 +0000" stop="20201219171000 +0000" channel="NICK JR">
+    <title lang="pt">Blaze e as Monster Machines</title>
+  </programme>
+  <programme start="20201219171000 +0000" stop="20201219180100 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219180100 +0000" stop="20201219182900 +0000" channel="NICK JR">
+    <title lang="pt">As Pistas da Blue &amp; Tu!</title>
+  </programme>
+  <programme start="20201219182900 +0000" stop="20201219190100 +0000" channel="NICK JR">
+    <title lang="pt">As Aventuras de Paddington</title>
+  </programme>
+  <programme start="20201219190100 +0000" stop="20201219190600 +0000" channel="NICK JR">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219190600 +0000" stop="20201219191100 +0000" channel="NICK JR">
+    <title lang="pt">A Porquinha Peppa</title>
+  </programme>
+  <programme start="20201219191100 +0000" stop="20201219192400 +0000" channel="NICK JR">
+    <title lang="pt">Ready Set Dance</title>
+  </programme>
+  <programme start="20201219192400 +0000" stop="20201219195200 +0000" channel="NICK JR">
+    <title lang="pt">Bubble Guppies</title>
+  </programme>
+  <programme start="20201219195200 +0000" stop="20201219202000 +0000" channel="NICK JR">
+    <title lang="pt">Blaze e as Monster Machines</title>
+  </programme>
+  <programme start="20201219202000 +0000" stop="20201219204800 +0000" channel="NICK JR">
+    <title lang="pt">Blaze e as Monster Machines</title>
+  </programme>
+  <programme start="20201219204800 +0000" stop="20201219211600 +0000" channel="NICK JR">
+    <title lang="pt">Top Wing</title>
+  </programme>
+  <programme start="20201219211600 +0000" stop="20201219214400 +0000" channel="NICK JR">
+    <title lang="pt">Top Wing</title>
+  </programme>
+  <programme start="20201219214400 +0000" stop="20201219220600 +0000" channel="NICK JR">
+    <title lang="pt">Blaze e as Monster Machines</title>
+  </programme>
+  <programme start="20201219220600 +0000" stop="20201219222900 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219222900 +0000" stop="20201219225100 +0000" channel="NICK JR">
+    <title lang="pt">Rusty Rivets</title>
+  </programme>
+  <programme start="20201219225100 +0000" stop="20201219231400 +0000" channel="NICK JR">
+    <title lang="pt">Rusty Rivets</title>
+  </programme>
+  <programme start="20201219231400 +0000" stop="20201219233600 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219233600 +0000" stop="20201219235900 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219235900 +0000" stop="20201220002100 +0000" channel="NICK JR">
+    <title lang="pt">Patrulha Pata</title>
+  </programme>
+  <programme start="20201219003000 +0000" stop="20201219010000 +0000" channel="Baby TV">
+    <title lang="pt">Bons Sonhos</title>
+  </programme>
+  <programme start="20201219010000 +0000" stop="20201219013000 +0000" channel="Baby TV">
+    <title lang="pt">Abraços de Boa Noite</title>
+  </programme>
+  <programme start="20201219013000 +0000" stop="20201219020000 +0000" channel="Baby TV">
+    <title lang="pt">Noites Sonhadoras</title>
+  </programme>
+  <programme start="20201219020000 +0000" stop="20201219023000 +0000" channel="Baby TV">
+    <title lang="pt">A Lua e as Estrelas</title>
+  </programme>
+  <programme start="20201219023000 +0000" stop="20201219030000 +0000" channel="Baby TV">
+    <title lang="pt">Sons Tranquilos</title>
+  </programme>
+  <programme start="20201219030000 +0000" stop="20201219033000 +0000" channel="Baby TV">
+    <title lang="pt">Da Noite Para o Dia</title>
+  </programme>
+  <programme start="20201219033000 +0000" stop="20201219040000 +0000" channel="Baby TV">
+    <title lang="pt">Da Noite Para o Dia</title>
+  </programme>
+  <programme start="20201219040000 +0000" stop="20201219043000 +0000" channel="Baby TV">
+    <title lang="pt">Acordar com os Amigos do Baby TV</title>
+  </programme>
+  <programme start="20201219043000 +0000" stop="20201219050000 +0000" channel="Baby TV">
+    <title lang="pt">Acordar com os Amigos do Baby TV</title>
+  </programme>
+  <programme start="20201219050000 +0000" stop="20201219053000 +0000" channel="Baby TV">
+    <title lang="pt">Exercício Matinal</title>
+  </programme>
+  <programme start="20201219053000 +0000" stop="20201219060000 +0000" channel="Baby TV">
+    <title lang="pt">Exercício Matinal</title>
+  </programme>
+  <programme start="20201219060000 +0000" stop="20201219063000 +0000" channel="Baby TV">
+    <title lang="pt">Começa o Dia Com os Amigos Do Baby TV</title>
+  </programme>
+  <programme start="20201219063000 +0000" stop="20201219070000 +0000" channel="Baby TV">
+    <title lang="pt">Os Ratinhos Construtores e Outras Histórias</title>
+  </programme>
+  <programme start="20201219070000 +0000" stop="20201219073000 +0000" channel="Baby TV">
+    <title lang="pt">Sala de Aulas de Teeny e Tiny</title>
+  </programme>
+  <programme start="20201219073000 +0000" stop="20201219080000 +0000" channel="Baby TV">
+    <title lang="pt">Arte, Atividades e Música</title>
+  </programme>
+  <programme start="20201219080000 +0000" stop="20201219083000 +0000" channel="Baby TV">
+    <title lang="pt">As Primeiras Descobertas Mágicas</title>
+  </programme>
+  <programme start="20201219083000 +0000" stop="20201219090000 +0000" channel="Baby TV">
+    <title lang="pt">O Mundo da Imaginação</title>
+  </programme>
+  <programme start="20201219090000 +0000" stop="20201219093000 +0000" channel="Baby TV">
+    <title lang="pt">Explorar com Babyhood</title>
+  </programme>
+  <programme start="20201219093000 +0000" stop="20201219100000 +0000" channel="Baby TV">
+    <title lang="pt">Os Ratinhos Construtores e Outras Histórias</title>
+  </programme>
+  <programme start="20201219100000 +0000" stop="20201219103000 +0000" channel="Baby TV">
+    <title lang="pt">Sala de Aulas de Teeny e Tiny</title>
+  </programme>
+  <programme start="20201219103000 +0000" stop="20201219110000 +0000" channel="Baby TV">
+    <title lang="pt">Arte, Atividades e Música</title>
+  </programme>
+  <programme start="20201219110000 +0000" stop="20201219113000 +0000" channel="Baby TV">
+    <title lang="pt">O Círculo de Amigos</title>
+  </programme>
+  <programme start="20201219113000 +0000" stop="20201219120000 +0000" channel="Baby TV">
+    <title lang="pt">O Mundo da Imaginação</title>
+  </programme>
+  <programme start="20201219120000 +0000" stop="20201219123000 +0000" channel="Baby TV">
+    <title lang="pt">Explorar com Babyhood</title>
+  </programme>
+  <programme start="20201219123000 +0000" stop="20201219130000 +0000" channel="Baby TV">
+    <title lang="pt">Os Ratinhos Construtores e Outras Histórias</title>
+  </programme>
+  <programme start="20201219130000 +0000" stop="20201219133000 +0000" channel="Baby TV">
+    <title lang="pt">Sala de Aulas de Teeny e Tiny</title>
+  </programme>
+  <programme start="20201219133000 +0000" stop="20201219140000 +0000" channel="Baby TV">
+    <title lang="pt">Arte, Atividades e Música</title>
+  </programme>
+  <programme start="20201219140000 +0000" stop="20201219143000 +0000" channel="Baby TV">
+    <title lang="pt">O Círculo de Amigos</title>
+  </programme>
+  <programme start="20201219143000 +0000" stop="20201219150000 +0000" channel="Baby TV">
+    <title lang="pt">O Mundo da Imaginação</title>
+  </programme>
+  <programme start="20201219150000 +0000" stop="20201219153000 +0000" channel="Baby TV">
+    <title lang="pt">O Mundo da Imaginação</title>
+  </programme>
+  <programme start="20201219153000 +0000" stop="20201219160000 +0000" channel="Baby TV">
+    <title lang="pt">À Descoberta Com os Veginsectos</title>
+  </programme>
+  <programme start="20201219160000 +0000" stop="20201219163000 +0000" channel="Baby TV">
+    <title lang="pt">Brinca e Aprende Com Canções e Rimas</title>
+  </programme>
+  <programme start="20201219163000 +0000" stop="20201219170000 +0000" channel="Baby TV">
+    <title lang="pt">Jogos de Adivinhas Com Tulli e os Amigos</title>
+  </programme>
+  <programme start="20201219170000 +0000" stop="20201219173000 +0000" channel="Baby TV">
+    <title lang="pt">Rimas e Diversão Em Família</title>
+  </programme>
+  <programme start="20201219173000 +0000" stop="20201219180000 +0000" channel="Baby TV">
+    <title lang="pt">Rimas e Diversão Em Família</title>
+  </programme>
+  <programme start="20201219180000 +0000" stop="20201219183000 +0000" channel="Baby TV">
+    <title lang="pt">Arte, Atividades e Música</title>
+  </programme>
+  <programme start="20201219183000 +0000" stop="20201219190000 +0000" channel="Baby TV">
+    <title lang="pt">Música Clássica e Histórias Tranquilas</title>
+  </programme>
+  <programme start="20201219190000 +0000" stop="20201219193000 +0000" channel="Baby TV">
+    <title lang="pt">Calma e Tranquilidade</title>
+  </programme>
+  <programme start="20201219193000 +0000" stop="20201219200000 +0000" channel="Baby TV">
+    <title lang="pt">Calma e Tranquilidade</title>
+  </programme>
+  <programme start="20201219200000 +0000" stop="20201219203000 +0000" channel="Baby TV">
+    <title lang="pt">Bons Sonhos</title>
+  </programme>
+  <programme start="20201219203000 +0000" stop="20201219210000 +0000" channel="Baby TV">
+    <title lang="pt">Bons Sonhos</title>
+  </programme>
+  <programme start="20201219210000 +0000" stop="20201219213000 +0000" channel="Baby TV">
+    <title lang="pt">Noites Sonhadoras</title>
+  </programme>
+  <programme start="20201219213000 +0000" stop="20201219220000 +0000" channel="Baby TV">
+    <title lang="pt">Noites Sonhadoras</title>
+  </programme>
+  <programme start="20201219220000 +0000" stop="20201219223000 +0000" channel="Baby TV">
+    <title lang="pt">Noites Sonhadoras</title>
+  </programme>
+  <programme start="20201219223000 +0000" stop="20201219230000 +0000" channel="Baby TV">
+    <title lang="pt">Noites Sonhadoras</title>
+  </programme>
+  <programme start="20201219230000 +0000" stop="20201219233000 +0000" channel="Baby TV">
+    <title lang="pt">Noites Sonhadoras</title>
+  </programme>
+  <programme start="20201219233000 +0000" stop="20201220000000 +0000" channel="Baby TV">
+    <title lang="pt">A Lua e as Estrelas</title>
+  </programme>
+  <programme start="20201219000400 +0000" stop="20201219003900 +0000" channel="SIC K HD">
+    <title lang="pt">Físico-Química</title>
+  </programme>
+  <programme start="20201219003900 +0000" stop="20201219011600 +0000" channel="SIC K HD">
+    <title lang="pt">Físico-Química</title>
+  </programme>
+  <programme start="20201219011600 +0000" stop="20201219013900 +0000" channel="SIC K HD">
+    <title lang="pt">Um Sonho de Natal</title>
+  </programme>
+  <programme start="20201219013900 +0000" stop="20201219020100 +0000" channel="SIC K HD">
+    <title lang="pt">Um Sonho de Natal</title>
+  </programme>
+  <programme start="20201219020100 +0000" stop="20201219021300 +0000" channel="SIC K HD">
+    <title lang="pt">Monstrolândia</title>
+  </programme>
+  <programme start="20201219021300 +0000" stop="20201219022400 +0000" channel="SIC K HD">
+    <title lang="pt">Monstrolândia</title>
+  </programme>
+  <programme start="20201219022400 +0000" stop="20201219023500 +0000" channel="SIC K HD">
+    <title lang="pt">Monstrolândia</title>
+  </programme>
+  <programme start="20201219023500 +0000" stop="20201219024800 +0000" channel="SIC K HD">
+    <title lang="pt">Monstrolândia</title>
+  </programme>
+  <programme start="20201219024800 +0000" stop="20201219025900 +0000" channel="SIC K HD">
+    <title lang="pt">Ensina-Me Se Conseguires</title>
+  </programme>
+  <programme start="20201219025900 +0000" stop="20201219031100 +0000" channel="SIC K HD">
+    <title lang="pt">Ensina-me Se Conseguires</title>
+  </programme>
+  <programme start="20201219031100 +0000" stop="20201219032200 +0000" channel="SIC K HD">
+    <title lang="pt">Ensina-me Se Conseguires</title>
+  </programme>
+  <programme start="20201219032200 +0000" stop="20201219033300 +0000" channel="SIC K HD">
+    <title lang="pt">Ensina-me Se Conseguires</title>
+  </programme>
+  <programme start="20201219033300 +0000" stop="20201219034100 +0000" channel="SIC K HD">
+    <title lang="pt">Zig &amp; Sharko</title>
+  </programme>
+  <programme start="20201219034100 +0000" stop="20201219034900 +0000" channel="SIC K HD">
+    <title lang="pt">Zig &amp; Sharko</title>
+  </programme>
+  <programme start="20201219034900 +0000" stop="20201219035700 +0000" channel="SIC K HD">
+    <title lang="pt">Zig &amp; Sharko</title>
+  </programme>
+  <programme start="20201219035700 +0000" stop="20201219040500 +0000" channel="SIC K HD">
+    <title lang="pt">Zig &amp; Sharko</title>
+  </programme>
+  <programme start="20201219040500 +0000" stop="20201219041200 +0000" channel="SIC K HD">
+    <title lang="pt">Mr. Magoo</title>
+  </programme>
+  <programme start="20201219041200 +0000" stop="20201219042000 +0000" channel="SIC K HD">
+    <title lang="pt">Mr. Magoo</title>
+  </programme>
+  <programme start="20201219042000 +0000" stop="20201219042800 +0000" channel="SIC K HD">
+    <title lang="pt">Mr. Magoo</title>
+  </programme>
+  <programme start="20201219042800 +0000" stop="20201219043600 +0000" channel="SIC K HD">
+    <title lang="pt">Zig &amp; Sharko</title>
+  </programme>
+  <programme start="20201219043600 +0000" stop="20201219044300 +0000" channel="SIC K HD">
+    <title lang="pt">Zig &amp; Sharko</title>
+  </programme>
+  <programme start="20201219044300 +0000" stop="20201219045100 +0000" channel="SIC K HD">
+    <title lang="pt">Zig &amp; Sharko</title>
+  </programme>
+  <programme start="20201219045100 +0000" stop="20201219045900 +0000" channel="SIC K HD">
+    <title lang="pt">Mr. Magoo</title>
+  </programme>
+  <programme start="20201219045900 +0000" stop="20201219050700 +0000" channel="SIC K HD">
+    <title lang="pt">Mr. Magoo</title>
+  </programme>
+  <programme start="20201219050700 +0000" stop="20201219051400 +0000" channel="SIC K HD">
+    <title lang="pt">Mr. Magoo</title>
+  </programme>
+  <programme start="20201219051400 +0000" stop="20201219052300 +0000" channel="SIC K HD">
+    <title lang="pt">Mr. Magoo</title>
+  </programme>
+  <programme start="20201219052300 +0000" stop="20201219053500 +0000" channel="SIC K HD">
+    <title lang="pt">Ensina-me Se Conseguires</title>
+  </programme>
+  <programme start="20201219053500 +0000" stop="20201219054700 +0000" channel="SIC K HD">
+    <title lang="pt">Ensina-me Se Conseguires</title>
+  </programme>
+  <programme start="20201219054700 +0000" stop="20201219060000 +0000" channel="SIC K HD">
+    <title lang="pt">Ensina-me Se Conseguires</title>
+  </programme>
+  <programme start="20201219060000 +0000" stop="20201219060700 +0000" channel="SIC K HD">
+    <title lang="pt">Zig &amp; Sharko</title>
+  </programme>
+  <programme start="20201219060700 +0000" stop="20201219061500 +0000" channel="SIC K HD">
+    <title lang="pt">Zig &amp; Sharko</title>
+  </programme>
+  <programme start="20201219061500 +0000" stop="20201219062200 +0000" channel="SIC K HD">
+    <title lang="pt">Mr. Magoo</title>
+  </programme>
+  <programme start="20201219062200 +0000" stop="20201219063000 +0000" channel="SIC K HD">
+    <title lang="pt">Mr. Magoo</title>
+  </programme>
+  <programme start="20201219063000 +0000" stop="20201219064000 +0000" channel="SIC K HD">
+    <title lang="pt">As Aventuras do Max: Elemagika</title>
+  </programme>
+  <programme start="20201219064000 +0000" stop="20201219065000 +0000" channel="SIC K HD">
+    <title lang="pt">As Aventuras do Max: Elemagika</title>
+  </programme>
+  <programme start="20201219065000 +0000" stop="20201219070000 +0000" channel="SIC K HD">
+    <title lang="pt">As Aventuras do Max: Elemagika</title>
+  </programme>
+  <programme start="20201219070000 +0000" stop="20201219071500 +0000" channel="SIC K HD">
+    <title lang="pt">Bora Ambientar</title>
+  </programme>
+  <programme start="20201219071500 +0000" stop="20201219073700 +0000" channel="SIC K HD">
+    <title lang="pt">Aventuras Em Oz</title>
+  </programme>
+  <programme start="20201219073700 +0000" stop="20201219080000 +0000" channel="SIC K HD">
+    <title lang="pt">Aventuras Em Oz</title>
+  </programme>
+  <programme start="20201219080000 +0000" stop="20201219082200 +0000" channel="SIC K HD">
+    <title lang="pt">Lego Friends</title>
+  </programme>
+  <programme start="20201219082200 +0000" stop="20201219084500 +0000" channel="SIC K HD">
+    <title lang="pt">Lego Friends</title>
+  </programme>
+  <programme start="20201219084500 +0000" stop="20201219090700 +0000" channel="SIC K HD">
+    <title lang="pt">Lego Nexo Knights</title>
+  </programme>
+  <programme start="20201219090700 +0000" stop="20201219093000 +0000" channel="SIC K HD">
+    <title lang="pt">Lego Nexo Knights</title>
+  </programme>
+  <programme start="20201219093000 +0000" stop="20201219093600 +0000" channel="SIC K HD">
+    <title lang="pt">Lego Ninjago</title>
+  </programme>
+  <programme start="20201219093600 +0000" stop="20201219094200 +0000" channel="SIC K HD">
+    <title lang="pt">Lego Ninjago</title>
+  </programme>
+  <programme start="20201219094200 +0000" stop="20201219094800 +0000" channel="SIC K HD">
+    <title lang="pt">Lego Ninjago</title>
+  </programme>
+  <programme start="20201219094800 +0000" stop="20201219095400 +0000" channel="SIC K HD">
+    <title lang="pt">Lego Ninjago</title>
+  </programme>
+  <programme start="20201219095400 +0000" stop="20201219100000 +0000" channel="SIC K HD">
+    <title lang="pt">Lego Ninjago</title>
+  </programme>
+  <programme start="20201219100000 +0000" stop="20201219102200 +0000" channel="SIC K HD">
+    <title lang="pt">Os Rookies do Cesto</title>
+  </programme>
+  <programme start="20201219102200 +0000" stop="20201219104500 +0000" channel="SIC K HD">
+    <title lang="pt">Os Rookies do Cesto</title>
+  </programme>
+  <programme start="20201219104500 +0000" stop="20201219110700 +0000" channel="SIC K HD">
+    <title lang="pt">Marvel Avengers: Black Panthers Quest</title>
+  </programme>
+  <programme start="20201219110700 +0000" stop="20201219113000 +0000" channel="SIC K HD">
+    <title lang="pt">Marvel Avengers: Black Panthers Quest</title>
+  </programme>
+  <programme start="20201219113000 +0000" stop="20201219115200 +0000" channel="SIC K HD">
+    <title lang="pt">Marvel</title>
+  </programme>
+  <programme start="20201219115200 +0000" stop="20201219121500 +0000" channel="SIC K HD">
+    <title lang="pt">Marvel</title>
+  </programme>
+  <programme start="20201219121500 +0000" stop="20201219123700 +0000" channel="SIC K HD">
+    <title lang="pt">Lego Ninjago</title>
+  </programme>
+  <programme start="20201219123700 +0000" stop="20201219130000 +0000" channel="SIC K HD">
+    <title lang="pt">Lego Ninjago</title>
+  </programme>
+  <programme start="20201219130000 +0000" stop="20201219133000 +0000" channel="SIC K HD">
+    <title lang="pt">Feliz Madagáscar (VP)</title>
+  </programme>
+  <programme start="20201219133000 +0000" stop="20201219144500 +0000" channel="SIC K HD">
+    <title lang="pt">Mínimos (VP)</title>
+  </programme>
+  <programme start="20201219144500 +0000" stop="20201219161500 +0000" channel="SIC K HD">
+    <title lang="pt">O Pior Natal de Sempre da Grumpy Cat: O Filme (VP)</title>
+  </programme>
+  <programme start="20201219161500 +0000" stop="20201219163000 +0000" channel="SIC K HD">
+    <title lang="pt">Bora Ambientar</title>
+  </programme>
+  <programme start="20201219163000 +0000" stop="20201219164500 +0000" channel="SIC K HD">
+    <title lang="pt">Lego Ninjago</title>
+  </programme>
+  <programme start="20201219164500 +0000" stop="20201219170000 +0000" channel="SIC K HD">
+    <title lang="pt">Lego Ninjago</title>
+  </programme>
+  <programme start="20201219170000 +0000" stop="20201219171500 +0000" channel="SIC K HD">
+    <title lang="pt">Lego Nexo Knights</title>
+  </programme>
+  <programme start="20201219171500 +0000" stop="20201219173000 +0000" channel="SIC K HD">
+    <title lang="pt">Lego Nexo Knights</title>
+  </programme>
+  <programme start="20201219173000 +0000" stop="20201219174500 +0000" channel="SIC K HD">
+    <title lang="pt">Lego Ninjago</title>
+  </programme>
+  <programme start="20201219174500 +0000" stop="20201219180100 +0000" channel="SIC K HD">
+    <title lang="pt">Lego Ninjago</title>
+  </programme>
+  <programme start="20201219180100 +0000" stop="20201219181500 +0000" channel="SIC K HD">
+    <title lang="pt">Lego Ninjago</title>
+  </programme>
+  <programme start="20201219181500 +0000" stop="20201219183700 +0000" channel="SIC K HD">
+    <title lang="pt">Lego: As Lendas de Chima</title>
+  </programme>
+  <programme start="20201219183700 +0000" stop="20201219190000 +0000" channel="SIC K HD">
+    <title lang="pt">Lego: As Lendas de Chima</title>
+  </programme>
+  <programme start="20201219190000 +0000" stop="20201219193000 +0000" channel="SIC K HD">
+    <title lang="pt">O Natal do Kung Fu Panda (VP)</title>
+  </programme>
+  <programme start="20201219193000 +0000" stop="20201219204500 +0000" channel="SIC K HD">
+    <title lang="pt">Astérix: O Segredo da Poção Mágica (VP)</title>
+  </programme>
+  <programme start="20201219204500 +0000" stop="20201219221500 +0000" channel="SIC K HD">
+    <title lang="pt">All I Want For Christmas Is You (VP)</title>
+  </programme>
+  <programme start="20201219221500 +0000" stop="20201219233000 +0000" channel="SIC K HD">
+    <title lang="pt">O Natal das Estrelas Caninas (VP)</title>
+  </programme>
+  <programme start="20201219233000 +0000" stop="20201219235200 +0000" channel="SIC K HD">
+    <title lang="pt">Power Rangers Beast Morphers</title>
+  </programme>
+  <programme start="20201219235200 +0000" stop="20201220001500 +0000" channel="SIC K HD">
+    <title lang="pt">Power Rangers Beast Morphers</title>
+  </programme>
+  <programme start="20201219025600 +0000" stop="20201219031000 +0000" channel="JIMJAM">
+    <title lang="pt">Adivinha O Quanto Gosto De Ti</title>
+  </programme>
+  <programme start="20201219031000 +0000" stop="20201219032400 +0000" channel="JIMJAM">
+    <title lang="pt">Adivinha O Quanto Gosto De Ti</title>
+  </programme>
+  <programme start="20201219032400 +0000" stop="20201219033700 +0000" channel="JIMJAM">
+    <title lang="pt">Clara</title>
+  </programme>
+  <programme start="20201219033700 +0000" stop="20201219034900 +0000" channel="JIMJAM">
+    <title lang="pt">Bob O Construtor</title>
+  </programme>
+  <programme start="20201219034900 +0000" stop="20201219040100 +0000" channel="JIMJAM">
+    <title lang="pt">Bob O Construtor</title>
+  </programme>
+  <programme start="20201219040100 +0000" stop="20201219041200 +0000" channel="JIMJAM">
+    <title lang="pt">Chuggington</title>
+  </programme>
+  <programme start="20201219041200 +0000" stop="20201219042300 +0000" channel="JIMJAM">
+    <title lang="pt">Chuggington</title>
+  </programme>
+  <programme start="20201219042300 +0000" stop="20201219043700 +0000" channel="JIMJAM">
+    <title lang="pt">Os Heróis Da Cidade</title>
+  </programme>
+  <programme start="20201219043700 +0000" stop="20201219045300 +0000" channel="JIMJAM">
+    <title lang="pt">Os Heróis Da Cidade</title>
+  </programme>
+  <programme start="20201219045300 +0000" stop="20201219050000 +0000" channel="JIMJAM">
+    <title lang="pt">Macaco Vê, Macaco Faz</title>
+  </programme>
+  <programme start="20201219050000 +0000" stop="20201219051100 +0000" channel="JIMJAM">
+    <title lang="pt">Thomas E Os Seus Amigos</title>
+  </programme>
+  <programme start="20201219051100 +0000" stop="20201219052500 +0000" channel="JIMJAM">
+    <title lang="pt">Thomas E Os Seus Amigos</title>
+  </programme>
+  <programme start="20201219052500 +0000" stop="20201219053500 +0000" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219053500 +0000" stop="20201219054600 +0000" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219054600 +0000" stop="20201219055400 +0000" channel="JIMJAM">
+    <title lang="pt">Bing</title>
+  </programme>
+  <programme start="20201219055400 +0000" stop="20201219060400 +0000" channel="JIMJAM">
+    <title lang="pt">Bing</title>
+  </programme>
+  <programme start="20201219060400 +0000" stop="20201219061400 +0000" channel="JIMJAM">
+    <title lang="pt">Descobre com o Jess</title>
+  </programme>
+  <programme start="20201219061400 +0000" stop="20201219062500 +0000" channel="JIMJAM">
+    <title lang="pt">Descobre com o Jess</title>
+  </programme>
+  <programme start="20201219062500 +0000" stop="20201219063500 +0000" channel="JIMJAM">
+    <title lang="pt">Fifi e os Floriguinhos</title>
+  </programme>
+  <programme start="20201219063500 +0000" stop="20201219064700 +0000" channel="JIMJAM">
+    <title lang="pt">Fifi e os Floriguinhos</title>
+  </programme>
+  <programme start="20201219064700 +0000" stop="20201219065200 +0000" channel="JIMJAM">
+    <title lang="pt">Simon</title>
+  </programme>
+  <programme start="20201219065200 +0000" stop="20201219065800 +0000" channel="JIMJAM">
+    <title lang="pt">Simon</title>
+  </programme>
+  <programme start="20201219065800 +0000" stop="20201219071500 +0000" channel="JIMJAM">
+    <title lang="pt">Carteiro Paulo - Serviço de Entregas Especial</title>
+  </programme>
+  <programme start="20201219071500 +0000" stop="20201219074000 +0000" channel="JIMJAM">
+    <title lang="pt">Docinho de Morango - Aventura a Cidade dos Morangos</title>
+  </programme>
+  <programme start="20201219074000 +0000" stop="20201219075400 +0000" channel="JIMJAM">
+    <title lang="pt">Os Heróis Da Cidade</title>
+  </programme>
+  <programme start="20201219075400 +0000" stop="20201219080800 +0000" channel="JIMJAM">
+    <title lang="pt">Os Heróis Da Cidade</title>
+  </programme>
+  <programme start="20201219080800 +0000" stop="20201219081800 +0000" channel="JIMJAM">
+    <title lang="pt">Roary, o Carro de Corridas</title>
+  </programme>
+  <programme start="20201219081800 +0000" stop="20201219082800 +0000" channel="JIMJAM">
+    <title lang="pt">Roary, o Carro de Corridas</title>
+  </programme>
+  <programme start="20201219082800 +0000" stop="20201219083400 +0000" channel="JIMJAM">
+    <title lang="pt">Chuggington Em Busca Do Crachá</title>
+  </programme>
+  <programme start="20201219083400 +0000" stop="20201219084000 +0000" channel="JIMJAM">
+    <title lang="pt">Chuggington Em Busca Do Crachá</title>
+  </programme>
+  <programme start="20201219084000 +0000" stop="20201219085000 +0000" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219085000 +0000" stop="20201219090500 +0000" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219090500 +0000" stop="20201219091000 +0000" channel="JIMJAM">
+    <title lang="pt">Benjamim E Deolinda</title>
+  </programme>
+  <programme start="20201219091000 +0000" stop="20201219091500 +0000" channel="JIMJAM">
+    <title lang="pt">Benjamim E Deolinda</title>
+  </programme>
+  <programme start="20201219091500 +0000" stop="20201219092200 +0000" channel="JIMJAM">
+    <title lang="pt">Macaco Vê, Macaco Faz</title>
+  </programme>
+  <programme start="20201219092200 +0000" stop="20201219093200 +0000" channel="JIMJAM">
+    <title lang="pt">Descobre com o Jess</title>
+  </programme>
+  <programme start="20201219093200 +0000" stop="20201219094300 +0000" channel="JIMJAM">
+    <title lang="pt">Descobre com o Jess</title>
+  </programme>
+  <programme start="20201219094300 +0000" stop="20201219094800 +0000" channel="JIMJAM">
+    <title lang="pt">Animanimals</title>
+  </programme>
+  <programme start="20201219094800 +0000" stop="20201219100000 +0000" channel="JIMJAM">
+    <title lang="pt">Bing</title>
+  </programme>
+  <programme start="20201219100000 +0000" stop="20201219103400 +0000" channel="JIMJAM">
+    <title lang="pt">Noddy Salva o Natal</title>
+  </programme>
+  <programme start="20201219103400 +0000" stop="20201219104800 +0000" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219104800 +0000" stop="20201219110200 +0000" channel="JIMJAM">
+    <title lang="pt">Os Heróis Da Cidade</title>
+  </programme>
+  <programme start="20201219110200 +0000" stop="20201219111300 +0000" channel="JIMJAM">
+    <title lang="pt">Bob O Construtor</title>
+  </programme>
+  <programme start="20201219111300 +0000" stop="20201219112600 +0000" channel="JIMJAM">
+    <title lang="pt">Bob O Construtor</title>
+  </programme>
+  <programme start="20201219112600 +0000" stop="20201219113300 +0000" channel="JIMJAM">
+    <title lang="pt">Os Trigémeos</title>
+  </programme>
+  <programme start="20201219113300 +0000" stop="20201219114000 +0000" channel="JIMJAM">
+    <title lang="pt">Os Trigémeos</title>
+  </programme>
+  <programme start="20201219114000 +0000" stop="20201219114700 +0000" channel="JIMJAM">
+    <title lang="pt">Os Trigémeos</title>
+  </programme>
+  <programme start="20201219114700 +0000" stop="20201219115800 +0000" channel="JIMJAM">
+    <title lang="pt">Os Trigémeos</title>
+  </programme>
+  <programme start="20201219115800 +0000" stop="20201219120600 +0000" channel="JIMJAM">
+    <title lang="pt">Bing</title>
+  </programme>
+  <programme start="20201219120600 +0000" stop="20201219121600 +0000" channel="JIMJAM">
+    <title lang="pt">Bing</title>
+  </programme>
+  <programme start="20201219121600 +0000" stop="20201219122700 +0000" channel="JIMJAM">
+    <title lang="pt">Monchhichi</title>
+  </programme>
+  <programme start="20201219122700 +0000" stop="20201219124000 +0000" channel="JIMJAM">
+    <title lang="pt">Monchhichi</title>
+  </programme>
+  <programme start="20201219124000 +0000" stop="20201219124500 +0000" channel="JIMJAM">
+    <title lang="pt">Simon</title>
+  </programme>
+  <programme start="20201219124500 +0000" stop="20201219125000 +0000" channel="JIMJAM">
+    <title lang="pt">Simon</title>
+  </programme>
+  <programme start="20201219125000 +0000" stop="20201219130000 +0000" channel="JIMJAM">
+    <title lang="pt">Simon</title>
+  </programme>
+  <programme start="20201219130000 +0000" stop="20201219130500 +0000" channel="JIMJAM">
+    <title lang="pt">Benjamim E Deolinda</title>
+  </programme>
+  <programme start="20201219130500 +0000" stop="20201219131000 +0000" channel="JIMJAM">
+    <title lang="pt">Benjamim E Deolinda</title>
+  </programme>
+  <programme start="20201219131000 +0000" stop="20201219131600 +0000" channel="JIMJAM">
+    <title lang="pt">Benjamim E Deolinda</title>
+  </programme>
+  <programme start="20201219131600 +0000" stop="20201219132200 +0000" channel="JIMJAM">
+    <title lang="pt">Aprende Com O Timmy</title>
+  </programme>
+  <programme start="20201219132200 +0000" stop="20201219133200 +0000" channel="JIMJAM">
+    <title lang="pt">Descobre com o Jess</title>
+  </programme>
+  <programme start="20201219133200 +0000" stop="20201219134400 +0000" channel="JIMJAM">
+    <title lang="pt">Descobre com o Jess</title>
+  </programme>
+  <programme start="20201219134400 +0000" stop="20201219135200 +0000" channel="JIMJAM">
+    <title lang="pt">Bing</title>
+  </programme>
+  <programme start="20201219135200 +0000" stop="20201219140200 +0000" channel="JIMJAM">
+    <title lang="pt">Bing</title>
+  </programme>
+  <programme start="20201219140200 +0000" stop="20201219142000 +0000" channel="JIMJAM">
+    <title lang="pt">Monchhichi</title>
+  </programme>
+  <programme start="20201219142000 +0000" stop="20201219142500 +0000" channel="JIMJAM">
+    <title lang="pt">Chomp Squad</title>
+  </programme>
+  <programme start="20201219142500 +0000" stop="20201219143000 +0000" channel="JIMJAM">
+    <title lang="pt">Chomp Squad</title>
+  </programme>
+  <programme start="20201219143000 +0000" stop="20201219144000 +0000" channel="JIMJAM">
+    <title lang="pt">Chomp Squad</title>
+  </programme>
+  <programme start="20201219144000 +0000" stop="20201219145500 +0000" channel="JIMJAM">
+    <title lang="pt">Carteiro Paulo - Serviço de Entregas Especial</title>
+  </programme>
+  <programme start="20201219145500 +0000" stop="20201219151800 +0000" channel="JIMJAM">
+    <title lang="pt">Docinho de Morango - Aventura a Cidade dos Morangos</title>
+  </programme>
+  <programme start="20201219151800 +0000" stop="20201219152500 +0000" channel="JIMJAM">
+    <title lang="pt">Os Trigémeos</title>
+  </programme>
+  <programme start="20201219152500 +0000" stop="20201219153200 +0000" channel="JIMJAM">
+    <title lang="pt">Os Trigémeos</title>
+  </programme>
+  <programme start="20201219153200 +0000" stop="20201219154600 +0000" channel="JIMJAM">
+    <title lang="pt">Adivinha O Quanto Gosto De Ti</title>
+  </programme>
+  <programme start="20201219154600 +0000" stop="20201219155700 +0000" channel="JIMJAM">
+    <title lang="pt">Os Heróis Da Cidade</title>
+  </programme>
+  <programme start="20201219155700 +0000" stop="20201219160800 +0000" channel="JIMJAM">
+    <title lang="pt">Os Heróis Da Cidade</title>
+  </programme>
+  <programme start="20201219160800 +0000" stop="20201219162100 +0000" channel="JIMJAM">
+    <title lang="pt">Os Heróis Da Cidade</title>
+  </programme>
+  <programme start="20201219162100 +0000" stop="20201219163100 +0000" channel="JIMJAM">
+    <title lang="pt">Roary, o Carro de Corridas</title>
+  </programme>
+  <programme start="20201219163100 +0000" stop="20201219164600 +0000" channel="JIMJAM">
+    <title lang="pt">Roary, o Carro de Corridas</title>
+  </programme>
+  <programme start="20201219164600 +0000" stop="20201219170300 +0000" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219170300 +0000" stop="20201219180500 +0000" channel="JIMJAM">
+    <title lang="pt">Thomas E Os Seus Amigos: Rei dos Caminhos de Ferro</title>
+  </programme>
+  <programme start="20201219180500 +0000" stop="20201219181000 +0000" channel="JIMJAM">
+    <title lang="pt">Chomp Squad</title>
+  </programme>
+  <programme start="20201219181000 +0000" stop="20201219182000 +0000" channel="JIMJAM">
+    <title lang="pt">Descobre com o Jess</title>
+  </programme>
+  <programme start="20201219182000 +0000" stop="20201219182700 +0000" channel="JIMJAM">
+    <title lang="pt">Inui</title>
+  </programme>
+  <programme start="20201219182700 +0000" stop="20201219183400 +0000" channel="JIMJAM">
+    <title lang="pt">Inui</title>
+  </programme>
+  <programme start="20201219183400 +0000" stop="20201219184100 +0000" channel="JIMJAM">
+    <title lang="pt">Inui</title>
+  </programme>
+  <programme start="20201219184100 +0000" stop="20201219185600 +0000" channel="JIMJAM">
+    <title lang="pt">Carteiro Paulo - Serviço de Entregas Especial</title>
+  </programme>
+  <programme start="20201219185600 +0000" stop="20201219190700 +0000" channel="JIMJAM">
+    <title lang="pt">Kate E Mim-Mim</title>
+  </programme>
+  <programme start="20201219190700 +0000" stop="20201219191900 +0000" channel="JIMJAM">
+    <title lang="pt">Kate E Mim-Mim</title>
+  </programme>
+  <programme start="20201219191900 +0000" stop="20201219192600 +0000" channel="JIMJAM">
+    <title lang="pt">Pequeno Urso Pardo</title>
+  </programme>
+  <programme start="20201219192600 +0000" stop="20201219195100 +0000" channel="JIMJAM">
+    <title lang="pt">Docinho de Morango - Aventura a Cidade dos Morangos</title>
+  </programme>
+  <programme start="20201219195100 +0000" stop="20201219200500 +0000" channel="JIMJAM">
+    <title lang="pt">Os Heróis Da Cidade</title>
+  </programme>
+  <programme start="20201219200500 +0000" stop="20201219202900 +0000" channel="JIMJAM">
+    <title lang="pt">Os Heróis Da Cidade</title>
+  </programme>
+  <programme start="20201219202900 +0000" stop="20201219204100 +0000" channel="JIMJAM">
+    <title lang="pt">Roary, o Carro de Corridas</title>
+  </programme>
+  <programme start="20201219204100 +0000" stop="20201219205100 +0000" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219205100 +0000" stop="20201219210100 +0000" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219210100 +0000" stop="20201219211100 +0000" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219211100 +0000" stop="20201219213000 +0000" channel="JIMJAM">
+    <title lang="pt">Adivinha O Quanto Gosto De Ti</title>
+  </programme>
+  <programme start="20201219213000 +0000" stop="20201219213300 +0000" channel="JIMJAM">
+    <title lang="pt">Badanamu Pop</title>
+  </programme>
+  <programme start="20201219213300 +0000" stop="20201219214300 +0000" channel="JIMJAM">
+    <title lang="pt">Descobre com o Jess</title>
+  </programme>
+  <programme start="20201219214300 +0000" stop="20201219215900 +0000" channel="JIMJAM">
+    <title lang="pt">Descobre com o Jess</title>
+  </programme>
+  <programme start="20201219215900 +0000" stop="20201219220700 +0000" channel="JIMJAM">
+    <title lang="pt">Bing</title>
+  </programme>
+  <programme start="20201219220700 +0000" stop="20201219221500 +0000" channel="JIMJAM">
+    <title lang="pt">Bing</title>
+  </programme>
+  <programme start="20201219221500 +0000" stop="20201219223100 +0000" channel="JIMJAM">
+    <title lang="pt">Bing</title>
+  </programme>
+  <programme start="20201219223100 +0000" stop="20201219224200 +0000" channel="JIMJAM">
+    <title lang="pt">Monchhichi</title>
+  </programme>
+  <programme start="20201219224200 +0000" stop="20201219225900 +0000" channel="JIMJAM">
+    <title lang="pt">Monchhichi</title>
+  </programme>
+  <programme start="20201219225900 +0000" stop="20201219230400 +0000" channel="JIMJAM">
+    <title lang="pt">Simon</title>
+  </programme>
+  <programme start="20201219230400 +0000" stop="20201219231400 +0000" channel="JIMJAM">
+    <title lang="pt">Simon</title>
+  </programme>
+  <programme start="20201219231400 +0000" stop="20201219232400 +0000" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219232400 +0000" stop="20201219233400 +0000" channel="JIMJAM">
+    <title lang="pt">O Bombeiro Sam</title>
+  </programme>
+  <programme start="20201219233400 +0000" stop="20201219233900 +0000" channel="JIMJAM">
+    <title lang="pt">Chuggington Em Busca Do Crachá</title>
+  </programme>
+  <programme start="20201219233900 +0000" stop="20201219235200 +0000" channel="JIMJAM">
+    <title lang="pt">Thomas E Os Seus Amigos</title>
+  </programme>
+  <programme start="20201219235200 +0000" stop="20201220000300 +0000" channel="JIMJAM">
+    <title lang="pt">Bob O Construtor</title>
+  </programme>
+  <programme start="20201219015500 +0000" stop="20201219034000 +0000" channel="TVCine 1">
+    <title lang="pt">Mas Que Avó é Esta?!</title>
+  </programme>
+  <programme start="20201219034000 +0000" stop="20201219052500 +0000" channel="TVCine 1">
+    <title lang="pt">Unidas na Tragédia</title>
+  </programme>
+  <programme start="20201219052500 +0000" stop="20201219071500 +0000" channel="TVCine 1">
+    <title lang="pt">Tamara - Aposta de Amigas Vol.2</title>
+  </programme>
+  <programme start="20201219071500 +0000" stop="20201219092500 +0000" channel="TVCine 1">
+    <title lang="pt">Lucy in the Sky</title>
+  </programme>
+  <programme start="20201219092500 +0000" stop="20201219112000 +0000" channel="TVCine 1">
+    <title lang="pt">Crown Vic</title>
+  </programme>
+  <programme start="20201219112000 +0000" stop="20201219125500 +0000" channel="TVCine 1">
+    <title lang="pt">Um Casamento a Mais</title>
+  </programme>
+  <programme start="20201219125500 +0000" stop="20201219144000 +0000" channel="TVCine 1">
+    <title lang="pt">Dora e a Cidade Perdida (VO)</title>
+  </programme>
+  <programme start="20201219144000 +0000" stop="20201219160500 +0000" channel="TVCine 1">
+    <title lang="pt">Quem é Que Manda Aqui?</title>
+  </programme>
+  <programme start="20201219160500 +0000" stop="20201219174000 +0000" channel="TVCine 1">
+    <title lang="pt">Mais Um</title>
+  </programme>
+  <programme start="20201219174000 +0000" stop="20201219195500 +0000" channel="TVCine 1">
+    <title lang="pt">Tudo Pela Justiça</title>
+  </programme>
+  <programme start="20201219195500 +0000" stop="20201219213000 +0000" channel="TVCine 1">
+    <title lang="pt">Nomis</title>
+  </programme>
+  <programme start="20201219213000 +0000" stop="20201219233000 +0000" channel="TVCine 1">
+    <title lang="pt">Verdade Debaixo de Fogo</title>
+  </programme>
+  <programme start="20201219233000 +0000" stop="20201220011500 +0000" channel="TVCine 1">
+    <title lang="pt">Histórias Assustadoras Para Contar no Escuro</title>
+  </programme>
+  <programme start="20201219014500 +0000" stop="20201219034500 +0000" channel="TVCine 2">
+    <title lang="pt">Amor à Segunda Vista (2019)</title>
+  </programme>
+  <programme start="20201219034500 +0000" stop="20201219054000 +0000" channel="TVCine 2">
+    <title lang="pt">Piquenique</title>
+  </programme>
+  <programme start="20201219054000 +0000" stop="20201219072000 +0000" channel="TVCine 2">
+    <title lang="pt">A Orquídea Negra</title>
+  </programme>
+  <programme start="20201219072000 +0000" stop="20201219090000 +0000" channel="TVCine 2">
+    <title lang="pt">Desmascarar Jihadi John: Anatomia de um Terrorista</title>
+  </programme>
+  <programme start="20201219090000 +0000" stop="20201219105000 +0000" channel="TVCine 2">
+    <title lang="pt">Onde Estás, Bernadette?</title>
+  </programme>
+  <programme start="20201219105000 +0000" stop="20201219124000 +0000" channel="TVCine 2">
+    <title lang="pt">Irmãs a Meias</title>
+  </programme>
+  <programme start="20201219124000 +0000" stop="20201219143000 +0000" channel="TVCine 2">
+    <title lang="pt">Os Insurrectos</title>
+  </programme>
+  <programme start="20201219143000 +0000" stop="20201219162500 +0000" channel="TVCine 2">
+    <title lang="pt">Vita &amp; Virginia</title>
+  </programme>
+  <programme start="20201219162500 +0000" stop="20201219182500 +0000" channel="TVCine 2">
+    <title lang="pt">A Rapariga Dinamarquesa</title>
+  </programme>
+  <programme start="20201219182500 +0000" stop="20201219201000 +0000" channel="TVCine 2">
+    <title lang="pt">A Despedida</title>
+  </programme>
+  <programme start="20201219201000 +0000" stop="20201219220000 +0000" channel="TVCine 2">
+    <title lang="pt">Liberdade</title>
+  </programme>
+  <programme start="20201219220000 +0000" stop="20201219234500 +0000" channel="TVCine 2">
+    <title lang="pt">Tempestade na Jamaica</title>
+  </programme>
+  <programme start="20201219234500 +0000" stop="20201220013000 +0000" channel="TVCine 2">
+    <title lang="pt">O Mundo é Teu</title>
+  </programme>
+  <programme start="20201219013500 +0000" stop="20201219031500 +0000" channel="TVCine 3">
+    <title lang="pt">Nem Contigo... Nem Sem Ti!</title>
+  </programme>
+  <programme start="20201219031500 +0000" stop="20201219053500 +0000" channel="TVCine 3">
+    <title lang="pt">O Filho de Deus</title>
+  </programme>
+  <programme start="20201219053500 +0000" stop="20201219071000 +0000" channel="TVCine 3">
+    <title lang="pt">ABC da Sedução</title>
+  </programme>
+  <programme start="20201219071000 +0000" stop="20201219084000 +0000" channel="TVCine 3">
+    <title lang="pt">Scooby-Doo 2: Monstros à Solta</title>
+  </programme>
+  <programme start="20201219084000 +0000" stop="20201219101000 +0000" channel="TVCine 3">
+    <title lang="pt">Os Sete Anões e os Sapatos Mágicos (VP)</title>
+  </programme>
+  <programme start="20201219101000 +0000" stop="20201219120500 +0000" channel="TVCine 3">
+    <title lang="pt">Romeu e Julieta</title>
+  </programme>
+  <programme start="20201219120500 +0000" stop="20201219134500 +0000" channel="TVCine 3">
+    <title lang="pt">Miúdos e Graúdos 2</title>
+  </programme>
+  <programme start="20201219134500 +0000" stop="20201219152500 +0000" channel="TVCine 3">
+    <title lang="pt">Ouviste Falar dos Morgans?</title>
+  </programme>
+  <programme start="20201219152500 +0000" stop="20201219171500 +0000" channel="TVCine 3">
+    <title lang="pt">Mar de Chamas 2</title>
+  </programme>
+  <programme start="20201219171500 +0000" stop="20201219190000 +0000" channel="TVCine 3">
+    <title lang="pt">Verdade e Consequência</title>
+  </programme>
+  <programme start="20201219190000 +0000" stop="20201219204000 +0000" channel="TVCine 3">
+    <title lang="pt">O Festival</title>
+  </programme>
+  <programme start="20201219204000 +0000" stop="20201219221500 +0000" channel="TVCine 3">
+    <title lang="pt">Amor, Romance e Chocolate</title>
+  </programme>
+  <programme start="20201219221500 +0000" stop="20201220000000 +0000" channel="TVCine 3">
+    <title lang="pt">As Primeiras Férias</title>
+  </programme>
+  <programme start="20201219002000 +0000" stop="20201219022500 +0000" channel="TVCine 4">
+    <title lang="pt">Spy</title>
+  </programme>
+  <programme start="20201219022500 +0000" stop="20201219040500 +0000" channel="TVCine 4">
+    <title lang="pt">À Lei da Bala</title>
+  </programme>
+  <programme start="20201219040500 +0000" stop="20201219055000 +0000" channel="TVCine 4">
+    <title lang="pt">Misery - O Capítulo Final</title>
+  </programme>
+  <programme start="20201219055000 +0000" stop="20201219075000 +0000" channel="TVCine 4">
+    <title lang="pt">60 Segundos</title>
+  </programme>
+  <programme start="20201219075000 +0000" stop="20201219105000 +0000" channel="TVCine 4">
+    <title lang="pt">Pearl Harbor</title>
+  </programme>
+  <programme start="20201219105000 +0000" stop="20201219130000 +0000" channel="TVCine 4">
+    <title lang="pt">Spy</title>
+  </programme>
+  <programme start="20201219130000 +0000" stop="20201219145000 +0000" channel="TVCine 4">
+    <title lang="pt">Os Anjos de Charlie: Potência Máxima</title>
+  </programme>
+  <programme start="20201219145000 +0000" stop="20201219164000 +0000" channel="TVCine 4">
+    <title lang="pt">Rei Escorpião: O Livro das Almas</title>
+  </programme>
+  <programme start="20201219164000 +0000" stop="20201219185000 +0000" channel="TVCine 4">
+    <title lang="pt">O Fugitivo</title>
+  </programme>
+  <programme start="20201219185000 +0000" stop="20201219203500 +0000" channel="TVCine 4">
+    <title lang="pt">Faz-te Homem</title>
+  </programme>
+  <programme start="20201219203500 +0000" stop="20201219223000 +0000" channel="TVCine 4">
+    <title lang="pt">O Livro de Eli</title>
+  </programme>
+  <programme start="20201219223000 +0000" stop="20201220001500 +0000" channel="TVCine 4">
+    <title lang="pt">O Caça Polícias II</title>
+  </programme>
+  <programme start="20201219014000 +0000" stop="20201219031000 +0000" channel="Canal Hollywood">
+    <title lang="pt">Assassinos Substitutos</title>
+  </programme>
+  <programme start="20201219031000 +0000" stop="20201219044000 +0000" channel="Canal Hollywood">
+    <title lang="pt">A Cilada</title>
+  </programme>
+  <programme start="20201219044000 +0000" stop="20201219065500 +0000" channel="Canal Hollywood">
+    <title lang="pt">J. Edgar</title>
+  </programme>
+  <programme start="20201219065500 +0000" stop="20201219071000 +0000" channel="Canal Hollywood">
+    <title lang="pt">Hollywood News Feed</title>
+  </programme>
+  <programme start="20201219071000 +0000" stop="20201219090000 +0000" channel="Canal Hollywood">
+    <title lang="pt">Os Três Duques</title>
+  </programme>
+  <programme start="20201219090000 +0000" stop="20201219103000 +0000" channel="Canal Hollywood">
+    <title lang="pt">A Casa Fantasma (VP)</title>
+  </programme>
+  <programme start="20201219103000 +0000" stop="20201219120500 +0000" channel="Canal Hollywood">
+    <title lang="pt">Hop (VP)</title>
+  </programme>
+  <programme start="20201219120500 +0000" stop="20201219133500 +0000" channel="Canal Hollywood">
+    <title lang="pt">Bean: Um Autêntico Desastre</title>
+  </programme>
+  <programme start="20201219133500 +0000" stop="20201219160000 +0000" channel="Canal Hollywood">
+    <title lang="pt">A Troca (2008)</title>
+  </programme>
+  <programme start="20201219160000 +0000" stop="20201219185500 +0000" channel="Canal Hollywood">
+    <title lang="pt">O Senhor dos Anéis - As Duas Torres</title>
+  </programme>
+  <programme start="20201219185500 +0000" stop="20201219202000 +0000" channel="Canal Hollywood">
+    <title lang="pt">Primeiro Golpe</title>
+  </programme>
+  <programme start="20201219202000 +0000" stop="20201219222500 +0000" channel="Canal Hollywood">
+    <title lang="pt">A Cidade</title>
+  </programme>
+  <programme start="20201219222500 +0000" stop="20201220000500 +0000" channel="Canal Hollywood">
+    <title lang="pt">Tribos</title>
+  </programme>
+  <programme start="20201219003500 +0000" stop="20201219030000 +0000" channel="NOS Studios">
+    <title lang="pt">Millennium 3: Rainha no Palácio das Correntes de Ar</title>
+  </programme>
+  <programme start="20201219030000 +0000" stop="20201219044500 +0000" channel="NOS Studios">
+    <title lang="pt">The November Man - A Última Missão</title>
+  </programme>
+  <programme start="20201219044500 +0000" stop="20201219062500 +0000" channel="NOS Studios">
+    <title lang="pt">Semper Fi</title>
+  </programme>
+  <programme start="20201219062500 +0000" stop="20201219081500 +0000" channel="NOS Studios">
+    <title lang="pt">Amigos Improváveis</title>
+  </programme>
+  <programme start="20201219081500 +0000" stop="20201219093000 +0000" channel="NOS Studios">
+    <title lang="pt">Niko e o Pequeno Traquinas (VP)</title>
+  </programme>
+  <programme start="20201219093000 +0000" stop="20201219104500 +0000" channel="NOS Studios">
+    <title lang="pt">Ernest &amp; Celestine (VP)</title>
+  </programme>
+  <programme start="20201219104500 +0000" stop="20201219122000 +0000" channel="NOS Studios">
+    <title lang="pt">Booksmart: Inteligentes e Rebeldes</title>
+  </programme>
+  <programme start="20201219122000 +0000" stop="20201219141000 +0000" channel="NOS Studios">
+    <title lang="pt">Heróis da Nação</title>
+  </programme>
+  <programme start="20201219141000 +0000" stop="20201219155000 +0000" channel="NOS Studios">
+    <title lang="pt">Danny Collins - Nunca é Tarde</title>
+  </programme>
+  <programme start="20201219155000 +0000" stop="20201219174000 +0000" channel="NOS Studios">
+    <title lang="pt">Judy</title>
+  </programme>
+  <programme start="20201219174000 +0000" stop="20201219192500 +0000" channel="NOS Studios">
+    <title lang="pt">Variações</title>
+  </programme>
+  <programme start="20201219192500 +0000" stop="20201219211500 +0000" channel="NOS Studios">
+    <title lang="pt">O Jogo da Imitação</title>
+  </programme>
+  <programme start="20201219211500 +0000" stop="20201219224000 +0000" channel="NOS Studios">
+    <title lang="pt">Escândalo no Acesso à Universidade</title>
+  </programme>
+  <programme start="20201219224000 +0000" stop="20201220000000 +0000" channel="NOS Studios">
+    <title lang="pt">Killing Season - Temporada de Caça</title>
+  </programme>
+  <programme start="20201219001700 +0000" stop="20201219014300 +0000" channel="AMC">
+    <title lang="pt">Todos ao Monte</title>
+  </programme>
+  <programme start="20201219014300 +0000" stop="20201219031500 +0000" channel="AMC">
+    <title lang="pt">O Embaixador</title>
+  </programme>
+  <programme start="20201219031500 +0000" stop="20201219050400 +0000" channel="AMC">
+    <title lang="pt">O Caso Thomas Crown</title>
+  </programme>
+  <programme start="20201219050400 +0000" stop="20201219064000 +0000" channel="AMC">
+    <title lang="pt">O Último Fôlego</title>
+  </programme>
+  <programme start="20201219064000 +0000" stop="20201219081700 +0000" channel="AMC">
+    <title lang="pt">A Gaiola das Loucas II</title>
+  </programme>
+  <programme start="20201219081700 +0000" stop="20201219085800 +0000" channel="AMC">
+    <title lang="pt">Las Vegas</title>
+  </programme>
+  <programme start="20201219085800 +0000" stop="20201219095300 +0000" channel="AMC">
+    <title lang="pt">Das Boot: O Submarino</title>
+  </programme>
+  <programme start="20201219095300 +0000" stop="20201219105100 +0000" channel="AMC">
+    <title lang="pt">Das Boot: O Submarino</title>
+  </programme>
+  <programme start="20201219105100 +0000" stop="20201219114700 +0000" channel="AMC">
+    <title lang="pt">Das Boot: O Submarino</title>
+  </programme>
+  <programme start="20201219114700 +0000" stop="20201219124600 +0000" channel="AMC">
+    <title lang="pt">Das Boot: O Submarino</title>
+  </programme>
+  <programme start="20201219124600 +0000" stop="20201219133200 +0000" channel="AMC">
+    <title lang="pt">Soulmates</title>
+  </programme>
+  <programme start="20201219133200 +0000" stop="20201219142300 +0000" channel="AMC">
+    <title lang="pt">Balthazar</title>
+  </programme>
+  <programme start="20201219142300 +0000" stop="20201219151500 +0000" channel="AMC">
+    <title lang="pt">Balthazar</title>
+  </programme>
+  <programme start="20201219151500 +0000" stop="20201219171000 +0000" channel="AMC">
+    <title lang="pt">O Silêncio dos Inocentes</title>
+  </programme>
+  <programme start="20201219171000 +0000" stop="20201219194000 +0000" channel="AMC">
+    <title lang="pt">Pulp Fiction</title>
+  </programme>
+  <programme start="20201219194000 +0000" stop="20201219221000 +0000" channel="AMC">
+    <title lang="pt">Jackie Brown</title>
+  </programme>
+  <programme start="20201219221000 +0000" stop="20201220001400 +0000" channel="AMC">
+    <title lang="pt">Sin City: Cidade do Pecado</title>
+  </programme>
+  <programme start="20201219003500 +0000" stop="20201219020100 +0000" channel="FOX Movies">
+    <title lang="pt">Vingança Forçada</title>
+  </programme>
+  <programme start="20201219020100 +0000" stop="20201219032400 +0000" channel="FOX Movies">
+    <title lang="pt">Fúria Silenciosa</title>
+  </programme>
+  <programme start="20201219032400 +0000" stop="20201219055000 +0000" channel="FOX Movies">
+    <title lang="pt">Desafio Total (1990)</title>
+  </programme>
+  <programme start="20201219055000 +0000" stop="20201219065100 +0000" channel="FOX Movies">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201219065100 +0000" stop="20201219081000 +0000" channel="FOX Movies">
+    <title lang="pt">Incorrecto e Afirmativo</title>
+  </programme>
+  <programme start="20201219081000 +0000" stop="20201219095400 +0000" channel="FOX Movies">
+    <title lang="pt">Um Belo Par... de Patins</title>
+  </programme>
+  <programme start="20201219095400 +0000" stop="20201219112100 +0000" channel="FOX Movies">
+    <title lang="pt">Hora de Ponta 3</title>
+  </programme>
+  <programme start="20201219112100 +0000" stop="20201219125000 +0000" channel="FOX Movies">
+    <title lang="pt">O Segurança</title>
+  </programme>
+  <programme start="20201219125000 +0000" stop="20201219143500 +0000" channel="FOX Movies">
+    <title lang="pt">Inferno Vermelho</title>
+  </programme>
+  <programme start="20201219143500 +0000" stop="20201219162400 +0000" channel="FOX Movies">
+    <title lang="pt">O Massacre</title>
+  </programme>
+  <programme start="20201219162400 +0000" stop="20201219180000 +0000" channel="FOX Movies">
+    <title lang="pt">O Regresso do Ninja Americano</title>
+  </programme>
+  <programme start="20201219180000 +0000" stop="20201219193700 +0000" channel="FOX Movies">
+    <title lang="pt">Um Ninja Americano</title>
+  </programme>
+  <programme start="20201219193700 +0000" stop="20201219211500 +0000" channel="FOX Movies">
+    <title lang="pt">Barb Wire: Bela e Perigosa</title>
+  </programme>
+  <programme start="20201219211500 +0000" stop="20201219233100 +0000" channel="FOX Movies">
+    <title lang="pt">Só Para Bravos</title>
+  </programme>
+  <programme start="20201219233100 +0000" stop="20201220012700 +0000" channel="FOX Movies">
+    <title lang="pt">Profissão: Duro</title>
+  </programme>
+  <programme start="20201219021000 +0000" stop="20201219034500 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">O Bravo</title>
+  </programme>
+  <programme start="20201219034500 +0000" stop="20201219053000 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">O De$conhecido</title>
+  </programme>
+  <programme start="20201219053000 +0000" stop="20201219070500 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">True Justice: A Vingança é Minha</title>
+  </programme>
+  <programme start="20201219070500 +0000" stop="20201219092500 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">A Lenda de Ben Hall</title>
+  </programme>
+  <programme start="20201219092500 +0000" stop="20201219104500 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">Snow - O Espelho da Rainha</title>
+  </programme>
+  <programme start="20201219104500 +0000" stop="20201219122000 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">Snow - A Pedra dos Desejos</title>
+  </programme>
+  <programme start="20201219122000 +0000" stop="20201219135500 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">O Gang dos Tubarões</title>
+  </programme>
+  <programme start="20201219135500 +0000" stop="20201219153500 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">Traições (Con)Sentidas</title>
+  </programme>
+  <programme start="20201219153500 +0000" stop="20201219172500 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">Amigos Coloridos</title>
+  </programme>
+  <programme start="20201219172500 +0000" stop="20201219191000 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">Cavalgada para a Morte</title>
+  </programme>
+  <programme start="20201219191000 +0000" stop="20201219205000 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">Backtrace Rasto de Violência</title>
+  </programme>
+  <programme start="20201219205000 +0000" stop="20201219223000 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">Duro de Matar</title>
+  </programme>
+  <programme start="20201219223000 +0000" stop="20201220001000 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">Rambo: A Vingança do Herói</title>
   </programme>
 </tv>
