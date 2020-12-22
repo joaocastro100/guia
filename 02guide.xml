@@ -1,0 +1,1350 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo Now HD">
+    <display-name lang="pt">Globo Now HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Record TV">
+    <display-name lang="pt">Record TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 1">
+    <display-name lang="pt">ELEVEN SPORTS 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 2">
+    <display-name lang="pt">ELEVEN SPORTS 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 3">
+    <display-name lang="pt">ELEVEN SPORTS 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 4">
+    <display-name lang="pt">ELEVEN SPORTS 4</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 5">
+    <display-name lang="pt">ELEVEN SPORTS 5</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 6">
+    <display-name lang="pt">ELEVEN SPORTS 6</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV1">
+    <display-name lang="pt">SPORT TV1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV2">
+    <display-name lang="pt">SPORT TV2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV3">
+    <display-name lang="pt">SPORT TV3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV4">
+    <display-name lang="pt">SPORT TV4</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV5">
+    <display-name lang="pt">SPORT TV5</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV+ HD">
+    <display-name lang="pt">SPORT TV+ HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BTV1">
+    <display-name lang="pt">BTV1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Sporting TV">
+    <display-name lang="pt">Sporting TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="A BOLA TV">
+    <display-name lang="pt">A BOLA TV</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/a-bola-tv.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="Canal 11 HD">
+    <display-name lang="pt">Canal 11 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Eurosport 1">
+    <display-name lang="pt">Eurosport 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="pt">Eurosport 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20201222010000 +0000" stop="20201222030000 +0000" channel="Globo Now HD">
+    <title lang="pt">Jornal Das Dez</title>
+  </programme>
+  <programme start="20201222030000 +0000" stop="20201222043000 +0000" channel="Globo Now HD">
+    <title lang="pt">Jornal Globo News - Edição da Meia-Noite</title>
+  </programme>
+  <programme start="20201222043000 +0000" stop="20201222063000 +0000" channel="Globo Now HD">
+    <title lang="pt">Globo News Em Pauta</title>
+  </programme>
+  <programme start="20201222063000 +0000" stop="20201222070000 +0000" channel="Globo Now HD">
+    <title lang="pt">Jornal Globo News</title>
+  </programme>
+  <programme start="20201222070000 +0000" stop="20201222090000 +0000" channel="Globo Now HD">
+    <title lang="pt">Jornal Das Dez</title>
+  </programme>
+  <programme start="20201222090000 +0000" stop="20201222120000 +0000" channel="Globo Now HD">
+    <title lang="pt">Globo News Em Ponto</title>
+  </programme>
+  <programme start="20201222120000 +0000" stop="20201222160000 +0000" channel="Globo Now HD">
+    <title lang="pt">Jornal Globo News - Edição Das 10H</title>
+  </programme>
+  <programme start="20201222160000 +0000" stop="20201222190000 +0000" channel="Globo Now HD">
+    <title lang="pt">Estúdio I</title>
+  </programme>
+  <programme start="20201222190000 +0000" stop="20201222210000 +0000" channel="Globo Now HD">
+    <title lang="pt">Jornal Globo News - Edição Das 16H</title>
+  </programme>
+  <programme start="20201222210000 +0000" stop="20201222230000 +0000" channel="Globo Now HD">
+    <title lang="pt">Jornal Globo News - Edição Das 18H</title>
+  </programme>
+  <programme start="20201222230000 +0000" stop="20201223010000 +0000" channel="Globo Now HD">
+    <title lang="pt">Globo News Em Pauta</title>
+  </programme>
+  <programme start="20201222005000 +0000" stop="20201222011500 +0000" channel="Record TV">
+    <title lang="pt">Nosso Tempo</title>
+  </programme>
+  <programme start="20201222011500 +0000" stop="20201222014500 +0000" channel="Record TV">
+    <title lang="pt">Saindo da Depressão</title>
+  </programme>
+  <programme start="20201222014500 +0000" stop="20201222015500 +0000" channel="Record TV">
+    <title lang="pt">Ponto de Luz - Porto</title>
+  </programme>
+  <programme start="20201222015500 +0000" stop="20201222020500 +0000" channel="Record TV">
+    <title lang="pt">Saúde Restaurada</title>
+  </programme>
+  <programme start="20201222020500 +0000" stop="20201222021500 +0000" channel="Record TV">
+    <title lang="pt">Nação dos 318</title>
+  </programme>
+  <programme start="20201222021500 +0000" stop="20201222023500 +0000" channel="Record TV">
+    <title lang="pt">Terapia do Amor</title>
+  </programme>
+  <programme start="20201222023500 +0000" stop="20201222024500 +0000" channel="Record TV">
+    <title lang="pt">Ponto de Luz - Lisboa</title>
+  </programme>
+  <programme start="20201222024500 +0000" stop="20201222030500 +0000" channel="Record TV">
+    <title lang="pt">Vencendo Os Vícios</title>
+  </programme>
+  <programme start="20201222030500 +0000" stop="20201222032500 +0000" channel="Record TV">
+    <title lang="pt">Programa Luxemburgo</title>
+  </programme>
+  <programme start="20201222032500 +0000" stop="20201222033500 +0000" channel="Record TV">
+    <title lang="pt">Ponto de Luz - Porto</title>
+  </programme>
+  <programme start="20201222033500 +0000" stop="20201222035500 +0000" channel="Record TV">
+    <title lang="pt">Programa Algarve</title>
+  </programme>
+  <programme start="20201222035500 +0000" stop="20201222042000 +0000" channel="Record TV">
+    <title lang="pt">Programa França</title>
+  </programme>
+  <programme start="20201222042000 +0000" stop="20201222043000 +0000" channel="Record TV">
+    <title lang="pt">Ponto de Luz - Lisboa</title>
+  </programme>
+  <programme start="20201222043000 +0000" stop="20201222045500 +0000" channel="Record TV">
+    <title lang="pt">Nosso Tempo</title>
+  </programme>
+  <programme start="20201222045500 +0000" stop="20201222051500 +0000" channel="Record TV">
+    <title lang="pt">Programa Itália</title>
+  </programme>
+  <programme start="20201222051500 +0000" stop="20201222052500 +0000" channel="Record TV">
+    <title lang="pt">Ponto de Luz - Lisboa</title>
+  </programme>
+  <programme start="20201222052500 +0000" stop="20201222054500 +0000" channel="Record TV">
+    <title lang="pt">Programa Madeira</title>
+  </programme>
+  <programme start="20201222054500 +0000" stop="20201222055500 +0000" channel="Record TV">
+    <title lang="pt">Nação dos 318</title>
+  </programme>
+  <programme start="20201222055500 +0000" stop="20201222060500 +0000" channel="Record TV">
+    <title lang="pt">Saúde Restaurada</title>
+  </programme>
+  <programme start="20201222060500 +0000" stop="20201222063000 +0000" channel="Record TV">
+    <title lang="pt">Programa França</title>
+  </programme>
+  <programme start="20201222063000 +0000" stop="20201222064000 +0000" channel="Record TV">
+    <title lang="pt">Ponto de Luz - Porto</title>
+  </programme>
+  <programme start="20201222064000 +0000" stop="20201222070000 +0000" channel="Record TV">
+    <title lang="pt">Programa Inglaterra</title>
+  </programme>
+  <programme start="20201222070000 +0000" stop="20201222071000 +0000" channel="Record TV">
+    <title lang="pt">Ponto de Luz - Lisboa</title>
+  </programme>
+  <programme start="20201222071000 +0000" stop="20201222073000 +0000" channel="Record TV">
+    <title lang="pt">Programa Coimbra</title>
+  </programme>
+  <programme start="20201222073000 +0000" stop="20201222080000 +0000" channel="Record TV">
+    <title lang="pt">Não Desista</title>
+  </programme>
+  <programme start="20201222080000 +0000" stop="20201222083000 +0000" channel="Record TV">
+    <title lang="pt">Hora do Milagre</title>
+  </programme>
+  <programme start="20201222083000 +0000" stop="20201222090000 +0000" channel="Record TV">
+    <title lang="pt">Problemas e Soluções</title>
+  </programme>
+  <programme start="20201222090000 +0000" stop="20201222100000 +0000" channel="Record TV">
+    <title lang="pt">Hoje em Dia</title>
+  </programme>
+  <programme start="20201222100000 +0000" stop="20201222113000 +0000" channel="Record TV">
+    <title lang="pt">Balanço Geral SP</title>
+  </programme>
+  <programme start="20201222113000 +0000" stop="20201222123000 +0000" channel="Record TV">
+    <title lang="pt">Os Mutantes - Caminhos do Coração</title>
+  </programme>
+  <programme start="20201222123000 +0000" stop="20201222133000 +0000" channel="Record TV">
+    <title lang="pt">Escrava Mãe</title>
+  </programme>
+  <programme start="20201222133000 +0000" stop="20201222140000 +0000" channel="Record TV">
+    <title lang="pt">Portugal no Ar</title>
+  </programme>
+  <programme start="20201222140000 +0000" stop="20201222150000 +0000" channel="Record TV">
+    <title lang="pt">Jesus</title>
+  </programme>
+  <programme start="20201222150000 +0000" stop="20201222153000 +0000" channel="Record TV">
+    <title lang="pt">Os Milagres de Jesus</title>
+  </programme>
+  <programme start="20201222153000 +0000" stop="20201222163000 +0000" channel="Record TV">
+    <title lang="pt">Os Mutantes - Caminhos do Coração</title>
+  </programme>
+  <programme start="20201222163000 +0000" stop="20201222173000 +0000" channel="Record TV">
+    <title lang="pt">Escrava Mãe</title>
+  </programme>
+  <programme start="20201222173000 +0000" stop="20201222183000 +0000" channel="Record TV">
+    <title lang="pt">Amor Sem Igual</title>
+  </programme>
+  <programme start="20201222183000 +0000" stop="20201222193000 +0000" channel="Record TV">
+    <title lang="pt">As Aventuras de Poliana</title>
+  </programme>
+  <programme start="20201222193000 +0000" stop="20201222200000 +0000" channel="Record TV">
+    <title lang="pt">Fala Portugal</title>
+  </programme>
+  <programme start="20201222200000 +0000" stop="20201222210000 +0000" channel="Record TV">
+    <title lang="pt">Jesus</title>
+  </programme>
+  <programme start="20201222210000 +0000" stop="20201222220000 +0000" channel="Record TV">
+    <title lang="pt">Amor Sem Igual</title>
+  </programme>
+  <programme start="20201222220000 +0000" stop="20201223000000 +0000" channel="Record TV">
+    <title lang="pt">Cidade Alerta SP</title>
+  </programme>
+  <programme start="20201222003000 +0000" stop="20201222020000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Planeta Eleven</title>
+  </programme>
+  <programme start="20201222020000 +0000" stop="20201222040000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Bundesliga 2 - Karlsruher SC x Hamburgo</title>
+  </programme>
+  <programme start="20201222040000 +0000" stop="20201222050000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UEFA Champions League - Man In The Middle</title>
+  </programme>
+  <programme start="20201222050000 +0000" stop="20201222053000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">OTRO</title>
+  </programme>
+  <programme start="20201222053000 +0000" stop="20201222054500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">OTRO</title>
+  </programme>
+  <programme start="20201222054500 +0000" stop="20201222061500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">OTRO</title>
+  </programme>
+  <programme start="20201222061500 +0000" stop="20201222063000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">OTRO</title>
+  </programme>
+  <programme start="20201222063000 +0000" stop="20201222073000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Goodwood SpeedWeek 2020</title>
+  </programme>
+  <programme start="20201222073000 +0000" stop="20201222074500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Monster Energy - Street League</title>
+  </programme>
+  <programme start="20201222074500 +0000" stop="20201222080000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Monster Energy - Night Shift</title>
+  </programme>
+  <programme start="20201222080000 +0000" stop="20201222081500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Monster Energy - Mirador</title>
+  </programme>
+  <programme start="20201222081500 +0000" stop="20201222083000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Monster Energy - Loosefest</title>
+  </programme>
+  <programme start="20201222083000 +0000" stop="20201222090000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Copa 90</title>
+  </programme>
+  <programme start="20201222090000 +0000" stop="20201222093000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Copa 90</title>
+  </programme>
+  <programme start="20201222093000 +0000" stop="20201222094500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Monster Energy - Audi Nines</title>
+  </programme>
+  <programme start="20201222094500 +0000" stop="20201222100000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Monster Energy - Street League</title>
+  </programme>
+  <programme start="20201222100000 +0000" stop="20201222110000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">La Liga - Resumos da Jornada</title>
+  </programme>
+  <programme start="20201222110000 +0000" stop="20201222120000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Ligue 1 - Resumos da Jornada</title>
+  </programme>
+  <programme start="20201222120000 +0000" stop="20201222130000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Bundesliga - Resumos da Jornada</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222133000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">OTRO</title>
+  </programme>
+  <programme start="20201222133000 +0000" stop="20201222134500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">OTRO</title>
+  </programme>
+  <programme start="20201222134500 +0000" stop="20201222144500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UEFA Champions League - Man In The Middle</title>
+  </programme>
+  <programme start="20201222144500 +0000" stop="20201222163000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Planeta Eleven</title>
+  </programme>
+  <programme start="20201222163000 +0000" stop="20201222184500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">La Liga - Valência x Sevilha (Direto)</title>
+  </programme>
+  <programme start="20201222184500 +0000" stop="20201222210000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">La Liga - Real Sociedad x At. Madrid (Direto)</title>
+  </programme>
+  <programme start="20201222210000 +0000" stop="20201222230000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">La Liga - Valladolid x Barcelona (Direto)</title>
+  </programme>
+  <programme start="20201222230000 +0000" stop="20201223000000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Champions Eleven - A Temporada Até Ao Momento</title>
+  </programme>
+  <programme start="20201222004500 +0000" stop="20201222010000 +0000" channel="ELEVEN SPORTS 2">
+    <title lang="pt">La Liga - Numa Bolha</title>
+  </programme>
+  <programme start="20201222010000 +0000" stop="20201222030000 +0000" channel="ELEVEN SPORTS 2">
+    <title lang="pt">La Liga - At. Madrid x Elche</title>
+  </programme>
+  <programme start="20201222030000 +0000" stop="20201222050000 +0000" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Bundesliga - B. M</title>
+  </programme>
+  <programme start="20201222050000 +0000" stop="20201222070000 +0000" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Ligue 1 2020-21 - Nice x Lyon</title>
+  </programme>
+  <programme start="20201222070000 +0000" stop="20201222090000 +0000" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Bundesliga - B. Leverkusen x B. Munique</title>
+  </programme>
+  <programme start="20201222090000 +0000" stop="20201222110000 +0000" channel="ELEVEN SPORTS 2">
+    <title lang="pt">La Liga - Barcelona x Valência</title>
+  </programme>
+  <programme start="20201222110000 +0000" stop="20201222130000 +0000" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Ligue 1 2020-21 - Marseille x Reims</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222150000 +0000" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Bundesliga - B. M</title>
+  </programme>
+  <programme start="20201222150000 +0000" stop="20201222151500 +0000" channel="ELEVEN SPORTS 2">
+    <title lang="pt">La Liga - Numa Bolha</title>
+  </programme>
+  <programme start="20201222151500 +0000" stop="20201222163000 +0000" channel="ELEVEN SPORTS 2">
+    <title lang="pt">La Liga - Resumos da Jornada</title>
+  </programme>
+  <programme start="20201222163000 +0000" stop="20201222184500 +0000" channel="ELEVEN SPORTS 2">
+    <title lang="pt">La Liga - Elche x Osasuna (Direto)</title>
+  </programme>
+  <programme start="20201222184500 +0000" stop="20201222210000 +0000" channel="ELEVEN SPORTS 2">
+    <title lang="pt">La Liga - Huesca x Levante (Direto)</title>
+  </programme>
+  <programme start="20201222210000 +0000" stop="20201222230000 +0000" channel="ELEVEN SPORTS 2">
+    <title lang="pt">La Liga - Villarreal x At. Bilbao (Direto)</title>
+  </programme>
+  <programme start="20201222230000 +0000" stop="20201223010000 +0000" channel="ELEVEN SPORTS 2">
+    <title lang="pt">La Liga - Real Sociedad x At. Madrid</title>
+  </programme>
+  <programme start="20201222004500 +0000" stop="20201222013000 +0000" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Porsche Supercup - Áustria - Corrida</title>
+  </programme>
+  <programme start="20201222013000 +0000" stop="20201222023000 +0000" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Formula Renault Eurocup - Barcelona - Ronda 6 - Corrida 1</title>
+  </programme>
+  <programme start="20201222023000 +0000" stop="20201222050000 +0000" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201222050000 +0000" stop="20201222100000 +0000" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201222100000 +0000" stop="20201222110000 +0000" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Formula Renault Eurocup - Barcelona - Ronda 6 - Corrida 2</title>
+  </programme>
+  <programme start="20201222110000 +0000" stop="20201222130000 +0000" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Fórmula 1 2020 - GP Portugal - Resumo</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222133000 +0000" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Inside Tracks</title>
+  </programme>
+  <programme start="20201222133000 +0000" stop="20201222143000 +0000" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Automobilismo - TCR Europe - Ronda 3</title>
+  </programme>
+  <programme start="20201222143000 +0000" stop="20201222153000 +0000" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Automobilismo - TCR Europe - Ronda 4</title>
+  </programme>
+  <programme start="20201222153000 +0000" stop="20201222160000 +0000" channel="ELEVEN SPORTS 3">
+    <title lang="pt">F2 Documentários</title>
+  </programme>
+  <programme start="20201222160000 +0000" stop="20201222170000 +0000" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Formula Renault Eurocup - Barcelona - Ronda 6 - Corrida 2</title>
+  </programme>
+  <programme start="20201222170000 +0000" stop="20201222174500 +0000" channel="ELEVEN SPORTS 3">
+    <title lang="pt">GT World Challenge America</title>
+  </programme>
+  <programme start="20201222174500 +0000" stop="20201222184500 +0000" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Goodwood SpeedWeek 2020</title>
+  </programme>
+  <programme start="20201222184500 +0000" stop="20201222190000 +0000" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Fórmula 1 2020 - GP Abu Dhabi - Os Melhores Onboards</title>
+  </programme>
+  <programme start="20201222190000 +0000" stop="20201222200000 +0000" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Fórmula 3 - GP Espanha - Corrida 1</title>
+  </programme>
+  <programme start="20201222200000 +0000" stop="20201222210000 +0000" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Fórmula 3 - GP Espanha - Corrida 2</title>
+  </programme>
+  <programme start="20201222210000 +0000" stop="20201222230000 +0000" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Fórmula 1 2020 - GP Emilia Romagna - Resumo</title>
+  </programme>
+  <programme start="20201222230000 +0000" stop="20201222234500 +0000" channel="ELEVEN SPORTS 3">
+    <title lang="pt">GT World Challenge America</title>
+  </programme>
+  <programme start="20201222234500 +0000" stop="20201223004500 +0000" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Goodwood SpeedWeek 2020</title>
+  </programme>
+  <programme start="20201222050000 +0000" stop="20201222110000 +0000" channel="ELEVEN SPORTS 4">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201222110000 +0000" stop="20201222170000 +0000" channel="ELEVEN SPORTS 4">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201222170000 +0000" stop="20201222230000 +0000" channel="ELEVEN SPORTS 4">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201222230000 +0000" stop="20201223050000 +0000" channel="ELEVEN SPORTS 4">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201222050000 +0000" stop="20201222110000 +0000" channel="ELEVEN SPORTS 5">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201222110000 +0000" stop="20201222170000 +0000" channel="ELEVEN SPORTS 5">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201222170000 +0000" stop="20201222230000 +0000" channel="ELEVEN SPORTS 5">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201222230000 +0000" stop="20201223050000 +0000" channel="ELEVEN SPORTS 5">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201222050000 +0000" stop="20201222110000 +0000" channel="ELEVEN SPORTS 6">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201222110000 +0000" stop="20201222170000 +0000" channel="ELEVEN SPORTS 6">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201222170000 +0000" stop="20201222230000 +0000" channel="ELEVEN SPORTS 6">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201222230000 +0000" stop="20201223050000 +0000" channel="ELEVEN SPORTS 6">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201222002500 +0000" stop="20201222022000 +0000" channel="SPORT TV1">
+    <title lang="pt">Premier League - Chelsea x West Ham</title>
+  </programme>
+  <programme start="20201222022000 +0000" stop="20201222025000 +0000" channel="SPORT TV1">
+    <title lang="pt">Taça Libertadores - Magazine</title>
+  </programme>
+  <programme start="20201222025000 +0000" stop="20201222032000 +0000" channel="SPORT TV1">
+    <title lang="pt">Copa Sul-Americana - Magazine</title>
+  </programme>
+  <programme start="20201222032000 +0000" stop="20201222052000 +0000" channel="SPORT TV1">
+    <title lang="pt">Rugby - Taça dos Campeões - Harlequins x Racing 92</title>
+  </programme>
+  <programme start="20201222052000 +0000" stop="20201222072000 +0000" channel="SPORT TV1">
+    <title lang="pt">Rugby - Taça dos Campeões - Leinster Rugby x Northampton Saints</title>
+  </programme>
+  <programme start="20201222072000 +0000" stop="20201222075000 +0000" channel="SPORT TV1">
+    <title lang="pt">Liga Italiana 2020-21 - Parma x Juventus</title>
+  </programme>
+  <programme start="20201222075000 +0000" stop="20201222095000 +0000" channel="SPORT TV1">
+    <title lang="pt">Segunda Liga - Estoril x FC Porto B</title>
+  </programme>
+  <programme start="20201222095000 +0000" stop="20201222115500 +0000" channel="SPORT TV1">
+    <title lang="pt">Liga NOS - Santa Clara x V. Guimarães</title>
+  </programme>
+  <programme start="20201222115500 +0000" stop="20201222122500 +0000" channel="SPORT TV1">
+    <title lang="pt">Liga NOS - Resumos da 10ª Jornada</title>
+  </programme>
+  <programme start="20201222122500 +0000" stop="20201222130000 +0000" channel="SPORT TV1">
+    <title lang="pt">Premier League - Resumo da 14ª Jornada</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222145500 +0000" channel="SPORT TV1">
+    <title lang="pt">Superliga Turca - Hatayspor x Trabzonspor (Direto)</title>
+  </programme>
+  <programme start="20201222145500 +0000" stop="20201222152500 +0000" channel="SPORT TV1">
+    <title lang="pt">Liga Italiana 2020-21 - Resumos da 13ª Jornada</title>
+  </programme>
+  <programme start="20201222152500 +0000" stop="20201222160000 +0000" channel="SPORT TV1">
+    <title lang="pt">Liga Holandesa - Resumos da 13ª Jornada</title>
+  </programme>
+  <programme start="20201222160000 +0000" stop="20201222180000 +0000" channel="SPORT TV1">
+    <title lang="pt">Superliga Turca - Galatasaray x Göztepe (Direto)</title>
+  </programme>
+  <programme start="20201222180000 +0000" stop="20201222183000 +0000" channel="SPORT TV1">
+    <title lang="pt">Taça Libertadores - Magazine</title>
+  </programme>
+  <programme start="20201222183000 +0000" stop="20201222190000 +0000" channel="SPORT TV1">
+    <title lang="pt">Copa Sul-Americana - Magazine</title>
+  </programme>
+  <programme start="20201222190000 +0000" stop="20201222193000 +0000" channel="SPORT TV1">
+    <title lang="pt">Liga Holandesa - Resumos da 13ª Jornada</title>
+  </programme>
+  <programme start="20201222193000 +0000" stop="20201222201500 +0000" channel="SPORT TV1">
+    <title lang="pt">Liga NOS - Resumos da 10ª Jornada</title>
+  </programme>
+  <programme start="20201222201500 +0000" stop="20201222222500 +0000" channel="SPORT TV1">
+    <title lang="pt">Liga NOS - SC Braga x Rio Ave (Direto)</title>
+  </programme>
+  <programme start="20201222222500 +0000" stop="20201222230000 +0000" channel="SPORT TV1">
+    <title lang="pt">eLiga Portugal</title>
+  </programme>
+  <programme start="20201222230000 +0000" stop="20201222233000 +0000" channel="SPORT TV1">
+    <title lang="pt">Taça da Liga Inglesa - Arsenal x Man. City - Quartos-de-Final</title>
+  </programme>
+  <programme start="20201222233000 +0000" stop="20201223000000 +0000" channel="SPORT TV1">
+    <title lang="pt">NBA - Antevisão da Época</title>
+  </programme>
+  <programme start="20201222002000 +0000" stop="20201222005000 +0000" channel="SPORT TV2">
+    <title lang="pt">Copa Sul-Americana - Magazine</title>
+  </programme>
+  <programme start="20201222005000 +0000" stop="20201222012000 +0000" channel="SPORT TV2">
+    <title lang="pt">Liga Holandesa - Resumos da 13ª Jornada</title>
+  </programme>
+  <programme start="20201222012000 +0000" stop="20201222015000 +0000" channel="SPORT TV2">
+    <title lang="pt">Liga Italiana 2020-21 - Resumos da 13ª Jornada</title>
+  </programme>
+  <programme start="20201222015000 +0000" stop="20201222022000 +0000" channel="SPORT TV2">
+    <title lang="pt">Premier League - Resumo da 14ª Jornada</title>
+  </programme>
+  <programme start="20201222022000 +0000" stop="20201222040500 +0000" channel="SPORT TV2">
+    <title lang="pt">Liga Italiana 2020-21 - Torino x Bolonha</title>
+  </programme>
+  <programme start="20201222040500 +0000" stop="20201222061000 +0000" channel="SPORT TV2">
+    <title lang="pt">Superliga Turca - Fatih Karagumruk x Galatasaray</title>
+  </programme>
+  <programme start="20201222061000 +0000" stop="20201222080500 +0000" channel="SPORT TV2">
+    <title lang="pt">Premier League - Newcastle x Fulham</title>
+  </programme>
+  <programme start="20201222080500 +0000" stop="20201222100000 +0000" channel="SPORT TV2">
+    <title lang="pt">Taça da Liga Argentina - Independiente x Boca Juniors</title>
+  </programme>
+  <programme start="20201222100000 +0000" stop="20201222115000 +0000" channel="SPORT TV2">
+    <title lang="pt">Liga Italiana 2020-21 - Inter Milão x Spezia</title>
+  </programme>
+  <programme start="20201222115000 +0000" stop="20201222134500 +0000" channel="SPORT TV2">
+    <title lang="pt">Premier League - Burnley x Wolverhampton</title>
+  </programme>
+  <programme start="20201222134500 +0000" stop="20201222153500 +0000" channel="SPORT TV2">
+    <title lang="pt">Premier League - Chelsea x West Ham</title>
+  </programme>
+  <programme start="20201222153500 +0000" stop="20201222173000 +0000" channel="SPORT TV2">
+    <title lang="pt">Liga Italiana 2020-21 - Parma x Juventus</title>
+  </programme>
+  <programme start="20201222173000 +0000" stop="20201222192500 +0000" channel="SPORT TV2">
+    <title lang="pt">Taça da Liga Inglesa - Brentford x Newcastle - Quartos-de-Final (Direto)</title>
+  </programme>
+  <programme start="20201222192500 +0000" stop="20201222200000 +0000" channel="SPORT TV2">
+    <title lang="pt">Premier League - Resumo da 14ª Jornada</title>
+  </programme>
+  <programme start="20201222200000 +0000" stop="20201222220000 +0000" channel="SPORT TV2">
+    <title lang="pt">Taça da Liga Inglesa - Arsenal x Man. City - Quartos-de-Final (Direto)</title>
+  </programme>
+  <programme start="20201222220000 +0000" stop="20201222235000 +0000" channel="SPORT TV2">
+    <title lang="pt">Taça da Alemanha - Eintracht Braunschweig x B. Dortmund</title>
+  </programme>
+  <programme start="20201222235000 +0000" stop="20201223014000 +0000" channel="SPORT TV2">
+    <title lang="pt">Liga Italiana 2020-21 - Juventus x Fiorentina</title>
+  </programme>
+  <programme start="20201222001000 +0000" stop="20201222020000 +0000" channel="SPORT TV3">
+    <title lang="pt">Segunda Liga - Estoril x FC Porto B</title>
+  </programme>
+  <programme start="20201222020000 +0000" stop="20201222080000 +0000" channel="SPORT TV3">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201222080000 +0000" stop="20201222130000 +0000" channel="SPORT TV3">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222150000 +0000" channel="SPORT TV3">
+    <title lang="pt">Taça da Liga Argentina - San Lorenzo x Colón</title>
+  </programme>
+  <programme start="20201222150000 +0000" stop="20201222165000 +0000" channel="SPORT TV3">
+    <title lang="pt">Liga Holandesa - Rkc Waalwijk x PSV</title>
+  </programme>
+  <programme start="20201222165000 +0000" stop="20201222173000 +0000" channel="SPORT TV3">
+    <title lang="pt">Inside Serie A</title>
+  </programme>
+  <programme start="20201222173000 +0000" stop="20201222194500 +0000" channel="SPORT TV3">
+    <title lang="pt">Liga Italiana 2020-21 - Crotone x Parma (Direto)</title>
+  </programme>
+  <programme start="20201222194500 +0000" stop="20201222214000 +0000" channel="SPORT TV3">
+    <title lang="pt">Liga Italiana 2020-21 - Juventus x Fiorentina (Direto)</title>
+  </programme>
+  <programme start="20201222214000 +0000" stop="20201222233500 +0000" channel="SPORT TV3">
+    <title lang="pt">Superliga Turca - Galatasaray x Göztepe</title>
+  </programme>
+  <programme start="20201222233500 +0000" stop="20201223003000 +0000" channel="SPORT TV3">
+    <title lang="pt">Premier League - Resumos e Reportagens</title>
+  </programme>
+  <programme start="20201222004500 +0000" stop="20201222011500 +0000" channel="SPORT TV4">
+    <title lang="pt">The Outdoor Sports Show</title>
+  </programme>
+  <programme start="20201222011500 +0000" stop="20201222071500 +0000" channel="SPORT TV4">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201222071500 +0000" stop="20201222130000 +0000" channel="SPORT TV4">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222143000 +0000" channel="SPORT TV4">
+    <title lang="pt">Campeonato Nacional de Voleibol - Castêlo da Maia x SC Espinho</title>
+  </programme>
+  <programme start="20201222143000 +0000" stop="20201222150000 +0000" channel="SPORT TV4">
+    <title lang="pt">FIBA World Basketball</title>
+  </programme>
+  <programme start="20201222150000 +0000" stop="20201222170000 +0000" channel="SPORT TV4">
+    <title lang="pt">Rugby - Taça dos Campeões - Wasps x Montpellier Hérault Rugby</title>
+  </programme>
+  <programme start="20201222170000 +0000" stop="20201222190000 +0000" channel="SPORT TV4">
+    <title lang="pt">Rugby - Taça dos Campeões - Leinster Rugby x Northampton Saints</title>
+  </programme>
+  <programme start="20201222190000 +0000" stop="20201222210000 +0000" channel="SPORT TV4">
+    <title lang="pt">Liga Holandesa - PSV x VVV-Venlo (Direto)</title>
+  </programme>
+  <programme start="20201222210000 +0000" stop="20201222212500 +0000" channel="SPORT TV4">
+    <title lang="pt">Documentário - Captain</title>
+  </programme>
+  <programme start="20201222212500 +0000" stop="20201222222000 +0000" channel="SPORT TV4">
+    <title lang="pt">ATP World Tour 1000 - Resumo da Época</title>
+  </programme>
+  <programme start="20201222222000 +0000" stop="20201223012000 +0000" channel="SPORT TV4">
+    <title lang="pt">LPGA Tour - CME Group Tour Championship - 4º Dia</title>
+  </programme>
+  <programme start="20201222010000 +0000" stop="20201222040000 +0000" channel="SPORT TV5">
+    <title lang="pt">WWE Raw (Direto)</title>
+  </programme>
+  <programme start="20201222040000 +0000" stop="20201222100000 +0000" channel="SPORT TV5">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201222100000 +0000" stop="20201222130000 +0000" channel="SPORT TV5">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222133000 +0000" channel="SPORT TV5">
+    <title lang="pt">NASCAR Cup Series - Resumo do Ano 2020</title>
+  </programme>
+  <programme start="20201222133000 +0000" stop="20201222135500 +0000" channel="SPORT TV5">
+    <title lang="pt">FIBA World Basketball</title>
+  </programme>
+  <programme start="20201222135500 +0000" stop="20201222144000 +0000" channel="SPORT TV5">
+    <title lang="pt">Sports Unlimited Magazine</title>
+  </programme>
+  <programme start="20201222144000 +0000" stop="20201222151000 +0000" channel="SPORT TV5">
+    <title lang="pt">World of Freesports</title>
+  </programme>
+  <programme start="20201222151000 +0000" stop="20201222154000 +0000" channel="SPORT TV5">
+    <title lang="pt">The Outdoor Sports Show</title>
+  </programme>
+  <programme start="20201222154000 +0000" stop="20201222161000 +0000" channel="SPORT TV5">
+    <title lang="pt">Taça do Mundo de Esqui Alpino - Courchevel, França + Val d</title>
+  </programme>
+  <programme start="20201222161000 +0000" stop="20201222164000 +0000" channel="SPORT TV5">
+    <title lang="pt">Taça do Mundo de Snowboard - Montafon, Áustria + Cortina, Itália</title>
+  </programme>
+  <programme start="20201222164000 +0000" stop="20201222182500 +0000" channel="SPORT TV5">
+    <title lang="pt">WWE Raw</title>
+  </programme>
+  <programme start="20201222182500 +0000" stop="20201222190000 +0000" channel="SPORT TV5">
+    <title lang="pt">Esqui - Taça do Mundo de Freestyle - Montafom, Áustria + Idre Fjall, Suécia</title>
+  </programme>
+  <programme start="20201222190000 +0000" stop="20201222210000 +0000" channel="SPORT TV5">
+    <title lang="pt">Taça da Alemanha - Eintracht Braunschweig x B. Dortmund (Direto)</title>
+  </programme>
+  <programme start="20201222210000 +0000" stop="20201222221000 +0000" channel="SPORT TV5">
+    <title lang="pt">DTM - Resumo da Época 2020</title>
+  </programme>
+  <programme start="20201222221000 +0000" stop="20201222231000 +0000" channel="SPORT TV5">
+    <title lang="pt">European Le Mans Series - Resumo do Ano 2020</title>
+  </programme>
+  <programme start="20201222231000 +0000" stop="20201222234000 +0000" channel="SPORT TV5">
+    <title lang="pt">NASCAR Xfinity Series - Resumo do Ano 2020</title>
+  </programme>
+  <programme start="20201222234000 +0000" stop="20201223025000 +0000" channel="SPORT TV5">
+    <title lang="pt">UFC - Thompson x Neal</title>
+  </programme>
+  <programme start="20201222010000 +0000" stop="20201222013000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Copa Sul-Americana - Magazine</title>
+  </programme>
+  <programme start="20201222013000 +0000" stop="20201222020000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga NOS - Resumos da 10ª Jornada</title>
+  </programme>
+  <programme start="20201222020000 +0000" stop="20201222033000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Titulares</title>
+  </programme>
+  <programme start="20201222033000 +0000" stop="20201222040000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Resumo da 14ª Jornada</title>
+  </programme>
+  <programme start="20201222040000 +0000" stop="20201222043000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga Holandesa - Resumos da 13ª Jornada</title>
+  </programme>
+  <programme start="20201222043000 +0000" stop="20201222050000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga Italiana 2020-21 - Resumos da 13ª Jornada</title>
+  </programme>
+  <programme start="20201222050000 +0000" stop="20201222060000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">UFC - Thompson x Neal</title>
+  </programme>
+  <programme start="20201222060000 +0000" stop="20201222063500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga NOS - Resumos da 10ª Jornada</title>
+  </programme>
+  <programme start="20201222063500 +0000" stop="20201222070500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Resumo da 14ª Jornada</title>
+  </programme>
+  <programme start="20201222070500 +0000" stop="20201222073500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga Holandesa - Resumos da 13ª Jornada</title>
+  </programme>
+  <programme start="20201222073500 +0000" stop="20201222080500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga Italiana 2020-21 - Resumos da 13ª Jornada</title>
+  </programme>
+  <programme start="20201222080500 +0000" stop="20201222085500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">NXT</title>
+  </programme>
+  <programme start="20201222085500 +0000" stop="20201222112500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Manhã Informativa (Direto)</title>
+  </programme>
+  <programme start="20201222112500 +0000" stop="20201222115500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Taça Libertadores - Magazine</title>
+  </programme>
+  <programme start="20201222115500 +0000" stop="20201222130000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Grande Jornal (Direto)</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222135500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">WWE SmackDown</title>
+  </programme>
+  <programme start="20201222135500 +0000" stop="20201222143000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Notícias (Direto)</title>
+  </programme>
+  <programme start="20201222143000 +0000" stop="20201222150000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Copa Sul-Americana - Magazine</title>
+  </programme>
+  <programme start="20201222150000 +0000" stop="20201222163000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga Italiana 2020-21 - Resumos da 13ª Jornada</title>
+  </programme>
+  <programme start="20201222163000 +0000" stop="20201222170000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Resumo da 14ª Jornada</title>
+  </programme>
+  <programme start="20201222170000 +0000" stop="20201222175500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Fan Zone (Direto)</title>
+  </programme>
+  <programme start="20201222175500 +0000" stop="20201222183500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">eLiga Portugal</title>
+  </programme>
+  <programme start="20201222183500 +0000" stop="20201222184500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga Italiana 2020-21 - Golos da 13ª Jornada</title>
+  </programme>
+  <programme start="20201222184500 +0000" stop="20201222185500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Golos da 14ª Jornada</title>
+  </programme>
+  <programme start="20201222185500 +0000" stop="20201222192500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Central + (Direto)</title>
+  </programme>
+  <programme start="20201222192500 +0000" stop="20201222195500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Inside Serie A</title>
+  </programme>
+  <programme start="20201222195500 +0000" stop="20201222202500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Notícias (Direto)</title>
+  </programme>
+  <programme start="20201222202500 +0000" stop="20201222205500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">NBA - Antevisão da Época</title>
+  </programme>
+  <programme start="20201222205500 +0000" stop="20201222215500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Noite Informativa (Direto)</title>
+  </programme>
+  <programme start="20201222215500 +0000" stop="20201222222500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Taça da Liga Inglesa - Arsenal x Man. City - Quartos-de-Final</title>
+  </programme>
+  <programme start="20201222222500 +0000" stop="20201222225500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga Italiana 2020-21 - Juventus x Fiorentina</title>
+  </programme>
+  <programme start="20201222225500 +0000" stop="20201222232500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Central + (Direto)</title>
+  </programme>
+  <programme start="20201222232500 +0000" stop="20201222235500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Taça da Liga Inglesa - Arsenal x Man. City - Quartos-de-Final</title>
+  </programme>
+  <programme start="20201222235500 +0000" stop="20201223010000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Últimas Notícias (Direto)</title>
+  </programme>
+  <programme start="20201222012800 +0000" stop="20201222015800 +0000" channel="BTV1">
+    <title lang="pt">Os Momentos + Incríveis do Desporto</title>
+  </programme>
+  <programme start="20201222015800 +0000" stop="20201222022700 +0000" channel="BTV1">
+    <title lang="pt">Corporate Club</title>
+  </programme>
+  <programme start="20201222022700 +0000" stop="20201222025500 +0000" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20201222025500 +0000" stop="20201222042500 +0000" channel="BTV1">
+    <title lang="pt">Chama Imensa BTV</title>
+  </programme>
+  <programme start="20201222042500 +0000" stop="20201222045200 +0000" channel="BTV1">
+    <title lang="pt">Benfica 24 Horas</title>
+  </programme>
+  <programme start="20201222045200 +0000" stop="20201222062700 +0000" channel="BTV1">
+    <title lang="pt">Segunda Bola</title>
+  </programme>
+  <programme start="20201222062700 +0000" stop="20201222074300 +0000" channel="BTV1">
+    <title lang="pt">Hóquei - AD Oeiras x SLB - Rep.</title>
+  </programme>
+  <programme start="20201222074300 +0000" stop="20201222080800 +0000" channel="BTV1">
+    <title lang="pt">Benfica 24 Horas</title>
+  </programme>
+  <programme start="20201222080800 +0000" stop="20201222095900 +0000" channel="BTV1">
+    <title lang="pt">Futebol Feminino - Estoril x SLB - Rep.</title>
+  </programme>
+  <programme start="20201222095900 +0000" stop="20201222103000 +0000" channel="BTV1">
+    <title lang="pt">Benfica 10 Horas</title>
+  </programme>
+  <programme start="20201222103000 +0000" stop="20201222120000 +0000" channel="BTV1">
+    <title lang="pt">Segunda Bola</title>
+  </programme>
+  <programme start="20201222120000 +0000" stop="20201222122900 +0000" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201222122900 +0000" stop="20201222135900 +0000" channel="BTV1">
+    <title lang="pt">Chama Imensa BTV</title>
+  </programme>
+  <programme start="20201222135900 +0000" stop="20201222143000 +0000" channel="BTV1">
+    <title lang="pt">Benfica 14 Horas</title>
+  </programme>
+  <programme start="20201222143000 +0000" stop="20201222160800 +0000" channel="BTV1">
+    <title lang="pt">Basquetebol - SLB x Oliveirense - Rep.</title>
+  </programme>
+  <programme start="20201222160800 +0000" stop="20201222162900 +0000" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201222162900 +0000" stop="20201222174900 +0000" channel="BTV1">
+    <title lang="pt">Voleibol - SLB x Esmoriz - Rep.</title>
+  </programme>
+  <programme start="20201222174900 +0000" stop="20201222180100 +0000" channel="BTV1">
+    <title lang="pt">Salão de Jogos</title>
+  </programme>
+  <programme start="20201222180100 +0000" stop="20201222183000 +0000" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201222183000 +0000" stop="20201222193000 +0000" channel="BTV1">
+    <title lang="pt">Sport Lisboa e Modalidades</title>
+  </programme>
+  <programme start="20201222193000 +0000" stop="20201222205900 +0000" channel="BTV1">
+    <title lang="pt">Segunda Bola</title>
+  </programme>
+  <programme start="20201222205900 +0000" stop="20201222212900 +0000" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20201222212900 +0000" stop="20201222220000 +0000" channel="BTV1">
+    <title lang="pt">Leonor Pinhão</title>
+  </programme>
+  <programme start="20201222220000 +0000" stop="20201222233300 +0000" channel="BTV1">
+    <title lang="pt">105 X 68</title>
+  </programme>
+  <programme start="20201222233300 +0000" stop="20201222235700 +0000" channel="BTV1">
+    <title lang="pt">Benfica 24 Horas</title>
+  </programme>
+  <programme start="20201222235700 +0000" stop="20201223014600 +0000" channel="BTV1">
+    <title lang="pt">Futebol Feminino - Estoril x SLB - Rep.</title>
+  </programme>
+  <programme start="20201222014500 +0000" stop="20201222025000 +0000" channel="Sporting TV">
+    <title lang="pt">Estamos em Casa!</title>
+  </programme>
+  <programme start="20201222025000 +0000" stop="20201222042000 +0000" channel="Sporting TV">
+    <title lang="pt">Sporting Grande Jornal</title>
+  </programme>
+  <programme start="20201222042000 +0000" stop="20201222043500 +0000" channel="Sporting TV">
+    <title lang="pt">Espaço EAS</title>
+  </programme>
+  <programme start="20201222043500 +0000" stop="20201222050500 +0000" channel="Sporting TV">
+    <title lang="pt">Sporting Corporate</title>
+  </programme>
+  <programme start="20201222050500 +0000" stop="20201222052000 +0000" channel="Sporting TV">
+    <title lang="pt">Sporting Notícias</title>
+  </programme>
+  <programme start="20201222052000 +0000" stop="20201222055000 +0000" channel="Sporting TV">
+    <title lang="pt">12º Jogador</title>
+  </programme>
+  <programme start="20201222055000 +0000" stop="20201222060000 +0000" channel="Sporting TV">
+    <title lang="pt">Sporting Notícias</title>
+  </programme>
+  <programme start="20201222060000 +0000" stop="20201222073500 +0000" channel="Sporting TV">
+    <title lang="pt">Voleibol - SCP x AA São Mamede</title>
+  </programme>
+  <programme start="20201222073500 +0000" stop="20201222074000 +0000" channel="Sporting TV">
+    <title lang="pt">Memória do Dia</title>
+  </programme>
+  <programme start="20201222074000 +0000" stop="20201222075000 +0000" channel="Sporting TV">
+    <title lang="pt">Passaporte Sporting</title>
+  </programme>
+  <programme start="20201222075000 +0000" stop="20201222080000 +0000" channel="Sporting TV">
+    <title lang="pt">Sporting Notícias</title>
+  </programme>
+  <programme start="20201222080000 +0000" stop="20201222083000 +0000" channel="Sporting TV">
+    <title lang="pt">Ginástica em Casa</title>
+  </programme>
+  <programme start="20201222083000 +0000" stop="20201222084000 +0000" channel="Sporting TV">
+    <title lang="pt">Sporting Notícias</title>
+  </programme>
+  <programme start="20201222084000 +0000" stop="20201222101000 +0000" channel="Sporting TV">
+    <title lang="pt">Hóquei em Patins Feminino - SCP x UD Vilafranquense</title>
+  </programme>
+  <programme start="20201222101000 +0000" stop="20201222102000 +0000" channel="Sporting TV">
+    <title lang="pt">Passaporte Sporting</title>
+  </programme>
+  <programme start="20201222102000 +0000" stop="20201222103000 +0000" channel="Sporting TV">
+    <title lang="pt">Leões À Distância</title>
+  </programme>
+  <programme start="20201222103000 +0000" stop="20201222104000 +0000" channel="Sporting TV">
+    <title lang="pt">Sporting Notícias</title>
+  </programme>
+  <programme start="20201222104000 +0000" stop="20201222124500 +0000" channel="Sporting TV">
+    <title lang="pt">Futebol Feminino - SCP x SF Damaiense</title>
+  </programme>
+  <programme start="20201222124500 +0000" stop="20201222130000 +0000" channel="Sporting TV">
+    <title lang="pt">Sporting Notícias</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222143500 +0000" channel="Sporting TV">
+    <title lang="pt">Futsal - Portimonense x SCP</title>
+  </programme>
+  <programme start="20201222143500 +0000" stop="20201222144500 +0000" channel="Sporting TV">
+    <title lang="pt">Leões À Distância</title>
+  </programme>
+  <programme start="20201222144500 +0000" stop="20201222150000 +0000" channel="Sporting TV">
+    <title lang="pt">Sporting Notícias</title>
+  </programme>
+  <programme start="20201222150000 +0000" stop="20201222160000 +0000" channel="Sporting TV">
+    <title lang="pt">Raio-X Sporting</title>
+  </programme>
+  <programme start="20201222160000 +0000" stop="20201222163000 +0000" channel="Sporting TV">
+    <title lang="pt">Sporting Corporate</title>
+  </programme>
+  <programme start="20201222163000 +0000" stop="20201222165500 +0000" channel="Sporting TV">
+    <title lang="pt">Sporting Entrevista</title>
+  </programme>
+  <programme start="20201222165500 +0000" stop="20201222170000 +0000" channel="Sporting TV">
+    <title lang="pt">Lendas Sporting</title>
+  </programme>
+  <programme start="20201222170000 +0000" stop="20201222180000 +0000" channel="Sporting TV">
+    <title lang="pt">Boa Tarde Sporting (Direto)</title>
+  </programme>
+  <programme start="20201222180000 +0000" stop="20201222183000 +0000" channel="Sporting TV">
+    <title lang="pt">Magazine Futebol</title>
+  </programme>
+  <programme start="20201222183000 +0000" stop="20201222190000 +0000" channel="Sporting TV">
+    <title lang="pt">Magazine Modalidades</title>
+  </programme>
+  <programme start="20201222190000 +0000" stop="20201222190500 +0000" channel="Sporting TV">
+    <title lang="pt">60 Segundos de Sporting</title>
+  </programme>
+  <programme start="20201222190500 +0000" stop="20201222193000 +0000" channel="Sporting TV">
+    <title lang="pt">19:06</title>
+  </programme>
+  <programme start="20201222193000 +0000" stop="20201222213000 +0000" channel="Sporting TV">
+    <title lang="pt">Estamos em Casa!</title>
+  </programme>
+  <programme start="20201222213000 +0000" stop="20201222223000 +0000" channel="Sporting TV">
+    <title lang="pt">Sporting Grande Jornal</title>
+  </programme>
+  <programme start="20201222223000 +0000" stop="20201222223500 +0000" channel="Sporting TV">
+    <title lang="pt">Memória do Dia</title>
+  </programme>
+  <programme start="20201222223500 +0000" stop="20201222232000 +0000" channel="Sporting TV">
+    <title lang="pt">ADN de Leão</title>
+  </programme>
+  <programme start="20201222232000 +0000" stop="20201222235000 +0000" channel="Sporting TV">
+    <title lang="pt">Magazine Futebol</title>
+  </programme>
+  <programme start="20201222235000 +0000" stop="20201223002000 +0000" channel="Sporting TV">
+    <title lang="pt">Magazine Modalidades</title>
+  </programme>
+  <programme start="20201222025500 +0000" stop="20201222032000 +0000" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
+  </programme>
+  <programme start="20201222032000 +0000" stop="20201222035000 +0000" channel="A BOLA TV">
+    <title lang="pt">Memórias</title>
+  </programme>
+  <programme start="20201222035000 +0000" stop="20201222040000 +0000" channel="A BOLA TV">
+    <title lang="pt">Off</title>
+  </programme>
+  <programme start="20201222040000 +0000" stop="20201222044500 +0000" channel="A BOLA TV">
+    <title lang="pt">Póquer - Aposta Mundial</title>
+  </programme>
+  <programme start="20201222044500 +0000" stop="20201222053000 +0000" channel="A BOLA TV">
+    <title lang="pt">WTCR</title>
+  </programme>
+  <programme start="20201222053000 +0000" stop="20201222060000 +0000" channel="A BOLA TV">
+    <title lang="pt">Vendée Globe</title>
+  </programme>
+  <programme start="20201222060000 +0000" stop="20201222062500 +0000" channel="A BOLA TV">
+    <title lang="pt">Compacto Desportivo</title>
+  </programme>
+  <programme start="20201222062500 +0000" stop="20201222065500 +0000" channel="A BOLA TV">
+    <title lang="pt">Motores</title>
+  </programme>
+  <programme start="20201222065500 +0000" stop="20201222070000 +0000" channel="A BOLA TV">
+    <title lang="pt">Off</title>
+  </programme>
+  <programme start="20201222070000 +0000" stop="20201222072500 +0000" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
+  </programme>
+  <programme start="20201222072500 +0000" stop="20201222075500 +0000" channel="A BOLA TV">
+    <title lang="pt">Memórias</title>
+  </programme>
+  <programme start="20201222075500 +0000" stop="20201222080000 +0000" channel="A BOLA TV">
+    <title lang="pt">Photo Com Estória</title>
+  </programme>
+  <programme start="20201222080000 +0000" stop="20201222082500 +0000" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
+  </programme>
+  <programme start="20201222082500 +0000" stop="20201222085000 +0000" channel="A BOLA TV">
+    <title lang="pt">Move It</title>
+  </programme>
+  <programme start="20201222085000 +0000" stop="20201222090000 +0000" channel="A BOLA TV">
+    <title lang="pt">Off</title>
+  </programme>
+  <programme start="20201222090000 +0000" stop="20201222092500 +0000" channel="A BOLA TV">
+    <title lang="pt">Auto Foco</title>
+  </programme>
+  <programme start="20201222092500 +0000" stop="20201222095000 +0000" channel="A BOLA TV">
+    <title lang="pt">Com Todo o Gosto</title>
+  </programme>
+  <programme start="20201222095000 +0000" stop="20201222100000 +0000" channel="A BOLA TV">
+    <title lang="pt">Off</title>
+  </programme>
+  <programme start="20201222100000 +0000" stop="20201222102500 +0000" channel="A BOLA TV">
+    <title lang="pt">A Bola das 10</title>
+  </programme>
+  <programme start="20201222102500 +0000" stop="20201222105500 +0000" channel="A BOLA TV">
+    <title lang="pt">Vendée Globe</title>
+  </programme>
+  <programme start="20201222105500 +0000" stop="20201222110000 +0000" channel="A BOLA TV">
+    <title lang="pt">Photo Com Estória</title>
+  </programme>
+  <programme start="20201222110000 +0000" stop="20201222112500 +0000" channel="A BOLA TV">
+    <title lang="pt">A Bola das 11</title>
+  </programme>
+  <programme start="20201222112500 +0000" stop="20201222115500 +0000" channel="A BOLA TV">
+    <title lang="pt">Os Imortais</title>
+  </programme>
+  <programme start="20201222115500 +0000" stop="20201222120000 +0000" channel="A BOLA TV">
+    <title lang="pt">Off</title>
+  </programme>
+  <programme start="20201222120000 +0000" stop="20201222122500 +0000" channel="A BOLA TV">
+    <title lang="pt">A Bola do Meio Dia</title>
+  </programme>
+  <programme start="20201222122500 +0000" stop="20201222125500 +0000" channel="A BOLA TV">
+    <title lang="pt">Com Todo o Gosto</title>
+  </programme>
+  <programme start="20201222125500 +0000" stop="20201222132000 +0000" channel="A BOLA TV">
+    <title lang="pt">A Bola da Uma</title>
+  </programme>
+  <programme start="20201222132000 +0000" stop="20201222135500 +0000" channel="A BOLA TV">
+    <title lang="pt">Magazine TT</title>
+  </programme>
+  <programme start="20201222135500 +0000" stop="20201222140000 +0000" channel="A BOLA TV">
+    <title lang="pt">Off</title>
+  </programme>
+  <programme start="20201222140000 +0000" stop="20201222142500 +0000" channel="A BOLA TV">
+    <title lang="pt">A Bola das 2</title>
+  </programme>
+  <programme start="20201222142500 +0000" stop="20201222152000 +0000" channel="A BOLA TV">
+    <title lang="pt">Entrevista: Jorge Castelo</title>
+  </programme>
+  <programme start="20201222152000 +0000" stop="20201222153000 +0000" channel="A BOLA TV">
+    <title lang="pt">Flag</title>
+  </programme>
+  <programme start="20201222153000 +0000" stop="20201222160000 +0000" channel="A BOLA TV">
+    <title lang="pt">Compacto Desportivo</title>
+  </programme>
+  <programme start="20201222160000 +0000" stop="20201222162500 +0000" channel="A BOLA TV">
+    <title lang="pt">A Bola da Tarde</title>
+  </programme>
+  <programme start="20201222162500 +0000" stop="20201222172500 +0000" channel="A BOLA TV">
+    <title lang="pt">Amigos Da Bola</title>
+  </programme>
+  <programme start="20201222172500 +0000" stop="20201222180000 +0000" channel="A BOLA TV">
+    <title lang="pt">Motores</title>
+  </programme>
+  <programme start="20201222180000 +0000" stop="20201222183000 +0000" channel="A BOLA TV">
+    <title lang="pt">A Bola das 6</title>
+  </programme>
+  <programme start="20201222183000 +0000" stop="20201222190000 +0000" channel="A BOLA TV">
+    <title lang="pt">Os Imortais</title>
+  </programme>
+  <programme start="20201222190000 +0000" stop="20201222200000 +0000" channel="A BOLA TV">
+    <title lang="pt">A Bola das 7</title>
+  </programme>
+  <programme start="20201222200000 +0000" stop="20201222213000 +0000" channel="A BOLA TV">
+    <title lang="pt">Andebol: Belenenses x FC Porto - Camp. Nacional</title>
+  </programme>
+  <programme start="20201222213000 +0000" stop="20201222220000 +0000" channel="A BOLA TV">
+    <title lang="pt">Especial</title>
+  </programme>
+  <programme start="20201222220000 +0000" stop="20201223000000 +0000" channel="A BOLA TV">
+    <title lang="pt">A Bola da Noite</title>
+  </programme>
+  <programme start="20201222001000 +0000" stop="20201222002500 +0000" channel="Canal 11 HD">
+    <title lang="pt">Ekstraklasa - Compacto da 14ª Jornada</title>
+  </programme>
+  <programme start="20201222002500 +0000" stop="20201222004500 +0000" channel="Canal 11 HD">
+    <title lang="pt">O Meu Clube</title>
+  </programme>
+  <programme start="20201222004500 +0000" stop="20201222010000 +0000" channel="Canal 11 HD">
+    <title lang="pt">Super Liga Suíça - Compacto da 12ª e 13ª Jornada</title>
+  </programme>
+  <programme start="20201222010000 +0000" stop="20201222032000 +0000" channel="Canal 11 HD">
+    <title lang="pt">Futebol Total</title>
+  </programme>
+  <programme start="20201222032000 +0000" stop="20201222033500 +0000" channel="Canal 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Compacto da 9ª Jornada</title>
+  </programme>
+  <programme start="20201222033500 +0000" stop="20201222053000 +0000" channel="Canal 11 HD">
+    <title lang="pt">Bundesliga 2 - Karlsruher x Hamburgo</title>
+  </programme>
+  <programme start="20201222053000 +0000" stop="20201222072000 +0000" channel="Canal 11 HD">
+    <title lang="pt">Euro 2012 - Dinamarca x Portugal</title>
+  </programme>
+  <programme start="20201222072000 +0000" stop="20201222094000 +0000" channel="Canal 11 HD">
+    <title lang="pt">Futebol Total</title>
+  </programme>
+  <programme start="20201222094000 +0000" stop="20201222114500 +0000" channel="Canal 11 HD">
+    <title lang="pt">Euro 2012 - Rep. Checa x Portugal</title>
+  </programme>
+  <programme start="20201222114500 +0000" stop="20201222134500 +0000" channel="Canal 11 HD">
+    <title lang="pt">Liga Revelação - Marítimo x Sporting - Direto</title>
+  </programme>
+  <programme start="20201222134500 +0000" stop="20201222140000 +0000" channel="Canal 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Compacto da 9ª Jornada</title>
+  </programme>
+  <programme start="20201222140000 +0000" stop="20201222141500 +0000" channel="Canal 11 HD">
+    <title lang="pt">Ekstraklasa - Compacto da 14ª Jornada</title>
+  </programme>
+  <programme start="20201222141500 +0000" stop="20201222144000 +0000" channel="Canal 11 HD">
+    <title lang="pt">O Meu Clube</title>
+  </programme>
+  <programme start="20201222144000 +0000" stop="20201222150000 +0000" channel="Canal 11 HD">
+    <title lang="pt">Knockout</title>
+  </programme>
+  <programme start="20201222150000 +0000" stop="20201222170000 +0000" channel="Canal 11 HD">
+    <title lang="pt">Liga Revelação - Leixões x Famalicão - Direto</title>
+  </programme>
+  <programme start="20201222170000 +0000" stop="20201222180000 +0000" channel="Canal 11 HD">
+    <title lang="pt">Tudo É Futebol</title>
+  </programme>
+  <programme start="20201222180000 +0000" stop="20201222181500 +0000" channel="Canal 11 HD">
+    <title lang="pt">Super Liga Suíça - Compacto da 12ª e 13ª Jornada</title>
+  </programme>
+  <programme start="20201222181500 +0000" stop="20201222183000 +0000" channel="Canal 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Compacto da 9ª Jornada</title>
+  </programme>
+  <programme start="20201222183000 +0000" stop="20201222190000 +0000" channel="Canal 11 HD">
+    <title lang="pt">Casa do Futebol</title>
+  </programme>
+  <programme start="20201222190000 +0000" stop="20201222210000 +0000" channel="Canal 11 HD">
+    <title lang="pt">Campeonato de Portugal 2020-21 - Alverca x Caldas - Direto</title>
+  </programme>
+  <programme start="20201222210000 +0000" stop="20201222211500 +0000" channel="Canal 11 HD">
+    <title lang="pt">Ekstraklasa - Compacto da 14ª Jornada</title>
+  </programme>
+  <programme start="20201222211500 +0000" stop="20201222213500 +0000" channel="Canal 11 HD">
+    <title lang="pt">O Meu Clube</title>
+  </programme>
+  <programme start="20201222213500 +0000" stop="20201222215000 +0000" channel="Canal 11 HD">
+    <title lang="pt">Brasileirão Série A - Compacto da 26ª Jornada</title>
+  </programme>
+  <programme start="20201222215000 +0000" stop="20201223001000 +0000" channel="Canal 11 HD">
+    <title lang="pt">Futebol Total</title>
+  </programme>
+  <programme start="20201222002900 +0000" stop="20201222011500 +0000" channel="Eurosport 1">
+    <title lang="pt">Esqui Alpino: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222011500 +0000" stop="20201222020000 +0000" channel="Eurosport 1">
+    <title lang="pt">Esqui Alpino: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222020000 +0000" stop="20201222040100 +0000" channel="Eurosport 1">
+    <title lang="pt">Snooker: UK Championship - Final</title>
+  </programme>
+  <programme start="20201222040100 +0000" stop="20201222050300 +0000" channel="Eurosport 1">
+    <title lang="pt">Esqui Alpino: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222050300 +0000" stop="20201222053400 +0000" channel="Eurosport 1">
+    <title lang="pt">Esqui Alpino: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222053400 +0000" stop="20201222060400 +0000" channel="Eurosport 1">
+    <title lang="pt">Esqui Alpino: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222060400 +0000" stop="20201222064400 +0000" channel="Eurosport 1">
+    <title lang="pt">Esqui Alpino: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222064400 +0000" stop="20201222073300 +0000" channel="Eurosport 1">
+    <title lang="pt">Esqui Alpino: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222073300 +0000" stop="20201222080300 +0000" channel="Eurosport 1">
+    <title lang="pt">Esqui Combinado Nórdico: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222080300 +0000" stop="20201222090000 +0000" channel="Eurosport 1">
+    <title lang="pt">Esqui de Fundo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222090000 +0000" stop="20201222095700 +0000" channel="Eurosport 1">
+    <title lang="pt">Biatlo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222095700 +0000" stop="20201222110000 +0000" channel="Eurosport 1">
+    <title lang="pt">Biatlo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222110000 +0000" stop="20201222113000 +0000" channel="Eurosport 1">
+    <title lang="pt">Biatlo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222113000 +0000" stop="20201222120000 +0000" channel="Eurosport 1">
+    <title lang="pt">Biatlo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222120000 +0000" stop="20201222123100 +0000" channel="Eurosport 1">
+    <title lang="pt">Biatlo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222123100 +0000" stop="20201222130000 +0000" channel="Eurosport 1">
+    <title lang="pt">Biatlo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222133000 +0000" channel="Eurosport 1">
+    <title lang="pt">Esqui Combinado Nórdico: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222133000 +0000" stop="20201222140000 +0000" channel="Eurosport 1">
+    <title lang="pt">Esqui de Fundo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222140000 +0000" stop="20201222153600 +0000" channel="Eurosport 1">
+    <title lang="pt">Amando a Maradona</title>
+  </programme>
+  <programme start="20201222153600 +0000" stop="20201222163500 +0000" channel="Eurosport 1">
+    <title lang="pt">Esqui Alpino: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222163500 +0000" stop="20201222174500 +0000" channel="Eurosport 1">
+    <title lang="pt">Esqui Alpino: Taça do Mundo (Direto)</title>
+  </programme>
+  <programme start="20201222174500 +0000" stop="20201222175100 +0000" channel="Eurosport 1">
+    <title lang="pt">Eurosport News</title>
+  </programme>
+  <programme start="20201222175100 +0000" stop="20201222184800 +0000" channel="Eurosport 1">
+    <title lang="pt">Esqui Alpino: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222184800 +0000" stop="20201222193500 +0000" channel="Eurosport 1">
+    <title lang="pt">Esqui Alpino: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222193500 +0000" stop="20201222204500 +0000" channel="Eurosport 1">
+    <title lang="pt">Esqui Alpino: Taça do Mundo (Direto)</title>
+  </programme>
+  <programme start="20201222204500 +0000" stop="20201222205200 +0000" channel="Eurosport 1">
+    <title lang="pt">Eurosport News</title>
+  </programme>
+  <programme start="20201222205200 +0000" stop="20201222215200 +0000" channel="Eurosport 1">
+    <title lang="pt">Automobilismo: Campeonato Europeu FIA de Ralis</title>
+  </programme>
+  <programme start="20201222215200 +0000" stop="20201222224700 +0000" channel="Eurosport 1">
+    <title lang="pt">Carros de Turismo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222224700 +0000" stop="20201223002800 +0000" channel="Eurosport 1">
+    <title lang="pt">Snooker: UK Championship - Final</title>
+  </programme>
+  <programme start="20201222003000 +0000" stop="20201222010000 +0000" channel="Eurosport 2">
+    <title lang="pt">Biatlo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222010000 +0000" stop="20201222013000 +0000" channel="Eurosport 2">
+    <title lang="pt">Biatlo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222013000 +0000" stop="20201222020000 +0000" channel="Eurosport 2">
+    <title lang="pt">Biatlo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222020000 +0000" stop="20201222024500 +0000" channel="Eurosport 2">
+    <title lang="pt">Esqui Alpino: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222024500 +0000" stop="20201222033000 +0000" channel="Eurosport 2">
+    <title lang="pt">Esqui Alpino: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222033000 +0000" stop="20201222041500 +0000" channel="Eurosport 2">
+    <title lang="pt">Esqui de Fundo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222041500 +0000" stop="20201222050000 +0000" channel="Eurosport 2">
+    <title lang="pt">Esqui de Fundo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222050000 +0000" stop="20201222070000 +0000" channel="Eurosport 2">
+    <title lang="pt">Snooker: UK Championship - Final</title>
+  </programme>
+  <programme start="20201222070000 +0000" stop="20201222080000 +0000" channel="Eurosport 2">
+    <title lang="pt">Esqui de Fundo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222080000 +0000" stop="20201222090000 +0000" channel="Eurosport 2">
+    <title lang="pt">Esqui Alpino: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222090000 +0000" stop="20201222100000 +0000" channel="Eurosport 2">
+    <title lang="pt">Esqui Alpino: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222100000 +0000" stop="20201222120000 +0000" channel="Eurosport 2">
+    <title lang="pt">Snooker: UK Championship - Final</title>
+  </programme>
+  <programme start="20201222120000 +0000" stop="20201222124500 +0000" channel="Eurosport 2">
+    <title lang="pt">Esqui de Fundo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222124500 +0000" stop="20201222133000 +0000" channel="Eurosport 2">
+    <title lang="pt">Esqui de Fundo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222133000 +0000" stop="20201222143000 +0000" channel="Eurosport 2">
+    <title lang="pt">Saltos de Esqui: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222143000 +0000" stop="20201222153000 +0000" channel="Eurosport 2">
+    <title lang="pt">Saltos de Esqui: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222153000 +0000" stop="20201222173000 +0000" channel="Eurosport 2">
+    <title lang="pt">Snooker: UK Championship - Final</title>
+  </programme>
+  <programme start="20201222173000 +0000" stop="20201222180000 +0000" channel="Eurosport 2">
+    <title lang="pt">Biatlo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222180000 +0000" stop="20201222183000 +0000" channel="Eurosport 2">
+    <title lang="pt">Biatlo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222183000 +0000" stop="20201222190000 +0000" channel="Eurosport 2">
+    <title lang="pt">Biatlo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222190000 +0000" stop="20201222193000 +0000" channel="Eurosport 2">
+    <title lang="pt">Biatlo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222193000 +0000" stop="20201222193500 +0000" channel="Eurosport 2">
+    <title lang="pt">Eurosport News</title>
+  </programme>
+  <programme start="20201222193500 +0000" stop="20201222201500 +0000" channel="Eurosport 2">
+    <title lang="pt">Esqui de Fundo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222201500 +0000" stop="20201222210000 +0000" channel="Eurosport 2">
+    <title lang="pt">Esqui de Fundo: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222210000 +0000" stop="20201222225000 +0000" channel="Eurosport 2">
+    <title lang="pt">Snooker: UK Championship - Final</title>
+  </programme>
+  <programme start="20201222225000 +0000" stop="20201222225500 +0000" channel="Eurosport 2">
+    <title lang="pt">Eurosport News</title>
+  </programme>
+  <programme start="20201222225500 +0000" stop="20201222234500 +0000" channel="Eurosport 2">
+    <title lang="pt">Esqui Alpino: Taça do Mundo</title>
+  </programme>
+  <programme start="20201222234500 +0000" stop="20201223003000 +0000" channel="Eurosport 2">
+    <title lang="pt">Esqui Alpino: Taça do Mundo</title>
+  </programme>
+</tv>
