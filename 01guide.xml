@@ -1,0 +1,1779 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP 1">
+    <display-name lang="pt">RTP 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">RTP 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">SIC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">TVI</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI FICÇÃO">
+    <display-name lang="pt">TVI FICÇÃO</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvi-ficcao.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVI Reality">
+    <display-name lang="pt">TVI Reality</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC Notícias">
+    <display-name lang="pt">SIC Notícias</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI 24">
+    <display-name lang="pt">TVI 24</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 3">
+    <display-name lang="pt">RTP 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CMTV">
+    <display-name lang="pt">CMTV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC Mulher">
+    <display-name lang="pt">SIC Mulher</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC Caras">
+    <display-name lang="pt">SIC Caras</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC Radical">
+    <display-name lang="pt">SIC Radical</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Canal Q">
+    <display-name lang="pt">Canal Q</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Porto Canal">
+    <display-name lang="pt">Porto Canal</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP Memória">
+    <display-name lang="pt">RTP Memória</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP África">
+    <display-name lang="pt">RTP África</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Canção Nova">
+    <display-name lang="pt">Canção Nova</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ARTV">
+    <display-name lang="pt">ARTV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Globo">
+    <display-name lang="pt">Globo</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20201222011400 +0000" stop="20201222015800 +0000" channel="RTP 1">
+    <title lang="pt">O Último Navio</title>
+  </programme>
+  <programme start="20201222015800 +0000" stop="20201222024100 +0000" channel="RTP 1">
+    <title lang="pt">O Último Navio</title>
+  </programme>
+  <programme start="20201222024100 +0000" stop="20201222032500 +0000" channel="RTP 1">
+    <title lang="pt">O Sábio</title>
+  </programme>
+  <programme start="20201222032500 +0000" stop="20201222055900 +0000" channel="RTP 1">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20201222055900 +0000" stop="20201222063000 +0000" channel="RTP 1">
+    <title lang="pt">Manchetes 3</title>
+  </programme>
+  <programme start="20201222063000 +0000" stop="20201222100000 +0000" channel="RTP 1">
+    <title lang="pt">Bom Dia Portugal</title>
+  </programme>
+  <programme start="20201222100000 +0000" stop="20201222130000 +0000" channel="RTP 1">
+    <title lang="pt">Praça da Alegria</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222142400 +0000" channel="RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20201222142400 +0000" stop="20201222150200 +0000" channel="RTP 1">
+    <title lang="pt">Miúdo Graúdo</title>
+  </programme>
+  <programme start="20201222150200 +0000" stop="20201222173000 +0000" channel="RTP 1">
+    <title lang="pt">A Nossa Tarde</title>
+  </programme>
+  <programme start="20201222173000 +0000" stop="20201222190800 +0000" channel="RTP 1">
+    <title lang="pt">Portugal em Direto</title>
+  </programme>
+  <programme start="20201222190800 +0000" stop="20201222195900 +0000" channel="RTP 1">
+    <title lang="pt">O Preço Certo</title>
+  </programme>
+  <programme start="20201222195900 +0000" stop="20201222210000 +0000" channel="RTP 1">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20201222210000 +0000" stop="20201222213000 +0000" channel="RTP 1">
+    <title lang="pt">Presidenciais 2021 - Entrevistas</title>
+  </programme>
+  <programme start="20201222213000 +0000" stop="20201222223800 +0000" channel="RTP 1">
+    <title lang="pt">Joker - Kids</title>
+  </programme>
+  <programme start="20201222223800 +0000" stop="20201223003700 +0000" channel="RTP 1">
+    <title lang="pt">É Ou Não É? - O Grande Debate</title>
+  </programme>
+  <programme start="20201222005900 +0000" stop="20201222012900 +0000" channel="RTP 2">
+    <title lang="pt">Esec-Tv</title>
+  </programme>
+  <programme start="20201222012900 +0000" stop="20201222054500 +0000" channel="RTP 2">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20201222054500 +0000" stop="20201222063200 +0000" channel="RTP 2">
+    <title lang="pt">Lusitana Paixão</title>
+  </programme>
+  <programme start="20201222063200 +0000" stop="20201222070200 +0000" channel="RTP 2">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+  </programme>
+  <programme start="20201222070200 +0000" stop="20201222071100 +0000" channel="RTP 2">
+    <title lang="pt">Lucas e Emília</title>
+  </programme>
+  <programme start="20201222071100 +0000" stop="20201222072000 +0000" channel="RTP 2">
+    <title lang="pt">Lucas e Emília</title>
+  </programme>
+  <programme start="20201222072000 +0000" stop="20201222072900 +0000" channel="RTP 2">
+    <title lang="pt">Inui</title>
+  </programme>
+  <programme start="20201222072900 +0000" stop="20201222073600 +0000" channel="RTP 2">
+    <title lang="pt">As Aventuras da Miffy</title>
+  </programme>
+  <programme start="20201222073600 +0000" stop="20201222074400 +0000" channel="RTP 2">
+    <title lang="pt">Rato Renato</title>
+  </programme>
+  <programme start="20201222074400 +0000" stop="20201222075100 +0000" channel="RTP 2">
+    <title lang="pt">Rato Renato</title>
+  </programme>
+  <programme start="20201222075100 +0000" stop="20201222081700 +0000" channel="RTP 2">
+    <title lang="pt">Zafari</title>
+  </programme>
+  <programme start="20201222081700 +0000" stop="20201222082700 +0000" channel="RTP 2">
+    <title lang="pt">Ella, Oscar &amp; Hoo</title>
+  </programme>
+  <programme start="20201222082700 +0000" stop="20201222083800 +0000" channel="RTP 2">
+    <title lang="pt">Ella, Oscar &amp; Hoo</title>
+  </programme>
+  <programme start="20201222083800 +0000" stop="20201222084900 +0000" channel="RTP 2">
+    <title lang="pt">Kody Kapow</title>
+  </programme>
+  <programme start="20201222084900 +0000" stop="20201222090200 +0000" channel="RTP 2">
+    <title lang="pt">Twirlywoos</title>
+  </programme>
+  <programme start="20201222090200 +0000" stop="20201222090900 +0000" channel="RTP 2">
+    <title lang="pt">DesafioMagiadoNatal</title>
+  </programme>
+  <programme start="20201222090900 +0000" stop="20201222092000 +0000" channel="RTP 2">
+    <title lang="pt">Octonautas</title>
+  </programme>
+  <programme start="20201222092000 +0000" stop="20201222093300 +0000" channel="RTP 2">
+    <title lang="pt">Octonautas</title>
+  </programme>
+  <programme start="20201222093300 +0000" stop="20201222094000 +0000" channel="RTP 2">
+    <title lang="pt">Grizzy e os Lemingues</title>
+  </programme>
+  <programme start="20201222094000 +0000" stop="20201222094700 +0000" channel="RTP 2">
+    <title lang="pt">Grizzy e os Lemingues</title>
+  </programme>
+  <programme start="20201222094700 +0000" stop="20201222095400 +0000" channel="RTP 2">
+    <title lang="pt">Grizzy e os Lemingues</title>
+  </programme>
+  <programme start="20201222095400 +0000" stop="20201222100700 +0000" channel="RTP 2">
+    <title lang="pt">O Vale Encantado</title>
+  </programme>
+  <programme start="20201222100700 +0000" stop="20201222101900 +0000" channel="RTP 2">
+    <title lang="pt">O Vale Encantado</title>
+  </programme>
+  <programme start="20201222101900 +0000" stop="20201222102500 +0000" channel="RTP 2">
+    <title lang="pt">A Grande Descoberta</title>
+  </programme>
+  <programme start="20201222102500 +0000" stop="20201222104600 +0000" channel="RTP 2">
+    <title lang="pt">As Aventuras de Ladybug</title>
+  </programme>
+  <programme start="20201222104600 +0000" stop="20201222111500 +0000" channel="RTP 2">
+    <title lang="pt">As Aventuras de Ladybug</title>
+  </programme>
+  <programme start="20201222111500 +0000" stop="20201222112600 +0000" channel="RTP 2">
+    <title lang="pt">Danger Mouse</title>
+  </programme>
+  <programme start="20201222112600 +0000" stop="20201222113800 +0000" channel="RTP 2">
+    <title lang="pt">Danger Mouse</title>
+  </programme>
+  <programme start="20201222113800 +0000" stop="20201222114900 +0000" channel="RTP 2">
+    <title lang="pt">Missão Abóbora</title>
+  </programme>
+  <programme start="20201222114900 +0000" stop="20201222120000 +0000" channel="RTP 2">
+    <title lang="pt">Missão Abóbora</title>
+  </programme>
+  <programme start="20201222120000 +0000" stop="20201222121300 +0000" channel="RTP 2">
+    <title lang="pt">Lou!</title>
+  </programme>
+  <programme start="20201222121300 +0000" stop="20201222122500 +0000" channel="RTP 2">
+    <title lang="pt">Lou!</title>
+  </programme>
+  <programme start="20201222122500 +0000" stop="20201222125000 +0000" channel="RTP 2">
+    <title lang="pt">Drama Total em Ação</title>
+  </programme>
+  <programme start="20201222125000 +0000" stop="20201222132600 +0000" channel="RTP 2">
+    <title lang="pt">Visita Guiada</title>
+  </programme>
+  <programme start="20201222132600 +0000" stop="20201222140400 +0000" channel="RTP 2">
+    <title lang="pt">Portugal Que Dança</title>
+  </programme>
+  <programme start="20201222140400 +0000" stop="20201222141200 +0000" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20201222141200 +0000" stop="20201222150000 +0000" channel="RTP 2">
+    <title lang="pt">Os Durrells</title>
+  </programme>
+  <programme start="20201222150000 +0000" stop="20201222153200 +0000" channel="RTP 2">
+    <title lang="pt">A Fé dos Homens</title>
+  </programme>
+  <programme start="20201222153200 +0000" stop="20201222161700 +0000" channel="RTP 2">
+    <title lang="pt">Opera House</title>
+  </programme>
+  <programme start="20201222161700 +0000" stop="20201222171000 +0000" channel="RTP 2">
+    <title lang="pt">Revolução na Medicina: Os Capilares-Fantasma</title>
+  </programme>
+  <programme start="20201222171000 +0000" stop="20201222171600 +0000" channel="RTP 2">
+    <title lang="pt">DesafioMagiadoNatal</title>
+  </programme>
+  <programme start="20201222171600 +0000" stop="20201222172100 +0000" channel="RTP 2">
+    <title lang="pt">Kiwi</title>
+  </programme>
+  <programme start="20201222172100 +0000" stop="20201222172700 +0000" channel="RTP 2">
+    <title lang="pt">Kiwi</title>
+  </programme>
+  <programme start="20201222172700 +0000" stop="20201222173700 +0000" channel="RTP 2">
+    <title lang="pt">Ella, Oscar &amp; Hoo</title>
+  </programme>
+  <programme start="20201222173700 +0000" stop="20201222175000 +0000" channel="RTP 2">
+    <title lang="pt">Ella, Oscar &amp; Hoo</title>
+  </programme>
+  <programme start="20201222175000 +0000" stop="20201222181500 +0000" channel="RTP 2">
+    <title lang="pt">O Gato da Cartola</title>
+  </programme>
+  <programme start="20201222181500 +0000" stop="20201222182600 +0000" channel="RTP 2">
+    <title lang="pt">Danger Mouse</title>
+  </programme>
+  <programme start="20201222182600 +0000" stop="20201222184200 +0000" channel="RTP 2">
+    <title lang="pt">Danger Mouse</title>
+  </programme>
+  <programme start="20201222184200 +0000" stop="20201222190600 +0000" channel="RTP 2">
+    <title lang="pt">Boss Baby</title>
+  </programme>
+  <programme start="20201222190600 +0000" stop="20201222192900 +0000" channel="RTP 2">
+    <title lang="pt">Casa</title>
+  </programme>
+  <programme start="20201222192900 +0000" stop="20201222194000 +0000" channel="RTP 2">
+    <title lang="pt">Os Vizinhos Piratas</title>
+  </programme>
+  <programme start="20201222194000 +0000" stop="20201222200200 +0000" channel="RTP 2">
+    <title lang="pt">Vale dos Mumins</title>
+  </programme>
+  <programme start="20201222200200 +0000" stop="20201222201500 +0000" channel="RTP 2">
+    <title lang="pt">O Vale Encantado</title>
+  </programme>
+  <programme start="20201222201500 +0000" stop="20201222203700 +0000" channel="RTP 2">
+    <title lang="pt">O Vale Encantado</title>
+  </programme>
+  <programme start="20201222203700 +0000" stop="20201222213000 +0000" channel="RTP 2">
+    <title lang="pt">Ilhas Perdidas de Tóquio</title>
+  </programme>
+  <programme start="20201222213000 +0000" stop="20201222220500 +0000" channel="RTP 2">
+    <title lang="pt">Jornal 2</title>
+  </programme>
+  <programme start="20201222220500 +0000" stop="20201222235700 +0000" channel="RTP 2">
+    <title lang="pt">Luisa Spagnoli, um Conto No Feminino</title>
+  </programme>
+  <programme start="20201222235700 +0000" stop="20201223002500 +0000" channel="RTP 2">
+    <title lang="pt">Nada Será Como Dante</title>
+  </programme>
+  <programme start="20201222005500 +0000" stop="20201222031000 +0000" channel="SIC">
+    <title lang="pt">As Mulheres do Deserto</title>
+  </programme>
+  <programme start="20201222031000 +0000" stop="20201222053500 +0000" channel="SIC">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20201222053500 +0000" stop="20201222060000 +0000" channel="SIC">
+    <title lang="pt">Camilo, o Presidente</title>
+  </programme>
+  <programme start="20201222060000 +0000" stop="20201222091500 +0000" channel="SIC">
+    <title lang="pt">Edição da Manhã</title>
+  </programme>
+  <programme start="20201222091500 +0000" stop="20201222101500 +0000" channel="SIC">
+    <title lang="pt">Alô Portugal</title>
+  </programme>
+  <programme start="20201222101500 +0000" stop="20201222130000 +0000" channel="SIC">
+    <title lang="pt">Casa Feliz</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222145500 +0000" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20201222145500 +0000" stop="20201222161500 +0000" channel="SIC">
+    <title lang="pt">Rainha das Flores</title>
+  </programme>
+  <programme start="20201222161500 +0000" stop="20201222182000 +0000" channel="SIC">
+    <title lang="pt">Júlia</title>
+  </programme>
+  <programme start="20201222182000 +0000" stop="20201222190500 +0000" channel="SIC">
+    <title lang="pt">Viver a Vida</title>
+  </programme>
+  <programme start="20201222190500 +0000" stop="20201222195700 +0000" channel="SIC">
+    <title lang="pt">Êta Mundo Bom!</title>
+  </programme>
+  <programme start="20201222195700 +0000" stop="20201222215000 +0000" channel="SIC">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20201222215000 +0000" stop="20201222221500 +0000" channel="SIC">
+    <title lang="pt">Nazaré - Especial de Natal</title>
+  </programme>
+  <programme start="20201222221500 +0000" stop="20201222232000 +0000" channel="SIC">
+    <title lang="pt">Terra Brava</title>
+  </programme>
+  <programme start="20201222232000 +0000" stop="20201223000000 +0000" channel="SIC">
+    <title lang="pt">Golpe de Sorte</title>
+  </programme>
+  <programme start="20201222020000 +0000" stop="20201222023700 +0000" channel="TVI">
+    <title lang="pt">Big Brother - A Revolução - Ligação à Casa</title>
+  </programme>
+  <programme start="20201222023700 +0000" stop="20201222043000 +0000" channel="TVI">
+    <title lang="pt">A Outra</title>
+  </programme>
+  <programme start="20201222043000 +0000" stop="20201222060000 +0000" channel="TVI">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20201222060000 +0000" stop="20201222063000 +0000" channel="TVI">
+    <title lang="pt">Os Batanetes</title>
+  </programme>
+  <programme start="20201222063000 +0000" stop="20201222101500 +0000" channel="TVI">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20201222101500 +0000" stop="20201222130000 +0000" channel="TVI">
+    <title lang="pt">Você na TV!</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222145500 +0000" channel="TVI">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20201222145500 +0000" stop="20201222161500 +0000" channel="TVI">
+    <title lang="pt">Destinos Cruzados</title>
+  </programme>
+  <programme start="20201222161500 +0000" stop="20201222181500 +0000" channel="TVI">
+    <title lang="pt">A Tarde é Sua</title>
+  </programme>
+  <programme start="20201222181500 +0000" stop="20201222191500 +0000" channel="TVI">
+    <title lang="pt">Big Brother - A Revolução - Última Hora</title>
+  </programme>
+  <programme start="20201222191500 +0000" stop="20201222195700 +0000" channel="TVI">
+    <title lang="pt">Big Brother - A Revolução - Diário</title>
+  </programme>
+  <programme start="20201222195700 +0000" stop="20201222215000 +0000" channel="TVI">
+    <title lang="pt">Jornal das 8</title>
+  </programme>
+  <programme start="20201222215000 +0000" stop="20201222225700 +0000" channel="TVI">
+    <title lang="pt">Bem Me Quer</title>
+  </programme>
+  <programme start="20201222225700 +0000" stop="20201223000000 +0000" channel="TVI">
+    <title lang="pt">Amar Demais</title>
+  </programme>
+  <programme start="20201222024800 +0000" stop="20201222034000 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">A Herdeira</title>
+  </programme>
+  <programme start="20201222034000 +0000" stop="20201222043200 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">Inspetor Max</title>
+  </programme>
+  <programme start="20201222043200 +0000" stop="20201222053800 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">Os Batanetes</title>
+  </programme>
+  <programme start="20201222053800 +0000" stop="20201222063000 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">Vasquinho e Cª</title>
+  </programme>
+  <programme start="20201222063000 +0000" stop="20201222071100 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">Onde Está Elisa?</title>
+  </programme>
+  <programme start="20201222071100 +0000" stop="20201222075300 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">Detetive Maravilhas</title>
+  </programme>
+  <programme start="20201222075300 +0000" stop="20201222084600 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">Morangos Com Açúcar</title>
+  </programme>
+  <programme start="20201222084600 +0000" stop="20201222093600 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">Ninguém Como Tu</title>
+  </programme>
+  <programme start="20201222093600 +0000" stop="20201222102900 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">Inspetor Max</title>
+  </programme>
+  <programme start="20201222102900 +0000" stop="20201222105600 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">O Prédio do Vasco</title>
+  </programme>
+  <programme start="20201222105600 +0000" stop="20201222114600 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">A Herdeira</title>
+  </programme>
+  <programme start="20201222114600 +0000" stop="20201222131700 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">A Única Mulher</title>
+  </programme>
+  <programme start="20201222131700 +0000" stop="20201222141800 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">Os Batanetes</title>
+  </programme>
+  <programme start="20201222141800 +0000" stop="20201222151500 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">O Prédio do Vasco</title>
+  </programme>
+  <programme start="20201222151500 +0000" stop="20201222160800 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">Morangos Com Açúcar</title>
+  </programme>
+  <programme start="20201222160800 +0000" stop="20201222170100 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">Ninguém Como Tu</title>
+  </programme>
+  <programme start="20201222170100 +0000" stop="20201222174400 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">Onde Está Elisa?</title>
+  </programme>
+  <programme start="20201222174400 +0000" stop="20201222191800 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">A Única Mulher</title>
+  </programme>
+  <programme start="20201222191800 +0000" stop="20201222200500 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">A Herdeira</title>
+  </programme>
+  <programme start="20201222200500 +0000" stop="20201222210000 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">Inspetor Max</title>
+  </programme>
+  <programme start="20201222210000 +0000" stop="20201222223600 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">Os Batanetes</title>
+  </programme>
+  <programme start="20201222223600 +0000" stop="20201222233100 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">Vasquinho e Cª</title>
+  </programme>
+  <programme start="20201222233100 +0000" stop="20201223002500 +0000" channel="TVI FICÇÃO">
+    <title lang="pt">Ninguém Como Tu</title>
+  </programme>
+  <programme start="20201222020000 +0000" stop="20201222030000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother - A Revolução - Direto</title>
+  </programme>
+  <programme start="20201222030000 +0000" stop="20201222060000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother - A Revolução - Direto</title>
+  </programme>
+  <programme start="20201222060000 +0000" stop="20201222090000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother - A Revolução - Direto</title>
+  </programme>
+  <programme start="20201222090000 +0000" stop="20201222100000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother - A Revolução - Extra</title>
+  </programme>
+  <programme start="20201222100000 +0000" stop="20201222180000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother - A Revolução - Direto</title>
+  </programme>
+  <programme start="20201222180000 +0000" stop="20201222200000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother - A Revolução</title>
+  </programme>
+  <programme start="20201222200000 +0000" stop="20201223000000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother - A Revolução - Direto</title>
+  </programme>
+  <programme start="20201222011500 +0000" stop="20201222014000 +0000" channel="SIC Notícias">
+    <title lang="pt">Primeira Página</title>
+  </programme>
+  <programme start="20201222014000 +0000" stop="20201222023500 +0000" channel="SIC Notícias">
+    <title lang="pt">Polígrafo SIC</title>
+  </programme>
+  <programme start="20201222023500 +0000" stop="20201222030000 +0000" channel="SIC Notícias">
+    <title lang="pt">Primeira Página</title>
+  </programme>
+  <programme start="20201222030000 +0000" stop="20201222034000 +0000" channel="SIC Notícias">
+    <title lang="pt">60 Minutos</title>
+  </programme>
+  <programme start="20201222034000 +0000" stop="20201222040500 +0000" channel="SIC Notícias">
+    <title lang="pt">Primeira Página</title>
+  </programme>
+  <programme start="20201222040500 +0000" stop="20201222042500 +0000" channel="SIC Notícias">
+    <title lang="pt">Reportagem Especial</title>
+  </programme>
+  <programme start="20201222042500 +0000" stop="20201222051500 +0000" channel="SIC Notícias">
+    <title lang="pt">Toda a Verdade: EUA - Abismo da Pandemia</title>
+  </programme>
+  <programme start="20201222051500 +0000" stop="20201222052500 +0000" channel="SIC Notícias">
+    <title lang="pt">The Next Big Idea</title>
+  </programme>
+  <programme start="20201222052500 +0000" stop="20201222053500 +0000" channel="SIC Notícias">
+    <title lang="pt">S.O.S. Pandemia</title>
+  </programme>
+  <programme start="20201222053500 +0000" stop="20201222060000 +0000" channel="SIC Notícias">
+    <title lang="pt">Primeira Página</title>
+  </programme>
+  <programme start="20201222060000 +0000" stop="20201222094500 +0000" channel="SIC Notícias">
+    <title lang="pt">Edição da Manhã</title>
+  </programme>
+  <programme start="20201222094500 +0000" stop="20201222095000 +0000" channel="SIC Notícias">
+    <title lang="pt">Futuro Hoje</title>
+  </programme>
+  <programme start="20201222095000 +0000" stop="20201222100000 +0000" channel="SIC Notícias">
+    <title lang="pt">Golf Report</title>
+  </programme>
+  <programme start="20201222100000 +0000" stop="20201222110000 +0000" channel="SIC Notícias">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20201222110000 +0000" stop="20201222120000 +0000" channel="SIC Notícias">
+    <title lang="pt">Opinião Pública</title>
+  </programme>
+  <programme start="20201222120000 +0000" stop="20201222130000 +0000" channel="SIC Notícias">
+    <title lang="pt">Jornal do Meio-Dia</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222144500 +0000" channel="SIC Notícias">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20201222144500 +0000" stop="20201222150000 +0000" channel="SIC Notícias">
+    <title lang="pt">Jornal das Duas</title>
+  </programme>
+  <programme start="20201222150000 +0000" stop="20201222170000 +0000" channel="SIC Notícias">
+    <title lang="pt">Edição da Tarde</title>
+  </programme>
+  <programme start="20201222170000 +0000" stop="20201222175500 +0000" channel="SIC Notícias">
+    <title lang="pt">Edição da Tarde</title>
+  </programme>
+  <programme start="20201222175500 +0000" stop="20201222185500 +0000" channel="SIC Notícias">
+    <title lang="pt">Jogo Aberto</title>
+  </programme>
+  <programme start="20201222185500 +0000" stop="20201222195700 +0000" channel="SIC Notícias">
+    <title lang="pt">Jornal das 7</title>
+  </programme>
+  <programme start="20201222195700 +0000" stop="20201222213000 +0000" channel="SIC Notícias">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20201222213000 +0000" stop="20201222230000 +0000" channel="SIC Notícias">
+    <title lang="pt">Edição da Noite</title>
+  </programme>
+  <programme start="20201222230000 +0000" stop="20201223000000 +0000" channel="SIC Notícias">
+    <title lang="pt">Tempo Extra</title>
+  </programme>
+  <programme start="20201222010000 +0000" stop="20201222015200 +0000" channel="TVI 24">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201222015200 +0000" stop="20201222024800 +0000" channel="TVI 24">
+    <title lang="pt">A Equipa</title>
+  </programme>
+  <programme start="20201222024800 +0000" stop="20201222034100 +0000" channel="TVI 24">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201222034100 +0000" stop="20201222040000 +0000" channel="TVI 24">
+    <title lang="pt">GTI</title>
+  </programme>
+  <programme start="20201222040000 +0000" stop="20201222060000 +0000" channel="TVI 24">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20201222060000 +0000" stop="20201222063000 +0000" channel="TVI 24">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201222063000 +0000" stop="20201222100000 +0000" channel="TVI 24">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20201222100000 +0000" stop="20201222110000 +0000" channel="TVI 24">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201222110000 +0000" stop="20201222120000 +0000" channel="TVI 24">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201222120000 +0000" stop="20201222130000 +0000" channel="TVI 24">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222145300 +0000" channel="TVI 24">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20201222145300 +0000" stop="20201222160000 +0000" channel="TVI 24">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201222160000 +0000" stop="20201222170000 +0000" channel="TVI 24">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201222170000 +0000" stop="20201222175500 +0000" channel="TVI 24">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201222175500 +0000" stop="20201222190000 +0000" channel="TVI 24">
+    <title lang="pt">Mais Bastidores</title>
+  </programme>
+  <programme start="20201222190000 +0000" stop="20201222195700 +0000" channel="TVI 24">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201222195700 +0000" stop="20201222213100 +0000" channel="TVI 24">
+    <title lang="pt">Jornal das 8</title>
+  </programme>
+  <programme start="20201222213100 +0000" stop="20201222214500 +0000" channel="TVI 24">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201222214500 +0000" stop="20201223000000 +0000" channel="TVI 24">
+    <title lang="pt">Noite 24</title>
+  </programme>
+  <programme start="20201222010000 +0000" stop="20201222013000 +0000" channel="RTP 3">
+    <title lang="pt">Manchetes 3</title>
+  </programme>
+  <programme start="20201222013000 +0000" stop="20201222014500 +0000" channel="RTP 3">
+    <title lang="pt">As Horas Extraordinárias</title>
+  </programme>
+  <programme start="20201222014500 +0000" stop="20201222021500 +0000" channel="RTP 3">
+    <title lang="pt">Presidenciais 2021 - Entrevistas</title>
+  </programme>
+  <programme start="20201222021500 +0000" stop="20201222031000 +0000" channel="RTP 3">
+    <title lang="pt">Tudo é Economia</title>
+  </programme>
+  <programme start="20201222031000 +0000" stop="20201222034000 +0000" channel="RTP 3">
+    <title lang="pt">Todas as Palavras</title>
+  </programme>
+  <programme start="20201222034000 +0000" stop="20201222040000 +0000" channel="RTP 3">
+    <title lang="pt">Europa Minha</title>
+  </programme>
+  <programme start="20201222040000 +0000" stop="20201222043000 +0000" channel="RTP 3">
+    <title lang="pt">Eixo Norte Sul</title>
+  </programme>
+  <programme start="20201222043000 +0000" stop="20201222050000 +0000" channel="RTP 3">
+    <title lang="pt">Manchetes 3</title>
+  </programme>
+  <programme start="20201222050000 +0000" stop="20201222053000 +0000" channel="RTP 3">
+    <title lang="pt">Telejornal Madeira</title>
+  </programme>
+  <programme start="20201222053000 +0000" stop="20201222060000 +0000" channel="RTP 3">
+    <title lang="pt">Telejornal Açores</title>
+  </programme>
+  <programme start="20201222060000 +0000" stop="20201222063000 +0000" channel="RTP 3">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+  </programme>
+  <programme start="20201222063000 +0000" stop="20201222075500 +0000" channel="RTP 3">
+    <title lang="pt">Bom Dia Portugal</title>
+  </programme>
+  <programme start="20201222075500 +0000" stop="20201222080000 +0000" channel="RTP 3">
+    <title lang="pt">Mundo Automóvel</title>
+  </programme>
+  <programme start="20201222080000 +0000" stop="20201222100000 +0000" channel="RTP 3">
+    <title lang="pt">Bom Dia Portugal</title>
+  </programme>
+  <programme start="20201222100000 +0000" stop="20201222105000 +0000" channel="RTP 3">
+    <title lang="pt">3 às 10</title>
+  </programme>
+  <programme start="20201222105000 +0000" stop="20201222110000 +0000" channel="RTP 3">
+    <title lang="pt">Em Busca do Museu Desconhecido</title>
+  </programme>
+  <programme start="20201222110000 +0000" stop="20201222120000 +0000" channel="RTP 3">
+    <title lang="pt">3 às 11</title>
+  </programme>
+  <programme start="20201222120000 +0000" stop="20201222130000 +0000" channel="RTP 3">
+    <title lang="pt">Jornal das 12</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222140000 +0000" channel="RTP 3">
+    <title lang="pt">Amanpour Shows</title>
+  </programme>
+  <programme start="20201222140000 +0000" stop="20201222150000 +0000" channel="RTP 3">
+    <title lang="pt">3 às 14</title>
+  </programme>
+  <programme start="20201222150000 +0000" stop="20201222153000 +0000" channel="RTP 3">
+    <title lang="pt">3 às 15</title>
+  </programme>
+  <programme start="20201222153000 +0000" stop="20201222155000 +0000" channel="RTP 3">
+    <title lang="pt">Eixo Norte Sul</title>
+  </programme>
+  <programme start="20201222155000 +0000" stop="20201222160000 +0000" channel="RTP 3">
+    <title lang="pt">Zoom África</title>
+  </programme>
+  <programme start="20201222160000 +0000" stop="20201222170000 +0000" channel="RTP 3">
+    <title lang="pt">3 às 16</title>
+  </programme>
+  <programme start="20201222170000 +0000" stop="20201222180000 +0000" channel="RTP 3">
+    <title lang="pt">3 às 17</title>
+  </programme>
+  <programme start="20201222180000 +0000" stop="20201222185000 +0000" channel="RTP 3">
+    <title lang="pt">18/20</title>
+  </programme>
+  <programme start="20201222185000 +0000" stop="20201222190000 +0000" channel="RTP 3">
+    <title lang="pt">As Horas Extraordinárias</title>
+  </programme>
+  <programme start="20201222190000 +0000" stop="20201222200000 +0000" channel="RTP 3">
+    <title lang="pt">18/20</title>
+  </programme>
+  <programme start="20201222200000 +0000" stop="20201222204500 +0000" channel="RTP 3">
+    <title lang="pt">Defensor da Fé</title>
+  </programme>
+  <programme start="20201222204500 +0000" stop="20201222210000 +0000" channel="RTP 3">
+    <title lang="pt">360º</title>
+  </programme>
+  <programme start="20201222210000 +0000" stop="20201222213000 +0000" channel="RTP 3">
+    <title lang="pt">Presidenciais 2021 - Entrevistas</title>
+  </programme>
+  <programme start="20201222213000 +0000" stop="20201222230000 +0000" channel="RTP 3">
+    <title lang="pt">360º</title>
+  </programme>
+  <programme start="20201222230000 +0000" stop="20201223000000 +0000" channel="RTP 3">
+    <title lang="pt">Especial 3 - Análise ao ano que está a acabar</title>
+  </programme>
+  <programme start="20201222003000 +0000" stop="20201222013000 +0000" channel="CMTV">
+    <title lang="pt">Rua Segura</title>
+  </programme>
+  <programme start="20201222013000 +0000" stop="20201222022000 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20201222022000 +0000" stop="20201222023000 +0000" channel="CMTV">
+    <title lang="pt">Hora Record</title>
+  </programme>
+  <programme start="20201222023000 +0000" stop="20201222035500 +0000" channel="CMTV">
+    <title lang="pt">Boulevard</title>
+  </programme>
+  <programme start="20201222035500 +0000" stop="20201222050000 +0000" channel="CMTV">
+    <title lang="pt">Alguém Perdeu</title>
+  </programme>
+  <programme start="20201222050000 +0000" stop="20201222060000 +0000" channel="CMTV">
+    <title lang="pt">Rua Segura</title>
+  </programme>
+  <programme start="20201222060000 +0000" stop="20201222090800 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20201222090800 +0000" stop="20201222105700 +0000" channel="CMTV">
+    <title lang="pt">Manhã CM</title>
+  </programme>
+  <programme start="20201222105700 +0000" stop="20201222115700 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20201222115700 +0000" stop="20201222145700 +0000" channel="CMTV">
+    <title lang="pt">CM Jornal Hora do Almoço</title>
+  </programme>
+  <programme start="20201222145700 +0000" stop="20201222175700 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20201222175700 +0000" stop="20201222185300 +0000" channel="CMTV">
+    <title lang="pt">Mercado</title>
+  </programme>
+  <programme start="20201222185300 +0000" stop="20201222194500 +0000" channel="CMTV">
+    <title lang="pt">Jornal às 7</title>
+  </programme>
+  <programme start="20201222194500 +0000" stop="20201222211000 +0000" channel="CMTV">
+    <title lang="pt">CM Jornal 20H</title>
+  </programme>
+  <programme start="20201222211000 +0000" stop="20201222215700 +0000" channel="CMTV">
+    <title lang="pt">Investigação CM</title>
+  </programme>
+  <programme start="20201222215700 +0000" stop="20201223003000 +0000" channel="CMTV">
+    <title lang="pt">Liga D</title>
+  </programme>
+  <programme start="20201222002800 +0000" stop="20201222005300 +0000" channel="SIC Mulher">
+    <title lang="pt">Married At First Sight Austrália</title>
+  </programme>
+  <programme start="20201222005300 +0000" stop="20201222012000 +0000" channel="SIC Mulher">
+    <title lang="pt">Married At First Sight Austrália</title>
+  </programme>
+  <programme start="20201222012000 +0000" stop="20201222020000 +0000" channel="SIC Mulher">
+    <title lang="pt">The Good Wife</title>
+  </programme>
+  <programme start="20201222020000 +0000" stop="20201222022500 +0000" channel="SIC Mulher">
+    <title lang="pt">Undressed Austrália</title>
+  </programme>
+  <programme start="20201222022500 +0000" stop="20201222024900 +0000" channel="SIC Mulher">
+    <title lang="pt">Eu Quero Arrumar</title>
+  </programme>
+  <programme start="20201222024900 +0000" stop="20201222033500 +0000" channel="SIC Mulher">
+    <title lang="pt">Love It Or List It Vancouver</title>
+  </programme>
+  <programme start="20201222033500 +0000" stop="20201222041900 +0000" channel="SIC Mulher">
+    <title lang="pt">The Good Wife</title>
+  </programme>
+  <programme start="20201222041900 +0000" stop="20201222050200 +0000" channel="SIC Mulher">
+    <title lang="pt">Hoarders</title>
+  </programme>
+  <programme start="20201222050200 +0000" stop="20201222053800 +0000" channel="SIC Mulher">
+    <title lang="pt">America</title>
+  </programme>
+  <programme start="20201222053800 +0000" stop="20201222063300 +0000" channel="SIC Mulher">
+    <title lang="pt">Faz Sentido</title>
+  </programme>
+  <programme start="20201222063300 +0000" stop="20201222073100 +0000" channel="SIC Mulher">
+    <title lang="pt">Faz Sentido</title>
+  </programme>
+  <programme start="20201222073100 +0000" stop="20201222081800 +0000" channel="SIC Mulher">
+    <title lang="pt">The Good Wife</title>
+  </programme>
+  <programme start="20201222081800 +0000" stop="20201222085800 +0000" channel="SIC Mulher">
+    <title lang="pt">Dr. Phil</title>
+  </programme>
+  <programme start="20201222085800 +0000" stop="20201222092700 +0000" channel="SIC Mulher">
+    <title lang="pt">Mesa Luisa</title>
+  </programme>
+  <programme start="20201222092700 +0000" stop="20201222101300 +0000" channel="SIC Mulher">
+    <title lang="pt">Hoarders</title>
+  </programme>
+  <programme start="20201222101300 +0000" stop="20201222103600 +0000" channel="SIC Mulher">
+    <title lang="pt">Married At First Sight Austrália</title>
+  </programme>
+  <programme start="20201222103600 +0000" stop="20201222110600 +0000" channel="SIC Mulher">
+    <title lang="pt">Married At First Sight Austrália</title>
+  </programme>
+  <programme start="20201222110600 +0000" stop="20201222114200 +0000" channel="SIC Mulher">
+    <title lang="pt">What</title>
+  </programme>
+  <programme start="20201222114200 +0000" stop="20201222120700 +0000" channel="SIC Mulher">
+    <title lang="pt">Eu Quero Arrumar</title>
+  </programme>
+  <programme start="20201222120700 +0000" stop="20201222124500 +0000" channel="SIC Mulher">
+    <title lang="pt">Casa Nova, Vida Nova</title>
+  </programme>
+  <programme start="20201222124500 +0000" stop="20201222134700 +0000" channel="SIC Mulher">
+    <title lang="pt">Joias TV - Televendas</title>
+  </programme>
+  <programme start="20201222134700 +0000" stop="20201222143300 +0000" channel="SIC Mulher">
+    <title lang="pt">My Dream Home</title>
+  </programme>
+  <programme start="20201222143300 +0000" stop="20201222151900 +0000" channel="SIC Mulher">
+    <title lang="pt">My Dream Home</title>
+  </programme>
+  <programme start="20201222151900 +0000" stop="20201222160200 +0000" channel="SIC Mulher">
+    <title lang="pt">Hoarders</title>
+  </programme>
+  <programme start="20201222160200 +0000" stop="20201222164800 +0000" channel="SIC Mulher">
+    <title lang="pt">Hoarders</title>
+  </programme>
+  <programme start="20201222164800 +0000" stop="20201222172900 +0000" channel="SIC Mulher">
+    <title lang="pt">America</title>
+  </programme>
+  <programme start="20201222172900 +0000" stop="20201222181200 +0000" channel="SIC Mulher">
+    <title lang="pt">America</title>
+  </programme>
+  <programme start="20201222181200 +0000" stop="20201222183700 +0000" channel="SIC Mulher">
+    <title lang="pt">Married At First Sight Austrália</title>
+  </programme>
+  <programme start="20201222183700 +0000" stop="20201222190600 +0000" channel="SIC Mulher">
+    <title lang="pt">Married At First Sight Austrália</title>
+  </programme>
+  <programme start="20201222190600 +0000" stop="20201222195100 +0000" channel="SIC Mulher">
+    <title lang="pt">Love It Or List It Vancouver</title>
+  </programme>
+  <programme start="20201222195100 +0000" stop="20201222204600 +0000" channel="SIC Mulher">
+    <title lang="pt">Love It Or List It Vancouver</title>
+  </programme>
+  <programme start="20201222204600 +0000" stop="20201222214200 +0000" channel="SIC Mulher">
+    <title lang="pt">My Dream Home</title>
+  </programme>
+  <programme start="20201222214200 +0000" stop="20201222223200 +0000" channel="SIC Mulher">
+    <title lang="pt">My Dream Home</title>
+  </programme>
+  <programme start="20201222223200 +0000" stop="20201222225200 +0000" channel="SIC Mulher">
+    <title lang="pt">MasterChef Austrália</title>
+  </programme>
+  <programme start="20201222225200 +0000" stop="20201222233000 +0000" channel="SIC Mulher">
+    <title lang="pt">MasterChef Austrália</title>
+  </programme>
+  <programme start="20201222233000 +0000" stop="20201222234700 +0000" channel="SIC Mulher">
+    <title lang="pt">America</title>
+  </programme>
+  <programme start="20201222234700 +0000" stop="20201223001900 +0000" channel="SIC Mulher">
+    <title lang="pt">America</title>
+  </programme>
+  <programme start="20201222004100 +0000" stop="20201222012300 +0000" channel="SIC Caras">
+    <title lang="pt">Barcos com Amor</title>
+  </programme>
+  <programme start="20201222012300 +0000" stop="20201222020500 +0000" channel="SIC Caras">
+    <title lang="pt">Barcos com Amor</title>
+  </programme>
+  <programme start="20201222020500 +0000" stop="20201222024800 +0000" channel="SIC Caras">
+    <title lang="pt">Dança no Gelo</title>
+  </programme>
+  <programme start="20201222024800 +0000" stop="20201222041900 +0000" channel="SIC Caras">
+    <title lang="pt">Passadeira Vermelha</title>
+  </programme>
+  <programme start="20201222041900 +0000" stop="20201222044500 +0000" channel="SIC Caras">
+    <title lang="pt">Mansões à Venda</title>
+  </programme>
+  <programme start="20201222044500 +0000" stop="20201222050700 +0000" channel="SIC Caras">
+    <title lang="pt">Mansão à Vista</title>
+  </programme>
+  <programme start="20201222050700 +0000" stop="20201222055300 +0000" channel="SIC Caras">
+    <title lang="pt">Tesouras e Tesouros</title>
+  </programme>
+  <programme start="20201222055300 +0000" stop="20201222072300 +0000" channel="SIC Caras">
+    <title lang="pt">Passadeira Vermelha</title>
+  </programme>
+  <programme start="20201222072300 +0000" stop="20201222074500 +0000" channel="SIC Caras">
+    <title lang="pt">Fama Show</title>
+  </programme>
+  <programme start="20201222074500 +0000" stop="20201222091500 +0000" channel="SIC Caras">
+    <title lang="pt">Passadeira Vermelha</title>
+  </programme>
+  <programme start="20201222091500 +0000" stop="20201222100000 +0000" channel="SIC Caras">
+    <title lang="pt">A Casamenteira</title>
+  </programme>
+  <programme start="20201222100000 +0000" stop="20201222104200 +0000" channel="SIC Caras">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20201222104200 +0000" stop="20201222111600 +0000" channel="SIC Caras">
+    <title lang="pt">E-Especial</title>
+  </programme>
+  <programme start="20201222111600 +0000" stop="20201222115800 +0000" channel="SIC Caras">
+    <title lang="pt">Primeiras Damas</title>
+  </programme>
+  <programme start="20201222115800 +0000" stop="20201222121900 +0000" channel="SIC Caras">
+    <title lang="pt">Mansão à Vista</title>
+  </programme>
+  <programme start="20201222121900 +0000" stop="20201222130200 +0000" channel="SIC Caras">
+    <title lang="pt">O Cruzeiro Mais Caro do Mundo</title>
+  </programme>
+  <programme start="20201222130200 +0000" stop="20201222134500 +0000" channel="SIC Caras">
+    <title lang="pt">Bloco de Obra</title>
+  </programme>
+  <programme start="20201222134500 +0000" stop="20201222142700 +0000" channel="SIC Caras">
+    <title lang="pt">Ellen</title>
+  </programme>
+  <programme start="20201222142700 +0000" stop="20201222151100 +0000" channel="SIC Caras">
+    <title lang="pt">Primeiras Damas</title>
+  </programme>
+  <programme start="20201222151100 +0000" stop="20201222155200 +0000" channel="SIC Caras">
+    <title lang="pt">Os Jogos de Ellen</title>
+  </programme>
+  <programme start="20201222155200 +0000" stop="20201222163500 +0000" channel="SIC Caras">
+    <title lang="pt">Os Jogos de Ellen</title>
+  </programme>
+  <programme start="20201222163500 +0000" stop="20201222171800 +0000" channel="SIC Caras">
+    <title lang="pt">Barcos com Amor - Sailing Yatch</title>
+  </programme>
+  <programme start="20201222171800 +0000" stop="20201222180100 +0000" channel="SIC Caras">
+    <title lang="pt">Barcos com Amor - Sailing Yatch</title>
+  </programme>
+  <programme start="20201222180100 +0000" stop="20201222184400 +0000" channel="SIC Caras">
+    <title lang="pt">O Cruzeiro Mais Caro do Mundo</title>
+  </programme>
+  <programme start="20201222184400 +0000" stop="20201222192800 +0000" channel="SIC Caras">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20201222192800 +0000" stop="20201222201400 +0000" channel="SIC Caras">
+    <title lang="pt">Princesas Americanas</title>
+  </programme>
+  <programme start="20201222201400 +0000" stop="20201222205600 +0000" channel="SIC Caras">
+    <title lang="pt">Primeiras Damas</title>
+  </programme>
+  <programme start="20201222205600 +0000" stop="20201222214000 +0000" channel="SIC Caras">
+    <title lang="pt">Ellen</title>
+  </programme>
+  <programme start="20201222214000 +0000" stop="20201222220600 +0000" channel="SIC Caras">
+    <title lang="pt">Mansões à Venda</title>
+  </programme>
+  <programme start="20201222220600 +0000" stop="20201222222900 +0000" channel="SIC Caras">
+    <title lang="pt">Mansão à Vista</title>
+  </programme>
+  <programme start="20201222222900 +0000" stop="20201222231100 +0000" channel="SIC Caras">
+    <title lang="pt">Os Jogos de Ellen</title>
+  </programme>
+  <programme start="20201222231100 +0000" stop="20201222235300 +0000" channel="SIC Caras">
+    <title lang="pt">Os Jogos de Ellen</title>
+  </programme>
+  <programme start="20201222235300 +0000" stop="20201223003700 +0000" channel="SIC Caras">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20201222002800 +0000" stop="20201222012100 +0000" channel="SIC Radical">
+    <title lang="pt">O Negócio</title>
+  </programme>
+  <programme start="20201222012100 +0000" stop="20201222021900 +0000" channel="SIC Radical">
+    <title lang="pt">O Negócio</title>
+  </programme>
+  <programme start="20201222021900 +0000" stop="20201222030300 +0000" channel="SIC Radical">
+    <title lang="pt">My Cat From Hell</title>
+  </programme>
+  <programme start="20201222030300 +0000" stop="20201222035700 +0000" channel="SIC Radical">
+    <title lang="pt">Advnce Show</title>
+  </programme>
+  <programme start="20201222035700 +0000" stop="20201222044200 +0000" channel="SIC Radical">
+    <title lang="pt">Curto Circuito Home Edition</title>
+  </programme>
+  <programme start="20201222044200 +0000" stop="20201222051300 +0000" channel="SIC Radical">
+    <title lang="pt">Very Typical</title>
+  </programme>
+  <programme start="20201222051300 +0000" stop="20201222060000 +0000" channel="SIC Radical">
+    <title lang="pt">Curto Circuito</title>
+  </programme>
+  <programme start="20201222060000 +0000" stop="20201222064400 +0000" channel="SIC Radical">
+    <title lang="pt">Curto Circuito</title>
+  </programme>
+  <programme start="20201222064400 +0000" stop="20201222072800 +0000" channel="SIC Radical">
+    <title lang="pt">Lago dos Tubarões</title>
+  </programme>
+  <programme start="20201222072800 +0000" stop="20201222075100 +0000" channel="SIC Radical">
+    <title lang="pt">Naruto</title>
+  </programme>
+  <programme start="20201222075100 +0000" stop="20201222081400 +0000" channel="SIC Radical">
+    <title lang="pt">Naruto</title>
+  </programme>
+  <programme start="20201222081400 +0000" stop="20201222085800 +0000" channel="SIC Radical">
+    <title lang="pt">Curto Circuito</title>
+  </programme>
+  <programme start="20201222085800 +0000" stop="20201222090900 +0000" channel="SIC Radical">
+    <title lang="pt">Cinetendinha</title>
+  </programme>
+  <programme start="20201222090900 +0000" stop="20201222101000 +0000" channel="SIC Radical">
+    <title lang="pt">Alone</title>
+  </programme>
+  <programme start="20201222101000 +0000" stop="20201222105100 +0000" channel="SIC Radical">
+    <title lang="pt">The Tonight Show Starring Jimmy Fallon</title>
+  </programme>
+  <programme start="20201222105100 +0000" stop="20201222113500 +0000" channel="SIC Radical">
+    <title lang="pt">Love Island Australia</title>
+  </programme>
+  <programme start="20201222113500 +0000" stop="20201222121500 +0000" channel="SIC Radical">
+    <title lang="pt">Love Island Australia</title>
+  </programme>
+  <programme start="20201222121500 +0000" stop="20201222125900 +0000" channel="SIC Radical">
+    <title lang="pt">My Cat From Hell</title>
+  </programme>
+  <programme start="20201222125900 +0000" stop="20201222135400 +0000" channel="SIC Radical">
+    <title lang="pt">Gameplay</title>
+  </programme>
+  <programme start="20201222135400 +0000" stop="20201222141700 +0000" channel="SIC Radical">
+    <title lang="pt">Naruto</title>
+  </programme>
+  <programme start="20201222141700 +0000" stop="20201222144100 +0000" channel="SIC Radical">
+    <title lang="pt">Naruto</title>
+  </programme>
+  <programme start="20201222144100 +0000" stop="20201222152500 +0000" channel="SIC Radical">
+    <title lang="pt">Lago dos Tubarões</title>
+  </programme>
+  <programme start="20201222152500 +0000" stop="20201222160800 +0000" channel="SIC Radical">
+    <title lang="pt">Love Island</title>
+  </programme>
+  <programme start="20201222160800 +0000" stop="20201222165500 +0000" channel="SIC Radical">
+    <title lang="pt">Love Island</title>
+  </programme>
+  <programme start="20201222165500 +0000" stop="20201222174100 +0000" channel="SIC Radical">
+    <title lang="pt">Shark Tank Brasil</title>
+  </programme>
+  <programme start="20201222174100 +0000" stop="20201222182600 +0000" channel="SIC Radical">
+    <title lang="pt">Love Island Australia</title>
+  </programme>
+  <programme start="20201222182600 +0000" stop="20201222191600 +0000" channel="SIC Radical">
+    <title lang="pt">Love Island Australia</title>
+  </programme>
+  <programme start="20201222191600 +0000" stop="20201222195900 +0000" channel="SIC Radical">
+    <title lang="pt">Lago dos Tubarões</title>
+  </programme>
+  <programme start="20201222195900 +0000" stop="20201222204300 +0000" channel="SIC Radical">
+    <title lang="pt">My Cat From Hell</title>
+  </programme>
+  <programme start="20201222204300 +0000" stop="20201222210400 +0000" channel="SIC Radical">
+    <title lang="pt">Impractical Jokers</title>
+  </programme>
+  <programme start="20201222210400 +0000" stop="20201222214500 +0000" channel="SIC Radical">
+    <title lang="pt">The Tonight Show Starring Jimmy Fallon</title>
+  </programme>
+  <programme start="20201222214500 +0000" stop="20201222222500 +0000" channel="SIC Radical">
+    <title lang="pt">The Late Late Show With James Corden</title>
+  </programme>
+  <programme start="20201222222500 +0000" stop="20201222232700 +0000" channel="SIC Radical">
+    <title lang="pt">Alone</title>
+  </programme>
+  <programme start="20201222232700 +0000" stop="20201223003600 +0000" channel="SIC Radical">
+    <title lang="pt">Alone</title>
+  </programme>
+  <programme start="20201222003000 +0000" stop="20201222010000 +0000" channel="Canal Q">
+    <title lang="pt">Q Vida Selvagem</title>
+  </programme>
+  <programme start="20201222010000 +0000" stop="20201222020000 +0000" channel="Canal Q">
+    <title lang="pt">Caça ao Cómico</title>
+  </programme>
+  <programme start="20201222020000 +0000" stop="20201222023000 +0000" channel="Canal Q">
+    <title lang="pt">Heróis do Mic</title>
+  </programme>
+  <programme start="20201222023000 +0000" stop="20201222030000 +0000" channel="Canal Q">
+    <title lang="pt">Conta-me Tudo</title>
+  </programme>
+  <programme start="20201222030000 +0000" stop="20201222030500 +0000" channel="Canal Q">
+    <title lang="pt">Eu Tenho Um Cão de Estimação</title>
+  </programme>
+  <programme start="20201222030500 +0000" stop="20201222031000 +0000" channel="Canal Q">
+    <title lang="pt">Memória Futura</title>
+  </programme>
+  <programme start="20201222031000 +0000" stop="20201222031500 +0000" channel="Canal Q">
+    <title lang="pt">1X2</title>
+  </programme>
+  <programme start="20201222031500 +0000" stop="20201222032000 +0000" channel="Canal Q">
+    <title lang="pt">Norma Normal</title>
+  </programme>
+  <programme start="20201222032000 +0000" stop="20201222033000 +0000" channel="Canal Q">
+    <title lang="pt">A Vida e Obra de Um Desanimado</title>
+  </programme>
+  <programme start="20201222033000 +0000" stop="20201222040000 +0000" channel="Canal Q">
+    <title lang="pt">Inferno</title>
+  </programme>
+  <programme start="20201222040000 +0000" stop="20201222051200 +0000" channel="Canal Q">
+    <title lang="pt">Q Vida Selvagem</title>
+  </programme>
+  <programme start="20201222051200 +0000" stop="20201222054000 +0000" channel="Canal Q">
+    <title lang="pt">Miúdas Nuas Já a Seguir</title>
+  </programme>
+  <programme start="20201222054000 +0000" stop="20201222064000 +0000" channel="Canal Q">
+    <title lang="pt">Super Swing</title>
+  </programme>
+  <programme start="20201222064000 +0000" stop="20201222064500 +0000" channel="Canal Q">
+    <title lang="pt">Eu Tenho Um Cão de Estimação</title>
+  </programme>
+  <programme start="20201222064500 +0000" stop="20201222065000 +0000" channel="Canal Q">
+    <title lang="pt">Memória Futura</title>
+  </programme>
+  <programme start="20201222065000 +0000" stop="20201222065500 +0000" channel="Canal Q">
+    <title lang="pt">1X2</title>
+  </programme>
+  <programme start="20201222065500 +0000" stop="20201222070000 +0000" channel="Canal Q">
+    <title lang="pt">Norma Normal</title>
+  </programme>
+  <programme start="20201222070000 +0000" stop="20201222071000 +0000" channel="Canal Q">
+    <title lang="pt">A Vida e Obra de Um Desanimado</title>
+  </programme>
+  <programme start="20201222071000 +0000" stop="20201222075000 +0000" channel="Canal Q">
+    <title lang="pt">Faz Acontecer</title>
+  </programme>
+  <programme start="20201222075000 +0000" stop="20201222090000 +0000" channel="Canal Q">
+    <title lang="pt">Super Swing</title>
+  </programme>
+  <programme start="20201222090000 +0000" stop="20201222093000 +0000" channel="Canal Q">
+    <title lang="pt">Lendas Vivas</title>
+  </programme>
+  <programme start="20201222093000 +0000" stop="20201222093500 +0000" channel="Canal Q">
+    <title lang="pt">Eu Tenho Um Cão de Estimação</title>
+  </programme>
+  <programme start="20201222093500 +0000" stop="20201222094000 +0000" channel="Canal Q">
+    <title lang="pt">Memória Futura</title>
+  </programme>
+  <programme start="20201222094000 +0000" stop="20201222094500 +0000" channel="Canal Q">
+    <title lang="pt">1X2</title>
+  </programme>
+  <programme start="20201222094500 +0000" stop="20201222095000 +0000" channel="Canal Q">
+    <title lang="pt">Norma Normal</title>
+  </programme>
+  <programme start="20201222095000 +0000" stop="20201222103000 +0000" channel="Canal Q">
+    <title lang="pt">A Vida e Obra de Um Desanimado</title>
+  </programme>
+  <programme start="20201222103000 +0000" stop="20201222110000 +0000" channel="Canal Q">
+    <title lang="pt">Toca e Foge</title>
+  </programme>
+  <programme start="20201222110000 +0000" stop="20201222120000 +0000" channel="Canal Q">
+    <title lang="pt">Super Swing</title>
+  </programme>
+  <programme start="20201222120000 +0000" stop="20201222123000 +0000" channel="Canal Q">
+    <title lang="pt">Sessão Curta</title>
+  </programme>
+  <programme start="20201222123000 +0000" stop="20201222130000 +0000" channel="Canal Q">
+    <title lang="pt">Quem Desdenha</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222140000 +0000" channel="Canal Q">
+    <title lang="pt">Princesas e Doentes</title>
+  </programme>
+  <programme start="20201222140000 +0000" stop="20201222143000 +0000" channel="Canal Q">
+    <title lang="pt">Faz Acontecer</title>
+  </programme>
+  <programme start="20201222143000 +0000" stop="20201222143500 +0000" channel="Canal Q">
+    <title lang="pt">Eu Tenho Um Cão de Estimação</title>
+  </programme>
+  <programme start="20201222143500 +0000" stop="20201222144000 +0000" channel="Canal Q">
+    <title lang="pt">Memória Futura</title>
+  </programme>
+  <programme start="20201222144000 +0000" stop="20201222144500 +0000" channel="Canal Q">
+    <title lang="pt">1X2</title>
+  </programme>
+  <programme start="20201222144500 +0000" stop="20201222145000 +0000" channel="Canal Q">
+    <title lang="pt">Norma Normal</title>
+  </programme>
+  <programme start="20201222145000 +0000" stop="20201222151000 +0000" channel="Canal Q">
+    <title lang="pt">A Vida e Obra de Um Desanimado</title>
+  </programme>
+  <programme start="20201222151000 +0000" stop="20201222162000 +0000" channel="Canal Q">
+    <title lang="pt">Baseado Numa História Verídica</title>
+  </programme>
+  <programme start="20201222162000 +0000" stop="20201222170000 +0000" channel="Canal Q">
+    <title lang="pt">Lendas Vivas</title>
+  </programme>
+  <programme start="20201222170000 +0000" stop="20201222180000 +0000" channel="Canal Q">
+    <title lang="pt">Freuda-se</title>
+  </programme>
+  <programme start="20201222180000 +0000" stop="20201222183000 +0000" channel="Canal Q">
+    <title lang="pt">Inferno</title>
+  </programme>
+  <programme start="20201222183000 +0000" stop="20201222190000 +0000" channel="Canal Q">
+    <title lang="pt">Q Vida Selvagem</title>
+  </programme>
+  <programme start="20201222190000 +0000" stop="20201222200000 +0000" channel="Canal Q">
+    <title lang="pt">Princesas e Doentes</title>
+  </programme>
+  <programme start="20201222200000 +0000" stop="20201222200500 +0000" channel="Canal Q">
+    <title lang="pt">Eu Tenho Um Cão de Estimação</title>
+  </programme>
+  <programme start="20201222200500 +0000" stop="20201222201000 +0000" channel="Canal Q">
+    <title lang="pt">Memória Futura</title>
+  </programme>
+  <programme start="20201222201000 +0000" stop="20201222201500 +0000" channel="Canal Q">
+    <title lang="pt">1X2</title>
+  </programme>
+  <programme start="20201222201500 +0000" stop="20201222202000 +0000" channel="Canal Q">
+    <title lang="pt">Norma Normal</title>
+  </programme>
+  <programme start="20201222202000 +0000" stop="20201222203000 +0000" channel="Canal Q">
+    <title lang="pt">A Vida e Obra de Um Desanimado</title>
+  </programme>
+  <programme start="20201222203000 +0000" stop="20201222210000 +0000" channel="Canal Q">
+    <title lang="pt">Lendas Vivas</title>
+  </programme>
+  <programme start="20201222210000 +0000" stop="20201222220000 +0000" channel="Canal Q">
+    <title lang="pt">Baseado Numa História Verídica</title>
+  </programme>
+  <programme start="20201222220000 +0000" stop="20201222220500 +0000" channel="Canal Q">
+    <title lang="pt">Eu Tenho Um Cão de Estimação</title>
+  </programme>
+  <programme start="20201222220500 +0000" stop="20201222221000 +0000" channel="Canal Q">
+    <title lang="pt">Memória Futura</title>
+  </programme>
+  <programme start="20201222221000 +0000" stop="20201222221500 +0000" channel="Canal Q">
+    <title lang="pt">1X2</title>
+  </programme>
+  <programme start="20201222221500 +0000" stop="20201222222000 +0000" channel="Canal Q">
+    <title lang="pt">Norma Normal</title>
+  </programme>
+  <programme start="20201222222000 +0000" stop="20201222223000 +0000" channel="Canal Q">
+    <title lang="pt">A Vida e Obra de Um Desanimado</title>
+  </programme>
+  <programme start="20201222223000 +0000" stop="20201222230000 +0000" channel="Canal Q">
+    <title lang="pt">Conta-me Tudo</title>
+  </programme>
+  <programme start="20201222230000 +0000" stop="20201222233000 +0000" channel="Canal Q">
+    <title lang="pt">Caça ao Cómico</title>
+  </programme>
+  <programme start="20201222233000 +0000" stop="20201223000000 +0000" channel="Canal Q">
+    <title lang="pt">Paradoxo da Tangência</title>
+  </programme>
+  <programme start="20201222010000 +0000" stop="20201222011500 +0000" channel="Porto Canal">
+    <title lang="pt">Universo Porto - Jornal</title>
+  </programme>
+  <programme start="20201222011500 +0000" stop="20201222013000 +0000" channel="Porto Canal">
+    <title lang="pt">Números Míticos</title>
+  </programme>
+  <programme start="20201222013000 +0000" stop="20201222033000 +0000" channel="Porto Canal">
+    <title lang="pt">Desporto em Direto</title>
+  </programme>
+  <programme start="20201222033000 +0000" stop="20201222041500 +0000" channel="Porto Canal">
+    <title lang="pt">Bate Bola</title>
+  </programme>
+  <programme start="20201222041500 +0000" stop="20201222043000 +0000" channel="Porto Canal">
+    <title lang="pt">N</title>
+  </programme>
+  <programme start="20201222043000 +0000" stop="20201222050000 +0000" channel="Porto Canal">
+    <title lang="pt">Pole Position</title>
+  </programme>
+  <programme start="20201222050000 +0000" stop="20201222053000 +0000" channel="Porto Canal">
+    <title lang="pt">Cinema Batalha</title>
+  </programme>
+  <programme start="20201222053000 +0000" stop="20201222060000 +0000" channel="Porto Canal">
+    <title lang="pt">Imperdíveis</title>
+  </programme>
+  <programme start="20201222060000 +0000" stop="20201222070000 +0000" channel="Porto Canal">
+    <title lang="pt">Soundtrack By Cinema Batalha</title>
+  </programme>
+  <programme start="20201222070000 +0000" stop="20201222073000 +0000" channel="Porto Canal">
+    <title lang="pt">Clube de Cozinheiros</title>
+  </programme>
+  <programme start="20201222073000 +0000" stop="20201222080000 +0000" channel="Porto Canal">
+    <title lang="pt">Fitness Com Christophe Ruelle</title>
+  </programme>
+  <programme start="20201222080000 +0000" stop="20201222090000 +0000" channel="Porto Canal">
+    <title lang="pt">D</title>
+  </programme>
+  <programme start="20201222090000 +0000" stop="20201222093000 +0000" channel="Porto Canal">
+    <title lang="pt">Caminhos da História</title>
+  </programme>
+  <programme start="20201222093000 +0000" stop="20201222100000 +0000" channel="Porto Canal">
+    <title lang="pt">Clube de Cozinheiros</title>
+  </programme>
+  <programme start="20201222100000 +0000" stop="20201222130000 +0000" channel="Porto Canal">
+    <title lang="pt">Manhã Informativa</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222140000 +0000" channel="Porto Canal">
+    <title lang="pt">Júlio Magalhães</title>
+  </programme>
+  <programme start="20201222140000 +0000" stop="20201222141500 +0000" channel="Porto Canal">
+    <title lang="pt">O Meu Bairro</title>
+  </programme>
+  <programme start="20201222141500 +0000" stop="20201222143000 +0000" channel="Porto Canal">
+    <title lang="pt">Cinema Batalha - Agenda</title>
+  </programme>
+  <programme start="20201222143000 +0000" stop="20201222150000 +0000" channel="Porto Canal">
+    <title lang="pt">N</title>
+  </programme>
+  <programme start="20201222150000 +0000" stop="20201222163000 +0000" channel="Porto Canal">
+    <title lang="pt">Consultório</title>
+  </programme>
+  <programme start="20201222163000 +0000" stop="20201222170000 +0000" channel="Porto Canal">
+    <title lang="pt">Cinema Batalha</title>
+  </programme>
+  <programme start="20201222170000 +0000" stop="20201222180000 +0000" channel="Porto Canal">
+    <title lang="pt">D</title>
+  </programme>
+  <programme start="20201222180000 +0000" stop="20201222183000 +0000" channel="Porto Canal">
+    <title lang="pt">Mais Info</title>
+  </programme>
+  <programme start="20201222183000 +0000" stop="20201222190000 +0000" channel="Porto Canal">
+    <title lang="pt">Pole Position</title>
+  </programme>
+  <programme start="20201222190000 +0000" stop="20201222195500 +0000" channel="Porto Canal">
+    <title lang="pt">Jornal Diário</title>
+  </programme>
+  <programme start="20201222195500 +0000" stop="20201222214500 +0000" channel="Porto Canal">
+    <title lang="pt">Andebol - Belenenses x FCP</title>
+  </programme>
+  <programme start="20201222214500 +0000" stop="20201222220000 +0000" channel="Porto Canal">
+    <title lang="pt">O Edifício da Arquitetura</title>
+  </programme>
+  <programme start="20201222220000 +0000" stop="20201222221500 +0000" channel="Porto Canal">
+    <title lang="pt">Universo Porto - Jornal</title>
+  </programme>
+  <programme start="20201222221500 +0000" stop="20201222233000 +0000" channel="Porto Canal">
+    <title lang="pt">Universo Porto - Da Bancada</title>
+  </programme>
+  <programme start="20201222233000 +0000" stop="20201223000000 +0000" channel="Porto Canal">
+    <title lang="pt">Glitter Late Night</title>
+  </programme>
+  <programme start="20201222000600 +0000" stop="20201222001700 +0000" channel="RTP Memória">
+    <title lang="pt">Hora Cinemateca</title>
+  </programme>
+  <programme start="20201222001700 +0000" stop="20201222002700 +0000" channel="RTP Memória">
+    <title lang="pt">Hora Cinemateca</title>
+  </programme>
+  <programme start="20201222002700 +0000" stop="20201222003800 +0000" channel="RTP Memória">
+    <title lang="pt">Hora Cinemateca</title>
+  </programme>
+  <programme start="20201222003800 +0000" stop="20201222005500 +0000" channel="RTP Memória">
+    <title lang="pt">Hora Cinemateca</title>
+  </programme>
+  <programme start="20201222005500 +0000" stop="20201222010700 +0000" channel="RTP Memória">
+    <title lang="pt">Rebobinar Depois de Ver</title>
+  </programme>
+  <programme start="20201222010700 +0000" stop="20201222015600 +0000" channel="RTP Memória">
+    <title lang="pt">Magnum</title>
+  </programme>
+  <programme start="20201222015600 +0000" stop="20201222024300 +0000" channel="RTP Memória">
+    <title lang="pt">Os Imortais (1992)</title>
+  </programme>
+  <programme start="20201222024300 +0000" stop="20201222031100 +0000" channel="RTP Memória">
+    <title lang="pt">Uma Família às Direitas</title>
+  </programme>
+  <programme start="20201222031100 +0000" stop="20201222034000 +0000" channel="RTP Memória">
+    <title lang="pt">Contos de Natal</title>
+  </programme>
+  <programme start="20201222034000 +0000" stop="20201222042600 +0000" channel="RTP Memória">
+    <title lang="pt">Alves dos Reis, um seu Criado</title>
+  </programme>
+  <programme start="20201222042600 +0000" stop="20201222050900 +0000" channel="RTP Memória">
+    <title lang="pt">Pós de Bem Querer</title>
+  </programme>
+  <programme start="20201222050900 +0000" stop="20201222061700 +0000" channel="RTP Memória">
+    <title lang="pt">Regresso ao Passado</title>
+  </programme>
+  <programme start="20201222061700 +0000" stop="20201222070000 +0000" channel="RTP Memória">
+    <title lang="pt">Com a Verdade M</title>
+  </programme>
+  <programme start="20201222070000 +0000" stop="20201222074600 +0000" channel="RTP Memória">
+    <title lang="pt">Os Nossos Dias</title>
+  </programme>
+  <programme start="20201222074600 +0000" stop="20201222081700 +0000" channel="RTP Memória">
+    <title lang="pt">Cinzas</title>
+  </programme>
+  <programme start="20201222081700 +0000" stop="20201222084700 +0000" channel="RTP Memória">
+    <title lang="pt">Nós os Ricos</title>
+  </programme>
+  <programme start="20201222084700 +0000" stop="20201222090000 +0000" channel="RTP Memória">
+    <title lang="pt">Seis Décadas de Televisão</title>
+  </programme>
+  <programme start="20201222090000 +0000" stop="20201222093700 +0000" channel="RTP Memória">
+    <title lang="pt">A Marquesa de Vila Rica</title>
+  </programme>
+  <programme start="20201222093700 +0000" stop="20201222100700 +0000" channel="RTP Memória">
+    <title lang="pt">Contos de Natal</title>
+  </programme>
+  <programme start="20201222100700 +0000" stop="20201222110200 +0000" channel="RTP Memória">
+    <title lang="pt">Aquela Cativa que me Tem Cativo</title>
+  </programme>
+  <programme start="20201222110200 +0000" stop="20201222114700 +0000" channel="RTP Memória">
+    <title lang="pt">Pós de Bem Querer</title>
+  </programme>
+  <programme start="20201222114700 +0000" stop="20201222120100 +0000" channel="RTP Memória">
+    <title lang="pt">Seis Décadas de Televisão</title>
+  </programme>
+  <programme start="20201222120100 +0000" stop="20201222125100 +0000" channel="RTP Memória">
+    <title lang="pt">Os Maias (2015)</title>
+  </programme>
+  <programme start="20201222125100 +0000" stop="20201222130100 +0000" channel="RTP Memória">
+    <title lang="pt">Guarda-Factos Micro</title>
+  </programme>
+  <programme start="20201222130100 +0000" stop="20201222140100 +0000" channel="RTP Memória">
+    <title lang="pt">Riso e Ritmo</title>
+  </programme>
+  <programme start="20201222140100 +0000" stop="20201222150200 +0000" channel="RTP Memória">
+    <title lang="pt">Vejam Bem</title>
+  </programme>
+  <programme start="20201222150200 +0000" stop="20201222162400 +0000" channel="RTP Memória">
+    <title lang="pt">Incógnito</title>
+  </programme>
+  <programme start="20201222162400 +0000" stop="20201222163400 +0000" channel="RTP Memória">
+    <title lang="pt">De Mal a Pior</title>
+  </programme>
+  <programme start="20201222163400 +0000" stop="20201222170200 +0000" channel="RTP Memória">
+    <title lang="pt">Contos de Natal</title>
+  </programme>
+  <programme start="20201222170200 +0000" stop="20201222174700 +0000" channel="RTP Memória">
+    <title lang="pt">Desencontros</title>
+  </programme>
+  <programme start="20201222174700 +0000" stop="20201222182500 +0000" channel="RTP Memória">
+    <title lang="pt">Com a Verdade M</title>
+  </programme>
+  <programme start="20201222182500 +0000" stop="20201222190900 +0000" channel="RTP Memória">
+    <title lang="pt">Santos da Casa</title>
+  </programme>
+  <programme start="20201222190900 +0000" stop="20201222194100 +0000" channel="RTP Memória">
+    <title lang="pt">Liga dos Últimos</title>
+  </programme>
+  <programme start="20201222194100 +0000" stop="20201222201300 +0000" channel="RTP Memória">
+    <title lang="pt">Liga dos Últimos</title>
+  </programme>
+  <programme start="20201222201300 +0000" stop="20201222210200 +0000" channel="RTP Memória">
+    <title lang="pt">Magnum</title>
+  </programme>
+  <programme start="20201222210200 +0000" stop="20201222215000 +0000" channel="RTP Memória">
+    <title lang="pt">Os Imortais (1992)</title>
+  </programme>
+  <programme start="20201222215000 +0000" stop="20201222222000 +0000" channel="RTP Memória">
+    <title lang="pt">Uma Família às Direitas</title>
+  </programme>
+  <programme start="20201222222000 +0000" stop="20201222230500 +0000" channel="RTP Memória">
+    <title lang="pt">Alves dos Reis, um seu Criado</title>
+  </programme>
+  <programme start="20201222230500 +0000" stop="20201222235500 +0000" channel="RTP Memória">
+    <title lang="pt">Alentejo Sem Lei</title>
+  </programme>
+  <programme start="20201222235500 +0000" stop="20201223000000 +0000" channel="RTP Memória">
+    <title lang="pt">Retrocoisa</title>
+  </programme>
+  <programme start="20201222005900 +0000" stop="20201222012600 +0000" channel="RTP África">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+  </programme>
+  <programme start="20201222012600 +0000" stop="20201222022500 +0000" channel="RTP África">
+    <title lang="pt">Sociedade Civil</title>
+  </programme>
+  <programme start="20201222022500 +0000" stop="20201222023700 +0000" channel="RTP África">
+    <title lang="pt">Zoom África</title>
+  </programme>
+  <programme start="20201222023700 +0000" stop="20201222033300 +0000" channel="RTP África">
+    <title lang="pt">Passou Voltou</title>
+  </programme>
+  <programme start="20201222033300 +0000" stop="20201222053300 +0000" channel="RTP África">
+    <title lang="pt">Bem-vindos</title>
+  </programme>
+  <programme start="20201222053300 +0000" stop="20201222060000 +0000" channel="RTP África">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20201222060000 +0000" stop="20201222070000 +0000" channel="RTP África">
+    <title lang="pt">Passou Voltou</title>
+  </programme>
+  <programme start="20201222070000 +0000" stop="20201222100000 +0000" channel="RTP África">
+    <title lang="pt">Bom Dia Portugal</title>
+  </programme>
+  <programme start="20201222100000 +0000" stop="20201222103500 +0000" channel="RTP África">
+    <title lang="pt">Viva Saúde</title>
+  </programme>
+  <programme start="20201222103500 +0000" stop="20201222112000 +0000" channel="RTP África">
+    <title lang="pt">Segredo</title>
+  </programme>
+  <programme start="20201222112000 +0000" stop="20201222120900 +0000" channel="RTP África">
+    <title lang="pt">Bem-Vindos a Beirais</title>
+  </programme>
+  <programme start="20201222120900 +0000" stop="20201222130000 +0000" channel="RTP África">
+    <title lang="pt">Joker - Kids</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222141700 +0000" channel="RTP África">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20201222141700 +0000" stop="20201222144900 +0000" channel="RTP África">
+    <title lang="pt">Repórter África - 1ª Edição</title>
+  </programme>
+  <programme start="20201222144900 +0000" stop="20201222151200 +0000" channel="RTP África">
+    <title lang="pt">AntiCrise</title>
+  </programme>
+  <programme start="20201222151200 +0000" stop="20201222154300 +0000" channel="RTP África">
+    <title lang="pt">Armário</title>
+  </programme>
+  <programme start="20201222154300 +0000" stop="20201222155500 +0000" channel="RTP África">
+    <title lang="pt">Zoom África</title>
+  </programme>
+  <programme start="20201222155500 +0000" stop="20201222165300 +0000" channel="RTP África">
+    <title lang="pt">Passou Voltou</title>
+  </programme>
+  <programme start="20201222165300 +0000" stop="20201222185400 +0000" channel="RTP África">
+    <title lang="pt">Bem-vindos</title>
+  </programme>
+  <programme start="20201222185400 +0000" stop="20201222190700 +0000" channel="RTP África">
+    <title lang="pt">Fotobox</title>
+  </programme>
+  <programme start="20201222190700 +0000" stop="20201222193000 +0000" channel="RTP África">
+    <title lang="pt">AntiCrise</title>
+  </programme>
+  <programme start="20201222193000 +0000" stop="20201222195900 +0000" channel="RTP África">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+  </programme>
+  <programme start="20201222195900 +0000" stop="20201222210200 +0000" channel="RTP África">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20201222210200 +0000" stop="20201222213100 +0000" channel="RTP África">
+    <title lang="pt">Pérolas do Oceano</title>
+  </programme>
+  <programme start="20201222213100 +0000" stop="20201222220300 +0000" channel="RTP África">
+    <title lang="pt">Fora de Cena</title>
+  </programme>
+  <programme start="20201222220300 +0000" stop="20201222230400 +0000" channel="RTP África">
+    <title lang="pt">Nha Terra Nha Cretcheu</title>
+  </programme>
+  <programme start="20201222230400 +0000" stop="20201222235200 +0000" channel="RTP África">
+    <title lang="pt">Janela Indiscreta</title>
+  </programme>
+  <programme start="20201222235200 +0000" stop="20201223000000 +0000" channel="RTP África">
+    <title lang="pt">TecNet</title>
+  </programme>
+  <programme start="20201222003000 +0000" stop="20201222020000 +0000" channel="Canção Nova">
+    <title lang="pt">Sorrindo Pra Vida</title>
+  </programme>
+  <programme start="20201222020000 +0000" stop="20201222030000 +0000" channel="Canção Nova">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+  </programme>
+  <programme start="20201222030000 +0000" stop="20201222033000 +0000" channel="Canção Nova">
+    <title lang="pt">Terço da Misericórdia</title>
+  </programme>
+  <programme start="20201222033000 +0000" stop="20201222040000 +0000" channel="Canção Nova">
+    <title lang="pt">Ofício da Imaculada Conceição</title>
+  </programme>
+  <programme start="20201222040000 +0000" stop="20201222050000 +0000" channel="Canção Nova">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+  </programme>
+  <programme start="20201222050000 +0000" stop="20201222060000 +0000" channel="Canção Nova">
+    <title lang="pt">Minha Família É Assim</title>
+  </programme>
+  <programme start="20201222060000 +0000" stop="20201222063000 +0000" channel="Canção Nova">
+    <title lang="pt">Na Escola de Nazaré</title>
+  </programme>
+  <programme start="20201222063000 +0000" stop="20201222073000 +0000" channel="Canção Nova">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+  </programme>
+  <programme start="20201222073000 +0000" stop="20201222080000 +0000" channel="Canção Nova">
+    <title lang="pt">Cantinho da Criança</title>
+  </programme>
+  <programme start="20201222080000 +0000" stop="20201222083000 +0000" channel="Canção Nova">
+    <title lang="pt">Santo Terço</title>
+  </programme>
+  <programme start="20201222083000 +0000" stop="20201222084000 +0000" channel="Canção Nova">
+    <title lang="pt">Florescer</title>
+  </programme>
+  <programme start="20201222084000 +0000" stop="20201222090000 +0000" channel="Canção Nova">
+    <title lang="pt">Bíblia No Meu Dia a Dia</title>
+  </programme>
+  <programme start="20201222090000 +0000" stop="20201222100000 +0000" channel="Canção Nova">
+    <title lang="pt">Manhã Viva</title>
+  </programme>
+  <programme start="20201222100000 +0000" stop="20201222110000 +0000" channel="Canção Nova">
+    <title lang="pt">Adoração ao Santíssimo Sacramento</title>
+  </programme>
+  <programme start="20201222110000 +0000" stop="20201222120000 +0000" channel="Canção Nova">
+    <title lang="pt">Santa Missa</title>
+  </programme>
+  <programme start="20201222120000 +0000" stop="20201222130000 +0000" channel="Canção Nova">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222133000 +0000" channel="Canção Nova">
+    <title lang="pt">Educar Na Fé</title>
+  </programme>
+  <programme start="20201222133000 +0000" stop="20201222134000 +0000" channel="Canção Nova">
+    <title lang="pt">Jornalismo - Natal Solitario/ Caritas</title>
+  </programme>
+  <programme start="20201222134000 +0000" stop="20201222140000 +0000" channel="Canção Nova">
+    <title lang="pt">Novena de Natal - Dia 07</title>
+  </programme>
+  <programme start="20201222140000 +0000" stop="20201222143000 +0000" channel="Canção Nova">
+    <title lang="pt">Na Escola de Nazaré</title>
+  </programme>
+  <programme start="20201222143000 +0000" stop="20201222150000 +0000" channel="Canção Nova">
+    <title lang="pt">A Luz da Fé</title>
+  </programme>
+  <programme start="20201222150000 +0000" stop="20201222153000 +0000" channel="Canção Nova">
+    <title lang="pt">Terço da Misericórdia</title>
+  </programme>
+  <programme start="20201222153000 +0000" stop="20201222160000 +0000" channel="Canção Nova">
+    <title lang="pt">Som e Vida</title>
+  </programme>
+  <programme start="20201222160000 +0000" stop="20201222173000 +0000" channel="Canção Nova">
+    <title lang="pt">Sorrindo Pra Vida</title>
+  </programme>
+  <programme start="20201222173000 +0000" stop="20201222175000 +0000" channel="Canção Nova">
+    <title lang="pt">Terra Santa News</title>
+  </programme>
+  <programme start="20201222175000 +0000" stop="20201222180000 +0000" channel="Canção Nova">
+    <title lang="pt">Igreja a Caminho</title>
+  </programme>
+  <programme start="20201222180000 +0000" stop="20201222182900 +0000" channel="Canção Nova">
+    <title lang="pt">Loja CN</title>
+  </programme>
+  <programme start="20201222182900 +0000" stop="20201222190500 +0000" channel="Canção Nova">
+    <title lang="pt">Santo Terço</title>
+  </programme>
+  <programme start="20201222190500 +0000" stop="20201222192000 +0000" channel="Canção Nova">
+    <title lang="pt">Novena de Natal - Dia 07</title>
+  </programme>
+  <programme start="20201222192000 +0000" stop="20201222193000 +0000" channel="Canção Nova">
+    <title lang="pt">Palavra de Vida Eterna</title>
+  </programme>
+  <programme start="20201222193000 +0000" stop="20201222203000 +0000" channel="Canção Nova">
+    <title lang="pt">Igreja No Mundo</title>
+  </programme>
+  <programme start="20201222203000 +0000" stop="20201222210000 +0000" channel="Canção Nova">
+    <title lang="pt">Ofício da Imaculada Conceição</title>
+  </programme>
+  <programme start="20201222210000 +0000" stop="20201222220000 +0000" channel="Canção Nova">
+    <title lang="pt">Revolução Jesus</title>
+  </programme>
+  <programme start="20201222220000 +0000" stop="20201222230000 +0000" channel="Canção Nova">
+    <title lang="pt">Gente de Fé</title>
+  </programme>
+  <programme start="20201222230000 +0000" stop="20201223000000 +0000" channel="Canção Nova">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+  </programme>
+  <programme start="20201222010000 +0000" stop="20201222030000 +0000" channel="ARTV">
+    <title lang="pt">Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias</title>
+  </programme>
+  <programme start="20201222030000 +0000" stop="20201222033000 +0000" channel="ARTV">
+    <title lang="pt">Comissão de Economia, Inovação, Obras Públicas e Habitação</title>
+  </programme>
+  <programme start="20201222033000 +0000" stop="20201222040000 +0000" channel="ARTV">
+    <title lang="pt">Comissão de Economia, Inovação, Obras Públicas e Habitação</title>
+  </programme>
+  <programme start="20201222040000 +0000" stop="20201222043000 +0000" channel="ARTV">
+    <title lang="pt">Comissão de Economia, Inovação, Obras Públicas e Habitação</title>
+  </programme>
+  <programme start="20201222043000 +0000" stop="20201222050000 +0000" channel="ARTV">
+    <title lang="pt">Comissão de Economia, Inovação, Obras Públicas e Habitação</title>
+  </programme>
+  <programme start="20201222050000 +0000" stop="20201222053000 +0000" channel="ARTV">
+    <title lang="pt">Comissão de Economia, Inovação, Obras Públicas e Habitação</title>
+  </programme>
+  <programme start="20201222053000 +0000" stop="20201222073000 +0000" channel="ARTV">
+    <title lang="pt">Comissão Eventual Para O Acompanhamento da Aplicação das Medidas de Resposta À Pandemia da Doença Covid-19 e do Processo de Recuperação Económica e So</title>
+  </programme>
+  <programme start="20201222073000 +0000" stop="20201222083000 +0000" channel="ARTV">
+    <title lang="pt">Comissão de Saúde</title>
+  </programme>
+  <programme start="20201222083000 +0000" stop="20201222093000 +0000" channel="ARTV">
+    <title lang="pt">Parlamento</title>
+  </programme>
+  <programme start="20201222093000 +0000" stop="20201222130000 +0000" channel="ARTV">
+    <title lang="pt">Comissão de Orçamento e Finanças</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222150000 +0000" channel="ARTV">
+    <title lang="pt">Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias</title>
+  </programme>
+  <programme start="20201222150000 +0000" stop="20201222180000 +0000" channel="ARTV">
+    <title lang="pt">Reunião Plenária</title>
+  </programme>
+  <programme start="20201222180000 +0000" stop="20201222200000 +0000" channel="ARTV">
+    <title lang="pt">Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias</title>
+  </programme>
+  <programme start="20201222200000 +0000" stop="20201222210000 +0000" channel="ARTV">
+    <title lang="pt">Parlamento</title>
+  </programme>
+  <programme start="20201222210000 +0000" stop="20201223000000 +0000" channel="ARTV">
+    <title lang="pt">Reunião Plenária</title>
+  </programme>
+  <programme start="20201222004000 +0000" stop="20201222012000 +0000" channel="Globo">
+    <title lang="pt">Fera Radical</title>
+  </programme>
+  <programme start="20201222012000 +0000" stop="20201222020500 +0000" channel="Globo">
+    <title lang="pt">Como uma Onda</title>
+  </programme>
+  <programme start="20201222020500 +0000" stop="20201222024500 +0000" channel="Globo">
+    <title lang="pt">Haja Coração</title>
+  </programme>
+  <programme start="20201222024500 +0000" stop="20201222033500 +0000" channel="Globo">
+    <title lang="pt">A Força do Querer</title>
+  </programme>
+  <programme start="20201222033500 +0000" stop="20201222042500 +0000" channel="Globo">
+    <title lang="pt">Império</title>
+  </programme>
+  <programme start="20201222042500 +0000" stop="20201222052000 +0000" channel="Globo">
+    <title lang="pt">Laços de Família</title>
+  </programme>
+  <programme start="20201222052000 +0000" stop="20201222055000 +0000" channel="Globo">
+    <title lang="pt">Malhação</title>
+  </programme>
+  <programme start="20201222055000 +0000" stop="20201222063000 +0000" channel="Globo">
+    <title lang="pt">Sinhá Moça</title>
+  </programme>
+  <programme start="20201222063000 +0000" stop="20201222071500 +0000" channel="Globo">
+    <title lang="pt">Morde &amp; Assopra</title>
+  </programme>
+  <programme start="20201222071500 +0000" stop="20201222080000 +0000" channel="Globo">
+    <title lang="pt">Como uma Onda</title>
+  </programme>
+  <programme start="20201222080000 +0000" stop="20201222085000 +0000" channel="Globo">
+    <title lang="pt">Haja Coração</title>
+  </programme>
+  <programme start="20201222085000 +0000" stop="20201222095500 +0000" channel="Globo">
+    <title lang="pt">A Força do Querer</title>
+  </programme>
+  <programme start="20201222095500 +0000" stop="20201222105500 +0000" channel="Globo">
+    <title lang="pt">Império</title>
+  </programme>
+  <programme start="20201222105500 +0000" stop="20201222120000 +0000" channel="Globo">
+    <title lang="pt">Laços de Família</title>
+  </programme>
+  <programme start="20201222120000 +0000" stop="20201222123000 +0000" channel="Globo">
+    <title lang="pt">Cozinha Prática Com Rita Lobo</title>
+  </programme>
+  <programme start="20201222123000 +0000" stop="20201222130000 +0000" channel="Globo">
+    <title lang="pt">Malhação</title>
+  </programme>
+  <programme start="20201222130000 +0000" stop="20201222135000 +0000" channel="Globo">
+    <title lang="pt">Sinhá Moça</title>
+  </programme>
+  <programme start="20201222135000 +0000" stop="20201222144500 +0000" channel="Globo">
+    <title lang="pt">Morde &amp; Assopra</title>
+  </programme>
+  <programme start="20201222144500 +0000" stop="20201222154500 +0000" channel="Globo">
+    <title lang="pt">Império</title>
+  </programme>
+  <programme start="20201222154500 +0000" stop="20201222165000 +0000" channel="Globo">
+    <title lang="pt">Laços de Família</title>
+  </programme>
+  <programme start="20201222165000 +0000" stop="20201222171500 +0000" channel="Globo">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20201222171500 +0000" stop="20201222180000 +0000" channel="Globo">
+    <title lang="pt">Fera Radical</title>
+  </programme>
+  <programme start="20201222180000 +0000" stop="20201222185000 +0000" channel="Globo">
+    <title lang="pt">Paraíso</title>
+  </programme>
+  <programme start="20201222185000 +0000" stop="20201222194000 +0000" channel="Globo">
+    <title lang="pt">Como uma Onda</title>
+  </programme>
+  <programme start="20201222194000 +0000" stop="20201222203000 +0000" channel="Globo">
+    <title lang="pt">Haja Coração</title>
+  </programme>
+  <programme start="20201222203000 +0000" stop="20201222213000 +0000" channel="Globo">
+    <title lang="pt">A Força do Querer</title>
+  </programme>
+  <programme start="20201222213000 +0000" stop="20201222222000 +0000" channel="Globo">
+    <title lang="pt">Império</title>
+  </programme>
+  <programme start="20201222222000 +0000" stop="20201222231500 +0000" channel="Globo">
+    <title lang="pt">Laços de Família</title>
+  </programme>
+  <programme start="20201222231500 +0000" stop="20201223000000 +0000" channel="Globo">
+    <title lang="pt">Especial: Chacrinha, o Eterno Guerreiro</title>
+  </programme>
+</tv>
