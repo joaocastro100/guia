@@ -1,0 +1,892 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CBS REALITY">
+    <display-name lang="pt">CBS REALITY</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/cbs-reality.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="Caça e Pesca">
+    <display-name lang="pt">Caça e Pesca</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CAçAVISION">
+    <display-name lang="pt">CAçAVISION</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="Blaze HD">
+    <display-name lang="pt">Blaze HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/blaze.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="MTV Portugal HD">
+    <display-name lang="pt">MTV Portugal HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/mtv-portugal-hd.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="MCM POP">
+    <display-name lang="pt">MCM POP</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/mcm-pop.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TRACE URBAN HD">
+    <display-name lang="pt">TRACE URBAN HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/trace-urban-hd.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="VH1">
+    <display-name lang="pt">VH1</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/vh1.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="AFRO MUSIC">
+    <display-name lang="pt">AFRO MUSIC</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/afro-music.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="HOT HD">
+    <display-name lang="pt">HOT HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/hot-hd.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="VENUS">
+    <display-name lang="pt">VENUS</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/venus.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="PLAYBOY TV HD">
+    <display-name lang="pt">PLAYBOY TV HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/playboy-tv-hd.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <programme start="20201223024000 +0000" stop="20201223030500 +0000" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+  </programme>
+  <programme start="20201223030500 +0000" stop="20201223032500 +0000" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+  </programme>
+  <programme start="20201223032500 +0000" stop="20201223035000 +0000" channel="CBS REALITY">
+    <title lang="pt">Operation Repo</title>
+  </programme>
+  <programme start="20201223035000 +0000" stop="20201223041000 +0000" channel="CBS REALITY">
+    <title lang="pt">Operation Repo</title>
+  </programme>
+  <programme start="20201223041000 +0000" stop="20201223050000 +0000" channel="CBS REALITY">
+    <title lang="pt">Dog and Beth: On the Hunt</title>
+  </programme>
+  <programme start="20201223050000 +0000" stop="20201223052500 +0000" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+  </programme>
+  <programme start="20201223052500 +0000" stop="20201223055000 +0000" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+  </programme>
+  <programme start="20201223055000 +0000" stop="20201223064000 +0000" channel="CBS REALITY">
+    <title lang="pt">High Alert</title>
+  </programme>
+  <programme start="20201223064000 +0000" stop="20201223073000 +0000" channel="CBS REALITY">
+    <title lang="pt">The Nightmare Neighbour Next Door</title>
+  </programme>
+  <programme start="20201223073000 +0000" stop="20201223075500 +0000" channel="CBS REALITY">
+    <title lang="pt">Close Calls On Camera</title>
+  </programme>
+  <programme start="20201223075500 +0000" stop="20201223084500 +0000" channel="CBS REALITY">
+    <title lang="pt">Dog and Beth: On the Hunt</title>
+  </programme>
+  <programme start="20201223084500 +0000" stop="20201223093500 +0000" channel="CBS REALITY">
+    <title lang="pt">Haunted Case Files</title>
+  </programme>
+  <programme start="20201223093500 +0000" stop="20201223100000 +0000" channel="CBS REALITY">
+    <title lang="pt">Operation Repo</title>
+  </programme>
+  <programme start="20201223100000 +0000" stop="20201223102500 +0000" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+  </programme>
+  <programme start="20201223102500 +0000" stop="20201223105000 +0000" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+  </programme>
+  <programme start="20201223105000 +0000" stop="20201223111500 +0000" channel="CBS REALITY">
+    <title lang="pt">Motorbike Cops</title>
+  </programme>
+  <programme start="20201223111500 +0000" stop="20201223120500 +0000" channel="CBS REALITY">
+    <title lang="pt">High Alert</title>
+  </programme>
+  <programme start="20201223120500 +0000" stop="20201223123000 +0000" channel="CBS REALITY">
+    <title lang="pt">Operation Repo</title>
+  </programme>
+  <programme start="20201223123000 +0000" stop="20201223125500 +0000" channel="CBS REALITY">
+    <title lang="pt">Operation Repo</title>
+  </programme>
+  <programme start="20201223125500 +0000" stop="20201223132000 +0000" channel="CBS REALITY">
+    <title lang="pt">Close Calls On Camera</title>
+  </programme>
+  <programme start="20201223132000 +0000" stop="20201223141000 +0000" channel="CBS REALITY">
+    <title lang="pt">The Nightmare Neighbour Next Door</title>
+  </programme>
+  <programme start="20201223141000 +0000" stop="20201223143500 +0000" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+  </programme>
+  <programme start="20201223143500 +0000" stop="20201223150000 +0000" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+  </programme>
+  <programme start="20201223150000 +0000" stop="20201223155000 +0000" channel="CBS REALITY">
+    <title lang="pt">Haunted Case Files</title>
+  </programme>
+  <programme start="20201223155000 +0000" stop="20201223164000 +0000" channel="CBS REALITY">
+    <title lang="pt">Dog and Beth: On the Hunt</title>
+  </programme>
+  <programme start="20201223164000 +0000" stop="20201223170500 +0000" channel="CBS REALITY">
+    <title lang="pt">Motorbike Cops</title>
+  </programme>
+  <programme start="20201223170500 +0000" stop="20201223173000 +0000" channel="CBS REALITY">
+    <title lang="pt">Operation Repo</title>
+  </programme>
+  <programme start="20201223173000 +0000" stop="20201223182000 +0000" channel="CBS REALITY">
+    <title lang="pt">High Alert</title>
+  </programme>
+  <programme start="20201223182000 +0000" stop="20201223184500 +0000" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+  </programme>
+  <programme start="20201223184500 +0000" stop="20201223191000 +0000" channel="CBS REALITY">
+    <title lang="pt">Judge Judy</title>
+  </programme>
+  <programme start="20201223191000 +0000" stop="20201223193500 +0000" channel="CBS REALITY">
+    <title lang="pt">Operation Repo</title>
+  </programme>
+  <programme start="20201223193500 +0000" stop="20201223200000 +0000" channel="CBS REALITY">
+    <title lang="pt">Operation Repo</title>
+  </programme>
+  <programme start="20201223200000 +0000" stop="20201223205000 +0000" channel="CBS REALITY">
+    <title lang="pt">Evil Twins</title>
+  </programme>
+  <programme start="20201223205000 +0000" stop="20201223214000 +0000" channel="CBS REALITY">
+    <title lang="pt">Cheaters</title>
+  </programme>
+  <programme start="20201223214000 +0000" stop="20201223223000 +0000" channel="CBS REALITY">
+    <title lang="pt">Murder Made Me Famous</title>
+  </programme>
+  <programme start="20201223223000 +0000" stop="20201223232500 +0000" channel="CBS REALITY">
+    <title lang="pt">Cold Justice Sex Crimes</title>
+  </programme>
+  <programme start="20201223232500 +0000" stop="20201224001500 +0000" channel="CBS REALITY">
+    <title lang="pt">World\u0027s Most Evil Killers</title>
+  </programme>
+  <programme start="20201223001000 +0000" stop="20201223004000 +0000" channel="Caça e Pesca">
+    <title lang="pt">As Sombras do Ulla</title>
+  </programme>
+  <programme start="20201223004000 +0000" stop="20201223011000 +0000" channel="Caça e Pesca">
+    <title lang="pt">Os Últimos Pombos Torcazes Peninsulares</title>
+  </programme>
+  <programme start="20201223011000 +0000" stop="20201223013500 +0000" channel="Caça e Pesca">
+    <title lang="pt">Cozinha de Sotobosque</title>
+  </programme>
+  <programme start="20201223013500 +0000" stop="20201223020500 +0000" channel="Caça e Pesca">
+    <title lang="pt">Barbos e Espuma</title>
+  </programme>
+  <programme start="20201223020500 +0000" stop="20201223030500 +0000" channel="Caça e Pesca">
+    <title lang="pt">À Espreita</title>
+  </programme>
+  <programme start="20201223030500 +0000" stop="20201223033500 +0000" channel="Caça e Pesca">
+    <title lang="pt">Entre as Silvas Decorre o Jogo</title>
+  </programme>
+  <programme start="20201223033500 +0000" stop="20201223040500 +0000" channel="Caça e Pesca">
+    <title lang="pt">Feeder em Ceitón</title>
+  </programme>
+  <programme start="20201223040500 +0000" stop="20201223043500 +0000" channel="Caça e Pesca">
+    <title lang="pt">Pombo Torcaz com Cimbel em Ibiza</title>
+  </programme>
+  <programme start="20201223043500 +0000" stop="20201223052500 +0000" channel="Caça e Pesca">
+    <title lang="pt">Pure Fly New Zealand</title>
+  </programme>
+  <programme start="20201223052500 +0000" stop="20201223055500 +0000" channel="Caça e Pesca">
+    <title lang="pt">A Pesca é Uma Arte</title>
+  </programme>
+  <programme start="20201223055500 +0000" stop="20201223063000 +0000" channel="Caça e Pesca">
+    <title lang="pt">Surfcasting: De Pesca com os Campeões do Mundo</title>
+  </programme>
+  <programme start="20201223063000 +0000" stop="20201223070000 +0000" channel="Caça e Pesca">
+    <title lang="pt">Monteses na Serra de Alcaraz</title>
+  </programme>
+  <programme start="20201223070000 +0000" stop="20201223073000 +0000" channel="Caça e Pesca">
+    <title lang="pt">Feeder em Ceitón</title>
+  </programme>
+  <programme start="20201223073000 +0000" stop="20201223075500 +0000" channel="Caça e Pesca">
+    <title lang="pt">Cozinha de Sotobosque</title>
+  </programme>
+  <programme start="20201223075500 +0000" stop="20201223082700 +0000" channel="Caça e Pesca">
+    <title lang="pt">Surfcasting: De Pesca com os Campeões do Mundo</title>
+  </programme>
+  <programme start="20201223082700 +0000" stop="20201223090000 +0000" channel="Caça e Pesca">
+    <title lang="pt">Javalis nas Silvas</title>
+  </programme>
+  <programme start="20201223090000 +0000" stop="20201223093000 +0000" channel="Caça e Pesca">
+    <title lang="pt">Monteando Entre Espanha e Portugal</title>
+  </programme>
+  <programme start="20201223093000 +0000" stop="20201223100000 +0000" channel="Caça e Pesca">
+    <title lang="pt">Pablo e as Moscas Secas</title>
+  </programme>
+  <programme start="20201223100000 +0000" stop="20201223103500 +0000" channel="Caça e Pesca">
+    <title lang="pt">Rebeco dos Alpes, Caçando no Temporal</title>
+  </programme>
+  <programme start="20201223103500 +0000" stop="20201223111000 +0000" channel="Caça e Pesca">
+    <title lang="pt">As Chaves da Caça de Reclamo e a Valorização do Corço</title>
+  </programme>
+  <programme start="20201223111000 +0000" stop="20201223114000 +0000" channel="Caça e Pesca">
+    <title lang="pt">Terra Selvagem</title>
+  </programme>
+  <programme start="20201223114000 +0000" stop="20201223120500 +0000" channel="Caça e Pesca">
+    <title lang="pt">Wild Boar Fever</title>
+  </programme>
+  <programme start="20201223120500 +0000" stop="20201223123500 +0000" channel="Caça e Pesca">
+    <title lang="pt">Pablo e as Moscas Secas</title>
+  </programme>
+  <programme start="20201223123500 +0000" stop="20201223131000 +0000" channel="Caça e Pesca">
+    <title lang="pt">A Montaria</title>
+  </programme>
+  <programme start="20201223131000 +0000" stop="20201223133500 +0000" channel="Caça e Pesca">
+    <title lang="pt">Wild Boar Fever</title>
+  </programme>
+  <programme start="20201223133500 +0000" stop="20201223140500 +0000" channel="Caça e Pesca">
+    <title lang="pt">A Pesca é Uma Arte</title>
+  </programme>
+  <programme start="20201223140500 +0000" stop="20201223142500 +0000" channel="Caça e Pesca">
+    <title lang="pt">Alta Montanha com Eduard Bendersky</title>
+  </programme>
+  <programme start="20201223142500 +0000" stop="20201223143500 +0000" channel="Caça e Pesca">
+    <title lang="pt">Hunter Style</title>
+  </programme>
+  <programme start="20201223143500 +0000" stop="20201223150000 +0000" channel="Caça e Pesca">
+    <title lang="pt">Wild Fish, Wild Places</title>
+  </programme>
+  <programme start="20201223150000 +0000" stop="20201223155000 +0000" channel="Caça e Pesca">
+    <title lang="pt">Pure Fly New Zealand</title>
+  </programme>
+  <programme start="20201223155000 +0000" stop="20201223170000 +0000" channel="Caça e Pesca">
+    <title lang="pt">Época Aberta</title>
+  </programme>
+  <programme start="20201223170000 +0000" stop="20201223173000 +0000" channel="Caça e Pesca">
+    <title lang="pt">Pesca à Linha, Spinning no Estreito</title>
+  </programme>
+  <programme start="20201223173000 +0000" stop="20201223180000 +0000" channel="Caça e Pesca">
+    <title lang="pt">Assim Somos</title>
+  </programme>
+  <programme start="20201223180000 +0000" stop="20201223182500 +0000" channel="Caça e Pesca">
+    <title lang="pt">Cozinha de Sotobosque</title>
+  </programme>
+  <programme start="20201223182500 +0000" stop="20201223185500 +0000" channel="Caça e Pesca">
+    <title lang="pt">Terra Selvagem</title>
+  </programme>
+  <programme start="20201223185500 +0000" stop="20201223192500 +0000" channel="Caça e Pesca">
+    <title lang="pt">Sofía e o Corço</title>
+  </programme>
+  <programme start="20201223192500 +0000" stop="20201223195500 +0000" channel="Caça e Pesca">
+    <title lang="pt">Feeder em Gandía</title>
+  </programme>
+  <programme start="20201223195500 +0000" stop="20201223204500 +0000" channel="Caça e Pesca">
+    <title lang="pt">Pure Fly New Zealand</title>
+  </programme>
+  <programme start="20201223204500 +0000" stop="20201223212000 +0000" channel="Caça e Pesca">
+    <title lang="pt">Monteando Javalis na Raia Portuguesa 2</title>
+  </programme>
+  <programme start="20201223212000 +0000" stop="20201223221000 +0000" channel="Caça e Pesca">
+    <title lang="pt">À Espreita</title>
+  </programme>
+  <programme start="20201223221000 +0000" stop="20201223222000 +0000" channel="Caça e Pesca">
+    <title lang="pt">Hunter Style</title>
+  </programme>
+  <programme start="20201223222000 +0000" stop="20201223225000 +0000" channel="Caça e Pesca">
+    <title lang="pt">Surfcasting em Formentera</title>
+  </programme>
+  <programme start="20201223225000 +0000" stop="20201223232500 +0000" channel="Caça e Pesca">
+    <title lang="pt">Pesca Submarina: Paixão Pelo Mar</title>
+  </programme>
+  <programme start="20201223232500 +0000" stop="20201224000500 +0000" channel="Caça e Pesca">
+    <title lang="pt">Alta Montanha com Eduard Bendersky</title>
+  </programme>
+  <programme start="20201223025900 +0000" stop="20201223032000 +0000" channel="Blaze HD">
+    <title lang="pt">Loucos por Carros</title>
+  </programme>
+  <programme start="20201223032000 +0000" stop="20201223040100 +0000" channel="Blaze HD">
+    <title lang="pt">Loucos por Carros</title>
+  </programme>
+  <programme start="20201223040100 +0000" stop="20201223044300 +0000" channel="Blaze HD">
+    <title lang="pt">Top Dog</title>
+  </programme>
+  <programme start="20201223044300 +0000" stop="20201223050300 +0000" channel="Blaze HD">
+    <title lang="pt">Loucos por Carros</title>
+  </programme>
+  <programme start="20201223050300 +0000" stop="20201223052400 +0000" channel="Blaze HD">
+    <title lang="pt">Loucos por Carros</title>
+  </programme>
+  <programme start="20201223052400 +0000" stop="20201223054300 +0000" channel="Blaze HD">
+    <title lang="pt">Loucos por Carros</title>
+  </programme>
+  <programme start="20201223054300 +0000" stop="20201223060400 +0000" channel="Blaze HD">
+    <title lang="pt">Loucos por Carros</title>
+  </programme>
+  <programme start="20201223060400 +0000" stop="20201223062300 +0000" channel="Blaze HD">
+    <title lang="pt">Loucos por Carros</title>
+  </programme>
+  <programme start="20201223062300 +0000" stop="20201223064400 +0000" channel="Blaze HD">
+    <title lang="pt">Loucos por Carros</title>
+  </programme>
+  <programme start="20201223064400 +0000" stop="20201223070400 +0000" channel="Blaze HD">
+    <title lang="pt">Loucos por Carros</title>
+  </programme>
+  <programme start="20201223070400 +0000" stop="20201223072400 +0000" channel="Blaze HD">
+    <title lang="pt">Loucos por Carros</title>
+  </programme>
+  <programme start="20201223072400 +0000" stop="20201223074400 +0000" channel="Blaze HD">
+    <title lang="pt">Loucos por Carros</title>
+  </programme>
+  <programme start="20201223074400 +0000" stop="20201223080400 +0000" channel="Blaze HD">
+    <title lang="pt">Loucos por Carros</title>
+  </programme>
+  <programme start="20201223080400 +0000" stop="20201223082400 +0000" channel="Blaze HD">
+    <title lang="pt">Loucos por Carros</title>
+  </programme>
+  <programme start="20201223082400 +0000" stop="20201223084500 +0000" channel="Blaze HD">
+    <title lang="pt">Loucos por Carros</title>
+  </programme>
+  <programme start="20201223084500 +0000" stop="20201223090400 +0000" channel="Blaze HD">
+    <title lang="pt">Loucos por Carros</title>
+  </programme>
+  <programme start="20201223090400 +0000" stop="20201223092400 +0000" channel="Blaze HD">
+    <title lang="pt">Loucos por Carros</title>
+  </programme>
+  <programme start="20201223092400 +0000" stop="20201223094400 +0000" channel="Blaze HD">
+    <title lang="pt">Loucos por Carros</title>
+  </programme>
+  <programme start="20201223094400 +0000" stop="20201223100400 +0000" channel="Blaze HD">
+    <title lang="pt">Loucos por Carros</title>
+  </programme>
+  <programme start="20201223100400 +0000" stop="20201223104500 +0000" channel="Blaze HD">
+    <title lang="pt">O Rei Do Pântano</title>
+  </programme>
+  <programme start="20201223104500 +0000" stop="20201223112400 +0000" channel="Blaze HD">
+    <title lang="pt">O Rei Do Pântano</title>
+  </programme>
+  <programme start="20201223112400 +0000" stop="20201223120600 +0000" channel="Blaze HD">
+    <title lang="pt">O Rei Do Pântano</title>
+  </programme>
+  <programme start="20201223120600 +0000" stop="20201223125200 +0000" channel="Blaze HD">
+    <title lang="pt">Caçadores De Lagostas</title>
+  </programme>
+  <programme start="20201223125200 +0000" stop="20201223133700 +0000" channel="Blaze HD">
+    <title lang="pt">Caçadores De Lagostas</title>
+  </programme>
+  <programme start="20201223133700 +0000" stop="20201223142300 +0000" channel="Blaze HD">
+    <title lang="pt">Caçadores De Lagostas</title>
+  </programme>
+  <programme start="20201223142300 +0000" stop="20201223150900 +0000" channel="Blaze HD">
+    <title lang="pt">Caçadores De Lagostas</title>
+  </programme>
+  <programme start="20201223150900 +0000" stop="20201223155000 +0000" channel="Blaze HD">
+    <title lang="pt">Loucos por Carros</title>
+  </programme>
+  <programme start="20201223155000 +0000" stop="20201223163100 +0000" channel="Blaze HD">
+    <title lang="pt">Corridas de Demolição</title>
+  </programme>
+  <programme start="20201223163100 +0000" stop="20201223165100 +0000" channel="Blaze HD">
+    <title lang="pt">O Preço da História</title>
+  </programme>
+  <programme start="20201223165100 +0000" stop="20201223171100 +0000" channel="Blaze HD">
+    <title lang="pt">O Preço da História</title>
+  </programme>
+  <programme start="20201223171100 +0000" stop="20201223173100 +0000" channel="Blaze HD">
+    <title lang="pt">O Preço da História</title>
+  </programme>
+  <programme start="20201223173100 +0000" stop="20201223175200 +0000" channel="Blaze HD">
+    <title lang="pt">O Preço da História</title>
+  </programme>
+  <programme start="20201223175200 +0000" stop="20201223181100 +0000" channel="Blaze HD">
+    <title lang="pt">O Preço da História</title>
+  </programme>
+  <programme start="20201223181100 +0000" stop="20201223183100 +0000" channel="Blaze HD">
+    <title lang="pt">O Preço da História</title>
+  </programme>
+  <programme start="20201223183100 +0000" stop="20201223185000 +0000" channel="Blaze HD">
+    <title lang="pt">O Preço da História</title>
+  </programme>
+  <programme start="20201223185000 +0000" stop="20201223191100 +0000" channel="Blaze HD">
+    <title lang="pt">O Preço da História</title>
+  </programme>
+  <programme start="20201223191100 +0000" stop="20201223195200 +0000" channel="Blaze HD">
+    <title lang="pt">O Preço da História</title>
+  </programme>
+  <programme start="20201223195200 +0000" stop="20201223203500 +0000" channel="Blaze HD">
+    <title lang="pt">Caça Tesouros</title>
+  </programme>
+  <programme start="20201223203500 +0000" stop="20201223211800 +0000" channel="Blaze HD">
+    <title lang="pt">Caça Tesouros</title>
+  </programme>
+  <programme start="20201223211800 +0000" stop="20201223220000 +0000" channel="Blaze HD">
+    <title lang="pt">Caça Tesouros</title>
+  </programme>
+  <programme start="20201223220000 +0000" stop="20201223224200 +0000" channel="Blaze HD">
+    <title lang="pt">Caça Tesouros</title>
+  </programme>
+  <programme start="20201223224200 +0000" stop="20201223232500 +0000" channel="Blaze HD">
+    <title lang="pt">Caça Tesouros</title>
+  </programme>
+  <programme start="20201223232500 +0000" stop="20201224000800 +0000" channel="Blaze HD">
+    <title lang="pt">Mountain Men</title>
+  </programme>
+  <programme start="20201223003800 +0000" stop="20201223060000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Insomnia</title>
+  </programme>
+  <programme start="20201223060000 +0000" stop="20201223070000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Insomnia</title>
+  </programme>
+  <programme start="20201223070000 +0000" stop="20201223090000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Breakfast Club</title>
+  </programme>
+  <programme start="20201223090000 +0000" stop="20201223105900 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Wake Up</title>
+  </programme>
+  <programme start="20201223105900 +0000" stop="20201223140000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV INTO THE MUSIC</title>
+  </programme>
+  <programme start="20201223140000 +0000" stop="20201223144400 +0000" channel="MTV Portugal HD">
+    <title lang="pt">I Used To Be Fat</title>
+  </programme>
+  <programme start="20201223144400 +0000" stop="20201223153000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">I Used To Be Fat</title>
+  </programme>
+  <programme start="20201223153000 +0000" stop="20201223161400 +0000" channel="MTV Portugal HD">
+    <title lang="pt">I Used To Be Fat</title>
+  </programme>
+  <programme start="20201223161400 +0000" stop="20201223170000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">I Used To Be Fat</title>
+  </programme>
+  <programme start="20201223170000 +0000" stop="20201223174500 +0000" channel="MTV Portugal HD">
+    <title lang="pt">I Used To Be Fat</title>
+  </programme>
+  <programme start="20201223174500 +0000" stop="20201223183200 +0000" channel="MTV Portugal HD">
+    <title lang="pt">I Used To Be Fat</title>
+  </programme>
+  <programme start="20201223183200 +0000" stop="20201223192100 +0000" channel="MTV Portugal HD">
+    <title lang="pt">I Used To Be Fat</title>
+  </programme>
+  <programme start="20201223192100 +0000" stop="20201223194600 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20201223194600 +0000" stop="20201223201000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20201223201000 +0000" stop="20201223203300 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20201223203300 +0000" stop="20201223205300 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20201223205300 +0000" stop="20201223211300 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20201223211300 +0000" stop="20201223213600 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20201223213600 +0000" stop="20201223215900 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20201223215900 +0000" stop="20201223222100 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20201223222100 +0000" stop="20201223224600 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20201223224600 +0000" stop="20201223230800 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20201223230800 +0000" stop="20201223232900 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20201223232900 +0000" stop="20201223235300 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20201223235300 +0000" stop="20201224001300 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20201223050000 +0000" stop="20201223110000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20201223110000 +0000" stop="20201223170000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20201223170000 +0000" stop="20201223213000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20201223213000 +0000" stop="20201223223000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20201223223000 +0000" stop="20201224050000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20201223010000 +0000" stop="20201223050000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Playlist</title>
+  </programme>
+  <programme start="20201223050000 +0000" stop="20201223090000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Playlist</title>
+  </programme>
+  <programme start="20201223090000 +0000" stop="20201223100000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Rewind</title>
+  </programme>
+  <programme start="20201223100000 +0000" stop="20201223140000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Playlist</title>
+  </programme>
+  <programme start="20201223140000 +0000" stop="20201223171500 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Playlist</title>
+  </programme>
+  <programme start="20201223171500 +0000" stop="20201223180000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Hit 10</title>
+  </programme>
+  <programme start="20201223180000 +0000" stop="20201223190000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Hits \u0026 Lyrics</title>
+  </programme>
+  <programme start="20201223190000 +0000" stop="20201223200000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">New</title>
+  </programme>
+  <programme start="20201223200000 +0000" stop="20201223204500 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Best French 10</title>
+  </programme>
+  <programme start="20201223204500 +0000" stop="20201223230000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Playlist</title>
+  </programme>
+  <programme start="20201223230000 +0000" stop="20201223234500 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Top 10 Pop</title>
+  </programme>
+  <programme start="20201223234500 +0000" stop="20201224030000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Playlist</title>
+  </programme>
+  <programme start="20201223030000 +0000" stop="20201223060000 +0000" channel="VH1">
+    <title lang="pt">Hits Don\u0027t Lie</title>
+  </programme>
+  <programme start="20201223060000 +0000" stop="20201223070000 +0000" channel="VH1">
+    <title lang="pt">Guess The Year</title>
+  </programme>
+  <programme start="20201223070000 +0000" stop="20201223080000 +0000" channel="VH1">
+    <title lang="pt">Lady Gaga: The Hits</title>
+  </programme>
+  <programme start="20201223080000 +0000" stop="20201223100000 +0000" channel="VH1">
+    <title lang="pt">Hits Don\u0027t Lie</title>
+  </programme>
+  <programme start="20201223100000 +0000" stop="20201223120000 +0000" channel="VH1">
+    <title lang="pt">Songs Of The Century!</title>
+  </programme>
+  <programme start="20201223120000 +0000" stop="20201223130000 +0000" channel="VH1">
+    <title lang="pt">Guess The Year</title>
+  </programme>
+  <programme start="20201223130000 +0000" stop="20201223140000 +0000" channel="VH1">
+    <title lang="pt">Lady Gaga: The Hits</title>
+  </programme>
+  <programme start="20201223140000 +0000" stop="20201223160000 +0000" channel="VH1">
+    <title lang="pt">Hits Don\u0027t Lie</title>
+  </programme>
+  <programme start="20201223160000 +0000" stop="20201223190000 +0000" channel="VH1">
+    <title lang="pt">We Love The: 00s</title>
+  </programme>
+  <programme start="20201223190000 +0000" stop="20201223200000 +0000" channel="VH1">
+    <title lang="pt">Guess The Year</title>
+  </programme>
+  <programme start="20201223200000 +0000" stop="20201223210000 +0000" channel="VH1">
+    <title lang="pt">Lady Gaga: The Hits</title>
+  </programme>
+  <programme start="20201223210000 +0000" stop="20201224030000 +0000" channel="VH1">
+    <title lang="pt">VH1 Shuffle</title>
+  </programme>
+  <programme start="20201223000000 +0000" stop="20201223050000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20201223050000 +0000" stop="20201223083500 +0000" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20201223083500 +0000" stop="20201223090900 +0000" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20201223090900 +0000" stop="20201223094500 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Music Trends</title>
+  </programme>
+  <programme start="20201223094500 +0000" stop="20201223103000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20201223103000 +0000" stop="20201223110000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Street Afro</title>
+  </programme>
+  <programme start="20201223110000 +0000" stop="20201223115700 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20201223115700 +0000" stop="20201223124200 +0000" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20201223124200 +0000" stop="20201223131800 +0000" channel="AFRO MUSIC">
+    <title lang="pt">+Love</title>
+  </programme>
+  <programme start="20201223131800 +0000" stop="20201223140000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20201223140000 +0000" stop="20201223142800 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Planazzo Chulo</title>
+  </programme>
+  <programme start="20201223142800 +0000" stop="20201223150400 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Music Trends</title>
+  </programme>
+  <programme start="20201223150400 +0000" stop="20201223155000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20201223155000 +0000" stop="20201223162100 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Street Afro</title>
+  </programme>
+  <programme start="20201223162100 +0000" stop="20201223170900 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20201223170900 +0000" stop="20201223175900 +0000" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20201223175900 +0000" stop="20201223183400 +0000" channel="AFRO MUSIC">
+    <title lang="pt">+Love</title>
+  </programme>
+  <programme start="20201223183400 +0000" stop="20201223190800 +0000" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20201223190800 +0000" stop="20201223194600 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Straight Outta Uk</title>
+  </programme>
+  <programme start="20201223194600 +0000" stop="20201223202000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Music Trends</title>
+  </programme>
+  <programme start="20201223202000 +0000" stop="20201223205500 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20201223205500 +0000" stop="20201223212700 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Street Afro</title>
+  </programme>
+  <programme start="20201223212700 +0000" stop="20201223221400 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20201223221400 +0000" stop="20201223225700 +0000" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20201223225700 +0000" stop="20201223233100 +0000" channel="AFRO MUSIC">
+    <title lang="pt">+Love</title>
+  </programme>
+  <programme start="20201223233100 +0000" stop="20201224000000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20201223021500 +0000" stop="20201223042300 +0000" channel="HOT HD">
+    <title lang="pt">Mães E Filhas Fazem Broches A Totós</title>
+  </programme>
+  <programme start="20201223042300 +0000" stop="20201223053200 +0000" channel="HOT HD">
+    <title lang="pt">Orgia Com Mija-mija</title>
+  </programme>
+  <programme start="20201223053200 +0000" stop="20201223065700 +0000" channel="HOT HD">
+    <title lang="pt">A Universidade Porno De Rocco: Parte 4</title>
+  </programme>
+  <programme start="20201223065700 +0000" stop="20201223082700 +0000" channel="HOT HD">
+    <title lang="pt">As Amigas Dividem Tudo</title>
+  </programme>
+  <programme start="20201223082700 +0000" stop="20201223103200 +0000" channel="HOT HD">
+    <title lang="pt">Alunas E Professores, Imoralidade E Mau Senso</title>
+  </programme>
+  <programme start="20201223103200 +0000" stop="20201223115000 +0000" channel="HOT HD">
+    <title lang="pt">Nascidas Para Trair</title>
+  </programme>
+  <programme start="20201223115000 +0000" stop="20201223124400 +0000" channel="HOT HD">
+    <title lang="pt">2 Caralhos Para Ratas Peludas</title>
+  </programme>
+  <programme start="20201223124400 +0000" stop="20201223144300 +0000" channel="HOT HD">
+    <title lang="pt">Swing À Moda De Itália</title>
+  </programme>
+  <programme start="20201223144300 +0000" stop="20201223163200 +0000" channel="HOT HD">
+    <title lang="pt">Modelos Sexuais</title>
+  </programme>
+  <programme start="20201223163200 +0000" stop="20201223181400 +0000" channel="HOT HD">
+    <title lang="pt">As Orgias De Jessica Drake</title>
+  </programme>
+  <programme start="20201223181400 +0000" stop="20201223192600 +0000" channel="HOT HD">
+    <title lang="pt">Casting De Mães Gordas</title>
+  </programme>
+  <programme start="20201223192600 +0000" stop="20201223202700 +0000" channel="HOT HD">
+    <title lang="pt">A Liga Do Sexo</title>
+  </programme>
+  <programme start="20201223202700 +0000" stop="20201223223800 +0000" channel="HOT HD">
+    <title lang="pt">Mamadu, 30 Cms Em 4 Ratas E Uma Aguenta No Cu!</title>
+  </programme>
+  <programme start="20201223223800 +0000" stop="20201224000000 +0000" channel="HOT HD">
+    <title lang="pt">Humanas De Estimação</title>
+  </programme>
+  <programme start="20201223021300 +0000" stop="20201223034000 +0000" channel="VENUS">
+    <title lang="pt">Garçonetes Fodem Gostoso</title>
+  </programme>
+  <programme start="20201223034000 +0000" stop="20201223042700 +0000" channel="VENUS">
+    <title lang="pt">Trio Com Erica Fontes E Jasmine Jae</title>
+  </programme>
+  <programme start="20201223042700 +0000" stop="20201223054900 +0000" channel="VENUS">
+    <title lang="pt">Faço Tudo Por Uma Chupada #2</title>
+  </programme>
+  <programme start="20201223054900 +0000" stop="20201223074100 +0000" channel="VENUS">
+    <title lang="pt">Desejo Latino 3 - Parte 1</title>
+  </programme>
+  <programme start="20201223074100 +0000" stop="20201223080000 +0000" channel="VENUS">
+    <title lang="pt">Castigo Lésbico</title>
+  </programme>
+  <programme start="20201223080000 +0000" stop="20201223092400 +0000" channel="VENUS">
+    <title lang="pt">Colheita Anal</title>
+  </programme>
+  <programme start="20201223092400 +0000" stop="20201223095000 +0000" channel="VENUS">
+    <title lang="pt">Meditar E Transar</title>
+  </programme>
+  <programme start="20201223095000 +0000" stop="20201223111400 +0000" channel="VENUS">
+    <title lang="pt">Se Dando Bem À Noite</title>
+  </programme>
+  <programme start="20201223111400 +0000" stop="20201223113100 +0000" channel="VENUS">
+    <title lang="pt">Dando Banho No Enteado</title>
+  </programme>
+  <programme start="20201223113100 +0000" stop="20201223132300 +0000" channel="VENUS">
+    <title lang="pt">Penetração Latina</title>
+  </programme>
+  <programme start="20201223132300 +0000" stop="20201223134100 +0000" channel="VENUS">
+    <title lang="pt">Castigo Lésbico</title>
+  </programme>
+  <programme start="20201223134100 +0000" stop="20201223150700 +0000" channel="VENUS">
+    <title lang="pt">Safadeza Com O Padrasto</title>
+  </programme>
+  <programme start="20201223150700 +0000" stop="20201223152900 +0000" channel="VENUS">
+    <title lang="pt">Os Vaqueiros Xxx</title>
+  </programme>
+  <programme start="20201223152900 +0000" stop="20201223165600 +0000" channel="VENUS">
+    <title lang="pt">Bem-Vindo À Orgia</title>
+  </programme>
+  <programme start="20201223165600 +0000" stop="20201223172700 +0000" channel="VENUS">
+    <title lang="pt">Trio No Cinema</title>
+  </programme>
+  <programme start="20201223172700 +0000" stop="20201223185300 +0000" channel="VENUS">
+    <title lang="pt">Garçonetes Fodem Gostoso</title>
+  </programme>
+  <programme start="20201223185300 +0000" stop="20201223191400 +0000" channel="VENUS">
+    <title lang="pt">Desejo Selvagem</title>
+  </programme>
+  <programme start="20201223191400 +0000" stop="20201223203900 +0000" channel="VENUS">
+    <title lang="pt">Striptease E Foda</title>
+  </programme>
+  <programme start="20201223203900 +0000" stop="20201223210100 +0000" channel="VENUS">
+    <title lang="pt">Cachorra Vingativa</title>
+  </programme>
+  <programme start="20201223210100 +0000" stop="20201223222600 +0000" channel="VENUS">
+    <title lang="pt">Escondido É Melhor...</title>
+  </programme>
+  <programme start="20201223222600 +0000" stop="20201223225600 +0000" channel="VENUS">
+    <title lang="pt">Anal Na Milf Dominante</title>
+  </programme>
+  <programme start="20201223225600 +0000" stop="20201224002400 +0000" channel="VENUS">
+    <title lang="pt">Sexy E Madastra 3</title>
+  </programme>
+  <programme start="20201223023000 +0000" stop="20201223030000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Praia Brava</title>
+  </programme>
+  <programme start="20201223030000 +0000" stop="20201223033000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Suite Rendezvous</title>
+  </programme>
+  <programme start="20201223033000 +0000" stop="20201223040000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Fiction In Bed</title>
+  </programme>
+  <programme start="20201223040000 +0000" stop="20201223053000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Mom\u0027S Lil Lesbians</title>
+  </programme>
+  <programme start="20201223053000 +0000" stop="20201223055700 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playmates!</title>
+  </programme>
+  <programme start="20201223055700 +0000" stop="20201223062800 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Triple Play II</title>
+  </programme>
+  <programme start="20201223062800 +0000" stop="20201223065800 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Praia Brava</title>
+  </programme>
+  <programme start="20201223065800 +0000" stop="20201223072700 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playmate Guide To The Universe</title>
+  </programme>
+  <programme start="20201223072700 +0000" stop="20201223075900 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">The Stash III</title>
+  </programme>
+  <programme start="20201223075900 +0000" stop="20201223082900 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">The Rub #109</title>
+  </programme>
+  <programme start="20201223082900 +0000" stop="20201223090000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">The Stash IV</title>
+  </programme>
+  <programme start="20201223090000 +0000" stop="20201223103200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">10 Milf Lesbians</title>
+  </programme>
+  <programme start="20201223103200 +0000" stop="20201223105900 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playmates!</title>
+  </programme>
+  <programme start="20201223105900 +0000" stop="20201223112900 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Ruta 69</title>
+  </programme>
+  <programme start="20201223112900 +0000" stop="20201223120000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Triple Play</title>
+  </programme>
+  <programme start="20201223120000 +0000" stop="20201223122900 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Tramas Ardientes</title>
+  </programme>
+  <programme start="20201223122900 +0000" stop="20201223130000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Submission I</title>
+  </programme>
+  <programme start="20201223130000 +0000" stop="20201223133100 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Just The Girls III</title>
+  </programme>
+  <programme start="20201223133100 +0000" stop="20201223140100 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">The Campaign Venezuela</title>
+  </programme>
+  <programme start="20201223140100 +0000" stop="20201223153000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Blood Sisters</title>
+  </programme>
+  <programme start="20201223153000 +0000" stop="20201223160000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Nino Dolce Il Cucinero Dell\u0027 Amore</title>
+  </programme>
+  <programme start="20201223160000 +0000" stop="20201223163000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Nino Dolce Il Cucinero Dell\u0027 Amore</title>
+  </programme>
+  <programme start="20201223163000 +0000" stop="20201223170000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Nino Dolce Il Cucinero Dell\u0027 Amore</title>
+  </programme>
+  <programme start="20201223170000 +0000" stop="20201223173000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Triple Play</title>
+  </programme>
+  <programme start="20201223173000 +0000" stop="20201223180000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Ruta 69</title>
+  </programme>
+  <programme start="20201223180000 +0000" stop="20201223182800 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playmates!</title>
+  </programme>
+  <programme start="20201223182800 +0000" stop="20201223190000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Cougar Club L.A.</title>
+  </programme>
+  <programme start="20201223190000 +0000" stop="20201223193000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Toyride</title>
+  </programme>
+  <programme start="20201223193000 +0000" stop="20201223195800 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playmate Guide To The Universe</title>
+  </programme>
+  <programme start="20201223195800 +0000" stop="20201223202900 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">The Stash IV</title>
+  </programme>
+  <programme start="20201223202900 +0000" stop="20201223210000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">The Stash IV</title>
+  </programme>
+  <programme start="20201223210000 +0000" stop="20201223213100 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">The Stash IV</title>
+  </programme>
+  <programme start="20201223213100 +0000" stop="20201223220200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Triple Play II</title>
+  </programme>
+  <programme start="20201223220200 +0000" stop="20201223223200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Praia Brava</title>
+  </programme>
+  <programme start="20201223223200 +0000" stop="20201223230000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playmates!</title>
+  </programme>
+  <programme start="20201223230000 +0000" stop="20201223233100 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Suite Rendezvous</title>
+  </programme>
+  <programme start="20201223233100 +0000" stop="20201224000100 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Fiction In Bed</title>
+  </programme>
+</tv>

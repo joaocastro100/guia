@@ -1,0 +1,1733 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FOX Movies">
+    <display-name lang="pt">FOX Movies</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CINEMUNDO HD">
+    <display-name lang="pt">CINEMUNDO HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/cinemundo-hd.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="EUROCHANNEL">
+    <display-name lang="pt">EUROCHANNEL</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/eurochannel.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="AXN Black">
+    <display-name lang="pt">AXN Black</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX Life">
+    <display-name lang="pt">FOX Life</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX Crime">
+    <display-name lang="pt">FOX Crime</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX Comedy">
+    <display-name lang="pt">FOX Comedy</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SYFY">
+    <display-name lang="pt">SYFY</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN White">
+    <display-name lang="pt">AXN White</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="pt">National Geographic</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="National Geographic WILD">
+    <display-name lang="pt">National Geographic WILD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ODISSEIA HD">
+    <display-name lang="pt">ODISSEIA HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">Discovery Channel</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="HISTÓRIA HD">
+    <display-name lang="pt">HISTÓRIA HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/historia.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Travel Channel">
+    <display-name lang="pt">Travel Channel</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="24Kitchen HD">
+    <display-name lang="pt">24Kitchen HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="E! Entertainment">
+    <display-name lang="pt">E! Entertainment</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20201223001900 +0000" stop="20201223021200 +0000" channel="FOX Movies">
+    <title lang="pt">Profissão: Duro</title>
+  </programme>
+  <programme start="20201223021200 +0000" stop="20201223035900 +0000" channel="FOX Movies">
+    <title lang="pt">Romeo Deve Morrer</title>
+  </programme>
+  <programme start="20201223035900 +0000" stop="20201223052100 +0000" channel="FOX Movies">
+    <title lang="pt">Fúria Silenciosa</title>
+  </programme>
+  <programme start="20201223052100 +0000" stop="20201223065100 +0000" channel="FOX Movies">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201223065100 +0000" stop="20201223082700 +0000" channel="FOX Movies">
+    <title lang="pt">O Último Airbender</title>
+  </programme>
+  <programme start="20201223082700 +0000" stop="20201223101300 +0000" channel="FOX Movies">
+    <title lang="pt">Lara Croft: Tomb Raider - O Berço da Vida</title>
+  </programme>
+  <programme start="20201223101300 +0000" stop="20201223115600 +0000" channel="FOX Movies">
+    <title lang="pt">A Múmia: O Túmulo do Imperador Dragão</title>
+  </programme>
+  <programme start="20201223115600 +0000" stop="20201223132900 +0000" channel="FOX Movies">
+    <title lang="pt">Pela Medida Grande</title>
+  </programme>
+  <programme start="20201223132900 +0000" stop="20201223152200 +0000" channel="FOX Movies">
+    <title lang="pt">A Super Patrulha</title>
+  </programme>
+  <programme start="20201223152200 +0000" stop="20201223170500 +0000" channel="FOX Movies">
+    <title lang="pt">O Super Polícia</title>
+  </programme>
+  <programme start="20201223170500 +0000" stop="20201223183200 +0000" channel="FOX Movies">
+    <title lang="pt">Academia de Polícia 5: Missão em Miami</title>
+  </programme>
+  <programme start="20201223183200 +0000" stop="20201223195400 +0000" channel="FOX Movies">
+    <title lang="pt">Academia de Polícia 6: Cidade Sitiada</title>
+  </programme>
+  <programme start="20201223195400 +0000" stop="20201223211500 +0000" channel="FOX Movies">
+    <title lang="pt">Academia de Polícia: Missão em Moscovo</title>
+  </programme>
+  <programme start="20201223211500 +0000" stop="20201223225400 +0000" channel="FOX Movies">
+    <title lang="pt">Crocodilo Dundee</title>
+  </programme>
+  <programme start="20201223225400 +0000" stop="20201224004400 +0000" channel="FOX Movies">
+    <title lang="pt">Crocodilo Dundee II</title>
+  </programme>
+  <programme start="20201223023000 +0000" stop="20201223042000 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">Outlawed - À Margem da Lei</title>
+  </programme>
+  <programme start="20201223042000 +0000" stop="20201223062000 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">O Assassino de Clovehitch</title>
+  </programme>
+  <programme start="20201223062000 +0000" stop="20201223080000 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">True Justice: A Hora de Morrer</title>
+  </programme>
+  <programme start="20201223080000 +0000" stop="20201223094000 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">Isto Só a Mim!</title>
+  </programme>
+  <programme start="20201223094000 +0000" stop="20201223111500 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">Marmaduke</title>
+  </programme>
+  <programme start="20201223111500 +0000" stop="20201223125500 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">Mortadela e Salamão: Missão Não Possível</title>
+  </programme>
+  <programme start="20201223125500 +0000" stop="20201223144000 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">Nanny McPhee - A Ama Mágica</title>
+  </programme>
+  <programme start="20201223144000 +0000" stop="20201223163500 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">Acerta o Passo</title>
+  </programme>
+  <programme start="20201223163500 +0000" stop="20201223192000 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">O Patriota</title>
+  </programme>
+  <programme start="20201223192000 +0000" stop="20201223210000 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">Duro de Matar</title>
+  </programme>
+  <programme start="20201223210000 +0000" stop="20201223230000 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">O Mito</title>
+  </programme>
+  <programme start="20201223230000 +0000" stop="20201224003000 +0000" channel="CINEMUNDO HD">
+    <title lang="pt">A Lenda do Dragão Vermelho</title>
+  </programme>
+  <programme start="20201223020500 +0000" stop="20201223033000 +0000" channel="EUROCHANNEL">
+    <title lang="pt">Presumido Culpado</title>
+  </programme>
+  <programme start="20201223033000 +0000" stop="20201223050000 +0000" channel="EUROCHANNEL">
+    <title lang="pt">Suspeita</title>
+  </programme>
+  <programme start="20201223050000 +0000" stop="20201223062500 +0000" channel="EUROCHANNEL">
+    <title lang="pt">Perversão</title>
+  </programme>
+  <programme start="20201223062500 +0000" stop="20201223075500 +0000" channel="EUROCHANNEL">
+    <title lang="pt">Mais Vivos Do Que Nunca</title>
+  </programme>
+  <programme start="20201223075500 +0000" stop="20201223092000 +0000" channel="EUROCHANNEL">
+    <title lang="pt">Burlesque</title>
+  </programme>
+  <programme start="20201223092000 +0000" stop="20201223105000 +0000" channel="EUROCHANNEL">
+    <title lang="pt">Corações Em Guerra</title>
+  </programme>
+  <programme start="20201223105000 +0000" stop="20201223122000 +0000" channel="EUROCHANNEL">
+    <title lang="pt">Conspiração</title>
+  </programme>
+  <programme start="20201223122000 +0000" stop="20201223134500 +0000" channel="EUROCHANNEL">
+    <title lang="pt">Presumido Culpado</title>
+  </programme>
+  <programme start="20201223134500 +0000" stop="20201223151000 +0000" channel="EUROCHANNEL">
+    <title lang="pt">Presumido Culpado</title>
+  </programme>
+  <programme start="20201223151000 +0000" stop="20201223164000 +0000" channel="EUROCHANNEL">
+    <title lang="pt">Fuga Em Paris</title>
+  </programme>
+  <programme start="20201223164000 +0000" stop="20201223181000 +0000" channel="EUROCHANNEL">
+    <title lang="pt">Circuito Fechado</title>
+  </programme>
+  <programme start="20201223181000 +0000" stop="20201223200000 +0000" channel="EUROCHANNEL">
+    <title lang="pt">Um Verão Na Grécia</title>
+  </programme>
+  <programme start="20201223200000 +0000" stop="20201223205500 +0000" channel="EUROCHANNEL">
+    <title lang="pt">Mulheres Da Lei</title>
+  </programme>
+  <programme start="20201223205500 +0000" stop="20201223215000 +0000" channel="EUROCHANNEL">
+    <title lang="pt">Mulheres Da Lei</title>
+  </programme>
+  <programme start="20201223215000 +0000" stop="20201224000000 +0000" channel="EUROCHANNEL">
+    <title lang="pt">Os Moedeiros Falsos</title>
+  </programme>
+  <programme start="20201223003900 +0000" stop="20201223022000 +0000" channel="AXN Black">
+    <title lang="pt">O Seu Nome era Sarah</title>
+  </programme>
+  <programme start="20201223022000 +0000" stop="20201223040100 +0000" channel="AXN Black">
+    <title lang="pt">Testemunha Indiscreta</title>
+  </programme>
+  <programme start="20201223040100 +0000" stop="20201223054800 +0000" channel="AXN Black">
+    <title lang="pt">Todos os Santos</title>
+  </programme>
+  <programme start="20201223054800 +0000" stop="20201223071900 +0000" channel="AXN Black">
+    <title lang="pt">O Bom Alemão</title>
+  </programme>
+  <programme start="20201223071900 +0000" stop="20201223092500 +0000" channel="AXN Black">
+    <title lang="pt">Larry Flynt</title>
+  </programme>
+  <programme start="20201223092500 +0000" stop="20201223105300 +0000" channel="AXN Black">
+    <title lang="pt">Gone - 12 Horas Para Viver</title>
+  </programme>
+  <programme start="20201223105300 +0000" stop="20201223122600 +0000" channel="AXN Black">
+    <title lang="pt">Resident Evil</title>
+  </programme>
+  <programme start="20201223122600 +0000" stop="20201223142300 +0000" channel="AXN Black">
+    <title lang="pt">T2 Trainspotting</title>
+  </programme>
+  <programme start="20201223142300 +0000" stop="20201223161100 +0000" channel="AXN Black">
+    <title lang="pt">Contado Ninguém Acredita</title>
+  </programme>
+  <programme start="20201223161100 +0000" stop="20201223173500 +0000" channel="AXN Black">
+    <title lang="pt">Intruso Suspeito</title>
+  </programme>
+  <programme start="20201223173500 +0000" stop="20201223192000 +0000" channel="AXN Black">
+    <title lang="pt">Michael</title>
+  </programme>
+  <programme start="20201223192000 +0000" stop="20201223211000 +0000" channel="AXN Black">
+    <title lang="pt">Brooklyn</title>
+  </programme>
+  <programme start="20201223211000 +0000" stop="20201223224800 +0000" channel="AXN Black">
+    <title lang="pt">Juno</title>
+  </programme>
+  <programme start="20201223224800 +0000" stop="20201224005100 +0000" channel="AXN Black">
+    <title lang="pt">Sahara</title>
+  </programme>
+  <programme start="20201223014300 +0000" stop="20201223033200 +0000" channel="AXN">
+    <title lang="pt">Homens de Coragem</title>
+  </programme>
+  <programme start="20201223033200 +0000" stop="20201223041800 +0000" channel="AXN">
+    <title lang="pt">Mentes Criminosas</title>
+  </programme>
+  <programme start="20201223041800 +0000" stop="20201223050700 +0000" channel="AXN">
+    <title lang="pt">Mentes Criminosas</title>
+  </programme>
+  <programme start="20201223050700 +0000" stop="20201223054900 +0000" channel="AXN">
+    <title lang="pt">The Blacklist</title>
+  </programme>
+  <programme start="20201223054900 +0000" stop="20201223063300 +0000" channel="AXN">
+    <title lang="pt">The Blacklist</title>
+  </programme>
+  <programme start="20201223063300 +0000" stop="20201223071800 +0000" channel="AXN">
+    <title lang="pt">Investigação Criminal</title>
+  </programme>
+  <programme start="20201223071800 +0000" stop="20201223080400 +0000" channel="AXN">
+    <title lang="pt">Investigação Criminal</title>
+  </programme>
+  <programme start="20201223080400 +0000" stop="20201223084900 +0000" channel="AXN">
+    <title lang="pt">Investigação Criminal</title>
+  </programme>
+  <programme start="20201223084900 +0000" stop="20201223093400 +0000" channel="AXN">
+    <title lang="pt">Investigação Criminal</title>
+  </programme>
+  <programme start="20201223093400 +0000" stop="20201223102100 +0000" channel="AXN">
+    <title lang="pt">Investigação Criminal</title>
+  </programme>
+  <programme start="20201223102100 +0000" stop="20201223110600 +0000" channel="AXN">
+    <title lang="pt">The Rookie</title>
+  </programme>
+  <programme start="20201223110600 +0000" stop="20201223115000 +0000" channel="AXN">
+    <title lang="pt">The Rookie</title>
+  </programme>
+  <programme start="20201223115000 +0000" stop="20201223123500 +0000" channel="AXN">
+    <title lang="pt">Castle</title>
+  </programme>
+  <programme start="20201223123500 +0000" stop="20201223132300 +0000" channel="AXN">
+    <title lang="pt">Castle</title>
+  </programme>
+  <programme start="20201223132300 +0000" stop="20201223140800 +0000" channel="AXN">
+    <title lang="pt">S.W.A.T.: Força de Intervenção</title>
+  </programme>
+  <programme start="20201223140800 +0000" stop="20201223145400 +0000" channel="AXN">
+    <title lang="pt">S.W.A.T.: Força de Intervenção</title>
+  </programme>
+  <programme start="20201223145400 +0000" stop="20201223164700 +0000" channel="AXN">
+    <title lang="pt">Caça-Fantasmas</title>
+  </programme>
+  <programme start="20201223164700 +0000" stop="20201223183500 +0000" channel="AXN">
+    <title lang="pt">Homens de Coragem</title>
+  </programme>
+  <programme start="20201223183500 +0000" stop="20201223192500 +0000" channel="AXN">
+    <title lang="pt">Mentes Criminosas</title>
+  </programme>
+  <programme start="20201223192500 +0000" stop="20201223201500 +0000" channel="AXN">
+    <title lang="pt">Investigação Criminal</title>
+  </programme>
+  <programme start="20201223201500 +0000" stop="20201223210700 +0000" channel="AXN">
+    <title lang="pt">Investigação Criminal</title>
+  </programme>
+  <programme start="20201223210700 +0000" stop="20201223220000 +0000" channel="AXN">
+    <title lang="pt">Investigação Criminal</title>
+  </programme>
+  <programme start="20201223220000 +0000" stop="20201223235300 +0000" channel="AXN">
+    <title lang="pt">Dois Tiros</title>
+  </programme>
+  <programme start="20201223235300 +0000" stop="20201224015800 +0000" channel="AXN">
+    <title lang="pt">Os Bad Boys</title>
+  </programme>
+  <programme start="20201223010100 +0000" stop="20201223024500 +0000" channel="FOX">
+    <title lang="pt">Velocidade Furiosa - Ligação Tóquio</title>
+  </programme>
+  <programme start="20201223024500 +0000" stop="20201223032500 +0000" channel="FOX">
+    <title lang="pt">Investigação Criminal: Los Angeles</title>
+  </programme>
+  <programme start="20201223032500 +0000" stop="20201223040800 +0000" channel="FOX">
+    <title lang="pt">Investigação Criminal: Los Angeles</title>
+  </programme>
+  <programme start="20201223040800 +0000" stop="20201223044900 +0000" channel="FOX">
+    <title lang="pt">C.S.I. Miami</title>
+  </programme>
+  <programme start="20201223044900 +0000" stop="20201223053200 +0000" channel="FOX">
+    <title lang="pt">C.S.I. Miami</title>
+  </programme>
+  <programme start="20201223053200 +0000" stop="20201223061300 +0000" channel="FOX">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20201223061300 +0000" stop="20201223065400 +0000" channel="FOX">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20201223065400 +0000" stop="20201223073500 +0000" channel="FOX">
+    <title lang="pt">Investigação Criminal: New Orleans</title>
+  </programme>
+  <programme start="20201223073500 +0000" stop="20201223081600 +0000" channel="FOX">
+    <title lang="pt">Investigação Criminal: New Orleans</title>
+  </programme>
+  <programme start="20201223081600 +0000" stop="20201223090000 +0000" channel="FOX">
+    <title lang="pt">Hawai Força Especial</title>
+  </programme>
+  <programme start="20201223090000 +0000" stop="20201223094200 +0000" channel="FOX">
+    <title lang="pt">Hawai Força Especial</title>
+  </programme>
+  <programme start="20201223094200 +0000" stop="20201223102400 +0000" channel="FOX">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20201223102400 +0000" stop="20201223110600 +0000" channel="FOX">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20201223110600 +0000" stop="20201223115500 +0000" channel="FOX">
+    <title lang="pt">Investigação Criminal: Los Angeles</title>
+  </programme>
+  <programme start="20201223115500 +0000" stop="20201223124200 +0000" channel="FOX">
+    <title lang="pt">Investigação Criminal: Los Angeles</title>
+  </programme>
+  <programme start="20201223124200 +0000" stop="20201223132600 +0000" channel="FOX">
+    <title lang="pt">C.S.I.</title>
+  </programme>
+  <programme start="20201223132600 +0000" stop="20201223140900 +0000" channel="FOX">
+    <title lang="pt">C.S.I.</title>
+  </programme>
+  <programme start="20201223140900 +0000" stop="20201223145700 +0000" channel="FOX">
+    <title lang="pt">C.S.I.</title>
+  </programme>
+  <programme start="20201223145700 +0000" stop="20201223154600 +0000" channel="FOX">
+    <title lang="pt">C.S.I.</title>
+  </programme>
+  <programme start="20201223154600 +0000" stop="20201223163500 +0000" channel="FOX">
+    <title lang="pt">Hawai Força Especial</title>
+  </programme>
+  <programme start="20201223163500 +0000" stop="20201223172000 +0000" channel="FOX">
+    <title lang="pt">Hawai Força Especial</title>
+  </programme>
+  <programme start="20201223172000 +0000" stop="20201223180600 +0000" channel="FOX">
+    <title lang="pt">C.S.I. Miami</title>
+  </programme>
+  <programme start="20201223180600 +0000" stop="20201223185400 +0000" channel="FOX">
+    <title lang="pt">C.S.I. Miami</title>
+  </programme>
+  <programme start="20201223185400 +0000" stop="20201223194300 +0000" channel="FOX">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20201223194300 +0000" stop="20201223203500 +0000" channel="FOX">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20201223203500 +0000" stop="20201223212900 +0000" channel="FOX">
+    <title lang="pt">Hawai Força Especial</title>
+  </programme>
+  <programme start="20201223212900 +0000" stop="20201223221800 +0000" channel="FOX">
+    <title lang="pt">Hawai Força Especial</title>
+  </programme>
+  <programme start="20201223221800 +0000" stop="20201223230600 +0000" channel="FOX">
+    <title lang="pt">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20201223230600 +0000" stop="20201224000000 +0000" channel="FOX">
+    <title lang="pt">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20201223013200 +0000" stop="20201223021300 +0000" channel="FOX Life">
+    <title lang="pt">Lei &amp; Ordem: Unidade Especial</title>
+  </programme>
+  <programme start="20201223021300 +0000" stop="20201223025400 +0000" channel="FOX Life">
+    <title lang="pt">Lei &amp; Ordem: Unidade Especial</title>
+  </programme>
+  <programme start="20201223025400 +0000" stop="20201223033500 +0000" channel="FOX Life">
+    <title lang="pt">Clínica Privada</title>
+  </programme>
+  <programme start="20201223033500 +0000" stop="20201223041500 +0000" channel="FOX Life">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20201223041500 +0000" stop="20201223045700 +0000" channel="FOX Life">
+    <title lang="pt">Ossos</title>
+  </programme>
+  <programme start="20201223045700 +0000" stop="20201223053900 +0000" channel="FOX Life">
+    <title lang="pt">Ossos</title>
+  </programme>
+  <programme start="20201223053900 +0000" stop="20201223062000 +0000" channel="FOX Life">
+    <title lang="pt">Ossos</title>
+  </programme>
+  <programme start="20201223062000 +0000" stop="20201223070000 +0000" channel="FOX Life">
+    <title lang="pt">Anatomia de Grey</title>
+  </programme>
+  <programme start="20201223070000 +0000" stop="20201223074300 +0000" channel="FOX Life">
+    <title lang="pt">Anatomia de Grey</title>
+  </programme>
+  <programme start="20201223074300 +0000" stop="20201223082700 +0000" channel="FOX Life">
+    <title lang="pt">Anatomia de Grey</title>
+  </programme>
+  <programme start="20201223082700 +0000" stop="20201223095300 +0000" channel="FOX Life">
+    <title lang="pt">The Christmas Club</title>
+  </programme>
+  <programme start="20201223095300 +0000" stop="20201223112600 +0000" channel="FOX Life">
+    <title lang="pt">Write Before Christmas</title>
+  </programme>
+  <programme start="20201223112600 +0000" stop="20201223120900 +0000" channel="FOX Life">
+    <title lang="pt">Lei &amp; Ordem: Unidade Especial</title>
+  </programme>
+  <programme start="20201223120900 +0000" stop="20201223125500 +0000" channel="FOX Life">
+    <title lang="pt">Lei &amp; Ordem: Unidade Especial</title>
+  </programme>
+  <programme start="20201223125500 +0000" stop="20201223134300 +0000" channel="FOX Life">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20201223134300 +0000" stop="20201223142700 +0000" channel="FOX Life">
+    <title lang="pt">Clínica Privada</title>
+  </programme>
+  <programme start="20201223142700 +0000" stop="20201223155800 +0000" channel="FOX Life">
+    <title lang="pt">With Love, Christmas</title>
+  </programme>
+  <programme start="20201223155800 +0000" stop="20201223173100 +0000" channel="FOX Life">
+    <title lang="pt">Magic Stocking</title>
+  </programme>
+  <programme start="20201223173100 +0000" stop="20201223190300 +0000" channel="FOX Life">
+    <title lang="pt">Our Christmas Love Song</title>
+  </programme>
+  <programme start="20201223190300 +0000" stop="20201223194900 +0000" channel="FOX Life">
+    <title lang="pt">Lei &amp; Ordem: Unidade Especial</title>
+  </programme>
+  <programme start="20201223194900 +0000" stop="20201223203500 +0000" channel="FOX Life">
+    <title lang="pt">Lei &amp; Ordem: Unidade Especial</title>
+  </programme>
+  <programme start="20201223203500 +0000" stop="20201223212300 +0000" channel="FOX Life">
+    <title lang="pt">Clínica Privada</title>
+  </programme>
+  <programme start="20201223212300 +0000" stop="20201223221500 +0000" channel="FOX Life">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20201223221500 +0000" stop="20201223222000 +0000" channel="FOX Life">
+    <title lang="pt">Cenas de Família</title>
+  </programme>
+  <programme start="20201223222000 +0000" stop="20201223231100 +0000" channel="FOX Life">
+    <title lang="pt">Anatomia de Grey</title>
+  </programme>
+  <programme start="20201223231100 +0000" stop="20201224000600 +0000" channel="FOX Life">
+    <title lang="pt">Transplant</title>
+  </programme>
+  <programme start="20201223003700 +0000" stop="20201223012200 +0000" channel="FOX Crime">
+    <title lang="pt">C.S.I. Nova Iorque</title>
+  </programme>
+  <programme start="20201223012200 +0000" stop="20201223020400 +0000" channel="FOX Crime">
+    <title lang="pt">C.S.I. Nova Iorque</title>
+  </programme>
+  <programme start="20201223020400 +0000" stop="20201223024800 +0000" channel="FOX Crime">
+    <title lang="pt">Lei &amp; Ordem: Intenções Criminosas</title>
+  </programme>
+  <programme start="20201223024800 +0000" stop="20201223033100 +0000" channel="FOX Crime">
+    <title lang="pt">Father Brown</title>
+  </programme>
+  <programme start="20201223033100 +0000" stop="20201223041500 +0000" channel="FOX Crime">
+    <title lang="pt">Mallorca Files</title>
+  </programme>
+  <programme start="20201223041500 +0000" stop="20201223054400 +0000" channel="FOX Crime">
+    <title lang="pt">Midsomer Murders</title>
+  </programme>
+  <programme start="20201223054400 +0000" stop="20201223071200 +0000" channel="FOX Crime">
+    <title lang="pt">Midsomer Murders</title>
+  </programme>
+  <programme start="20201223071200 +0000" stop="20201223084700 +0000" channel="FOX Crime">
+    <title lang="pt">Hinterland</title>
+  </programme>
+  <programme start="20201223084700 +0000" stop="20201223093500 +0000" channel="FOX Crime">
+    <title lang="pt">Crime, Disse Ela</title>
+  </programme>
+  <programme start="20201223093500 +0000" stop="20201223102000 +0000" channel="FOX Crime">
+    <title lang="pt">Shakespeare &amp; Hathaway: Detetives Privados</title>
+  </programme>
+  <programme start="20201223102000 +0000" stop="20201223115400 +0000" channel="FOX Crime">
+    <title lang="pt">Rosemary &amp; Thyme</title>
+  </programme>
+  <programme start="20201223115400 +0000" stop="20201223133300 +0000" channel="FOX Crime">
+    <title lang="pt">Hinterland</title>
+  </programme>
+  <programme start="20201223133300 +0000" stop="20201223141600 +0000" channel="FOX Crime">
+    <title lang="pt">C.S.I. Nova Iorque</title>
+  </programme>
+  <programme start="20201223141600 +0000" stop="20201223150000 +0000" channel="FOX Crime">
+    <title lang="pt">C.S.I. Nova Iorque</title>
+  </programme>
+  <programme start="20201223150000 +0000" stop="20201223155000 +0000" channel="FOX Crime">
+    <title lang="pt">Crime, Disse Ela</title>
+  </programme>
+  <programme start="20201223155000 +0000" stop="20201223164000 +0000" channel="FOX Crime">
+    <title lang="pt">Crime, Disse Ela</title>
+  </programme>
+  <programme start="20201223164000 +0000" stop="20201223173800 +0000" channel="FOX Crime">
+    <title lang="pt">Munch</title>
+  </programme>
+  <programme start="20201223173800 +0000" stop="20201223183000 +0000" channel="FOX Crime">
+    <title lang="pt">Munch</title>
+  </programme>
+  <programme start="20201223183000 +0000" stop="20201223192300 +0000" channel="FOX Crime">
+    <title lang="pt">Rosemary &amp; Thyme</title>
+  </programme>
+  <programme start="20201223192300 +0000" stop="20201223201800 +0000" channel="FOX Crime">
+    <title lang="pt">Rosemary &amp; Thyme</title>
+  </programme>
+  <programme start="20201223201800 +0000" stop="20201223220000 +0000" channel="FOX Crime">
+    <title lang="pt">Hinterland</title>
+  </programme>
+  <programme start="20201223220000 +0000" stop="20201223225100 +0000" channel="FOX Crime">
+    <title lang="pt">Mallorca Files</title>
+  </programme>
+  <programme start="20201223225100 +0000" stop="20201224002700 +0000" channel="FOX Crime">
+    <title lang="pt">Endeavour</title>
+  </programme>
+  <programme start="20201223001000 +0000" stop="20201223003400 +0000" channel="FOX Comedy">
+    <title lang="pt">Two Broke Girls</title>
+  </programme>
+  <programme start="20201223003400 +0000" stop="20201223005800 +0000" channel="FOX Comedy">
+    <title lang="pt">Two Broke Girls</title>
+  </programme>
+  <programme start="20201223005800 +0000" stop="20201223011900 +0000" channel="FOX Comedy">
+    <title lang="pt">Two Broke Girls</title>
+  </programme>
+  <programme start="20201223011900 +0000" stop="20201223014200 +0000" channel="FOX Comedy">
+    <title lang="pt">Friends</title>
+  </programme>
+  <programme start="20201223014200 +0000" stop="20201223020600 +0000" channel="FOX Comedy">
+    <title lang="pt">Friends</title>
+  </programme>
+  <programme start="20201223020600 +0000" stop="20201223034200 +0000" channel="FOX Comedy">
+    <title lang="pt">American Pie 2: O Ano Seguinte</title>
+  </programme>
+  <programme start="20201223034200 +0000" stop="20201223051000 +0000" channel="FOX Comedy">
+    <title lang="pt">American Pie: O Casamento</title>
+  </programme>
+  <programme start="20201223051000 +0000" stop="20201223053000 +0000" channel="FOX Comedy">
+    <title lang="pt">Uma Família Muito Moderna</title>
+  </programme>
+  <programme start="20201223053000 +0000" stop="20201223055100 +0000" channel="FOX Comedy">
+    <title lang="pt">Uma Família Muito Moderna</title>
+  </programme>
+  <programme start="20201223055100 +0000" stop="20201223061100 +0000" channel="FOX Comedy">
+    <title lang="pt">Black-ish</title>
+  </programme>
+  <programme start="20201223061100 +0000" stop="20201223063400 +0000" channel="FOX Comedy">
+    <title lang="pt">Friends</title>
+  </programme>
+  <programme start="20201223063400 +0000" stop="20201223065600 +0000" channel="FOX Comedy">
+    <title lang="pt">Friends</title>
+  </programme>
+  <programme start="20201223065600 +0000" stop="20201223071800 +0000" channel="FOX Comedy">
+    <title lang="pt">Family Guy</title>
+  </programme>
+  <programme start="20201223071800 +0000" stop="20201223073900 +0000" channel="FOX Comedy">
+    <title lang="pt">Family Guy</title>
+  </programme>
+  <programme start="20201223073900 +0000" stop="20201223080100 +0000" channel="FOX Comedy">
+    <title lang="pt">Family Guy</title>
+  </programme>
+  <programme start="20201223080100 +0000" stop="20201223082100 +0000" channel="FOX Comedy">
+    <title lang="pt">Os Simpson</title>
+  </programme>
+  <programme start="20201223082100 +0000" stop="20201223084100 +0000" channel="FOX Comedy">
+    <title lang="pt">Os Simpson</title>
+  </programme>
+  <programme start="20201223084100 +0000" stop="20201223090100 +0000" channel="FOX Comedy">
+    <title lang="pt">Family Guy</title>
+  </programme>
+  <programme start="20201223090100 +0000" stop="20201223092200 +0000" channel="FOX Comedy">
+    <title lang="pt">American Dad</title>
+  </programme>
+  <programme start="20201223092200 +0000" stop="20201223094500 +0000" channel="FOX Comedy">
+    <title lang="pt">American Dad</title>
+  </programme>
+  <programme start="20201223094500 +0000" stop="20201223100500 +0000" channel="FOX Comedy">
+    <title lang="pt">Family Guy</title>
+  </programme>
+  <programme start="20201223100500 +0000" stop="20201223102500 +0000" channel="FOX Comedy">
+    <title lang="pt">Family Guy</title>
+  </programme>
+  <programme start="20201223102500 +0000" stop="20201223104600 +0000" channel="FOX Comedy">
+    <title lang="pt">Family Guy</title>
+  </programme>
+  <programme start="20201223104600 +0000" stop="20201223110600 +0000" channel="FOX Comedy">
+    <title lang="pt">Family Guy</title>
+  </programme>
+  <programme start="20201223110600 +0000" stop="20201223112600 +0000" channel="FOX Comedy">
+    <title lang="pt">American Dad</title>
+  </programme>
+  <programme start="20201223112600 +0000" stop="20201223114900 +0000" channel="FOX Comedy">
+    <title lang="pt">American Dad</title>
+  </programme>
+  <programme start="20201223114900 +0000" stop="20201223121200 +0000" channel="FOX Comedy">
+    <title lang="pt">Os Simpson</title>
+  </programme>
+  <programme start="20201223121200 +0000" stop="20201223123400 +0000" channel="FOX Comedy">
+    <title lang="pt">Os Simpson</title>
+  </programme>
+  <programme start="20201223123400 +0000" stop="20201223125400 +0000" channel="FOX Comedy">
+    <title lang="pt">Os Simpson</title>
+  </programme>
+  <programme start="20201223125400 +0000" stop="20201223131600 +0000" channel="FOX Comedy">
+    <title lang="pt">Os Simpson</title>
+  </programme>
+  <programme start="20201223131600 +0000" stop="20201223134000 +0000" channel="FOX Comedy">
+    <title lang="pt">Family Guy</title>
+  </programme>
+  <programme start="20201223134000 +0000" stop="20201223140200 +0000" channel="FOX Comedy">
+    <title lang="pt">Family Guy</title>
+  </programme>
+  <programme start="20201223140200 +0000" stop="20201223142500 +0000" channel="FOX Comedy">
+    <title lang="pt">Bob</title>
+  </programme>
+  <programme start="20201223142500 +0000" stop="20201223144500 +0000" channel="FOX Comedy">
+    <title lang="pt">Bob</title>
+  </programme>
+  <programme start="20201223144500 +0000" stop="20201223150800 +0000" channel="FOX Comedy">
+    <title lang="pt">Bob</title>
+  </programme>
+  <programme start="20201223150800 +0000" stop="20201223152800 +0000" channel="FOX Comedy">
+    <title lang="pt">Bob</title>
+  </programme>
+  <programme start="20201223152800 +0000" stop="20201223155100 +0000" channel="FOX Comedy">
+    <title lang="pt">Os Simpson</title>
+  </programme>
+  <programme start="20201223155100 +0000" stop="20201223161300 +0000" channel="FOX Comedy">
+    <title lang="pt">Os Simpson</title>
+  </programme>
+  <programme start="20201223161300 +0000" stop="20201223163600 +0000" channel="FOX Comedy">
+    <title lang="pt">American Dad</title>
+  </programme>
+  <programme start="20201223163600 +0000" stop="20201223165800 +0000" channel="FOX Comedy">
+    <title lang="pt">American Dad</title>
+  </programme>
+  <programme start="20201223165800 +0000" stop="20201223171900 +0000" channel="FOX Comedy">
+    <title lang="pt">Family Guy</title>
+  </programme>
+  <programme start="20201223171900 +0000" stop="20201223174000 +0000" channel="FOX Comedy">
+    <title lang="pt">Family Guy</title>
+  </programme>
+  <programme start="20201223174000 +0000" stop="20201223180300 +0000" channel="FOX Comedy">
+    <title lang="pt">Family Guy</title>
+  </programme>
+  <programme start="20201223180300 +0000" stop="20201223182300 +0000" channel="FOX Comedy">
+    <title lang="pt">Os Simpson</title>
+  </programme>
+  <programme start="20201223182300 +0000" stop="20201223184600 +0000" channel="FOX Comedy">
+    <title lang="pt">Os Simpson</title>
+  </programme>
+  <programme start="20201223184600 +0000" stop="20201223191000 +0000" channel="FOX Comedy">
+    <title lang="pt">Os Simpson</title>
+  </programme>
+  <programme start="20201223191000 +0000" stop="20201223193300 +0000" channel="FOX Comedy">
+    <title lang="pt">Foi Assim Que Aconteceu</title>
+  </programme>
+  <programme start="20201223193300 +0000" stop="20201223195600 +0000" channel="FOX Comedy">
+    <title lang="pt">Foi Assim Que Aconteceu</title>
+  </programme>
+  <programme start="20201223195600 +0000" stop="20201223201600 +0000" channel="FOX Comedy">
+    <title lang="pt">Um Homem entre Mulheres</title>
+  </programme>
+  <programme start="20201223201600 +0000" stop="20201223204100 +0000" channel="FOX Comedy">
+    <title lang="pt">Um Homem entre Mulheres</title>
+  </programme>
+  <programme start="20201223204100 +0000" stop="20201223210500 +0000" channel="FOX Comedy">
+    <title lang="pt">Black-ish</title>
+  </programme>
+  <programme start="20201223210500 +0000" stop="20201223212900 +0000" channel="FOX Comedy">
+    <title lang="pt">Black-ish</title>
+  </programme>
+  <programme start="20201223212900 +0000" stop="20201223215400 +0000" channel="FOX Comedy">
+    <title lang="pt">Uma Família Muito Moderna</title>
+  </programme>
+  <programme start="20201223215400 +0000" stop="20201223221800 +0000" channel="FOX Comedy">
+    <title lang="pt">Uma Família Muito Moderna</title>
+  </programme>
+  <programme start="20201223221800 +0000" stop="20201223224300 +0000" channel="FOX Comedy">
+    <title lang="pt">Friends</title>
+  </programme>
+  <programme start="20201223224300 +0000" stop="20201223230900 +0000" channel="FOX Comedy">
+    <title lang="pt">Friends</title>
+  </programme>
+  <programme start="20201223230900 +0000" stop="20201223233300 +0000" channel="FOX Comedy">
+    <title lang="pt">Superstore</title>
+  </programme>
+  <programme start="20201223233300 +0000" stop="20201223235600 +0000" channel="FOX Comedy">
+    <title lang="pt">Mom</title>
+  </programme>
+  <programme start="20201223235600 +0000" stop="20201224001600 +0000" channel="FOX Comedy">
+    <title lang="pt">Two Broke Girls</title>
+  </programme>
+  <programme start="20201223013700 +0000" stop="20201223022300 +0000" channel="SYFY">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201223022300 +0000" stop="20201223030900 +0000" channel="SYFY">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201223030900 +0000" stop="20201223035200 +0000" channel="SYFY">
+    <title lang="pt">Stargate SG-1</title>
+  </programme>
+  <programme start="20201223035200 +0000" stop="20201223043600 +0000" channel="SYFY">
+    <title lang="pt">Stargate SG-1</title>
+  </programme>
+  <programme start="20201223043600 +0000" stop="20201223050200 +0000" channel="SYFY">
+    <title lang="pt">Universo Syfy</title>
+  </programme>
+  <programme start="20201223050200 +0000" stop="20201223054500 +0000" channel="SYFY">
+    <title lang="pt">Realidade ou Montagem: Ficheiros Paranormais</title>
+  </programme>
+  <programme start="20201223054500 +0000" stop="20201223062900 +0000" channel="SYFY">
+    <title lang="pt">Realidade ou Montagem: Ficheiros Paranormais</title>
+  </programme>
+  <programme start="20201223062900 +0000" stop="20201223071400 +0000" channel="SYFY">
+    <title lang="pt">Atlantis</title>
+  </programme>
+  <programme start="20201223071400 +0000" stop="20201223080000 +0000" channel="SYFY">
+    <title lang="pt">Atlantis</title>
+  </programme>
+  <programme start="20201223080000 +0000" stop="20201223082500 +0000" channel="SYFY">
+    <title lang="pt">Universo Syfy</title>
+  </programme>
+  <programme start="20201223082500 +0000" stop="20201223091200 +0000" channel="SYFY">
+    <title lang="pt">Realidade ou Montagem: Ficheiros Paranormais</title>
+  </programme>
+  <programme start="20201223091200 +0000" stop="20201223095800 +0000" channel="SYFY">
+    <title lang="pt">Atlantis</title>
+  </programme>
+  <programme start="20201223095800 +0000" stop="20201223104300 +0000" channel="SYFY">
+    <title lang="pt">Atlantis</title>
+  </programme>
+  <programme start="20201223104300 +0000" stop="20201223112900 +0000" channel="SYFY">
+    <title lang="pt">Atlantis</title>
+  </programme>
+  <programme start="20201223112900 +0000" stop="20201223121600 +0000" channel="SYFY">
+    <title lang="pt">Atlantis</title>
+  </programme>
+  <programme start="20201223121600 +0000" stop="20201223130100 +0000" channel="SYFY">
+    <title lang="pt">Stargate SG-1</title>
+  </programme>
+  <programme start="20201223130100 +0000" stop="20201223134800 +0000" channel="SYFY">
+    <title lang="pt">Stargate SG-1</title>
+  </programme>
+  <programme start="20201223134800 +0000" stop="20201223143200 +0000" channel="SYFY">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201223143200 +0000" stop="20201223151800 +0000" channel="SYFY">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201223151800 +0000" stop="20201223170200 +0000" channel="SYFY">
+    <title lang="pt">Distrito 9</title>
+  </programme>
+  <programme start="20201223170200 +0000" stop="20201223185700 +0000" channel="SYFY">
+    <title lang="pt">O Sexto Dia</title>
+  </programme>
+  <programme start="20201223185700 +0000" stop="20201223204000 +0000" channel="SYFY">
+    <title lang="pt">O Exterminador Implacável</title>
+  </programme>
+  <programme start="20201223204000 +0000" stop="20201223221500 +0000" channel="SYFY">
+    <title lang="pt">Conan o Destruidor</title>
+  </programme>
+  <programme start="20201223221500 +0000" stop="20201223235700 +0000" channel="SYFY">
+    <title lang="pt">Circo dos Horrores: O Assistente do Vampiro</title>
+  </programme>
+  <programme start="20201223235700 +0000" stop="20201224012200 +0000" channel="SYFY">
+    <title lang="pt">Drácula: A História Desconhecida</title>
+  </programme>
+  <programme start="20201223010900 +0000" stop="20201223015500 +0000" channel="AXN White">
+    <title lang="pt">The Client List</title>
+  </programme>
+  <programme start="20201223015500 +0000" stop="20201223024000 +0000" channel="AXN White">
+    <title lang="pt">The Client List</title>
+  </programme>
+  <programme start="20201223024000 +0000" stop="20201223032300 +0000" channel="AXN White">
+    <title lang="pt">O Mentalista</title>
+  </programme>
+  <programme start="20201223032300 +0000" stop="20201223040600 +0000" channel="AXN White">
+    <title lang="pt">O Mentalista</title>
+  </programme>
+  <programme start="20201223040600 +0000" stop="20201223045100 +0000" channel="AXN White">
+    <title lang="pt">Diggstown</title>
+  </programme>
+  <programme start="20201223045100 +0000" stop="20201223053500 +0000" channel="AXN White">
+    <title lang="pt">Diggstown</title>
+  </programme>
+  <programme start="20201223053500 +0000" stop="20201223061900 +0000" channel="AXN White">
+    <title lang="pt">O Turno da Noite</title>
+  </programme>
+  <programme start="20201223061900 +0000" stop="20201223070100 +0000" channel="AXN White">
+    <title lang="pt">O Turno da Noite</title>
+  </programme>
+  <programme start="20201223070100 +0000" stop="20201223074800 +0000" channel="AXN White">
+    <title lang="pt">Candice Renoir</title>
+  </programme>
+  <programme start="20201223074800 +0000" stop="20201223084100 +0000" channel="AXN White">
+    <title lang="pt">Os Tudors</title>
+  </programme>
+  <programme start="20201223084100 +0000" stop="20201223092600 +0000" channel="AXN White">
+    <title lang="pt">O Mentalista</title>
+  </programme>
+  <programme start="20201223092600 +0000" stop="20201223101100 +0000" channel="AXN White">
+    <title lang="pt">O Mentalista</title>
+  </programme>
+  <programme start="20201223101100 +0000" stop="20201223105600 +0000" channel="AXN White">
+    <title lang="pt">O Turno da Noite</title>
+  </programme>
+  <programme start="20201223105600 +0000" stop="20201223114100 +0000" channel="AXN White">
+    <title lang="pt">O Turno da Noite</title>
+  </programme>
+  <programme start="20201223114100 +0000" stop="20201223123500 +0000" channel="AXN White">
+    <title lang="pt">Candice Renoir</title>
+  </programme>
+  <programme start="20201223123500 +0000" stop="20201223132800 +0000" channel="AXN White">
+    <title lang="pt">Candice Renoir</title>
+  </programme>
+  <programme start="20201223132800 +0000" stop="20201223145900 +0000" channel="AXN White">
+    <title lang="pt">A História de Brooke Ellison</title>
+  </programme>
+  <programme start="20201223145900 +0000" stop="20201223162700 +0000" channel="AXN White">
+    <title lang="pt">Justiça Para Natalee Holloway</title>
+  </programme>
+  <programme start="20201223162700 +0000" stop="20201223175700 +0000" channel="AXN White">
+    <title lang="pt">As Leis da Atracção</title>
+  </programme>
+  <programme start="20201223175700 +0000" stop="20201223184200 +0000" channel="AXN White">
+    <title lang="pt">O Mentalista</title>
+  </programme>
+  <programme start="20201223184200 +0000" stop="20201223192800 +0000" channel="AXN White">
+    <title lang="pt">O Mentalista</title>
+  </programme>
+  <programme start="20201223192800 +0000" stop="20201223202900 +0000" channel="AXN White">
+    <title lang="pt">Outlander</title>
+  </programme>
+  <programme start="20201223202900 +0000" stop="20201223212500 +0000" channel="AXN White">
+    <title lang="pt">Outlander</title>
+  </programme>
+  <programme start="20201223212500 +0000" stop="20201223221900 +0000" channel="AXN White">
+    <title lang="pt">Os Tudors</title>
+  </programme>
+  <programme start="20201223221900 +0000" stop="20201223233900 +0000" channel="AXN White">
+    <title lang="pt">Jantar de Mamãs</title>
+  </programme>
+  <programme start="20201223233900 +0000" stop="20201224010900 +0000" channel="AXN White">
+    <title lang="pt">O Descomprometido</title>
+  </programme>
+  <programme start="20201223003300 +0000" stop="20201223011900 +0000" channel="National Geographic">
+    <title lang="pt">Penas Pesadas: Dilemas e Consequências</title>
+  </programme>
+  <programme start="20201223011900 +0000" stop="20201223020500 +0000" channel="National Geographic">
+    <title lang="pt">O Negócio da Droga</title>
+  </programme>
+  <programme start="20201223020500 +0000" stop="20201223025000 +0000" channel="National Geographic">
+    <title lang="pt">O Negócio da Droga</title>
+  </programme>
+  <programme start="20201223025000 +0000" stop="20201223033400 +0000" channel="National Geographic">
+    <title lang="pt">Presos no Estrangeiro</title>
+  </programme>
+  <programme start="20201223033400 +0000" stop="20201223041800 +0000" channel="National Geographic">
+    <title lang="pt">Presos no Estrangeiro</title>
+  </programme>
+  <programme start="20201223041800 +0000" stop="20201223050200 +0000" channel="National Geographic">
+    <title lang="pt">Presos no Estrangeiro</title>
+  </programme>
+  <programme start="20201223050200 +0000" stop="20201223054600 +0000" channel="National Geographic">
+    <title lang="pt">Presos no Estrangeiro</title>
+  </programme>
+  <programme start="20201223054600 +0000" stop="20201223060800 +0000" channel="National Geographic">
+    <title lang="pt">A Ciência da Estupidez</title>
+  </programme>
+  <programme start="20201223060800 +0000" stop="20201223063000 +0000" channel="National Geographic">
+    <title lang="pt">A Ciência da Estupidez</title>
+  </programme>
+  <programme start="20201223063000 +0000" stop="20201223065200 +0000" channel="National Geographic">
+    <title lang="pt">A Ciência da Estupidez</title>
+  </programme>
+  <programme start="20201223065200 +0000" stop="20201223071400 +0000" channel="National Geographic">
+    <title lang="pt">A Ciência da Estupidez</title>
+  </programme>
+  <programme start="20201223071400 +0000" stop="20201223073600 +0000" channel="National Geographic">
+    <title lang="pt">A Ciência da Estupidez</title>
+  </programme>
+  <programme start="20201223073600 +0000" stop="20201223075800 +0000" channel="National Geographic">
+    <title lang="pt">A Ciência da Estupidez</title>
+  </programme>
+  <programme start="20201223075800 +0000" stop="20201223082100 +0000" channel="National Geographic">
+    <title lang="pt">A Ciência da Estupidez</title>
+  </programme>
+  <programme start="20201223082100 +0000" stop="20201223090800 +0000" channel="National Geographic">
+    <title lang="pt">Famosos em Perigo Com Bear Grylls</title>
+  </programme>
+  <programme start="20201223090800 +0000" stop="20201223095600 +0000" channel="National Geographic">
+    <title lang="pt">Famosos em Perigo Com Bear Grylls</title>
+  </programme>
+  <programme start="20201223095600 +0000" stop="20201223104300 +0000" channel="National Geographic">
+    <title lang="pt">Famosos em Perigo Com Bear Grylls</title>
+  </programme>
+  <programme start="20201223104300 +0000" stop="20201223112800 +0000" channel="National Geographic">
+    <title lang="pt">Segunda Guerra Mundial: Sobreviver no Limite</title>
+  </programme>
+  <programme start="20201223112800 +0000" stop="20201223121200 +0000" channel="National Geographic">
+    <title lang="pt">Segunda Guerra Mundial: Sobreviver no Limite</title>
+  </programme>
+  <programme start="20201223121200 +0000" stop="20201223125800 +0000" channel="National Geographic">
+    <title lang="pt">Segunda Guerra Mundial: Sobreviver no Limite</title>
+  </programme>
+  <programme start="20201223125800 +0000" stop="20201223134500 +0000" channel="National Geographic">
+    <title lang="pt">Bastidores: Máquinas Incríveis</title>
+  </programme>
+  <programme start="20201223134500 +0000" stop="20201223143100 +0000" channel="National Geographic">
+    <title lang="pt">Bastidores: Máquinas Incríveis</title>
+  </programme>
+  <programme start="20201223143100 +0000" stop="20201223151500 +0000" channel="National Geographic">
+    <title lang="pt">Bastidores: Máquinas Incríveis</title>
+  </programme>
+  <programme start="20201223151500 +0000" stop="20201223160100 +0000" channel="National Geographic">
+    <title lang="pt">Bastidores: Máquinas Incríveis</title>
+  </programme>
+  <programme start="20201223160100 +0000" stop="20201223164700 +0000" channel="National Geographic">
+    <title lang="pt">Bastidores: Máquinas Incríveis</title>
+  </programme>
+  <programme start="20201223164700 +0000" stop="20201223173300 +0000" channel="National Geographic">
+    <title lang="pt">Bastidores: Máquinas Incríveis</title>
+  </programme>
+  <programme start="20201223173300 +0000" stop="20201223181900 +0000" channel="National Geographic">
+    <title lang="pt">Gordon Ramsay: Uncharted</title>
+  </programme>
+  <programme start="20201223181900 +0000" stop="20201223190500 +0000" channel="National Geographic">
+    <title lang="pt">Gordon Ramsay: Uncharted</title>
+  </programme>
+  <programme start="20201223190500 +0000" stop="20201223195100 +0000" channel="National Geographic">
+    <title lang="pt">Gordon Ramsay: Uncharted</title>
+  </programme>
+  <programme start="20201223195100 +0000" stop="20201223203700 +0000" channel="National Geographic">
+    <title lang="pt">Gordon Ramsay: Uncharted</title>
+  </programme>
+  <programme start="20201223203700 +0000" stop="20201223212300 +0000" channel="National Geographic">
+    <title lang="pt">Gordon Ramsay: Uncharted</title>
+  </programme>
+  <programme start="20201223212300 +0000" stop="20201223221300 +0000" channel="National Geographic">
+    <title lang="pt">Segundos Fatais</title>
+  </programme>
+  <programme start="20201223221300 +0000" stop="20201223230200 +0000" channel="National Geographic">
+    <title lang="pt">Segundos Fatais</title>
+  </programme>
+  <programme start="20201223230200 +0000" stop="20201223235000 +0000" channel="National Geographic">
+    <title lang="pt">Segundos Fatais</title>
+  </programme>
+  <programme start="20201223235000 +0000" stop="20201224003800 +0000" channel="National Geographic">
+    <title lang="pt">Segundos Fatais</title>
+  </programme>
+  <programme start="20201223001800 +0000" stop="20201223010600 +0000" channel="National Geographic WILD">
+    <title lang="pt">The Incredible Dr. Pol</title>
+  </programme>
+  <programme start="20201223010600 +0000" stop="20201223015400 +0000" channel="National Geographic WILD">
+    <title lang="pt">The Incredible Dr. Pol</title>
+  </programme>
+  <programme start="20201223015400 +0000" stop="20201223024000 +0000" channel="National Geographic WILD">
+    <title lang="pt">Europe</title>
+  </programme>
+  <programme start="20201223024000 +0000" stop="20201223032900 +0000" channel="National Geographic WILD">
+    <title lang="pt">Wild Botswana</title>
+  </programme>
+  <programme start="20201223032900 +0000" stop="20201223041300 +0000" channel="National Geographic WILD">
+    <title lang="pt">Wild Uganda</title>
+  </programme>
+  <programme start="20201223041300 +0000" stop="20201223050000 +0000" channel="National Geographic WILD">
+    <title lang="pt">World</title>
+  </programme>
+  <programme start="20201223050000 +0000" stop="20201223052400 +0000" channel="National Geographic WILD">
+    <title lang="pt">Man vs Animal</title>
+  </programme>
+  <programme start="20201223052400 +0000" stop="20201223055000 +0000" channel="National Geographic WILD">
+    <title lang="pt">Man vs Animal</title>
+  </programme>
+  <programme start="20201223055000 +0000" stop="20201223063800 +0000" channel="National Geographic WILD">
+    <title lang="pt">Return of the Lion</title>
+  </programme>
+  <programme start="20201223063800 +0000" stop="20201223072600 +0000" channel="National Geographic WILD">
+    <title lang="pt">Insect Wars</title>
+  </programme>
+  <programme start="20201223072600 +0000" stop="20201223081600 +0000" channel="National Geographic WILD">
+    <title lang="pt">Shark Swarm</title>
+  </programme>
+  <programme start="20201223081600 +0000" stop="20201223090500 +0000" channel="National Geographic WILD">
+    <title lang="pt">Clash of Tigers</title>
+  </programme>
+  <programme start="20201223090500 +0000" stop="20201223095300 +0000" channel="National Geographic WILD">
+    <title lang="pt">Return of the Lion</title>
+  </programme>
+  <programme start="20201223095300 +0000" stop="20201223104200 +0000" channel="National Geographic WILD">
+    <title lang="pt">Insect Wars</title>
+  </programme>
+  <programme start="20201223104200 +0000" stop="20201223112600 +0000" channel="National Geographic WILD">
+    <title lang="pt">Dino Bird</title>
+  </programme>
+  <programme start="20201223112600 +0000" stop="20201223121700 +0000" channel="National Geographic WILD">
+    <title lang="pt">Shark Swarm</title>
+  </programme>
+  <programme start="20201223121700 +0000" stop="20201223130400 +0000" channel="National Geographic WILD">
+    <title lang="pt">Wild Nordic</title>
+  </programme>
+  <programme start="20201223130400 +0000" stop="20201223135100 +0000" channel="National Geographic WILD">
+    <title lang="pt">Wild Nordic</title>
+  </programme>
+  <programme start="20201223135100 +0000" stop="20201223143700 +0000" channel="National Geographic WILD">
+    <title lang="pt">Wild Nordic</title>
+  </programme>
+  <programme start="20201223143700 +0000" stop="20201223152400 +0000" channel="National Geographic WILD">
+    <title lang="pt">Wild Nordic</title>
+  </programme>
+  <programme start="20201223152400 +0000" stop="20201223161100 +0000" channel="National Geographic WILD">
+    <title lang="pt">The Incredible Dr. Pol</title>
+  </programme>
+  <programme start="20201223161100 +0000" stop="20201223170000 +0000" channel="National Geographic WILD">
+    <title lang="pt">Animal Fight Club</title>
+  </programme>
+  <programme start="20201223170000 +0000" stop="20201223174800 +0000" channel="National Geographic WILD">
+    <title lang="pt">Secrets of the Zoo: Tampa</title>
+  </programme>
+  <programme start="20201223174800 +0000" stop="20201223183700 +0000" channel="National Geographic WILD">
+    <title lang="pt">Secrets of the Zoo Compilations</title>
+  </programme>
+  <programme start="20201223183700 +0000" stop="20201223192600 +0000" channel="National Geographic WILD">
+    <title lang="pt">Secrets of the Zoo Compilations</title>
+  </programme>
+  <programme start="20201223192600 +0000" stop="20201223201500 +0000" channel="National Geographic WILD">
+    <title lang="pt">Secrets of the Zoo: Tampa</title>
+  </programme>
+  <programme start="20201223201500 +0000" stop="20201223210300 +0000" channel="National Geographic WILD">
+    <title lang="pt">The Incredible Dr. Pol</title>
+  </programme>
+  <programme start="20201223210300 +0000" stop="20201223215200 +0000" channel="National Geographic WILD">
+    <title lang="pt">Yukon Vet</title>
+  </programme>
+  <programme start="20201223215200 +0000" stop="20201223224100 +0000" channel="National Geographic WILD">
+    <title lang="pt">Animal Fight Club</title>
+  </programme>
+  <programme start="20201223224100 +0000" stop="20201223233000 +0000" channel="National Geographic WILD">
+    <title lang="pt">Secrets of the Zoo: Tampa</title>
+  </programme>
+  <programme start="20201223233000 +0000" stop="20201224001800 +0000" channel="National Geographic WILD">
+    <title lang="pt">Wild Nordic</title>
+  </programme>
+  <programme start="20201223002000 +0000" stop="20201223011100 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Porta-Aviões em Guerra</title>
+  </programme>
+  <programme start="20201223011100 +0000" stop="20201223020200 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Mega Barcos</title>
+  </programme>
+  <programme start="20201223020200 +0000" stop="20201223025500 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Fora de Controlo</title>
+  </programme>
+  <programme start="20201223025500 +0000" stop="20201223034600 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Porta-Aviões em Guerra</title>
+  </programme>
+  <programme start="20201223034600 +0000" stop="20201223043500 +0000" channel="ODISSEIA HD">
+    <title lang="pt">África Desde o Ar</title>
+  </programme>
+  <programme start="20201223043500 +0000" stop="20201223051900 +0000" channel="ODISSEIA HD">
+    <title lang="pt">O Veterinário de Yorkshire</title>
+  </programme>
+  <programme start="20201223051900 +0000" stop="20201223060800 +0000" channel="ODISSEIA HD">
+    <title lang="pt">América Central Selvagem Com Nigel Marven</title>
+  </programme>
+  <programme start="20201223060800 +0000" stop="20201223065800 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Imensa África</title>
+  </programme>
+  <programme start="20201223065800 +0000" stop="20201223074700 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Centro de Resgate em Malaui</title>
+  </programme>
+  <programme start="20201223074700 +0000" stop="20201223083600 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Animais Bebés do Mundo</title>
+  </programme>
+  <programme start="20201223083600 +0000" stop="20201223090000 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Erros Espaciais</title>
+  </programme>
+  <programme start="20201223090000 +0000" stop="20201223092400 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Erros Espaciais</title>
+  </programme>
+  <programme start="20201223092400 +0000" stop="20201223101700 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Porta-Aviões em Guerra</title>
+  </programme>
+  <programme start="20201223101700 +0000" stop="20201223110700 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Mega Barcos</title>
+  </programme>
+  <programme start="20201223110700 +0000" stop="20201223120100 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Fora de Controlo</title>
+  </programme>
+  <programme start="20201223120100 +0000" stop="20201223122500 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Erros Espaciais</title>
+  </programme>
+  <programme start="20201223122500 +0000" stop="20201223125000 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Erros Espaciais</title>
+  </programme>
+  <programme start="20201223125000 +0000" stop="20201223133900 +0000" channel="ODISSEIA HD">
+    <title lang="pt">África Desde o Ar</title>
+  </programme>
+  <programme start="20201223133900 +0000" stop="20201223142700 +0000" channel="ODISSEIA HD">
+    <title lang="pt">África Desde o Ar</title>
+  </programme>
+  <programme start="20201223142700 +0000" stop="20201223151200 +0000" channel="ODISSEIA HD">
+    <title lang="pt">O Veterinário de Yorkshire</title>
+  </programme>
+  <programme start="20201223151200 +0000" stop="20201223155700 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Predadores do Oceano</title>
+  </programme>
+  <programme start="20201223155700 +0000" stop="20201223164700 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Amazónia: O Mundo Perdido</title>
+  </programme>
+  <programme start="20201223164700 +0000" stop="20201223174000 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Ursos-Cinzentos do Alasca</title>
+  </programme>
+  <programme start="20201223174000 +0000" stop="20201223183000 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Animais Bebés do Mundo</title>
+  </programme>
+  <programme start="20201223183000 +0000" stop="20201223191900 +0000" channel="ODISSEIA HD">
+    <title lang="pt">África Desde o Ar</title>
+  </programme>
+  <programme start="20201223191900 +0000" stop="20201223194300 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Erros Espaciais</title>
+  </programme>
+  <programme start="20201223194300 +0000" stop="20201223201000 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Erros Espaciais</title>
+  </programme>
+  <programme start="20201223201000 +0000" stop="20201223205700 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Perigo Extremo</title>
+  </programme>
+  <programme start="20201223205700 +0000" stop="20201223215000 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Estados Unidos Desde o Ar</title>
+  </programme>
+  <programme start="20201223215000 +0000" stop="20201223223300 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Irão Desde o Ar</title>
+  </programme>
+  <programme start="20201223223300 +0000" stop="20201223231600 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Irão Desde o Ar</title>
+  </programme>
+  <programme start="20201223231600 +0000" stop="20201224000500 +0000" channel="ODISSEIA HD">
+    <title lang="pt">Estados Unidos Desde o Ar</title>
+  </programme>
+  <programme start="20201223004000 +0000" stop="20201223020000 +0000" channel="Discovery Channel">
+    <title lang="pt">Aventura à Flor da Pele</title>
+  </programme>
+  <programme start="20201223020000 +0000" stop="20201223024500 +0000" channel="Discovery Channel">
+    <title lang="pt">Aventura à Flor da Pele</title>
+  </programme>
+  <programme start="20201223024500 +0000" stop="20201223033000 +0000" channel="Discovery Channel">
+    <title lang="pt">Já Estavas Avisado!</title>
+  </programme>
+  <programme start="20201223033000 +0000" stop="20201223041500 +0000" channel="Discovery Channel">
+    <title lang="pt">Já Estavas Avisado!</title>
+  </programme>
+  <programme start="20201223041500 +0000" stop="20201223052500 +0000" channel="Discovery Channel">
+    <title lang="pt">Mestres do Restauro</title>
+  </programme>
+  <programme start="20201223052500 +0000" stop="20201223061000 +0000" channel="Discovery Channel">
+    <title lang="pt">Expedição Ao Passado</title>
+  </programme>
+  <programme start="20201223061000 +0000" stop="20201223065500 +0000" channel="Discovery Channel">
+    <title lang="pt">Expedição Ao Passado</title>
+  </programme>
+  <programme start="20201223065500 +0000" stop="20201223074000 +0000" channel="Discovery Channel">
+    <title lang="pt">Camionistas da Alemanha</title>
+  </programme>
+  <programme start="20201223074000 +0000" stop="20201223082500 +0000" channel="Discovery Channel">
+    <title lang="pt">Mega Construções</title>
+  </programme>
+  <programme start="20201223082500 +0000" stop="20201223091500 +0000" channel="Discovery Channel">
+    <title lang="pt">Irmãos Diesel</title>
+  </programme>
+  <programme start="20201223091500 +0000" stop="20201223100500 +0000" channel="Discovery Channel">
+    <title lang="pt">Irmãos Diesel</title>
+  </programme>
+  <programme start="20201223100500 +0000" stop="20201223105000 +0000" channel="Discovery Channel">
+    <title lang="pt">A Minha Casa Numa Árvore</title>
+  </programme>
+  <programme start="20201223105000 +0000" stop="20201223113500 +0000" channel="Discovery Channel">
+    <title lang="pt">A Minha Casa Numa Árvore</title>
+  </programme>
+  <programme start="20201223113500 +0000" stop="20201223122500 +0000" channel="Discovery Channel">
+    <title lang="pt">A Febre do Ouro: Águas Bravas</title>
+  </programme>
+  <programme start="20201223122500 +0000" stop="20201223131500 +0000" channel="Discovery Channel">
+    <title lang="pt">A Febre do Ouro: Águas Bravas</title>
+  </programme>
+  <programme start="20201223131500 +0000" stop="20201223134000 +0000" channel="Discovery Channel">
+    <title lang="pt">O Segredo Das Coisas</title>
+  </programme>
+  <programme start="20201223134000 +0000" stop="20201223140500 +0000" channel="Discovery Channel">
+    <title lang="pt">O Segredo Das Coisas</title>
+  </programme>
+  <programme start="20201223140500 +0000" stop="20201223143500 +0000" channel="Discovery Channel">
+    <title lang="pt">O Segredo Das Coisas</title>
+  </programme>
+  <programme start="20201223143500 +0000" stop="20201223150000 +0000" channel="Discovery Channel">
+    <title lang="pt">O Segredo Das Coisas</title>
+  </programme>
+  <programme start="20201223150000 +0000" stop="20201223152500 +0000" channel="Discovery Channel">
+    <title lang="pt">O Segredo Das Coisas</title>
+  </programme>
+  <programme start="20201223152500 +0000" stop="20201223162000 +0000" channel="Discovery Channel">
+    <title lang="pt">Engenharia Impossível</title>
+  </programme>
+  <programme start="20201223162000 +0000" stop="20201223171500 +0000" channel="Discovery Channel">
+    <title lang="pt">Engenharia Impossível</title>
+  </programme>
+  <programme start="20201223171500 +0000" stop="20201223181000 +0000" channel="Discovery Channel">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20201223181000 +0000" stop="20201223190500 +0000" channel="Discovery Channel">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+  </programme>
+  <programme start="20201223190500 +0000" stop="20201223200000 +0000" channel="Discovery Channel">
+    <title lang="pt">Segredos Das Catacumbas</title>
+  </programme>
+  <programme start="20201223200000 +0000" stop="20201223210000 +0000" channel="Discovery Channel">
+    <title lang="pt">Segredos Das Catacumbas</title>
+  </programme>
+  <programme start="20201223210000 +0000" stop="20201223220000 +0000" channel="Discovery Channel">
+    <title lang="pt">Bombeiros em Ação</title>
+  </programme>
+  <programme start="20201223220000 +0000" stop="20201223223000 +0000" channel="Discovery Channel">
+    <title lang="pt">Controlo de Fronteiras</title>
+  </programme>
+  <programme start="20201223223000 +0000" stop="20201223225500 +0000" channel="Discovery Channel">
+    <title lang="pt">Controlo de Fronteiras</title>
+  </programme>
+  <programme start="20201223225500 +0000" stop="20201223232500 +0000" channel="Discovery Channel">
+    <title lang="pt">Controlo de Fronteiras</title>
+  </programme>
+  <programme start="20201223232500 +0000" stop="20201223235000 +0000" channel="Discovery Channel">
+    <title lang="pt">Controlo de Fronteiras</title>
+  </programme>
+  <programme start="20201223235000 +0000" stop="20201224001500 +0000" channel="Discovery Channel">
+    <title lang="pt">Controlo de Fronteiras</title>
+  </programme>
+  <programme start="20201223023200 +0000" stop="20201223032800 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">As Faces De Fátima</title>
+  </programme>
+  <programme start="20201223032800 +0000" stop="20201223035700 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Extraterrestres?</title>
+  </programme>
+  <programme start="20201223035700 +0000" stop="20201223044300 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Mundos Perdidos</title>
+  </programme>
+  <programme start="20201223044300 +0000" stop="20201223052700 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Mundos Perdidos</title>
+  </programme>
+  <programme start="20201223052700 +0000" stop="20201223070200 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Mundos Perdidos</title>
+  </programme>
+  <programme start="20201223070200 +0000" stop="20201223074700 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Mundos Perdidos</title>
+  </programme>
+  <programme start="20201223074700 +0000" stop="20201223083200 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Mundos Perdidos</title>
+  </programme>
+  <programme start="20201223083200 +0000" stop="20201223095500 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Cidadão Trump</title>
+  </programme>
+  <programme start="20201223095500 +0000" stop="20201223103700 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Jesus: A Sua Vida</title>
+  </programme>
+  <programme start="20201223103700 +0000" stop="20201223111800 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Jesus: A Sua Vida</title>
+  </programme>
+  <programme start="20201223111800 +0000" stop="20201223115900 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Forjado No Fogo: Vencer O Júri</title>
+  </programme>
+  <programme start="20201223115900 +0000" stop="20201223124100 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Forjado No Fogo</title>
+  </programme>
+  <programme start="20201223124100 +0000" stop="20201223132100 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Forjado No Fogo</title>
+  </programme>
+  <programme start="20201223132100 +0000" stop="20201223140200 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Forjado No Fogo</title>
+  </programme>
+  <programme start="20201223140200 +0000" stop="20201223144300 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Forjado No Fogo</title>
+  </programme>
+  <programme start="20201223144300 +0000" stop="20201223152400 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Forjado No Fogo</title>
+  </programme>
+  <programme start="20201223152400 +0000" stop="20201223160900 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Mundos Perdidos</title>
+  </programme>
+  <programme start="20201223160900 +0000" stop="20201223174000 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Mundos Perdidos</title>
+  </programme>
+  <programme start="20201223174000 +0000" stop="20201223182500 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Mundos Perdidos</title>
+  </programme>
+  <programme start="20201223182500 +0000" stop="20201223191100 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Mundos Perdidos</title>
+  </programme>
+  <programme start="20201223191100 +0000" stop="20201223195600 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Mundos Perdidos</title>
+  </programme>
+  <programme start="20201223195600 +0000" stop="20201223205200 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">As Faces De Fátima</title>
+  </programme>
+  <programme start="20201223205200 +0000" stop="20201223213300 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">A Maldição Do Ouro Dos Confederados</title>
+  </programme>
+  <programme start="20201223213300 +0000" stop="20201223221500 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">A Maldição Do Ouro Dos Confederados</title>
+  </programme>
+  <programme start="20201223221500 +0000" stop="20201223225400 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">O Ouro Perdido Da II Guerra Mundial</title>
+  </programme>
+  <programme start="20201223225400 +0000" stop="20201223233300 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">O Ouro Perdido Da II Guerra Mundial</title>
+  </programme>
+  <programme start="20201223233300 +0000" stop="20201224001500 +0000" channel="HISTÓRIA HD">
+    <title lang="pt">Alienígenas</title>
+  </programme>
+  <programme start="20201223002400 +0000" stop="20201223004800 +0000" channel="TLC">
+    <title lang="pt">Cake Boss</title>
+  </programme>
+  <programme start="20201223004800 +0000" stop="20201223013600 +0000" channel="TLC">
+    <title lang="pt">7 Little Johnstons</title>
+  </programme>
+  <programme start="20201223013600 +0000" stop="20201223031200 +0000" channel="TLC">
+    <title lang="pt">90 Day Fiancé: Happily Ever After?</title>
+  </programme>
+  <programme start="20201223031200 +0000" stop="20201223040000 +0000" channel="TLC">
+    <title lang="pt">Fat Chance</title>
+  </programme>
+  <programme start="20201223040000 +0000" stop="20201223050000 +0000" channel="TLC">
+    <title lang="pt">Say Yes To The Dress: Lancashire</title>
+  </programme>
+  <programme start="20201223050000 +0000" stop="20201223053000 +0000" channel="TLC">
+    <title lang="pt">Curvy Brides Boutique</title>
+  </programme>
+  <programme start="20201223053000 +0000" stop="20201223060000 +0000" channel="TLC">
+    <title lang="pt">Curvy Brides Boutique</title>
+  </programme>
+  <programme start="20201223060000 +0000" stop="20201223080000 +0000" channel="TLC">
+    <title lang="pt">My 600Lb Life: Where Are They Now?</title>
+  </programme>
+  <programme start="20201223080000 +0000" stop="20201223100000 +0000" channel="TLC">
+    <title lang="pt">90 Day Fiancé: Happily Ever After?</title>
+  </programme>
+  <programme start="20201223100000 +0000" stop="20201223110000 +0000" channel="TLC">
+    <title lang="pt">Counting On</title>
+  </programme>
+  <programme start="20201223110000 +0000" stop="20201223120000 +0000" channel="TLC">
+    <title lang="pt">Counting On</title>
+  </programme>
+  <programme start="20201223120000 +0000" stop="20201223123000 +0000" channel="TLC">
+    <title lang="pt">Cake Boss</title>
+  </programme>
+  <programme start="20201223123000 +0000" stop="20201223130000 +0000" channel="TLC">
+    <title lang="pt">Cake Boss</title>
+  </programme>
+  <programme start="20201223130000 +0000" stop="20201223140000 +0000" channel="TLC">
+    <title lang="pt">Say Yes To The Dress: Lancashire</title>
+  </programme>
+  <programme start="20201223140000 +0000" stop="20201223150000 +0000" channel="TLC">
+    <title lang="pt">90 Day Fiancé: The Other Way</title>
+  </programme>
+  <programme start="20201223150000 +0000" stop="20201223160000 +0000" channel="TLC">
+    <title lang="pt">90 Day Fiancé: The Other Way</title>
+  </programme>
+  <programme start="20201223160000 +0000" stop="20201223180000 +0000" channel="TLC">
+    <title lang="pt">My 600Lb Life: Where Are They Now?</title>
+  </programme>
+  <programme start="20201223180000 +0000" stop="20201223190000 +0000" channel="TLC">
+    <title lang="pt">Hot &amp; Heavy</title>
+  </programme>
+  <programme start="20201223190000 +0000" stop="20201223200000 +0000" channel="TLC">
+    <title lang="pt">sMothered</title>
+  </programme>
+  <programme start="20201223200000 +0000" stop="20201223210000 +0000" channel="TLC">
+    <title lang="pt">Curvy Brides</title>
+  </programme>
+  <programme start="20201223210000 +0000" stop="20201223220000 +0000" channel="TLC">
+    <title lang="pt">Curvy Brides</title>
+  </programme>
+  <programme start="20201223220000 +0000" stop="20201223230000 +0000" channel="TLC">
+    <title lang="pt">Dr. Pimple Popper</title>
+  </programme>
+  <programme start="20201223230000 +0000" stop="20201224000000 +0000" channel="TLC">
+    <title lang="pt">Dr. Pimple Popper</title>
+  </programme>
+  <programme start="20201223010000 +0000" stop="20201223020000 +0000" channel="Travel Channel">
+    <title lang="pt">Kindred Spirits</title>
+  </programme>
+  <programme start="20201223020000 +0000" stop="20201223030000 +0000" channel="Travel Channel">
+    <title lang="pt">Mysteries At The Museum</title>
+  </programme>
+  <programme start="20201223030000 +0000" stop="20201223040000 +0000" channel="Travel Channel">
+    <title lang="pt">Mysteries At The Museum</title>
+  </programme>
+  <programme start="20201223040000 +0000" stop="20201223050000 +0000" channel="Travel Channel">
+    <title lang="pt">Mysteries of the Missing</title>
+  </programme>
+  <programme start="20201223050000 +0000" stop="20201223060000 +0000" channel="Travel Channel">
+    <title lang="pt">Ripley</title>
+  </programme>
+  <programme start="20201223060000 +0000" stop="20201223070000 +0000" channel="Travel Channel">
+    <title lang="pt">Codes and Conspiracies</title>
+  </programme>
+  <programme start="20201223070000 +0000" stop="20201223080000 +0000" channel="Travel Channel">
+    <title lang="pt">Bizarre Foods America</title>
+  </programme>
+  <programme start="20201223080000 +0000" stop="20201223090000 +0000" channel="Travel Channel">
+    <title lang="pt">Bizarre Foods America</title>
+  </programme>
+  <programme start="20201223090000 +0000" stop="20201223100000 +0000" channel="Travel Channel">
+    <title lang="pt">Finding Bigfoot</title>
+  </programme>
+  <programme start="20201223100000 +0000" stop="20201223110000 +0000" channel="Travel Channel">
+    <title lang="pt">Alaska Gold Diggers</title>
+  </programme>
+  <programme start="20201223110000 +0000" stop="20201223120000 +0000" channel="Travel Channel">
+    <title lang="pt">Codes and Conspiracies</title>
+  </programme>
+  <programme start="20201223120000 +0000" stop="20201223130000 +0000" channel="Travel Channel">
+    <title lang="pt">Bizarre Foods with Andrew Zimmern</title>
+  </programme>
+  <programme start="20201223130000 +0000" stop="20201223140000 +0000" channel="Travel Channel">
+    <title lang="pt">Bizarre Foods with Andrew Zimmern</title>
+  </programme>
+  <programme start="20201223140000 +0000" stop="20201223150000 +0000" channel="Travel Channel">
+    <title lang="pt">The Alaska Triangle</title>
+  </programme>
+  <programme start="20201223150000 +0000" stop="20201223160000 +0000" channel="Travel Channel">
+    <title lang="pt">Mountain Monsters</title>
+  </programme>
+  <programme start="20201223160000 +0000" stop="20201223170000 +0000" channel="Travel Channel">
+    <title lang="pt">Finding Bigfoot</title>
+  </programme>
+  <programme start="20201223170000 +0000" stop="20201223180000 +0000" channel="Travel Channel">
+    <title lang="pt">Mysteries At The Museum</title>
+  </programme>
+  <programme start="20201223180000 +0000" stop="20201223190000 +0000" channel="Travel Channel">
+    <title lang="pt">Mysteries of the Missing</title>
+  </programme>
+  <programme start="20201223190000 +0000" stop="20201223200000 +0000" channel="Travel Channel">
+    <title lang="pt">NASA</title>
+  </programme>
+  <programme start="20201223200000 +0000" stop="20201223210000 +0000" channel="Travel Channel">
+    <title lang="pt">Paranormal Emergency</title>
+  </programme>
+  <programme start="20201223210000 +0000" stop="20201223220000 +0000" channel="Travel Channel">
+    <title lang="pt">Ghost Brothers</title>
+  </programme>
+  <programme start="20201223220000 +0000" stop="20201223230000 +0000" channel="Travel Channel">
+    <title lang="pt">Beyond The Unknown</title>
+  </programme>
+  <programme start="20201223230000 +0000" stop="20201224000000 +0000" channel="Travel Channel">
+    <title lang="pt">Alaska Monsters</title>
+  </programme>
+  <programme start="20201223000800 +0000" stop="20201223003300 +0000" channel="24Kitchen HD">
+    <title lang="pt">Prato do Dia</title>
+  </programme>
+  <programme start="20201223003300 +0000" stop="20201223010300 +0000" channel="24Kitchen HD">
+    <title lang="pt">Doces do Ofício</title>
+  </programme>
+  <programme start="20201223010300 +0000" stop="20201223012800 +0000" channel="24Kitchen HD">
+    <title lang="pt">Doces do Ofício</title>
+  </programme>
+  <programme start="20201223012800 +0000" stop="20201223020200 +0000" channel="24Kitchen HD">
+    <title lang="pt">Os Segredos da Tia Cátia</title>
+  </programme>
+  <programme start="20201223020200 +0000" stop="20201223022100 +0000" channel="24Kitchen HD">
+    <title lang="pt">Os Segredos da Tia Cátia</title>
+  </programme>
+  <programme start="20201223022100 +0000" stop="20201223025000 +0000" channel="24Kitchen HD">
+    <title lang="pt">Filipa Gomes Cozinha Com Twist</title>
+  </programme>
+  <programme start="20201223025000 +0000" stop="20201223031900 +0000" channel="24Kitchen HD">
+    <title lang="pt">Filipa Gomes Cozinha Com Twist</title>
+  </programme>
+  <programme start="20201223031900 +0000" stop="20201223034400 +0000" channel="24Kitchen HD">
+    <title lang="pt">Naturalmente</title>
+  </programme>
+  <programme start="20201223034400 +0000" stop="20201223040900 +0000" channel="24Kitchen HD">
+    <title lang="pt">Prato do Dia</title>
+  </programme>
+  <programme start="20201223040900 +0000" stop="20201223043400 +0000" channel="24Kitchen HD">
+    <title lang="pt">Prato do Dia</title>
+  </programme>
+  <programme start="20201223043400 +0000" stop="20201223050100 +0000" channel="24Kitchen HD">
+    <title lang="pt">As Doces Iguarias de Rudolph</title>
+  </programme>
+  <programme start="20201223050100 +0000" stop="20201223052700 +0000" channel="24Kitchen HD">
+    <title lang="pt">As Doces Iguarias de Rudolph</title>
+  </programme>
+  <programme start="20201223052700 +0000" stop="20201223055200 +0000" channel="24Kitchen HD">
+    <title lang="pt">Doces do Ofício</title>
+  </programme>
+  <programme start="20201223055200 +0000" stop="20201223062000 +0000" channel="24Kitchen HD">
+    <title lang="pt">Doces do Ofício</title>
+  </programme>
+  <programme start="20201223062000 +0000" stop="20201223064300 +0000" channel="24Kitchen HD">
+    <title lang="pt">Os Segredos da Tia Cátia</title>
+  </programme>
+  <programme start="20201223064300 +0000" stop="20201223070400 +0000" channel="24Kitchen HD">
+    <title lang="pt">A Sentada</title>
+  </programme>
+  <programme start="20201223070400 +0000" stop="20201223073000 +0000" channel="24Kitchen HD">
+    <title lang="pt">As Doces Iguarias de Rudolph</title>
+  </programme>
+  <programme start="20201223073000 +0000" stop="20201223075600 +0000" channel="24Kitchen HD">
+    <title lang="pt">As Doces Iguarias de Rudolph</title>
+  </programme>
+  <programme start="20201223075600 +0000" stop="20201223082200 +0000" channel="24Kitchen HD">
+    <title lang="pt">As Doces Iguarias de Rudolph</title>
+  </programme>
+  <programme start="20201223082200 +0000" stop="20201223084500 +0000" channel="24Kitchen HD">
+    <title lang="pt">Doces do Ofício</title>
+  </programme>
+  <programme start="20201223084500 +0000" stop="20201223090600 +0000" channel="24Kitchen HD">
+    <title lang="pt">Doces do Ofício</title>
+  </programme>
+  <programme start="20201223090600 +0000" stop="20201223093400 +0000" channel="24Kitchen HD">
+    <title lang="pt">Prato do Dia</title>
+  </programme>
+  <programme start="20201223093400 +0000" stop="20201223095600 +0000" channel="24Kitchen HD">
+    <title lang="pt">Prato do Dia</title>
+  </programme>
+  <programme start="20201223095600 +0000" stop="20201223102200 +0000" channel="24Kitchen HD">
+    <title lang="pt">Filipa Gomes Cozinha Com Twist</title>
+  </programme>
+  <programme start="20201223102200 +0000" stop="20201223105000 +0000" channel="24Kitchen HD">
+    <title lang="pt">Filipa Gomes Cozinha Com Twist</title>
+  </programme>
+  <programme start="20201223105000 +0000" stop="20201223111400 +0000" channel="24Kitchen HD">
+    <title lang="pt">Os Segredos da Tia Cátia</title>
+  </programme>
+  <programme start="20201223111400 +0000" stop="20201223114200 +0000" channel="24Kitchen HD">
+    <title lang="pt">Os Segredos da Tia Cátia</title>
+  </programme>
+  <programme start="20201223114200 +0000" stop="20201223120900 +0000" channel="24Kitchen HD">
+    <title lang="pt">Os Segredos da Tia Cátia</title>
+  </programme>
+  <programme start="20201223120900 +0000" stop="20201223130900 +0000" channel="24Kitchen HD">
+    <title lang="pt">Mary Berry</title>
+  </programme>
+  <programme start="20201223130900 +0000" stop="20201223133700 +0000" channel="24Kitchen HD">
+    <title lang="pt">A Sentada</title>
+  </programme>
+  <programme start="20201223133700 +0000" stop="20201223140300 +0000" channel="24Kitchen HD">
+    <title lang="pt">A Sentada</title>
+  </programme>
+  <programme start="20201223140300 +0000" stop="20201223143500 +0000" channel="24Kitchen HD">
+    <title lang="pt">Filipa Gomes Cozinha Com Twist</title>
+  </programme>
+  <programme start="20201223143500 +0000" stop="20201223150100 +0000" channel="24Kitchen HD">
+    <title lang="pt">Prato do Dia</title>
+  </programme>
+  <programme start="20201223150100 +0000" stop="20201223152600 +0000" channel="24Kitchen HD">
+    <title lang="pt">ComTradição</title>
+  </programme>
+  <programme start="20201223152600 +0000" stop="20201223154600 +0000" channel="24Kitchen HD">
+    <title lang="pt">ComTradição</title>
+  </programme>
+  <programme start="20201223154600 +0000" stop="20201223161800 +0000" channel="24Kitchen HD">
+    <title lang="pt">Simply Nigella</title>
+  </programme>
+  <programme start="20201223161800 +0000" stop="20201223164900 +0000" channel="24Kitchen HD">
+    <title lang="pt">Simply Nigella</title>
+  </programme>
+  <programme start="20201223164900 +0000" stop="20201223171500 +0000" channel="24Kitchen HD">
+    <title lang="pt">Aprenda a Fazer Doces Com Martha Stewart</title>
+  </programme>
+  <programme start="20201223171500 +0000" stop="20201223174300 +0000" channel="24Kitchen HD">
+    <title lang="pt">Aprenda a Fazer Doces Com Martha Stewart</title>
+  </programme>
+  <programme start="20201223174300 +0000" stop="20201223180800 +0000" channel="24Kitchen HD">
+    <title lang="pt">Doces do Ofício</title>
+  </programme>
+  <programme start="20201223180800 +0000" stop="20201223183400 +0000" channel="24Kitchen HD">
+    <title lang="pt">Doces do Ofício</title>
+  </programme>
+  <programme start="20201223183400 +0000" stop="20201223185800 +0000" channel="24Kitchen HD">
+    <title lang="pt">Prato do Dia</title>
+  </programme>
+  <programme start="20201223185800 +0000" stop="20201223192900 +0000" channel="24Kitchen HD">
+    <title lang="pt">Filipa Gomes Cozinha Com Twist</title>
+  </programme>
+  <programme start="20201223192900 +0000" stop="20201223200000 +0000" channel="24Kitchen HD">
+    <title lang="pt">A Sentada</title>
+  </programme>
+  <programme start="20201223200000 +0000" stop="20201223202500 +0000" channel="24Kitchen HD">
+    <title lang="pt">Os Segredos da Tia Cátia</title>
+  </programme>
+  <programme start="20201223202500 +0000" stop="20201223205700 +0000" channel="24Kitchen HD">
+    <title lang="pt">Os Segredos da Tia Cátia</title>
+  </programme>
+  <programme start="20201223205700 +0000" stop="20201223212200 +0000" channel="24Kitchen HD">
+    <title lang="pt">ComTradição</title>
+  </programme>
+  <programme start="20201223212200 +0000" stop="20201223214300 +0000" channel="24Kitchen HD">
+    <title lang="pt">ComTradição</title>
+  </programme>
+  <programme start="20201223214300 +0000" stop="20201223221200 +0000" channel="24Kitchen HD">
+    <title lang="pt">Simply Nigella</title>
+  </programme>
+  <programme start="20201223221200 +0000" stop="20201223224500 +0000" channel="24Kitchen HD">
+    <title lang="pt">Simply Nigella</title>
+  </programme>
+  <programme start="20201223224500 +0000" stop="20201223233200 +0000" channel="24Kitchen HD">
+    <title lang="pt">Jamie</title>
+  </programme>
+  <programme start="20201223233200 +0000" stop="20201223235700 +0000" channel="24Kitchen HD">
+    <title lang="pt">Prato do Dia</title>
+  </programme>
+  <programme start="20201223235700 +0000" stop="20201224002100 +0000" channel="24Kitchen HD">
+    <title lang="pt">Prato do Dia</title>
+  </programme>
+  <programme start="20201223010000 +0000" stop="20201223013000 +0000" channel="E! Entertainment">
+    <title lang="pt">Nightly Pop</title>
+  </programme>
+  <programme start="20201223013000 +0000" stop="20201223020000 +0000" channel="E! Entertainment">
+    <title lang="pt">Nightly Pop</title>
+  </programme>
+  <programme start="20201223020000 +0000" stop="20201223030000 +0000" channel="E! Entertainment">
+    <title lang="pt">A Vida Bi</title>
+  </programme>
+  <programme start="20201223030000 +0000" stop="20201223040000 +0000" channel="E! Entertainment">
+    <title lang="pt">Keeping Up With the Kardashians</title>
+  </programme>
+  <programme start="20201223040000 +0000" stop="20201223050000 +0000" channel="E! Entertainment">
+    <title lang="pt">Keeping Up With the Kardashians</title>
+  </programme>
+  <programme start="20201223050000 +0000" stop="20201223060000 +0000" channel="E! Entertainment">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20201223060000 +0000" stop="20201223070000 +0000" channel="E! Entertainment">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20201223070000 +0000" stop="20201223080000 +0000" channel="E! Entertainment">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20201223080000 +0000" stop="20201223090000 +0000" channel="E! Entertainment">
+    <title lang="pt">E! News: Daily Pop</title>
+  </programme>
+  <programme start="20201223090000 +0000" stop="20201223100000 +0000" channel="E! Entertainment">
+    <title lang="pt">Botched</title>
+  </programme>
+  <programme start="20201223100000 +0000" stop="20201223110000 +0000" channel="E! Entertainment">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20201223110000 +0000" stop="20201223120000 +0000" channel="E! Entertainment">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20201223120000 +0000" stop="20201223130000 +0000" channel="E! Entertainment">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20201223130000 +0000" stop="20201223140000 +0000" channel="E! Entertainment">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20201223140000 +0000" stop="20201223150000 +0000" channel="E! Entertainment">
+    <title lang="pt">E! News: Daily Pop</title>
+  </programme>
+  <programme start="20201223150000 +0000" stop="20201223160000 +0000" channel="E! Entertainment">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20201223160000 +0000" stop="20201223170000 +0000" channel="E! Entertainment">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20201223170000 +0000" stop="20201223180000 +0000" channel="E! Entertainment">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20201223180000 +0000" stop="20201223190000 +0000" channel="E! Entertainment">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20201223190000 +0000" stop="20201223200000 +0000" channel="E! Entertainment">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20201223200000 +0000" stop="20201223210000 +0000" channel="E! Entertainment">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20201223210000 +0000" stop="20201223220000 +0000" channel="E! Entertainment">
+    <title lang="pt">Very Cavallari</title>
+  </programme>
+  <programme start="20201223220000 +0000" stop="20201223223000 +0000" channel="E! Entertainment">
+    <title lang="pt">Nightly Pop</title>
+  </programme>
+  <programme start="20201223223000 +0000" stop="20201223230000 +0000" channel="E! Entertainment">
+    <title lang="pt">Nightly Pop</title>
+  </programme>
+  <programme start="20201223230000 +0000" stop="20201224000000 +0000" channel="E! Entertainment">
+    <title lang="pt">Total Bellas</title>
+  </programme>
+</tv>
