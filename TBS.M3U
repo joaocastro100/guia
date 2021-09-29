@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="rtp1.pt" group-title="MEO",RTP 1
+#EXTINF:0 group-title="MEO",RTP 1
 http://192.168.1.69:2050/RTP1
 #EXTINF:0 tvg-id="rtp2.pt" group-title="MEO",RTP 2
 http://192.168.1.69:2050/RTP2
