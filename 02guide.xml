@@ -13,13 +13,15 @@
     <display-name lang="pt">Canal 11 HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="Eleven 1">
-    <display-name lang="pt">Eleven 1</display-name>
-    <url>http://www.mag.sapo.pt</url>
+  <channel id="ELEVEN 1 HD">
+    <display-name lang="pt">ELEVEN 1 HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/eleven-1.png" />
+    <url>http://www.meo.pt</url>
   </channel>
-  <channel id="Eleven 2">
-    <display-name lang="pt">Eleven 2</display-name>
-    <url>http://www.mag.sapo.pt</url>
+  <channel id="ELEVEN 2 HD">
+    <display-name lang="pt">ELEVEN 2 HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/eleven-2.png" />
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="ELEVEN SPORTS 3">
     <display-name lang="pt">ELEVEN SPORTS 3</display-name>
@@ -2166,6 +2168,807 @@
   <programme start="20220101230500 +0000" stop="20220102000500 +0000" channel="Canal 11 HD">
     <title lang="pt">Super Mister Quiz</title>
   </programme>
+  <programme start="20211226011500 +0000" stop="20211226041500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">NFL: Cardinals x Colts (Direto)</title>
+  </programme>
+  <programme start="20211226041500 +0000" stop="20211226044500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">NFL Extra</title>
+  </programme>
+  <programme start="20211226044500 +0000" stop="20211226050000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Custom Series</title>
+  </programme>
+  <programme start="20211226050000 +0000" stop="20211226053000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Otro, 90 seconds challenge</title>
+  </programme>
+  <programme start="20211226053000 +0000" stop="20211226054500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Otro, The other side of, David Luiz</title>
+  </programme>
+  <programme start="20211226054500 +0000" stop="20211226064500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Bundesliga Special - Revista da Temporada</title>
+  </programme>
+  <programme start="20211226064500 +0000" stop="20211226074500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">LaLiga - Os melhores jogos de 2021</title>
+  </programme>
+  <programme start="20211226074500 +0000" stop="20211226080000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Bundesliga Special - Entrevista do mês - Steffen Baumgart</title>
+  </programme>
+  <programme start="20211226080000 +0000" stop="20211226083000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Laliga Fans Ep.4</title>
+  </programme>
+  <programme start="20211226083000 +0000" stop="20211226093000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Momentos decisivos</title>
+  </programme>
+  <programme start="20211226093000 +0000" stop="20211226100000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Laliga Nations Ep.04</title>
+  </programme>
+  <programme start="20211226100000 +0000" stop="20211226110000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Take Us Home, Leeds United</title>
+  </programme>
+  <programme start="20211226110000 +0000" stop="20211226123000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Bundesliga, 24/7 EP08</title>
+  </programme>
+  <programme start="20211226123000 +0000" stop="20211226143000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Scottish Premiership: St. Johnstone x Celtic (Direto)</title>
+  </programme>
+  <programme start="20211226143000 +0000" stop="20211226150000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">LaLiga Zap</title>
+  </programme>
+  <programme start="20211226150000 +0000" stop="20211226170000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Championship: Hull City x Blackburn Rovers (Direto)</title>
+  </programme>
+  <programme start="20211226170000 +0000" stop="20211226173000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Bundesliga Special - Entrevista do mês - Steffen Baumgart</title>
+  </programme>
+  <programme start="20211226173000 +0000" stop="20211226193000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Jupiler Pro League: St. Gilloise x Gent (Direto)</title>
+  </programme>
+  <programme start="20211226193000 +0000" stop="20211226203000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">LaLiga - Os melhores jogos de 2021</title>
+  </programme>
+  <programme start="20211226203000 +0000" stop="20211226204500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Bundesliga Special - Entrevista do mês - Steffen Baumgart</title>
+  </programme>
+  <programme start="20211226204500 +0000" stop="20211226212500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">NFL Gameday - O Filme da Jornada</title>
+  </programme>
+  <programme start="20211226212500 +0000" stop="20211227001500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">NFL: Raiders x Broncos (Direto)</title>
+  </programme>
+  <programme start="20211227001500 +0000" stop="20211227004500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">NFL Gameday - O Filme da Jornada</title>
+  </programme>
+  <programme start="20211227004500 +0000" stop="20211227012000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">NFL Extra</title>
+  </programme>
+  <programme start="20211227012000 +0000" stop="20211227041500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">NFL: Cowboys x Washington (Direto)</title>
+  </programme>
+  <programme start="20211227041500 +0000" stop="20211227044500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">NFL Gameday - O Filme da Jornada</title>
+  </programme>
+  <programme start="20211227044500 +0000" stop="20211227050000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Custom Series</title>
+  </programme>
+  <programme start="20211227050000 +0000" stop="20211227060000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UEFA Champions League - Man in the Middle</title>
+  </programme>
+  <programme start="20211227060000 +0000" stop="20211227080000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Barcelona x Bayern</title>
+  </programme>
+  <programme start="20211227080000 +0000" stop="20211227083000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Champions League Extra</title>
+  </programme>
+  <programme start="20211227083000 +0000" stop="20211227090000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Mbappé \u0026 De Bruyne</title>
+  </programme>
+  <programme start="20211227090000 +0000" stop="20211227093000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL Arquivo 8, Finais 2018 \u0026 1994</title>
+  </programme>
+  <programme start="20211227093000 +0000" stop="20211227113000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Barcelona x Bayern</title>
+  </programme>
+  <programme start="20211227113000 +0000" stop="20211227114500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL - Ideologias de jogo - Espanha</title>
+  </programme>
+  <programme start="20211227114500 +0000" stop="20211227120000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL - Ideologias de jogo - Alemanha</title>
+  </programme>
+  <programme start="20211227120000 +0000" stop="20211227123000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Champions League Extra</title>
+  </programme>
+  <programme start="20211227123000 +0000" stop="20211227143000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">League 1: Doncaster x Sunderland (Direto)</title>
+  </programme>
+  <programme start="20211227143000 +0000" stop="20211227151500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Tiki-Tática</title>
+  </programme>
+  <programme start="20211227151500 +0000" stop="20211227164500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Globe Soccer Awards 2021 (Direto)</title>
+  </programme>
+  <programme start="20211227164500 +0000" stop="20211227170000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">LaLiga Zap</title>
+  </programme>
+  <programme start="20211227170000 +0000" stop="20211227173000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">LaLiga - Os melhores momentos</title>
+  </programme>
+  <programme start="20211227173000 +0000" stop="20211227193000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Championship: QPR x Bournemouth (Direto)</title>
+  </programme>
+  <programme start="20211227193000 +0000" stop="20211227200000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">LaLiga World</title>
+  </programme>
+  <programme start="20211227200000 +0000" stop="20211227220000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Jupiler Pro League: Beerschot x Anderlecht (Direto)</title>
+  </programme>
+  <programme start="20211227220000 +0000" stop="20211227223000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Laliga - As melhores defesas de 2021</title>
+  </programme>
+  <programme start="20211227223000 +0000" stop="20211227231500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Tiki-Tática</title>
+  </programme>
+  <programme start="20211227231500 +0000" stop="20211228001500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Bundesliga Special - Revista da Temporada</title>
+  </programme>
+  <programme start="20211228001500 +0000" stop="20211228021500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Championship: Derby x West Brom</title>
+  </programme>
+  <programme start="20211228021500 +0000" stop="20211228041500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Championship: QPR x Bournemouth</title>
+  </programme>
+  <programme start="20211228041500 +0000" stop="20211228050000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Champions League Extra</title>
+  </programme>
+  <programme start="20211228050000 +0000" stop="20211228060000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UEFA Champions League - Man in the Middle</title>
+  </programme>
+  <programme start="20211228060000 +0000" stop="20211228080000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Benfica x Barcelona</title>
+  </programme>
+  <programme start="20211228080000 +0000" stop="20211228083000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Champions League Extra</title>
+  </programme>
+  <programme start="20211228083000 +0000" stop="20211228090000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL Arquivo 8, Finais 2018 \u0026 1994</title>
+  </programme>
+  <programme start="20211228090000 +0000" stop="20211228093000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL Arquivo 10, Finais 1996 \u0026 2002</title>
+  </programme>
+  <programme start="20211228093000 +0000" stop="20211228113000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Man. City x Leipzig</title>
+  </programme>
+  <programme start="20211228113000 +0000" stop="20211228133000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Benfica x Barcelona</title>
+  </programme>
+  <programme start="20211228133000 +0000" stop="20211228141500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Tiki-Tática</title>
+  </programme>
+  <programme start="20211228141500 +0000" stop="20211228144500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Champions League Extra</title>
+  </programme>
+  <programme start="20211228144500 +0000" stop="20211228150000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL - Ideologias de jogo - Espanha</title>
+  </programme>
+  <programme start="20211228150000 +0000" stop="20211228160000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UEFA Champions League - Man in the Middle</title>
+  </programme>
+  <programme start="20211228160000 +0000" stop="20211228163000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL Arquivo 8, Finais 2018 \u0026 1994</title>
+  </programme>
+  <programme start="20211228163000 +0000" stop="20211228183000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Porto x Milan</title>
+  </programme>
+  <programme start="20211228183000 +0000" stop="20211228193000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Momentos decisivos</title>
+  </programme>
+  <programme start="20211228193000 +0000" stop="20211228203000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Tiki-Tática</title>
+  </programme>
+  <programme start="20211228203000 +0000" stop="20211228223000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Acb: Barça x Andorra (Direto)</title>
+  </programme>
+  <programme start="20211228223000 +0000" stop="20211228233000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">LaLiga Talking Footbal</title>
+  </programme>
+  <programme start="20211228233000 +0000" stop="20211229000000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Championship - Resumos da Jornada 18</title>
+  </programme>
+  <programme start="20211229000000 +0000" stop="20211229001500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Scottish Premiership - Resumos da Jornada 20</title>
+  </programme>
+  <programme start="20211229001500 +0000" stop="20211229010000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Tiki-Tática</title>
+  </programme>
+  <programme start="20211229010000 +0000" stop="20211229030000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Barcelona x Bayern</title>
+  </programme>
+  <programme start="20211229030000 +0000" stop="20211229050000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Man. City x Leipzig</title>
+  </programme>
+  <programme start="20211229050000 +0000" stop="20211229060000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UEFA Champions League - Man in the Middle</title>
+  </programme>
+  <programme start="20211229060000 +0000" stop="20211229080000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Man. United x Atalanta</title>
+  </programme>
+  <programme start="20211229080000 +0000" stop="20211229083000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Champions League Extra</title>
+  </programme>
+  <programme start="20211229083000 +0000" stop="20211229090000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL Arquivo 10, Finais 1996 \u0026 2002</title>
+  </programme>
+  <programme start="20211229090000 +0000" stop="20211229093000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL Arquivo 9, Finais 2013 \u0026 2003</title>
+  </programme>
+  <programme start="20211229093000 +0000" stop="20211229113000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Porto x Milan</title>
+  </programme>
+  <programme start="20211229113000 +0000" stop="20211229133000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Man. United x Atalanta</title>
+  </programme>
+  <programme start="20211229133000 +0000" stop="20211229140000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Mbappé \u0026 De Bruyne</title>
+  </programme>
+  <programme start="20211229140000 +0000" stop="20211229144500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Champions League Extra</title>
+  </programme>
+  <programme start="20211229144500 +0000" stop="20211229150000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL - Ideologias de jogo - Espanha</title>
+  </programme>
+  <programme start="20211229150000 +0000" stop="20211229160000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UEFA Champions League - Man in the Middle</title>
+  </programme>
+  <programme start="20211229160000 +0000" stop="20211229163000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL Arquivo 10, Finais 1996 \u0026 2002</title>
+  </programme>
+  <programme start="20211229163000 +0000" stop="20211229183000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Sporting x Besiktas</title>
+  </programme>
+  <programme start="20211229183000 +0000" stop="20211229193000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Momentos decisivos</title>
+  </programme>
+  <programme start="20211229193000 +0000" stop="20211229200000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Championship - Resumos da Jornada 18</title>
+  </programme>
+  <programme start="20211229200000 +0000" stop="20211229220000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Championship: Reading x Fulham (Direto)</title>
+  </programme>
+  <programme start="20211229220000 +0000" stop="20211229223000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">LaLiga World</title>
+  </programme>
+  <programme start="20211229223000 +0000" stop="20211229230000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Jupiler Pro League - Resumos da Jornada 21</title>
+  </programme>
+  <programme start="20211229230000 +0000" stop="20211230000000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Bundesliga Special - Revista da Temporada</title>
+  </programme>
+  <programme start="20211230000000 +0000" stop="20211230010000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Laliga - Os melhores golos de 2021</title>
+  </programme>
+  <programme start="20211230010000 +0000" stop="20211230030000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Benfica x Barcelona</title>
+  </programme>
+  <programme start="20211230030000 +0000" stop="20211230050000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Porto x Milan</title>
+  </programme>
+  <programme start="20211230050000 +0000" stop="20211230060000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UEFA Champions League - Man in the Middle</title>
+  </programme>
+  <programme start="20211230060000 +0000" stop="20211230080000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Porto x Milan</title>
+  </programme>
+  <programme start="20211230080000 +0000" stop="20211230083000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Champions League Extra</title>
+  </programme>
+  <programme start="20211230083000 +0000" stop="20211230090000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL Arquivo 9, Finais 2013 \u0026 2003</title>
+  </programme>
+  <programme start="20211230090000 +0000" stop="20211230093000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL Finals Archive Series, Programme 11</title>
+  </programme>
+  <programme start="20211230093000 +0000" stop="20211230113000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Sporting x Besiktas</title>
+  </programme>
+  <programme start="20211230113000 +0000" stop="20211230133000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Chelsea x Juventus</title>
+  </programme>
+  <programme start="20211230133000 +0000" stop="20211230140000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Champions League - Resumo do dia</title>
+  </programme>
+  <programme start="20211230140000 +0000" stop="20211230143000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Champions League - Resumo do dia</title>
+  </programme>
+  <programme start="20211230143000 +0000" stop="20211230144500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Champions League Extra</title>
+  </programme>
+  <programme start="20211230144500 +0000" stop="20211230150000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL - Ideologias de jogo - Alemanha</title>
+  </programme>
+  <programme start="20211230150000 +0000" stop="20211230160000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UEFA Champions League - Man in the Middle</title>
+  </programme>
+  <programme start="20211230160000 +0000" stop="20211230163000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL Arquivo 9, Finais 2013 \u0026 2003</title>
+  </programme>
+  <programme start="20211230163000 +0000" stop="20211230183000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Man. City x PSG</title>
+  </programme>
+  <programme start="20211230183000 +0000" stop="20211230194500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Momentos decisivos</title>
+  </programme>
+  <programme start="20211230194500 +0000" stop="20211230214500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Championship: N. Forest x Huddersfield (Direto)</title>
+  </programme>
+  <programme start="20211230214500 +0000" stop="20211230223000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Tiki-Tática</title>
+  </programme>
+  <programme start="20211230223000 +0000" stop="20211230224500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">LaLiga Zap</title>
+  </programme>
+  <programme start="20211230224500 +0000" stop="20211230231500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Ligue 1 - Revista da Temporada</title>
+  </programme>
+  <programme start="20211230231500 +0000" stop="20211230234500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">LaLiga World</title>
+  </programme>
+  <programme start="20211230234500 +0000" stop="20211231004500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">LaLiga Talking Footbal</title>
+  </programme>
+  <programme start="20211231004500 +0000" stop="20211231011500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">NFL Extra</title>
+  </programme>
+  <programme start="20211231011500 +0000" stop="20211231040000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">NFL: Cowboys x Washington</title>
+  </programme>
+  <programme start="20211231040000 +0000" stop="20211231043000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">NFL Extra</title>
+  </programme>
+  <programme start="20211231043000 +0000" stop="20211231044500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Custom Series</title>
+  </programme>
+  <programme start="20211231044500 +0000" stop="20211231050000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Custom Series</title>
+  </programme>
+  <programme start="20211231050000 +0000" stop="20211231060000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Momentos decisivos</title>
+  </programme>
+  <programme start="20211231060000 +0000" stop="20211231080000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Chelsea x Juventus</title>
+  </programme>
+  <programme start="20211231080000 +0000" stop="20211231083000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Champions League Extra</title>
+  </programme>
+  <programme start="20211231083000 +0000" stop="20211231090000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL Finals Archive Series, Programme 11</title>
+  </programme>
+  <programme start="20211231090000 +0000" stop="20211231093000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL Finals Archive Series, Programme 12</title>
+  </programme>
+  <programme start="20211231093000 +0000" stop="20211231113000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Man. City x PSG</title>
+  </programme>
+  <programme start="20211231113000 +0000" stop="20211231120000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Ligue 1 - Revista da Temporada</title>
+  </programme>
+  <programme start="20211231120000 +0000" stop="20211231130000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Tiki-Tática</title>
+  </programme>
+  <programme start="20211231130000 +0000" stop="20211231151500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">La Liga: Oviedo x Ponferradina (Direto)</title>
+  </programme>
+  <programme start="20211231151500 +0000" stop="20211231171500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">La Liga: Valencia x Espanyol (Direto)</title>
+  </programme>
+  <programme start="20211231171500 +0000" stop="20211231174500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">LaLiga World</title>
+  </programme>
+  <programme start="20211231174500 +0000" stop="20211231181500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Bundesliga Analysis</title>
+  </programme>
+  <programme start="20211231181500 +0000" stop="20211231183000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga ACB Endesa - Resumos da Jornada</title>
+  </programme>
+  <programme start="20211231183000 +0000" stop="20211231184500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Scottish Premiership - Resumos da Jornada 21</title>
+  </programme>
+  <programme start="20211231184500 +0000" stop="20211231191500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Championship - Resumos da Jornada 18</title>
+  </programme>
+  <programme start="20211231191500 +0000" stop="20211231211500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Chelsea x Juventus</title>
+  </programme>
+  <programme start="20211231211500 +0000" stop="20211231231500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Man. City x PSG</title>
+  </programme>
+  <programme start="20211231231500 +0000" stop="20211231234500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL Arquivo 8, Finais 2018 \u0026 1994</title>
+  </programme>
+  <programme start="20211231234500 +0000" stop="20220101000000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Champions League Extra</title>
+  </programme>
+  <programme start="20220101000000 +0000" stop="20220101003000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Ligue 1 - Revista da Temporada</title>
+  </programme>
+  <programme start="20220101003000 +0000" stop="20220101010000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Bundesliga Analysis</title>
+  </programme>
+  <programme start="20220101010000 +0000" stop="20220101030000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Man. United x Atalanta</title>
+  </programme>
+  <programme start="20220101030000 +0000" stop="20220101050000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Sporting x Besiktas</title>
+  </programme>
+  <programme start="20220101050000 +0000" stop="20220101060000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Momentos decisivos</title>
+  </programme>
+  <programme start="20220101060000 +0000" stop="20220101080000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Man. City x PSG</title>
+  </programme>
+  <programme start="20220101080000 +0000" stop="20220101083000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Champions League Extra</title>
+  </programme>
+  <programme start="20220101083000 +0000" stop="20220101090000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL Finals Archive Series, Programme 12</title>
+  </programme>
+  <programme start="20220101090000 +0000" stop="20220101091500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Custom Series</title>
+  </programme>
+  <programme start="20220101091500 +0000" stop="20220101093000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL - Ideologias de jogo - Alemanha</title>
+  </programme>
+  <programme start="20220101093000 +0000" stop="20220101113000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Liga Dos Campeões: Sporting x Dortmund</title>
+  </programme>
+  <programme start="20220101113000 +0000" stop="20220101114500 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">UCL - Ideologias de jogo - Portugal</title>
+  </programme>
+  <programme start="20220101114500 +0000" stop="20220101123000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Championship - Resumos da Jornada 18</title>
+  </programme>
+  <programme start="20220101123000 +0000" stop="20220101143000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Championship: Sheffield x M´Boro (Direto)</title>
+  </programme>
+  <programme start="20220101143000 +0000" stop="20220101150000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Custom Series</title>
+  </programme>
+  <programme start="20220101150000 +0000" stop="20220101170000 +0000" channel="ELEVEN 1 HD">
+    <title lang="pt">Championship: Blackpool x Hull (Direto)</title>
+  </programme>
+  <programme start="20211226011500 +0000" stop="20211226033000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">MMA - Professional Fighters League Playoffs Day 3</title>
+  </programme>
+  <programme start="20211226033000 +0000" stop="20211226040000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Emiliano Sordi</title>
+  </programme>
+  <programme start="20211226040000 +0000" stop="20211226043000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Sean O’Connell</title>
+  </programme>
+  <programme start="20211226043000 +0000" stop="20211226050000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Kayla Harrison</title>
+  </programme>
+  <programme start="20211226050000 +0000" stop="20211226073000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Wta Tour: WTA Finals - Guadalajara Meia-Final #2</title>
+  </programme>
+  <programme start="20211226073000 +0000" stop="20211226100000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Wta Tour: WTA Finals - Guadalajara - Final</title>
+  </programme>
+  <programme start="20211226100000 +0000" stop="20211226101500 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Tennis United</title>
+  </programme>
+  <programme start="20211226101500 +0000" stop="20211226103000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Custom Series</title>
+  </programme>
+  <programme start="20211226103000 +0000" stop="20211226110000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">WTA Indian Wells Highlights</title>
+  </programme>
+  <programme start="20211226110000 +0000" stop="20211226113000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">WTA Finals Guadalajara Highlights</title>
+  </programme>
+  <programme start="20211226113000 +0000" stop="20211226120000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">LaLiga - Os melhores momentos</title>
+  </programme>
+  <programme start="20211226120000 +0000" stop="20211226123000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">LaLiga - Os melhores momentos</title>
+  </programme>
+  <programme start="20211226123000 +0000" stop="20211226143000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Jupiler Pro League: Cercle Brugge x Club Brugge (Direto)</title>
+  </programme>
+  <programme start="20211226143000 +0000" stop="20211226150000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Championship - Resumos da Jornada 17</title>
+  </programme>
+  <programme start="20211226150000 +0000" stop="20211226170000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Championship: Luton x Bristol (Direto)</title>
+  </programme>
+  <programme start="20211226170000 +0000" stop="20211226173000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Laliga - As melhores defesas de 2021</title>
+  </programme>
+  <programme start="20211226173000 +0000" stop="20211226193000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Scottish Premiership: St. Johnstone x Celtic</title>
+  </programme>
+  <programme start="20211226193000 +0000" stop="20211226201500 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Tiki-Tática</title>
+  </programme>
+  <programme start="20211226201500 +0000" stop="20211226221500 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Championship: Hull City x Blackburn Rovers</title>
+  </programme>
+  <programme start="20211226221500 +0000" stop="20211226224500 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">LaLiga Chronicles</title>
+  </programme>
+  <programme start="20211226224500 +0000" stop="20211226234500 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga Special - Revista da Temporada</title>
+  </programme>
+  <programme start="20211226234500 +0000" stop="20211227004500 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">LaLiga - Os melhores jogos de 2021</title>
+  </programme>
+  <programme start="20211227004500 +0000" stop="20211227011500 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Ray Cooper III</title>
+  </programme>
+  <programme start="20211227011500 +0000" stop="20211227050000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">MMA - Professional Fighters League PFL Championship</title>
+  </programme>
+  <programme start="20211227050000 +0000" stop="20211227070000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Ligue 1: PSG x Lyon</title>
+  </programme>
+  <programme start="20211227070000 +0000" stop="20211227090000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga: Leverkusen x Dortmund</title>
+  </programme>
+  <programme start="20211227090000 +0000" stop="20211227110000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">La Liga: Real Madrid x Celta</title>
+  </programme>
+  <programme start="20211227110000 +0000" stop="20211227130000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Ligue 1: Metz x PSG</title>
+  </programme>
+  <programme start="20211227130000 +0000" stop="20211227150000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga: Leipzig x Bayern</title>
+  </programme>
+  <programme start="20211227150000 +0000" stop="20211227170000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Championship: Derby x West Brom (Direto)</title>
+  </programme>
+  <programme start="20211227170000 +0000" stop="20211227173000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">NFL Extra</title>
+  </programme>
+  <programme start="20211227173000 +0000" stop="20211227203000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">NFL: Raiders x Broncos</title>
+  </programme>
+  <programme start="20211227203000 +0000" stop="20211227223000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Liga Acb: Gran Canaria x Murcia (Direto)</title>
+  </programme>
+  <programme start="20211227223000 +0000" stop="20211227230000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">NFL Gameday - O Filme da Jornada</title>
+  </programme>
+  <programme start="20211227230000 +0000" stop="20211228014500 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">NFL: Cowboys x Washington</title>
+  </programme>
+  <programme start="20211228014500 +0000" stop="20211228021500 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">NFL Extra</title>
+  </programme>
+  <programme start="20211228021500 +0000" stop="20211228024500 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">NFL Gameday - O Filme da Jornada</title>
+  </programme>
+  <programme start="20211228024500 +0000" stop="20211228030000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">LaLiga Zap</title>
+  </programme>
+  <programme start="20211228030000 +0000" stop="20211228050000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Liga Acb: Badalona x Real Madrid</title>
+  </programme>
+  <programme start="20211228050000 +0000" stop="20211228070000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Ligue 1: Metz x PSG</title>
+  </programme>
+  <programme start="20211228070000 +0000" stop="20211228090000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga: Leipzig x Bayern</title>
+  </programme>
+  <programme start="20211228090000 +0000" stop="20211228110000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">La Liga: Atlético x Barcelona</title>
+  </programme>
+  <programme start="20211228110000 +0000" stop="20211228130000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Ligue 1: Nice x Lyon</title>
+  </programme>
+  <programme start="20211228130000 +0000" stop="20211228150000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga: Bayern x Bochum</title>
+  </programme>
+  <programme start="20211228150000 +0000" stop="20211228170000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">La Liga: Barcelona x Valencia</title>
+  </programme>
+  <programme start="20211228170000 +0000" stop="20211228173000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Laliga Fans</title>
+  </programme>
+  <programme start="20211228173000 +0000" stop="20211228193000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Championship: Derby x West Brom</title>
+  </programme>
+  <programme start="20211228193000 +0000" stop="20211228203000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">LaLiga - Os melhores jogos de 2021</title>
+  </programme>
+  <programme start="20211228203000 +0000" stop="20211228210000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Laliga - As melhores defesas de 2021</title>
+  </programme>
+  <programme start="20211228210000 +0000" stop="20211228211500 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga Special - Entrevista do mês - Nico Schlotterbeck</title>
+  </programme>
+  <programme start="20211228211500 +0000" stop="20211228220000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Tiki-Tática</title>
+  </programme>
+  <programme start="20211228220000 +0000" stop="20211228230000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga Special - Revista da Temporada</title>
+  </programme>
+  <programme start="20211228230000 +0000" stop="20211229000000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Ligue 1 - Resumos da Jornada 19</title>
+  </programme>
+  <programme start="20211229000000 +0000" stop="20211229001500 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Final da UCL, Filme Oficial</title>
+  </programme>
+  <programme start="20211229001500 +0000" stop="20211229004500 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Ligue 1 - À Conversa com o Talento - Mauricio Pochettino</title>
+  </programme>
+  <programme start="20211229004500 +0000" stop="20211229010000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga Special - Entrevista do mês, Dominik Szoboslai</title>
+  </programme>
+  <programme start="20211229010000 +0000" stop="20211229030000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga: Leverkusen x Dortmund</title>
+  </programme>
+  <programme start="20211229030000 +0000" stop="20211229050000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">La Liga: Real Madrid x Celta</title>
+  </programme>
+  <programme start="20211229050000 +0000" stop="20211229070000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Ligue 1: Nice x Lyon</title>
+  </programme>
+  <programme start="20211229070000 +0000" stop="20211229090000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga: Bayern x Bochum</title>
+  </programme>
+  <programme start="20211229090000 +0000" stop="20211229110000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">La Liga: Barcelona x Valencia</title>
+  </programme>
+  <programme start="20211229110000 +0000" stop="20211229130000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Ligue 1: PSG x Lille</title>
+  </programme>
+  <programme start="20211229130000 +0000" stop="20211229150000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga: Dortmund x Union</title>
+  </programme>
+  <programme start="20211229150000 +0000" stop="20211229170000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">La Liga: Sevilla x Levante</title>
+  </programme>
+  <programme start="20211229170000 +0000" stop="20211229173000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Laliga Fans</title>
+  </programme>
+  <programme start="20211229173000 +0000" stop="20211229193000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Championship: QPR x Bournemouth</title>
+  </programme>
+  <programme start="20211229193000 +0000" stop="20211229203000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga Special - Revista da Temporada</title>
+  </programme>
+  <programme start="20211229203000 +0000" stop="20211229213000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Ligue 1 - Resumos da Jornada 19</title>
+  </programme>
+  <programme start="20211229213000 +0000" stop="20211229214500 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Scottish Premiership - Resumos da Jornada 20</title>
+  </programme>
+  <programme start="20211229214500 +0000" stop="20211229220000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">LaLiga Zap</title>
+  </programme>
+  <programme start="20211229220000 +0000" stop="20211230004500 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Liverpool TV</title>
+  </programme>
+  <programme start="20211230004500 +0000" stop="20211230010000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga Special - Entrevista do mês - Erling Haaland</title>
+  </programme>
+  <programme start="20211230010000 +0000" stop="20211230030000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga: Leipzig x Bayern</title>
+  </programme>
+  <programme start="20211230030000 +0000" stop="20211230050000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">La Liga: Atlético x Barcelona</title>
+  </programme>
+  <programme start="20211230050000 +0000" stop="20211230070000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Ligue 1: PSG x Lille</title>
+  </programme>
+  <programme start="20211230070000 +0000" stop="20211230090000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga: Dortmund x Union</title>
+  </programme>
+  <programme start="20211230090000 +0000" stop="20211230110000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">La Liga: Sevilla x Levante</title>
+  </programme>
+  <programme start="20211230110000 +0000" stop="20211230130000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Ligue 1: Bordeaux x PSG</title>
+  </programme>
+  <programme start="20211230130000 +0000" stop="20211230150000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga: Leverkusen x Bayern</title>
+  </programme>
+  <programme start="20211230150000 +0000" stop="20211230170000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">La Liga: Barcelona x Real Madrid</title>
+  </programme>
+  <programme start="20211230170000 +0000" stop="20211230173000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Laliga Fans</title>
+  </programme>
+  <programme start="20211230173000 +0000" stop="20211230193000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Championship: Reading x Fulham</title>
+  </programme>
+  <programme start="20211230193000 +0000" stop="20211230200000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Laliga Nations</title>
+  </programme>
+  <programme start="20211230200000 +0000" stop="20211230220000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Barcelona x Valencia - La Liga</title>
+  </programme>
+  <programme start="20211230220000 +0000" stop="20211231004500 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">City TV - Magazine</title>
+  </programme>
+  <programme start="20211231004500 +0000" stop="20211231010000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga Special - Entrevista do mês - Nico Schlotterbeck</title>
+  </programme>
+  <programme start="20211231010000 +0000" stop="20211231030000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga: Bayern x Bochum</title>
+  </programme>
+  <programme start="20211231030000 +0000" stop="20211231050000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">La Liga: Barcelona x Valencia</title>
+  </programme>
+  <programme start="20211231050000 +0000" stop="20211231070000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Ligue 1: Bordeaux x PSG</title>
+  </programme>
+  <programme start="20211231070000 +0000" stop="20211231090000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga: Leverkusen x Bayern</title>
+  </programme>
+  <programme start="20211231090000 +0000" stop="20211231110000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">La Liga: Barcelona x Real Madrid</title>
+  </programme>
+  <programme start="20211231110000 +0000" stop="20211231130000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Ligue 1: Saint-Étienne x PSG</title>
+  </programme>
+  <programme start="20211231130000 +0000" stop="20211231151500 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga: Union x Bayern</title>
+  </programme>
+  <programme start="20211231151500 +0000" stop="20211231171500 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">La Liga: Eibar x R. Sociedad B (Direto)</title>
+  </programme>
+  <programme start="20211231171500 +0000" stop="20211231173000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">LaLiga Zap</title>
+  </programme>
+  <programme start="20211231173000 +0000" stop="20211231193000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Championship: N. Forest x Huddersfield</title>
+  </programme>
+  <programme start="20211231193000 +0000" stop="20211231200000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Laliga Nations</title>
+  </programme>
+  <programme start="20211231200000 +0000" stop="20211231220000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Liga Acb: Gran Canaria x Murcia</title>
+  </programme>
+  <programme start="20211231220000 +0000" stop="20211231221500 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Liga ACB Endesa - Resumos da Jornada Ep.14</title>
+  </programme>
+  <programme start="20211231221500 +0000" stop="20211231223000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Scottish Premiership - Resumos da Jornada 21</title>
+  </programme>
+  <programme start="20211231223000 +0000" stop="20211231230000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Championship - Resumos da Jornada 18</title>
+  </programme>
+  <programme start="20211231230000 +0000" stop="20220101000000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Laliga - Os melhores golos de 2021</title>
+  </programme>
+  <programme start="20220101000000 +0000" stop="20220101003000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Laliga - As melhores defesas de 2021</title>
+  </programme>
+  <programme start="20220101003000 +0000" stop="20220101010000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">LaLiga World</title>
+  </programme>
+  <programme start="20220101010000 +0000" stop="20220101030000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga: Dortmund x Union</title>
+  </programme>
+  <programme start="20220101030000 +0000" stop="20220101050000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">La Liga: Sevilla x Levante</title>
+  </programme>
+  <programme start="20220101050000 +0000" stop="20220101070000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Ligue 1: Saint-Étienne x PSG</title>
+  </programme>
+  <programme start="20220101070000 +0000" stop="20220101090000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga: Union x Bayern</title>
+  </programme>
+  <programme start="20220101090000 +0000" stop="20220101110000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">La Liga: Celta x Barcelona</title>
+  </programme>
+  <programme start="20220101110000 +0000" stop="20220101130000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Ligue 1: Rennes x Lille</title>
+  </programme>
+  <programme start="20220101130000 +0000" stop="20220101150000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">Bundesliga: Dortmund x Bayern</title>
+  </programme>
+  <programme start="20220101150000 +0000" stop="20220101170000 +0000" channel="ELEVEN 2 HD">
+    <title lang="pt">La Liga: Valencia x Atlético</title>
+  </programme>
   <programme start="20211226001500 +0000" stop="20211226020000 +0000" channel="ELEVEN SPORTS 3">
     <title lang="pt">Fórmula E 2021 - E-Prix Berlim - Corrida 2</title>
   </programme>
@@ -4008,10 +4811,10 @@
   <programme start="20211226032500 +0000" stop="20211226033500 +0000" channel="Record TV">
     <title lang="pt">Ponto de Luz - Porto</title>
   </programme>
-  <programme start="20211226033500 +0000" stop="20211226035500 +0000" channel="Record TV">
+  <programme start="20211226033500 +0000" stop="20211226035000 +0000" channel="Record TV">
     <title lang="pt">Programa Algarve</title>
   </programme>
-  <programme start="20211226035500 +0000" stop="20211226041500 +0000" channel="Record TV">
+  <programme start="20211226035000 +0000" stop="20211226041500 +0000" channel="Record TV">
     <title lang="pt">Programa França</title>
   </programme>
   <programme start="20211226041500 +0000" stop="20211226042500 +0000" channel="Record TV">
@@ -4044,161 +4847,179 @@
   <programme start="20211226073000 +0000" stop="20211226080000 +0000" channel="Record TV">
     <title lang="pt">Problemas e Soluções</title>
   </programme>
-  <programme start="20211226080000 +0000" stop="20211226110000 +0000" channel="Record TV">
-    <title lang="pt">Record Kids</title>
-  </programme>
-  <programme start="20211226110000 +0000" stop="20211226113000 +0000" channel="Record TV">
-    <title lang="pt">Bichos Curiosos</title>
-  </programme>
-  <programme start="20211226113000 +0000" stop="20211226123000 +0000" channel="Record TV">
-    <title lang="pt">The Love School</title>
-  </programme>
-  <programme start="20211226123000 +0000" stop="20211226160000 +0000" channel="Record TV">
-    <title lang="pt">Fala Brasil - Edição de Sábado</title>
-  </programme>
-  <programme start="20211226160000 +0000" stop="20211226173000 +0000" channel="Record TV">
-    <title lang="pt">Vai Dar Namoro &amp; Dança Gatinho</title>
-  </programme>
-  <programme start="20211226173000 +0000" stop="20211226193000 +0000" channel="Record TV">
-    <title lang="pt">Balanço Geral - Edição de Sábado</title>
-  </programme>
-  <programme start="20211226193000 +0000" stop="20211226200000 +0000" channel="Record TV">
-    <title lang="pt">50 Por 1</title>
-  </programme>
-  <programme start="20211226200000 +0000" stop="20211226203000 +0000" channel="Record TV">
-    <title lang="pt">Benção da Família em Sua Casa</title>
-  </programme>
-  <programme start="20211226203000 +0000" stop="20211226213000 +0000" channel="Record TV">
-    <title lang="pt">A Bíblia</title>
-  </programme>
-  <programme start="20211226213000 +0000" stop="20211227000000 +0000" channel="Record TV">
-    <title lang="pt">Cidade Alerta - Edição de Sábado</title>
-  </programme>
-  <programme start="20211227000000 +0000" stop="20211227005000 +0000" channel="Record TV">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20211227005000 +0000" stop="20211227011500 +0000" channel="Record TV">
-    <title lang="pt">Nosso Tempo</title>
-  </programme>
-  <programme start="20211227011500 +0000" stop="20211227014500 +0000" channel="Record TV">
-    <title lang="pt">Hora do Milagre</title>
-  </programme>
-  <programme start="20211227014500 +0000" stop="20211227021500 +0000" channel="Record TV">
-    <title lang="pt">Nação dos 318</title>
-  </programme>
-  <programme start="20211227021500 +0000" stop="20211227023500 +0000" channel="Record TV">
-    <title lang="pt">Terapia do Amor</title>
-  </programme>
-  <programme start="20211227023500 +0000" stop="20211227024500 +0000" channel="Record TV">
-    <title lang="pt">Ponto de Luz - Lisboa</title>
-  </programme>
-  <programme start="20211227024500 +0000" stop="20211227030500 +0000" channel="Record TV">
-    <title lang="pt">Vencendo Os Vícios</title>
-  </programme>
-  <programme start="20211227030500 +0000" stop="20211227032500 +0000" channel="Record TV">
-    <title lang="pt">Programa Luxemburgo</title>
-  </programme>
-  <programme start="20211227032500 +0000" stop="20211227033500 +0000" channel="Record TV">
-    <title lang="pt">Ponto de Luz - Porto</title>
-  </programme>
-  <programme start="20211227033500 +0000" stop="20211227035000 +0000" channel="Record TV">
-    <title lang="pt">Programa Algarve</title>
-  </programme>
-  <programme start="20211227035000 +0000" stop="20211227041500 +0000" channel="Record TV">
-    <title lang="pt">Programa França</title>
-  </programme>
-  <programme start="20211227041500 +0000" stop="20211227042500 +0000" channel="Record TV">
-    <title lang="pt">Ponto de Luz - Lisboa</title>
-  </programme>
-  <programme start="20211227042500 +0000" stop="20211227044500 +0000" channel="Record TV">
-    <title lang="pt">Programa Itália</title>
-  </programme>
-  <programme start="20211227044500 +0000" stop="20211227050500 +0000" channel="Record TV">
-    <title lang="pt">Programa Madeira</title>
-  </programme>
-  <programme start="20211227050500 +0000" stop="20211227052500 +0000" channel="Record TV">
-    <title lang="pt">Programa Suíça</title>
-  </programme>
-  <programme start="20211227052500 +0000" stop="20211227054500 +0000" channel="Record TV">
-    <title lang="pt">Programa Coimbra</title>
-  </programme>
-  <programme start="20211227054500 +0000" stop="20211227060000 +0000" channel="Record TV">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20211227060000 +0000" stop="20211227063000 +0000" channel="Record TV">
-    <title lang="pt">Programa Decisão</title>
-  </programme>
-  <programme start="20211227063000 +0000" stop="20211227070000 +0000" channel="Record TV">
-    <title lang="pt">Não Desista</title>
-  </programme>
-  <programme start="20211227070000 +0000" stop="20211227073000 +0000" channel="Record TV">
-    <title lang="pt">Hora do Milagre</title>
-  </programme>
-  <programme start="20211227073000 +0000" stop="20211227080000 +0000" channel="Record TV">
-    <title lang="pt">Problemas e Soluções</title>
-  </programme>
-  <programme start="20211227080000 +0000" stop="20211227090000 +0000" channel="Record TV">
+  <programme start="20211226080000 +0000" stop="20211226090000 +0000" channel="Record TV">
     <title lang="pt">Santo Culto - Bispo Macedo</title>
   </programme>
-  <programme start="20211227090000 +0000" stop="20211227110000 +0000" channel="Record TV">
+  <programme start="20211226090000 +0000" stop="20211226110000 +0000" channel="Record TV">
     <title lang="pt">Record Kids</title>
   </programme>
-  <programme start="20211227110000 +0000" stop="20211227130000 +0000" channel="Record TV">
+  <programme start="20211226110000 +0000" stop="20211226130000 +0000" channel="Record TV">
     <title lang="pt">As Aventuras de Poliana</title>
   </programme>
-  <programme start="20211227130000 +0000" stop="20211227133000 +0000" channel="Record TV">
+  <programme start="20211226130000 +0000" stop="20211226133000 +0000" channel="Record TV">
     <title lang="pt">Palco Record</title>
   </programme>
-  <programme start="20211227133000 +0000" stop="20211227150000 +0000" channel="Record TV">
+  <programme start="20211226133000 +0000" stop="20211226150000 +0000" channel="Record TV">
     <title lang="pt">Que Pobres Tão Ricos - Compacto</title>
   </programme>
-  <programme start="20211227150000 +0000" stop="20211227163000 +0000" channel="Record TV">
+  <programme start="20211226150000 +0000" stop="20211226163000 +0000" channel="Record TV">
     <title lang="pt">Power Couple - Especial</title>
   </programme>
-  <programme start="20211227163000 +0000" stop="20211227193000 +0000" channel="Record TV">
+  <programme start="20211226163000 +0000" stop="20211226193000 +0000" channel="Record TV">
     <title lang="pt">Hora do Faro</title>
   </programme>
-  <programme start="20211227193000 +0000" stop="20211227210000 +0000" channel="Record TV">
+  <programme start="20211226193000 +0000" stop="20211226210000 +0000" channel="Record TV">
     <title lang="pt">Canta Comigo Teen</title>
   </programme>
-  <programme start="20211227210000 +0000" stop="20211227220000 +0000" channel="Record TV">
+  <programme start="20211226210000 +0000" stop="20211226220000 +0000" channel="Record TV">
     <title lang="pt">Show Musical João Busco &amp; Vinícius</title>
   </programme>
-  <programme start="20211227220000 +0000" stop="20211227221500 +0000" channel="Record TV">
+  <programme start="20211226220000 +0000" stop="20211226221500 +0000" channel="Record TV">
     <title lang="pt">Insólito</title>
   </programme>
-  <programme start="20211227221500 +0000" stop="20211228000000 +0000" channel="Record TV">
+  <programme start="20211226221500 +0000" stop="20211227000000 +0000" channel="Record TV">
     <title lang="pt">Retrospectiva 2021</title>
   </programme>
-  <programme start="20211228000000 +0000" stop="20211228031500 +0000" channel="Record TV">
+  <programme start="20211227000000 +0000" stop="20211227031500 +0000" channel="Record TV">
     <title lang="pt">Domingo Espetacular</title>
   </programme>
-  <programme start="20211228031500 +0000" stop="20211228034500 +0000" channel="Record TV">
+  <programme start="20211227031500 +0000" stop="20211227034500 +0000" channel="Record TV">
     <title lang="pt">Nação dos 318</title>
   </programme>
-  <programme start="20211228034500 +0000" stop="20211228040000 +0000" channel="Record TV">
+  <programme start="20211227034500 +0000" stop="20211227040000 +0000" channel="Record TV">
     <title lang="pt">Programa Coimbra</title>
   </programme>
-  <programme start="20211228040000 +0000" stop="20211228041000 +0000" channel="Record TV">
+  <programme start="20211227040000 +0000" stop="20211227041000 +0000" channel="Record TV">
     <title lang="pt">Ponto de Luz - Lisboa</title>
   </programme>
-  <programme start="20211228041000 +0000" stop="20211228043000 +0000" channel="Record TV">
+  <programme start="20211227041000 +0000" stop="20211227043000 +0000" channel="Record TV">
     <title lang="pt">Vencendo Os Vícios</title>
   </programme>
-  <programme start="20211228043000 +0000" stop="20211228045000 +0000" channel="Record TV">
+  <programme start="20211227043000 +0000" stop="20211227045000 +0000" channel="Record TV">
     <title lang="pt">Programa Luxemburgo</title>
   </programme>
-  <programme start="20211228045000 +0000" stop="20211228050000 +0000" channel="Record TV">
+  <programme start="20211227045000 +0000" stop="20211227050000 +0000" channel="Record TV">
     <title lang="pt">Ponto de Luz - Porto</title>
   </programme>
-  <programme start="20211228050000 +0000" stop="20211228051500 +0000" channel="Record TV">
+  <programme start="20211227050000 +0000" stop="20211227051500 +0000" channel="Record TV">
     <title lang="pt">Programa Madeira</title>
   </programme>
-  <programme start="20211228051500 +0000" stop="20211228053000 +0000" channel="Record TV">
+  <programme start="20211227051500 +0000" stop="20211227053000 +0000" channel="Record TV">
     <title lang="pt">Programa Algarve</title>
   </programme>
-  <programme start="20211228053000 +0000" stop="20211228054000 +0000" channel="Record TV">
+  <programme start="20211227053000 +0000" stop="20211227054000 +0000" channel="Record TV">
     <title lang="pt">Ponto de Luz - Lisboa</title>
+  </programme>
+  <programme start="20211227054000 +0000" stop="20211227060000 +0000" channel="Record TV">
+    <title lang="pt">Programa Suíça</title>
+  </programme>
+  <programme start="20211227060000 +0000" stop="20211227061500 +0000" channel="Record TV">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
+  </programme>
+  <programme start="20211227061500 +0000" stop="20211227064000 +0000" channel="Record TV">
+    <title lang="pt">Programa França</title>
+  </programme>
+  <programme start="20211227064000 +0000" stop="20211227070000 +0000" channel="Record TV">
+    <title lang="pt">Programa Inglaterra</title>
+  </programme>
+  <programme start="20211227070000 +0000" stop="20211227073000 +0000" channel="Record TV">
+    <title lang="pt">Programa Decisão</title>
+  </programme>
+  <programme start="20211227073000 +0000" stop="20211227080000 +0000" channel="Record TV">
+    <title lang="pt">Nação dos 318</title>
+  </programme>
+  <programme start="20211227080000 +0000" stop="20211227083000 +0000" channel="Record TV">
+    <title lang="pt">Hora do Milagre</title>
+  </programme>
+  <programme start="20211227083000 +0000" stop="20211227090000 +0000" channel="Record TV">
+    <title lang="pt">Problemas e Soluções</title>
+  </programme>
+  <programme start="20211227090000 +0000" stop="20211227100000 +0000" channel="Record TV">
+    <title lang="pt">Hoje em Dia</title>
+  </programme>
+  <programme start="20211227100000 +0000" stop="20211227120000 +0000" channel="Record TV">
+    <title lang="pt">Balanço Geral SP</title>
+  </programme>
+  <programme start="20211227120000 +0000" stop="20211227133000 +0000" channel="Record TV">
+    <title lang="pt">Fala Brasil</title>
+  </programme>
+  <programme start="20211227133000 +0000" stop="20211227140000 +0000" channel="Record TV">
+    <title lang="pt">Portugal no Ar</title>
+  </programme>
+  <programme start="20211227140000 +0000" stop="20211227150000 +0000" channel="Record TV">
+    <title lang="pt">A Bíblia</title>
+  </programme>
+  <programme start="20211227150000 +0000" stop="20211227153000 +0000" channel="Record TV">
+    <title lang="pt">Os Milagres de Jesus</title>
+  </programme>
+  <programme start="20211227153000 +0000" stop="20211227161500 +0000" channel="Record TV">
+    <title lang="pt">A Hora da Venenosa</title>
+  </programme>
+  <programme start="20211227161500 +0000" stop="20211227171500 +0000" channel="Record TV">
+    <title lang="pt">Prova de Amor</title>
+  </programme>
+  <programme start="20211227171500 +0000" stop="20211227181500 +0000" channel="Record TV">
+    <title lang="pt">Que Pobres Tão Ricos</title>
+  </programme>
+  <programme start="20211227181500 +0000" stop="20211227191500 +0000" channel="Record TV">
+    <title lang="pt">As Aventuras de Poliana</title>
+  </programme>
+  <programme start="20211227191500 +0000" stop="20211227200000 +0000" channel="Record TV">
+    <title lang="pt">Fala Portugal</title>
+  </programme>
+  <programme start="20211227200000 +0000" stop="20211227211500 +0000" channel="Record TV">
+    <title lang="pt">A Bíblia</title>
+  </programme>
+  <programme start="20211227211500 +0000" stop="20211228000000 +0000" channel="Record TV">
+    <title lang="pt">Cidade Alerta SP</title>
+  </programme>
+  <programme start="20211228000000 +0000" stop="20211228005000 +0000" channel="Record TV">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
+  </programme>
+  <programme start="20211228005000 +0000" stop="20211228011500 +0000" channel="Record TV">
+    <title lang="pt">Nosso Tempo</title>
+  </programme>
+  <programme start="20211228011500 +0000" stop="20211228014500 +0000" channel="Record TV">
+    <title lang="pt">Saindo da Depressão</title>
+  </programme>
+  <programme start="20211228014500 +0000" stop="20211228015500 +0000" channel="Record TV">
+    <title lang="pt">Saúde Restaurada</title>
+  </programme>
+  <programme start="20211228015500 +0000" stop="20211228022500 +0000" channel="Record TV">
+    <title lang="pt">Nação dos 318</title>
+  </programme>
+  <programme start="20211228022500 +0000" stop="20211228024500 +0000" channel="Record TV">
+    <title lang="pt">Terapia do Amor</title>
+  </programme>
+  <programme start="20211228024500 +0000" stop="20211228030500 +0000" channel="Record TV">
+    <title lang="pt">Vencendo Os Vícios</title>
+  </programme>
+  <programme start="20211228030500 +0000" stop="20211228032500 +0000" channel="Record TV">
+    <title lang="pt">Programa Luxemburgo</title>
+  </programme>
+  <programme start="20211228032500 +0000" stop="20211228033500 +0000" channel="Record TV">
+    <title lang="pt">Ponto de Luz - Porto</title>
+  </programme>
+  <programme start="20211228033500 +0000" stop="20211228035500 +0000" channel="Record TV">
+    <title lang="pt">Programa Algarve</title>
+  </programme>
+  <programme start="20211228035500 +0000" stop="20211228042000 +0000" channel="Record TV">
+    <title lang="pt">Programa França</title>
+  </programme>
+  <programme start="20211228042000 +0000" stop="20211228043000 +0000" channel="Record TV">
+    <title lang="pt">Ponto de Luz - Lisboa</title>
+  </programme>
+  <programme start="20211228043000 +0000" stop="20211228045000 +0000" channel="Record TV">
+    <title lang="pt">Programa Coimbra</title>
+  </programme>
+  <programme start="20211228045000 +0000" stop="20211228051000 +0000" channel="Record TV">
+    <title lang="pt">Programa Itália</title>
+  </programme>
+  <programme start="20211228051000 +0000" stop="20211228052000 +0000" channel="Record TV">
+    <title lang="pt">Ponto de Luz - Lisboa</title>
+  </programme>
+  <programme start="20211228052000 +0000" stop="20211228054000 +0000" channel="Record TV">
+    <title lang="pt">Programa Madeira</title>
   </programme>
   <programme start="20211228054000 +0000" stop="20211228060000 +0000" channel="Record TV">
     <title lang="pt">Programa Suíça</title>
@@ -4216,7 +5037,7 @@
     <title lang="pt">Programa Decisão</title>
   </programme>
   <programme start="20211228073000 +0000" stop="20211228080000 +0000" channel="Record TV">
-    <title lang="pt">Nação dos 318</title>
+    <title lang="pt">Não Desista</title>
   </programme>
   <programme start="20211228080000 +0000" stop="20211228083000 +0000" channel="Record TV">
     <title lang="pt">Hora do Milagre</title>
@@ -4272,14 +5093,14 @@
   <programme start="20211229011500 +0000" stop="20211229014500 +0000" channel="Record TV">
     <title lang="pt">Saindo da Depressão</title>
   </programme>
-  <programme start="20211229014500 +0000" stop="20211229015500 +0000" channel="Record TV">
-    <title lang="pt">Saúde Restaurada</title>
-  </programme>
-  <programme start="20211229015500 +0000" stop="20211229022500 +0000" channel="Record TV">
+  <programme start="20211229014500 +0000" stop="20211229021500 +0000" channel="Record TV">
     <title lang="pt">Nação dos 318</title>
   </programme>
-  <programme start="20211229022500 +0000" stop="20211229024500 +0000" channel="Record TV">
+  <programme start="20211229021500 +0000" stop="20211229023500 +0000" channel="Record TV">
     <title lang="pt">Terapia do Amor</title>
+  </programme>
+  <programme start="20211229023500 +0000" stop="20211229024500 +0000" channel="Record TV">
+    <title lang="pt">Ponto de Luz - Lisboa</title>
   </programme>
   <programme start="20211229024500 +0000" stop="20211229030500 +0000" channel="Record TV">
     <title lang="pt">Vencendo Os Vícios</title>
@@ -4575,11 +5396,8 @@
   <programme start="20211231150000 +0000" stop="20211231153000 +0000" channel="Record TV">
     <title lang="pt">Os Milagres de Jesus</title>
   </programme>
-  <programme start="20211231153000 +0000" stop="20211231161500 +0000" channel="Record TV">
-    <title lang="pt">A Hora da Venenosa</title>
-  </programme>
-  <programme start="20211231161500 +0000" stop="20211231171500 +0000" channel="Record TV">
-    <title lang="pt">Prova de Amor</title>
+  <programme start="20211231153000 +0000" stop="20211231171500 +0000" channel="Record TV">
+    <title lang="pt">Paredão dos Famosos Especial</title>
   </programme>
   <programme start="20211231171500 +0000" stop="20211231181500 +0000" channel="Record TV">
     <title lang="pt">Que Pobres Tão Ricos</title>
@@ -4590,11 +5408,14 @@
   <programme start="20211231191500 +0000" stop="20211231200000 +0000" channel="Record TV">
     <title lang="pt">Fala Portugal</title>
   </programme>
-  <programme start="20211231200000 +0000" stop="20211231211500 +0000" channel="Record TV">
+  <programme start="20211231200000 +0000" stop="20211231210000 +0000" channel="Record TV">
     <title lang="pt">A Bíblia</title>
   </programme>
-  <programme start="20211231211500 +0000" stop="20220101000000 +0000" channel="Record TV">
-    <title lang="pt">Cidade Alerta SP</title>
+  <programme start="20211231210000 +0000" stop="20211231223000 +0000" channel="Record TV">
+    <title lang="pt">Gênesis In Concert</title>
+  </programme>
+  <programme start="20211231223000 +0000" stop="20220101000000 +0000" channel="Record TV">
+    <title lang="pt">Especial Raça Negra e Leonardo</title>
   </programme>
   <programme start="20220101000000 +0000" stop="20220101005000 +0000" channel="Record TV">
     <title lang="pt">Palavra Amiga - Bispo Macedo</title>
@@ -4603,7 +5424,7 @@
     <title lang="pt">Nosso Tempo</title>
   </programme>
   <programme start="20220101011500 +0000" stop="20220101014500 +0000" channel="Record TV">
-    <title lang="pt">Saindo da Depressão</title>
+    <title lang="pt">Hora do Milagre</title>
   </programme>
   <programme start="20220101014500 +0000" stop="20220101021500 +0000" channel="Record TV">
     <title lang="pt">Nação dos 318</title>
@@ -4626,749 +5447,638 @@
   <programme start="20220101033500 +0000" stop="20220101035500 +0000" channel="Record TV">
     <title lang="pt">Programa Algarve</title>
   </programme>
-  <programme start="20220101035500 +0000" stop="20220101042000 +0000" channel="Record TV">
+  <programme start="20220101035500 +0000" stop="20220101041500 +0000" channel="Record TV">
     <title lang="pt">Programa França</title>
   </programme>
-  <programme start="20220101042000 +0000" stop="20220101043000 +0000" channel="Record TV">
+  <programme start="20220101041500 +0000" stop="20220101042500 +0000" channel="Record TV">
     <title lang="pt">Ponto de Luz - Lisboa</title>
   </programme>
-  <programme start="20220101043000 +0000" stop="20220101045000 +0000" channel="Record TV">
-    <title lang="pt">Programa Coimbra</title>
-  </programme>
-  <programme start="20220101045000 +0000" stop="20220101051000 +0000" channel="Record TV">
+  <programme start="20220101042500 +0000" stop="20220101044500 +0000" channel="Record TV">
     <title lang="pt">Programa Itália</title>
   </programme>
-  <programme start="20220101051000 +0000" stop="20220101052000 +0000" channel="Record TV">
-    <title lang="pt">Ponto de Luz - Lisboa</title>
-  </programme>
-  <programme start="20220101052000 +0000" stop="20220101054000 +0000" channel="Record TV">
+  <programme start="20220101044500 +0000" stop="20220101050500 +0000" channel="Record TV">
     <title lang="pt">Programa Madeira</title>
   </programme>
-  <programme start="20220101054000 +0000" stop="20220101060000 +0000" channel="Record TV">
+  <programme start="20220101050500 +0000" stop="20220101052500 +0000" channel="Record TV">
     <title lang="pt">Programa Suíça</title>
   </programme>
-  <programme start="20220101060000 +0000" stop="20220101061500 +0000" channel="Record TV">
+  <programme start="20220101052500 +0000" stop="20220101054500 +0000" channel="Record TV">
+    <title lang="pt">Programa Coimbra</title>
+  </programme>
+  <programme start="20220101054500 +0000" stop="20220101060000 +0000" channel="Record TV">
     <title lang="pt">Palavra Amiga - Bispo Macedo</title>
   </programme>
-  <programme start="20220101061500 +0000" stop="20220101064000 +0000" channel="Record TV">
-    <title lang="pt">Programa França</title>
-  </programme>
-  <programme start="20220101064000 +0000" stop="20220101070000 +0000" channel="Record TV">
-    <title lang="pt">Programa Inglaterra</title>
-  </programme>
-  <programme start="20220101070000 +0000" stop="20220101073000 +0000" channel="Record TV">
+  <programme start="20220101060000 +0000" stop="20220101063000 +0000" channel="Record TV">
     <title lang="pt">Programa Decisão</title>
   </programme>
-  <programme start="20220101073000 +0000" stop="20220101080000 +0000" channel="Record TV">
+  <programme start="20220101063000 +0000" stop="20220101070000 +0000" channel="Record TV">
     <title lang="pt">Não Desista</title>
   </programme>
-  <programme start="20220101080000 +0000" stop="20220101083000 +0000" channel="Record TV">
+  <programme start="20220101070000 +0000" stop="20220101073000 +0000" channel="Record TV">
     <title lang="pt">Hora do Milagre</title>
   </programme>
-  <programme start="20220101083000 +0000" stop="20220101090000 +0000" channel="Record TV">
+  <programme start="20220101073000 +0000" stop="20220101080000 +0000" channel="Record TV">
     <title lang="pt">Problemas e Soluções</title>
   </programme>
-  <programme start="20220101090000 +0000" stop="20220101100000 +0000" channel="Record TV">
-    <title lang="pt">Hoje em Dia</title>
+  <programme start="20220101080000 +0000" stop="20220101110000 +0000" channel="Record TV">
+    <title lang="pt">Record Kids</title>
   </programme>
-  <programme start="20220101100000 +0000" stop="20220101120000 +0000" channel="Record TV">
-    <title lang="pt">Balanço Geral SP</title>
+  <programme start="20220101110000 +0000" stop="20220101113000 +0000" channel="Record TV">
+    <title lang="pt">Bichos Curiosos</title>
   </programme>
-  <programme start="20220101120000 +0000" stop="20220101133000 +0000" channel="Record TV">
-    <title lang="pt">Fala Brasil</title>
+  <programme start="20220101113000 +0000" stop="20220101123000 +0000" channel="Record TV">
+    <title lang="pt">The Love School</title>
   </programme>
-  <programme start="20220101133000 +0000" stop="20220101140000 +0000" channel="Record TV">
-    <title lang="pt">Portugal no Ar</title>
+  <programme start="20220101123000 +0000" stop="20220101160000 +0000" channel="Record TV">
+    <title lang="pt">Fala Brasil - Edição de Sábado</title>
   </programme>
-  <programme start="20220101140000 +0000" stop="20220101150000 +0000" channel="Record TV">
+  <programme start="20220101160000 +0000" stop="20220101173000 +0000" channel="Record TV">
+    <title lang="pt">Vai Dar Namoro &amp; Dança Gatinho</title>
+  </programme>
+  <programme start="20220101173000 +0000" stop="20220101193000 +0000" channel="Record TV">
+    <title lang="pt">Balanço Geral - Edição de Sábado</title>
+  </programme>
+  <programme start="20220101193000 +0000" stop="20220101200000 +0000" channel="Record TV">
+    <title lang="pt">50 Por 1</title>
+  </programme>
+  <programme start="20220101200000 +0000" stop="20220101221500 +0000" channel="Record TV">
     <title lang="pt">A Bíblia</title>
   </programme>
-  <programme start="20220101150000 +0000" stop="20220101153000 +0000" channel="Record TV">
-    <title lang="pt">Os Milagres de Jesus</title>
+  <programme start="20220101221500 +0000" stop="20220102000000 +0000" channel="Record TV">
+    <title lang="pt">Cidade Alerta - Grandes Casos</title>
   </programme>
-  <programme start="20220101153000 +0000" stop="20220101171500 +0000" channel="Record TV">
-    <title lang="pt">Paredão dos Famosos Especial</title>
+  <programme start="20211226003000 +0000" stop="20211226012000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">UEFA Euro 2020 - Resumo Oficial</title>
   </programme>
-  <programme start="20220101171500 +0000" stop="20220101181500 +0000" channel="Record TV">
-    <title lang="pt">Que Pobres Tão Ricos</title>
+  <programme start="20211226012000 +0000" stop="20211226015000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League World</title>
   </programme>
-  <programme start="20220101181500 +0000" stop="20220101191500 +0000" channel="Record TV">
-    <title lang="pt">As Aventuras de Poliana</title>
+  <programme start="20211226015000 +0000" stop="20211226022000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Magazine Premier League - Antevisão da Jornada</title>
   </programme>
-  <programme start="20220101191500 +0000" stop="20220101200000 +0000" channel="Record TV">
-    <title lang="pt">Fala Portugal</title>
+  <programme start="20211226022000 +0000" stop="20211226025000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Serie A: Full Impact</title>
   </programme>
-  <programme start="20220101200000 +0000" stop="20220101210000 +0000" channel="Record TV">
-    <title lang="pt">A Bíblia</title>
+  <programme start="20211226025000 +0000" stop="20211226034000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Documentário - Fabio Quartararo: Encontro Com o Destino</title>
   </programme>
-  <programme start="20220101210000 +0000" stop="20220101223000 +0000" channel="Record TV">
-    <title lang="pt">Gênesis In Concert</title>
-  </programme>
-  <programme start="20220101223000 +0000" stop="20220102000000 +0000" channel="Record TV">
-    <title lang="pt">Especial Raça Negra e Leonardo</title>
-  </programme>
-  <programme start="20211226005000 +0000" stop="20211226015000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211226034000 +0000" stop="20211226044000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">WRC - Resumo do Ano 2021</title>
   </programme>
-  <programme start="20211226015000 +0000" stop="20211226025000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Mundial Superbike - Resumo do Ano 2021</title>
+  <programme start="20211226044000 +0000" stop="20211226053000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Sports Unlimited Magazine</title>
   </programme>
-  <programme start="20211226025000 +0000" stop="20211226032000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211226053000 +0000" stop="20211226060000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">World of Freesports</title>
+  </programme>
+  <programme start="20211226060000 +0000" stop="20211226063000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">NBA Action</title>
   </programme>
-  <programme start="20211226032000 +0000" stop="20211226035000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Especial Boxing Day</title>
+  <programme start="20211226063000 +0000" stop="20211226072000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">NXT</title>
   </programme>
-  <programme start="20211226035000 +0000" stop="20211226042000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Eredivisie - Resumo da 18ª Jornada</title>
-  </programme>
-  <programme start="20211226042000 +0000" stop="20211226045000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Taça de Portugal 2021-22 - Resumo dos Oitavos-de-Final</title>
-  </programme>
-  <programme start="20211226045000 +0000" stop="20211226052000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Taça da Liga Inglesa - Resumo Quartos-de-Final</title>
-  </programme>
-  <programme start="20211226052000 +0000" stop="20211226055000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Italiana 2021-22 - Resumos da 19ª Jornada</title>
-  </programme>
-  <programme start="20211226055000 +0000" stop="20211226060000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Eredivisie - Golos da 18ª Jornada</title>
-  </programme>
-  <programme start="20211226060000 +0000" stop="20211226065000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Watersports World</title>
-  </programme>
-  <programme start="20211226065000 +0000" stop="20211226070000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Italiana 2021-22 - Golos da 19ª Jornada</title>
-  </programme>
-  <programme start="20211226070000 +0000" stop="20211226073000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Vela - Sail GP - Racing On The Edge</title>
-  </programme>
-  <programme start="20211226073000 +0000" stop="20211226080000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Powerboat - F1H2O - GP Portugal</title>
-  </programme>
-  <programme start="20211226080000 +0000" stop="20211226090000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">WRC - Resumo do Ano 2021</title>
-  </programme>
-  <programme start="20211226090000 +0000" stop="20211226100000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211226072000 +0000" stop="20211226081500 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Mundial Superbike - Resumo do Ano 2021</title>
   </programme>
-  <programme start="20211226100000 +0000" stop="20211226102000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211226081500 +0000" stop="20211226084000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Motorcycle Sports - Magazine</title>
   </programme>
-  <programme start="20211226102000 +0000" stop="20211226104000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Sport Beleza - Oceano Cruz</title>
+  <programme start="20211226084000 +0000" stop="20211226093000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Documentário - Fabio Quartararo: Encontro Com o Destino</title>
   </programme>
-  <programme start="20211226104000 +0000" stop="20211226113000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">WWE Raw</title>
+  <programme start="20211226093000 +0000" stop="20211226103000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">WRC - Resumo do Ano 2021</title>
+  </programme>
+  <programme start="20211226103000 +0000" stop="20211226110000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Auto Gear Magazine</title>
+  </programme>
+  <programme start="20211226110000 +0000" stop="20211226113000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Síntese</title>
   </programme>
   <programme start="20211226113000 +0000" stop="20211226120000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Taça da Liga Inglesa - Resumo Quartos-de-Final</title>
+    <title lang="pt">Premier League - Especial Boxing Day</title>
   </programme>
   <programme start="20211226120000 +0000" stop="20211226123000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Eredivisie - Resumo da 18ª Jornada</title>
+    <title lang="pt">Taça da Liga Inglesa - Resumo Quartos-de-Final</title>
   </programme>
-  <programme start="20211226123000 +0000" stop="20211226130000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211226123000 +0000" stop="20211226125500 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Notícias (Direto)</title>
   </programme>
-  <programme start="20211226130000 +0000" stop="20211226133000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Ajudar Quem Precisa</title>
+  <programme start="20211226125500 +0000" stop="20211226133000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Bar Sport TV - Nelson Pereira e Paulo Sérgio - 2ª Parte</title>
   </programme>
   <programme start="20211226133000 +0000" stop="20211226140000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Notícias (Direto)</title>
   </programme>
   <programme start="20211226140000 +0000" stop="20211226143000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Bar Sport TV - Nelson Pereira e Paulo Sérgio - 2ª Parte</title>
-  </programme>
-  <programme start="20211226143000 +0000" stop="20211226145500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Especial Boxing Day</title>
-  </programme>
-  <programme start="20211226145500 +0000" stop="20211226152500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Serie A: Full Impact</title>
-  </programme>
-  <programme start="20211226152500 +0000" stop="20211226155500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Taça da Liga Inglesa - Resumo Quartos-de-Final</title>
-  </programme>
-  <programme start="20211226155500 +0000" stop="20211226162500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Notícias (Direto)</title>
-  </programme>
-  <programme start="20211226162500 +0000" stop="20211226165500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Taça de Portugal 2021-22 - Resumo dos Oitavos-de-Final</title>
-  </programme>
-  <programme start="20211226165500 +0000" stop="20211226182500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Aposta Tripla</title>
-  </programme>
-  <programme start="20211226182500 +0000" stop="20211226185500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Magazine Premier League - Antevisão da Jornada</title>
-  </programme>
-  <programme start="20211226185500 +0000" stop="20211226193000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Notícias (Direto)</title>
-  </programme>
-  <programme start="20211226193000 +0000" stop="20211226200000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Ajudar Quem Precisa</title>
   </programme>
-  <programme start="20211226200000 +0000" stop="20211226203000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Especial Boxing Day</title>
-  </programme>
-  <programme start="20211226203000 +0000" stop="20211226213000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Campeonato Argentino - River Campeão</title>
-  </programme>
-  <programme start="20211226213000 +0000" stop="20211226220500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Notícias (Direto)</title>
-  </programme>
-  <programme start="20211226220500 +0000" stop="20211226225500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Documentário - Fabio Quartararo: Encontro Com o Destino</title>
-  </programme>
-  <programme start="20211226225500 +0000" stop="20211226232500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Magazine Premier League - Antevisão da Jornada</title>
-  </programme>
-  <programme start="20211226232500 +0000" stop="20211226235500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Especial Boxing Day</title>
-  </programme>
-  <programme start="20211226235500 +0000" stop="20211227003000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Últimas Notícias (Direto)</title>
-  </programme>
-  <programme start="20211227003000 +0000" stop="20211227012000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">UEFA Euro 2020 - Resumo Oficial</title>
-  </programme>
-  <programme start="20211227012000 +0000" stop="20211227015000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League World</title>
-  </programme>
-  <programme start="20211227015000 +0000" stop="20211227022000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Magazine Premier League - Antevisão da Jornada</title>
-  </programme>
-  <programme start="20211227022000 +0000" stop="20211227025000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Serie A: Full Impact</title>
-  </programme>
-  <programme start="20211227025000 +0000" stop="20211227034000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Documentário - Fabio Quartararo: Encontro Com o Destino</title>
-  </programme>
-  <programme start="20211227034000 +0000" stop="20211227044000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">WRC - Resumo do Ano 2021</title>
-  </programme>
-  <programme start="20211227044000 +0000" stop="20211227053000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Sports Unlimited Magazine</title>
-  </programme>
-  <programme start="20211227053000 +0000" stop="20211227060000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">World of Freesports</title>
-  </programme>
-  <programme start="20211227060000 +0000" stop="20211227063000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">NBA Action</title>
-  </programme>
-  <programme start="20211227063000 +0000" stop="20211227072000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">NXT</title>
-  </programme>
-  <programme start="20211227072000 +0000" stop="20211227081500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Mundial Superbike - Resumo do Ano 2021</title>
-  </programme>
-  <programme start="20211227081500 +0000" stop="20211227084000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Motorcycle Sports - Magazine</title>
-  </programme>
-  <programme start="20211227084000 +0000" stop="20211227093000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Documentário - Fabio Quartararo: Encontro Com o Destino</title>
-  </programme>
-  <programme start="20211227093000 +0000" stop="20211227103000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">WRC - Resumo do Ano 2021</title>
-  </programme>
-  <programme start="20211227103000 +0000" stop="20211227110000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Auto Gear Magazine</title>
-  </programme>
-  <programme start="20211227110000 +0000" stop="20211227113000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Síntese</title>
-  </programme>
-  <programme start="20211227113000 +0000" stop="20211227120000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Especial Boxing Day</title>
-  </programme>
-  <programme start="20211227120000 +0000" stop="20211227123000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Taça da Liga Inglesa - Resumo Quartos-de-Final</title>
-  </programme>
-  <programme start="20211227123000 +0000" stop="20211227125500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Notícias (Direto)</title>
-  </programme>
-  <programme start="20211227125500 +0000" stop="20211227133000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Bar Sport TV - Nelson Pereira e Paulo Sérgio - 2ª Parte</title>
-  </programme>
-  <programme start="20211227133000 +0000" stop="20211227140000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Notícias (Direto)</title>
-  </programme>
-  <programme start="20211227140000 +0000" stop="20211227143000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Ajudar Quem Precisa</title>
-  </programme>
-  <programme start="20211227143000 +0000" stop="20211227150000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211226143000 +0000" stop="20211226150000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Premier League - Antevisão Man. City x Leicester City (Direto)</title>
   </programme>
-  <programme start="20211227150000 +0000" stop="20211227153000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211226150000 +0000" stop="20211226153000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Taça de Portugal 2021-22 - Resumo dos Oitavos-de-Final</title>
   </programme>
-  <programme start="20211227153000 +0000" stop="20211227170000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211226153000 +0000" stop="20211226170000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Grande Jornada (Direto)</title>
   </programme>
-  <programme start="20211227170000 +0000" stop="20211227173000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211226170000 +0000" stop="20211226173000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Premier League - Antevisão Aston Villa x Chelsea (Direto)</title>
   </programme>
-  <programme start="20211227173000 +0000" stop="20211227180000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211226173000 +0000" stop="20211226180000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Premier League - Man. City x Leicester City</title>
   </programme>
-  <programme start="20211227180000 +0000" stop="20211227200000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211226180000 +0000" stop="20211226200000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Grande Jornada (Direto)</title>
   </programme>
-  <programme start="20211227200000 +0000" stop="20211227203000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211226200000 +0000" stop="20211226203000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Premier League - Aston Villa x Chelsea</title>
   </programme>
-  <programme start="20211227203000 +0000" stop="20211227210000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211226203000 +0000" stop="20211226210000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Premier League - Norwich City x Arsenal</title>
   </programme>
-  <programme start="20211227210000 +0000" stop="20211227213000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211226210000 +0000" stop="20211226213000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Premier League - Man. City x Leicester City</title>
   </programme>
-  <programme start="20211227213000 +0000" stop="20211227215500 +0000" channel="SPORT TV+ HD">
+  <programme start="20211226213000 +0000" stop="20211226215500 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Notícias (Direto)</title>
   </programme>
-  <programme start="20211227215500 +0000" stop="20211227222500 +0000" channel="SPORT TV+ HD">
+  <programme start="20211226215500 +0000" stop="20211226222500 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Liga de Futsal - Leões Porto Salvo x Benfica</title>
   </programme>
-  <programme start="20211227222500 +0000" stop="20211227225500 +0000" channel="SPORT TV+ HD">
+  <programme start="20211226222500 +0000" stop="20211226225500 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Premier League - Aston Villa x Chelsea</title>
   </programme>
-  <programme start="20211227225500 +0000" stop="20211227232500 +0000" channel="SPORT TV+ HD">
+  <programme start="20211226225500 +0000" stop="20211226232500 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Premier League - Norwich City x Arsenal</title>
   </programme>
-  <programme start="20211227232500 +0000" stop="20211227235500 +0000" channel="SPORT TV+ HD">
+  <programme start="20211226232500 +0000" stop="20211226235500 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Ajudar Quem Precisa</title>
+  </programme>
+  <programme start="20211226235500 +0000" stop="20211227010000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Últimas Notícias (Direto)</title>
+  </programme>
+  <programme start="20211227010000 +0000" stop="20211227030000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Man. City x Leicester City</title>
+  </programme>
+  <programme start="20211227030000 +0000" stop="20211227033000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Aston Villa x Chelsea</title>
+  </programme>
+  <programme start="20211227033000 +0000" stop="20211227040000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Norwich City x Arsenal</title>
+  </programme>
+  <programme start="20211227040000 +0000" stop="20211227043000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga de Futsal - Leões Porto Salvo x Benfica</title>
+  </programme>
+  <programme start="20211227043000 +0000" stop="20211227050000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Resumo da 19ª Jornada</title>
+  </programme>
+  <programme start="20211227050000 +0000" stop="20211227053000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League World</title>
+  </programme>
+  <programme start="20211227053000 +0000" stop="20211227060000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Auto Gear Magazine</title>
+  </programme>
+  <programme start="20211227060000 +0000" stop="20211227065000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">NXT</title>
+  </programme>
+  <programme start="20211227065000 +0000" stop="20211227085500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Man. City x Leicester City</title>
+  </programme>
+  <programme start="20211227085500 +0000" stop="20211227105500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Manhã Informativa (Direto)</title>
+  </programme>
+  <programme start="20211227105500 +0000" stop="20211227112500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Aston Villa x Chelsea</title>
+  </programme>
+  <programme start="20211227112500 +0000" stop="20211227115500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Man. City x Leicester City</title>
+  </programme>
+  <programme start="20211227115500 +0000" stop="20211227125500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Grande Jornal (Direto)</title>
+  </programme>
+  <programme start="20211227125500 +0000" stop="20211227132500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Norwich City x Arsenal</title>
+  </programme>
+  <programme start="20211227132500 +0000" stop="20211227135500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Aston Villa x Chelsea</title>
+  </programme>
+  <programme start="20211227135500 +0000" stop="20211227142000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Notícias (Direto)</title>
+  </programme>
+  <programme start="20211227142000 +0000" stop="20211227145000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga de Futsal - Leões Porto Salvo x Benfica</title>
+  </programme>
+  <programme start="20211227145500 +0000" stop="20211227152500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Ajudar Quem Precisa</title>
+  </programme>
+  <programme start="20211227152500 +0000" stop="20211227155500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Bar Sport TV - Nelson Pereira e Paulo Sérgio - 2ª Parte</title>
+  </programme>
+  <programme start="20211227155500 +0000" stop="20211227162500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Central + (Direto)</title>
+  </programme>
+  <programme start="20211227162500 +0000" stop="20211227165500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Resumo da 19ª Jornada</title>
+  </programme>
+  <programme start="20211227170000 +0000" stop="20211227175000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Fan Zone (Direto)</title>
+  </programme>
+  <programme start="20211227175000 +0000" stop="20211227182000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga Portugal - Magazine</title>
+  </programme>
+  <programme start="20211227182500 +0000" stop="20211227185500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Resumo da 19ª Jornada</title>
+  </programme>
+  <programme start="20211227185500 +0000" stop="20211227192500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Central + (Direto)</title>
+  </programme>
+  <programme start="20211227192500 +0000" stop="20211227200500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Notícias (Direto)</title>
+  </programme>
+  <programme start="20211227200500 +0000" stop="20211227201500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Futebolar - Sporting x Portimonense</title>
+  </programme>
+  <programme start="20211227201500 +0000" stop="20211227222000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga Portugal 2 - Estrela da Amadora x Desp. Chaves (Direto)</title>
+  </programme>
+  <programme start="20211227222000 +0000" stop="20211227235500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Titulares (Direto)</title>
   </programme>
   <programme start="20211227235500 +0000" stop="20211228010000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Últimas Notícias (Direto)</title>
   </programme>
-  <programme start="20211228010000 +0000" stop="20211228030000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Man. City x Leicester City</title>
+  <programme start="20211228010000 +0000" stop="20211228013000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Newcastle x Man. United</title>
   </programme>
-  <programme start="20211228030000 +0000" stop="20211228033000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Aston Villa x Chelsea</title>
+  <programme start="20211228013000 +0000" stop="20211228020000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga Portugal - Magazine</title>
+  </programme>
+  <programme start="20211228020500 +0000" stop="20211228033000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Titulares</title>
   </programme>
   <programme start="20211228033000 +0000" stop="20211228040000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Norwich City x Arsenal</title>
-  </programme>
-  <programme start="20211228040000 +0000" stop="20211228043000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga de Futsal - Leões Porto Salvo x Benfica</title>
-  </programme>
-  <programme start="20211228043000 +0000" stop="20211228050000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Premier League - Resumo da 19ª Jornada</title>
   </programme>
+  <programme start="20211228040000 +0000" stop="20211228050000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Campeonato Argentino - Resumo da Época</title>
+  </programme>
   <programme start="20211228050000 +0000" stop="20211228053000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League World</title>
+    <title lang="pt">The Outdoor Sports Show</title>
   </programme>
   <programme start="20211228053000 +0000" stop="20211228060000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Auto Gear Magazine</title>
+    <title lang="pt">World of Freesports</title>
   </programme>
-  <programme start="20211228060000 +0000" stop="20211228065000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">NXT</title>
+  <programme start="20211228060000 +0000" stop="20211228063000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Golf &amp; Golfistas</title>
   </programme>
-  <programme start="20211228065000 +0000" stop="20211228085500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Man. City x Leicester City</title>
+  <programme start="20211228063000 +0000" stop="20211228070000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga Portugal - Magazine</title>
+  </programme>
+  <programme start="20211228070000 +0000" stop="20211228085000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Newcastle x Man. United</title>
   </programme>
   <programme start="20211228085500 +0000" stop="20211228105500 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Manhã Informativa (Direto)</title>
   </programme>
-  <programme start="20211228105500 +0000" stop="20211228112500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Aston Villa x Chelsea</title>
+  <programme start="20211228105500 +0000" stop="20211228112000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Newcastle x Man. United</title>
   </programme>
-  <programme start="20211228112500 +0000" stop="20211228115500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Man. City x Leicester City</title>
+  <programme start="20211228112000 +0000" stop="20211228115000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Resumo da 19ª Jornada</title>
   </programme>
-  <programme start="20211228115500 +0000" stop="20211228125500 +0000" channel="SPORT TV+ HD">
+  <programme start="20211228115500 +0000" stop="20211228130000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Grande Jornal (Direto)</title>
   </programme>
-  <programme start="20211228125500 +0000" stop="20211228132500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Norwich City x Arsenal</title>
+  <programme start="20211228130000 +0000" stop="20211228135500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">WWE SmackDown</title>
   </programme>
-  <programme start="20211228132500 +0000" stop="20211228135500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Aston Villa x Chelsea</title>
-  </programme>
-  <programme start="20211228135500 +0000" stop="20211228142000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211228135500 +0000" stop="20211228143000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Notícias (Direto)</title>
   </programme>
-  <programme start="20211228142000 +0000" stop="20211228145000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga de Futsal - Leões Porto Salvo x Benfica</title>
+  <programme start="20211228143000 +0000" stop="20211228145500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Arsenal x Wolverhampton</title>
   </programme>
-  <programme start="20211228145500 +0000" stop="20211228152500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Ajudar Quem Precisa</title>
+  <programme start="20211228145500 +0000" stop="20211228155000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Campeonato Argentino - Resumo da Época</title>
   </programme>
-  <programme start="20211228152500 +0000" stop="20211228155500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Bar Sport TV - Nelson Pereira e Paulo Sérgio - 2ª Parte</title>
-  </programme>
-  <programme start="20211228155500 +0000" stop="20211228162500 +0000" channel="SPORT TV+ HD">
+  <programme start="20211228155500 +0000" stop="20211228162000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Central + (Direto)</title>
   </programme>
-  <programme start="20211228162500 +0000" stop="20211228165500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Resumo da 19ª Jornada</title>
-  </programme>
-  <programme start="20211228170000 +0000" stop="20211228175000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Fan Zone (Direto)</title>
-  </programme>
-  <programme start="20211228175000 +0000" stop="20211228182000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211228162000 +0000" stop="20211228165500 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Liga Portugal - Magazine</title>
   </programme>
-  <programme start="20211228182500 +0000" stop="20211228185500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Resumo da 19ª Jornada</title>
+  <programme start="20211228170000 +0000" stop="20211228180000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Fan Zone (Direto)</title>
   </programme>
-  <programme start="20211228185500 +0000" stop="20211228192500 +0000" channel="SPORT TV+ HD">
+  <programme start="20211228180000 +0000" stop="20211228201000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga Portugal 2 - Feirense x Benfica B (Direto)</title>
+  </programme>
+  <programme start="20211228201000 +0000" stop="20211228204000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">eLiga Portugal</title>
+  </programme>
+  <programme start="20211228204500 +0000" stop="20211228211500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Arsenal x Wolverhampton</title>
+  </programme>
+  <programme start="20211228211500 +0000" stop="20211228222500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Noite Informativa (Direto)</title>
+  </programme>
+  <programme start="20211228222500 +0000" stop="20211228225500 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Central + (Direto)</title>
   </programme>
-  <programme start="20211228192500 +0000" stop="20211228200500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Notícias (Direto)</title>
+  <programme start="20211228225500 +0000" stop="20211228232500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Leicester City x Liverpool</title>
   </programme>
-  <programme start="20211228200500 +0000" stop="20211228201500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Futebolar - Sporting x Portimonense</title>
-  </programme>
-  <programme start="20211228201500 +0000" stop="20211228222000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal 2 - Estrela da Amadora x Desp. Chaves (Direto)</title>
-  </programme>
-  <programme start="20211228222000 +0000" stop="20211228235500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Titulares (Direto)</title>
+  <programme start="20211228232500 +0000" stop="20211228235500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Arsenal x Wolverhampton</title>
   </programme>
   <programme start="20211228235500 +0000" stop="20211229010000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Últimas Notícias (Direto)</title>
   </programme>
-  <programme start="20211229010000 +0000" stop="20211229013000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Newcastle x Man. United</title>
+  <programme start="20211229010000 +0000" stop="20211229025500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Leicester City x Liverpool</title>
   </programme>
-  <programme start="20211229013000 +0000" stop="20211229020000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - Magazine</title>
-  </programme>
-  <programme start="20211229020500 +0000" stop="20211229033000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Titulares</title>
+  <programme start="20211229030000 +0000" stop="20211229033000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Arsenal x Wolverhampton</title>
   </programme>
   <programme start="20211229033000 +0000" stop="20211229040000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Resumo da 19ª Jornada</title>
+    <title lang="pt">Motorcycle Sports - Magazine</title>
   </programme>
-  <programme start="20211229040000 +0000" stop="20211229050000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Campeonato Argentino - Resumo da Época</title>
+  <programme start="20211229040000 +0000" stop="20211229045000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Documentário - Fabio Quartararo: Encontro Com o Destino</title>
   </programme>
-  <programme start="20211229050000 +0000" stop="20211229053000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">The Outdoor Sports Show</title>
+  <programme start="20211229045000 +0000" stop="20211229052000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">ONE Championship Weekly</title>
   </programme>
-  <programme start="20211229053000 +0000" stop="20211229060000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">World of Freesports</title>
+  <programme start="20211229052000 +0000" stop="20211229055000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">XTERRA Magazine</title>
   </programme>
-  <programme start="20211229060000 +0000" stop="20211229063000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Golf &amp; Golfistas</title>
+  <programme start="20211229055000 +0000" stop="20211229060000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20211229063000 +0000" stop="20211229070000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - Magazine</title>
+  <programme start="20211229060000 +0000" stop="20211229065500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">WWE SmackDown</title>
   </programme>
-  <programme start="20211229070000 +0000" stop="20211229085000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Newcastle x Man. United</title>
+  <programme start="20211229065500 +0000" stop="20211229085000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Arsenal x Wolverhampton</title>
   </programme>
-  <programme start="20211229085500 +0000" stop="20211229105500 +0000" channel="SPORT TV+ HD">
+  <programme start="20211229085500 +0000" stop="20211229110000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Manhã Informativa (Direto)</title>
   </programme>
-  <programme start="20211229105500 +0000" stop="20211229112000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Newcastle x Man. United</title>
+  <programme start="20211229110000 +0000" stop="20211229113000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Leicester City x Liverpool</title>
   </programme>
-  <programme start="20211229112000 +0000" stop="20211229115000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Resumo da 19ª Jornada</title>
+  <programme start="20211229113000 +0000" stop="20211229115500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Arsenal x Wolverhampton</title>
   </programme>
   <programme start="20211229115500 +0000" stop="20211229130000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Grande Jornal (Direto)</title>
   </programme>
-  <programme start="20211229130000 +0000" stop="20211229135500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">WWE SmackDown</title>
+  <programme start="20211229130000 +0000" stop="20211229132500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">eLiga Portugal</title>
+  </programme>
+  <programme start="20211229133000 +0000" stop="20211229135500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga NOS - FC Porto x Benfica - Época 2018-19</title>
   </programme>
   <programme start="20211229135500 +0000" stop="20211229143000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Notícias (Direto)</title>
   </programme>
-  <programme start="20211229143000 +0000" stop="20211229145500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Arsenal x Wolverhampton</title>
+  <programme start="20211229143000 +0000" stop="20211229150000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga NOS - FC Porto x Benfica - Época 2019-20</title>
   </programme>
-  <programme start="20211229145500 +0000" stop="20211229155000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Campeonato Argentino - Resumo da Época</title>
+  <programme start="20211229150000 +0000" stop="20211229152500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga NOS - FC Porto x Benfica - Época 2020-21</title>
   </programme>
-  <programme start="20211229155500 +0000" stop="20211229162000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211229152500 +0000" stop="20211229155500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Leicester City x Liverpool</title>
+  </programme>
+  <programme start="20211229155500 +0000" stop="20211229163000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Central + (Direto)</title>
   </programme>
-  <programme start="20211229162000 +0000" stop="20211229165500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - Magazine</title>
+  <programme start="20211229163000 +0000" stop="20211229165500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Arsenal x Wolverhampton</title>
   </programme>
   <programme start="20211229170000 +0000" stop="20211229180000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Fan Zone (Direto)</title>
   </programme>
-  <programme start="20211229180000 +0000" stop="20211229201000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal 2 - Feirense x Benfica B (Direto)</title>
+  <programme start="20211229180000 +0000" stop="20211229183000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga NOS - FC Porto x Benfica - Época 2020-21</title>
   </programme>
-  <programme start="20211229201000 +0000" stop="20211229204000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">eLiga Portugal</title>
+  <programme start="20211229183000 +0000" stop="20211229185500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Bar Sport TV - Domingos Castro e Paulo Guerra - 1ª Parte</title>
   </programme>
-  <programme start="20211229204500 +0000" stop="20211229211500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Arsenal x Wolverhampton</title>
-  </programme>
-  <programme start="20211229211500 +0000" stop="20211229222500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Noite Informativa (Direto)</title>
-  </programme>
-  <programme start="20211229222500 +0000" stop="20211229225500 +0000" channel="SPORT TV+ HD">
+  <programme start="20211229185500 +0000" stop="20211229192500 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Central + (Direto)</title>
   </programme>
-  <programme start="20211229225500 +0000" stop="20211229232500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Leicester City x Liverpool</title>
+  <programme start="20211229192500 +0000" stop="20211229195500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Notícias (Direto)</title>
   </programme>
-  <programme start="20211229232500 +0000" stop="20211229235500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Arsenal x Wolverhampton</title>
+  <programme start="20211229200000 +0000" stop="20211229205000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga Portugal - Antevisão Sporting x Portimonense (Direto)</title>
   </programme>
-  <programme start="20211229235500 +0000" stop="20211230010000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211229205000 +0000" stop="20211229233000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Grande Jornada (Direto)</title>
+  </programme>
+  <programme start="20211229233000 +0000" stop="20211230003000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Especial Clássico FC Porto x Benfica (Direto)</title>
+  </programme>
+  <programme start="20211230003000 +0000" stop="20211230010000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Últimas Notícias (Direto)</title>
   </programme>
   <programme start="20211230010000 +0000" stop="20211230025500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Leicester City x Liverpool</title>
+    <title lang="pt">Liga Portugal - Sporting x Portimonense</title>
   </programme>
   <programme start="20211230030000 +0000" stop="20211230033000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Arsenal x Wolverhampton</title>
+    <title lang="pt">Premier League - Brentford x Man. City</title>
   </programme>
-  <programme start="20211230033000 +0000" stop="20211230040000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Motorcycle Sports - Magazine</title>
+  <programme start="20211230033000 +0000" stop="20211230043000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Especial Clássico FC Porto x Benfica</title>
   </programme>
-  <programme start="20211230040000 +0000" stop="20211230045000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Documentário - Fabio Quartararo: Encontro Com o Destino</title>
+  <programme start="20211230043000 +0000" stop="20211230050000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga NOS - FC Porto x Benfica - Época 2018-19</title>
   </programme>
-  <programme start="20211230045000 +0000" stop="20211230052000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">ONE Championship Weekly</title>
+  <programme start="20211230050000 +0000" stop="20211230053000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga NOS - FC Porto x Benfica - Época 2019-20</title>
   </programme>
-  <programme start="20211230052000 +0000" stop="20211230055000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">XTERRA Magazine</title>
+  <programme start="20211230053000 +0000" stop="20211230060000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga NOS - FC Porto x Benfica - Época 2020-21</title>
   </programme>
-  <programme start="20211230055000 +0000" stop="20211230060000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Sem Emissão</title>
+  <programme start="20211230060000 +0000" stop="20211230065000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Campeonato Argentino - Resumo da Época</title>
   </programme>
-  <programme start="20211230060000 +0000" stop="20211230065500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">WWE SmackDown</title>
-  </programme>
-  <programme start="20211230065500 +0000" stop="20211230085000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Arsenal x Wolverhampton</title>
+  <programme start="20211230065000 +0000" stop="20211230085500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga Portugal - Sporting x Portimonense</title>
   </programme>
   <programme start="20211230085500 +0000" stop="20211230110000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Manhã Informativa (Direto)</title>
   </programme>
-  <programme start="20211230110000 +0000" stop="20211230113000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Leicester City x Liverpool</title>
+  <programme start="20211230110000 +0000" stop="20211230112500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga Portugal - Sporting x Portimonense</title>
   </programme>
   <programme start="20211230113000 +0000" stop="20211230115500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Arsenal x Wolverhampton</title>
+    <title lang="pt">Premier League - Brentford x Man. City</title>
   </programme>
   <programme start="20211230115500 +0000" stop="20211230130000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Grande Jornal (Direto)</title>
   </programme>
   <programme start="20211230130000 +0000" stop="20211230132500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">eLiga Portugal</title>
+    <title lang="pt">Bar Sport TV - Domingos Castro e Paulo Guerra - 1ª Parte</title>
   </programme>
-  <programme start="20211230133000 +0000" stop="20211230135500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga NOS - FC Porto x Benfica - Época 2018-19</title>
+  <programme start="20211230132500 +0000" stop="20211230135500 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">ReporTV - Amor À Primeira Onda</title>
   </programme>
-  <programme start="20211230135500 +0000" stop="20211230143000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211230135500 +0000" stop="20211230150000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Notícias (Direto)</title>
   </programme>
-  <programme start="20211230143000 +0000" stop="20211230150000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211230150000 +0000" stop="20211230153000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga NOS - FC Porto x Benfica - Época 2018-19</title>
+  </programme>
+  <programme start="20211230153000 +0000" stop="20211230155500 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Liga NOS - FC Porto x Benfica - Época 2019-20</title>
-  </programme>
-  <programme start="20211230150000 +0000" stop="20211230152500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga NOS - FC Porto x Benfica - Época 2020-21</title>
-  </programme>
-  <programme start="20211230152500 +0000" stop="20211230155500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Leicester City x Liverpool</title>
   </programme>
   <programme start="20211230155500 +0000" stop="20211230163000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Central + (Direto)</title>
   </programme>
   <programme start="20211230163000 +0000" stop="20211230165500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Arsenal x Wolverhampton</title>
+    <title lang="pt">Liga NOS - FC Porto x Benfica - Época 2020-21</title>
   </programme>
   <programme start="20211230170000 +0000" stop="20211230180000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Fan Zone (Direto)</title>
   </programme>
   <programme start="20211230180000 +0000" stop="20211230183000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga NOS - FC Porto x Benfica - Época 2020-21</title>
+    <title lang="pt">Liga Portugal - Sporting x Portimonense</title>
   </programme>
-  <programme start="20211230183000 +0000" stop="20211230185500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Bar Sport TV - Domingos Castro e Paulo Guerra - 1ª Parte</title>
-  </programme>
-  <programme start="20211230185500 +0000" stop="20211230192500 +0000" channel="SPORT TV+ HD">
+  <programme start="20211230183000 +0000" stop="20211230190500 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Central + (Direto)</title>
   </programme>
-  <programme start="20211230192500 +0000" stop="20211230195500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Notícias (Direto)</title>
+  <programme start="20211230191000 +0000" stop="20211230205000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga Portugal - Antevisão FC Porto x Benfica (Direto)</title>
   </programme>
-  <programme start="20211230200000 +0000" stop="20211230205000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - Antevisão Sporting x Portimonense (Direto)</title>
-  </programme>
-  <programme start="20211230205000 +0000" stop="20211230233000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211230205000 +0000" stop="20211230235500 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Grande Jornada (Direto)</title>
   </programme>
-  <programme start="20211230233000 +0000" stop="20211231003000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Especial Clássico FC Porto x Benfica (Direto)</title>
-  </programme>
-  <programme start="20211231003000 +0000" stop="20211231010000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211230235500 +0000" stop="20211231010000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Últimas Notícias (Direto)</title>
   </programme>
-  <programme start="20211231010000 +0000" stop="20211231025500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - Sporting x Portimonense</title>
+  <programme start="20211231010000 +0000" stop="20211231030000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga Portugal - FC Porto x Benfica</title>
   </programme>
   <programme start="20211231030000 +0000" stop="20211231033000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Brentford x Man. City</title>
+    <title lang="pt">Premier League - Man. United x Burnley</title>
   </programme>
-  <programme start="20211231033000 +0000" stop="20211231043000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Especial Clássico FC Porto x Benfica</title>
+  <programme start="20211231033000 +0000" stop="20211231040000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League World</title>
   </programme>
-  <programme start="20211231043000 +0000" stop="20211231050000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga NOS - FC Porto x Benfica - Época 2018-19</title>
+  <programme start="20211231040000 +0000" stop="20211231043000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga Portugal - Resumo da 16ª Jornada</title>
   </programme>
-  <programme start="20211231050000 +0000" stop="20211231053000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga NOS - FC Porto x Benfica - Época 2019-20</title>
+  <programme start="20211231043000 +0000" stop="20211231053000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Campeonato Argentino - River Campeão</title>
   </programme>
   <programme start="20211231053000 +0000" stop="20211231060000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga NOS - FC Porto x Benfica - Época 2020-21</title>
+    <title lang="pt">ONE Championship Weekly</title>
   </programme>
   <programme start="20211231060000 +0000" stop="20211231065000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Campeonato Argentino - Resumo da Época</title>
+    <title lang="pt">WWE Raw</title>
   </programme>
   <programme start="20211231065000 +0000" stop="20211231085500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - Sporting x Portimonense</title>
+    <title lang="pt">Liga Portugal - FC Porto x Benfica</title>
   </programme>
   <programme start="20211231085500 +0000" stop="20211231110000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Manhã Informativa (Direto)</title>
   </programme>
-  <programme start="20211231110000 +0000" stop="20211231112500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - Sporting x Portimonense</title>
+  <programme start="20211231110000 +0000" stop="20211231113000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga Portugal - FC Porto x Benfica</title>
   </programme>
   <programme start="20211231113000 +0000" stop="20211231115500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Brentford x Man. City</title>
+    <title lang="pt">Premier League - Man. United x Burnley</title>
   </programme>
   <programme start="20211231115500 +0000" stop="20211231130000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Grande Jornal (Direto)</title>
   </programme>
-  <programme start="20211231130000 +0000" stop="20211231132500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Bar Sport TV - Domingos Castro e Paulo Guerra - 1ª Parte</title>
+  <programme start="20211231130000 +0000" stop="20211231133000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Liga Portugal - Resumo da 16ª Jornada</title>
   </programme>
-  <programme start="20211231132500 +0000" stop="20211231135500 +0000" channel="SPORT TV+ HD">
+  <programme start="20211231133000 +0000" stop="20211231140000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Resumo da 20ª Jornada</title>
+  </programme>
+  <programme start="20211231140000 +0000" stop="20211231143000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">ReporTV - Amor À Primeira Onda</title>
   </programme>
-  <programme start="20211231135500 +0000" stop="20211231150000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Notícias (Direto)</title>
+  <programme start="20211231143000 +0000" stop="20211231150000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Bar Sport TV - Domingos Castro e Paulo Guerra - 1ª Parte</title>
   </programme>
   <programme start="20211231150000 +0000" stop="20211231153000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga NOS - FC Porto x Benfica - Época 2018-19</title>
+    <title lang="pt">Liga Portugal - FC Porto x Benfica</title>
   </programme>
   <programme start="20211231153000 +0000" stop="20211231155500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga NOS - FC Porto x Benfica - Época 2019-20</title>
+    <title lang="pt">Premier League - Man. United x Burnley</title>
   </programme>
-  <programme start="20211231155500 +0000" stop="20211231163000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211231155500 +0000" stop="20211231164000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Central + (Direto)</title>
   </programme>
-  <programme start="20211231163000 +0000" stop="20211231165500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga NOS - FC Porto x Benfica - Época 2020-21</title>
+  <programme start="20211231164000 +0000" stop="20211231170000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Sport Beleza - Domingos Paciência</title>
   </programme>
   <programme start="20211231170000 +0000" stop="20211231180000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Fan Zone (Direto)</title>
   </programme>
   <programme start="20211231180000 +0000" stop="20211231183000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - Sporting x Portimonense</title>
-  </programme>
-  <programme start="20211231183000 +0000" stop="20211231190500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Central + (Direto)</title>
-  </programme>
-  <programme start="20211231191000 +0000" stop="20211231205000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - Antevisão FC Porto x Benfica (Direto)</title>
-  </programme>
-  <programme start="20211231205000 +0000" stop="20211231235500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Grande Jornada (Direto)</title>
-  </programme>
-  <programme start="20211231235500 +0000" stop="20220101010000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Últimas Notícias (Direto)</title>
-  </programme>
-  <programme start="20220101010000 +0000" stop="20220101030000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - FC Porto x Benfica</title>
-  </programme>
-  <programme start="20220101030000 +0000" stop="20220101033000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Man. United x Burnley</title>
-  </programme>
-  <programme start="20220101033000 +0000" stop="20220101040000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League World</title>
-  </programme>
-  <programme start="20220101040000 +0000" stop="20220101043000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - Resumo da 16ª Jornada</title>
-  </programme>
-  <programme start="20220101043000 +0000" stop="20220101053000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Campeonato Argentino - River Campeão</title>
-  </programme>
-  <programme start="20220101053000 +0000" stop="20220101060000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">ONE Championship Weekly</title>
-  </programme>
-  <programme start="20220101060000 +0000" stop="20220101065000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">WWE Raw</title>
-  </programme>
-  <programme start="20220101065000 +0000" stop="20220101085500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - FC Porto x Benfica</title>
-  </programme>
-  <programme start="20220101085500 +0000" stop="20220101110000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Manhã Informativa (Direto)</title>
-  </programme>
-  <programme start="20220101110000 +0000" stop="20220101113000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - FC Porto x Benfica</title>
-  </programme>
-  <programme start="20220101113000 +0000" stop="20220101115500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Man. United x Burnley</title>
-  </programme>
-  <programme start="20220101115500 +0000" stop="20220101130000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Grande Jornal (Direto)</title>
-  </programme>
-  <programme start="20220101130000 +0000" stop="20220101133000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - Resumo da 16ª Jornada</title>
-  </programme>
-  <programme start="20220101133000 +0000" stop="20220101140000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Premier League - Resumo da 20ª Jornada</title>
   </programme>
-  <programme start="20220101140000 +0000" stop="20220101143000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">ReporTV - Amor À Primeira Onda</title>
-  </programme>
-  <programme start="20220101143000 +0000" stop="20220101150000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Bar Sport TV - Domingos Castro e Paulo Guerra - 1ª Parte</title>
-  </programme>
-  <programme start="20220101150000 +0000" stop="20220101153000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - FC Porto x Benfica</title>
-  </programme>
-  <programme start="20220101153000 +0000" stop="20220101155500 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Man. United x Burnley</title>
-  </programme>
-  <programme start="20220101155500 +0000" stop="20220101164000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Central + (Direto)</title>
-  </programme>
-  <programme start="20220101164000 +0000" stop="20220101170000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Sport Beleza - Domingos Paciência</title>
-  </programme>
-  <programme start="20220101170000 +0000" stop="20220101180000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Fan Zone (Direto)</title>
-  </programme>
-  <programme start="20220101180000 +0000" stop="20220101183000 +0000" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Resumo da 20ª Jornada</title>
-  </programme>
-  <programme start="20220101183000 +0000" stop="20220101190000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211231183000 +0000" stop="20211231190000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Especial Ano Novo - Premier League</title>
   </programme>
-  <programme start="20220101190000 +0000" stop="20220101193000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211231190000 +0000" stop="20211231193000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Liga Portugal - FC Porto x Benfica</title>
   </programme>
-  <programme start="20220101193000 +0000" stop="20220101210000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211231193000 +0000" stop="20211231210000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Aposta Tripla</title>
   </programme>
-  <programme start="20220101210000 +0000" stop="20220101213000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211231210000 +0000" stop="20211231213000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Liga Portugal - Resumo da 16ª Jornada</title>
   </programme>
-  <programme start="20220101213000 +0000" stop="20220101223000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211231213000 +0000" stop="20211231223000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Premier League - Resumos e Reportagens</title>
   </programme>
-  <programme start="20220101223000 +0000" stop="20220101230000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211231223000 +0000" stop="20211231230000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Serie A: Full Impact - Resumo 1ª Volta</title>
   </programme>
-  <programme start="20220101230000 +0000" stop="20220101233000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211231230000 +0000" stop="20211231233000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Especial Ano Novo - Premier League</title>
   </programme>
-  <programme start="20220101233000 +0000" stop="20220102000000 +0000" channel="SPORT TV+ HD">
+  <programme start="20211231233000 +0000" stop="20220101000000 +0000" channel="SPORT TV+ HD">
     <title lang="pt">Liga Portugal - Resumo da 16ª Jornada</title>
+  </programme>
+  <programme start="20220101000000 +0000" stop="20220101013000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Aposta Tripla</title>
+  </programme>
+  <programme start="20220101013000 +0000" stop="20220101023000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Premier League - Resumos e Reportagens</title>
+  </programme>
+  <programme start="20220101023000 +0000" stop="20220101030000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">NBA Action</title>
+  </programme>
+  <programme start="20220101030000 +0000" stop="20220101035000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Documentário - Fabio Quartararo: Encontro Com o Destino</title>
+  </programme>
+  <programme start="20220101035000 +0000" stop="20220101044000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">WWE Raw</title>
+  </programme>
+  <programme start="20220101044000 +0000" stop="20220101053000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">Watersports World</title>
+  </programme>
+  <programme start="20220101053000 +0000" stop="20220101060000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">The Outdoor Sports Show</title>
+  </programme>
+  <programme start="20220101060000 +0000" stop="20220101120000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">A Definir</title>
+  </programme>
+  <programme start="20220101120000 +0000" stop="20220101180000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">A Definir</title>
+  </programme>
+  <programme start="20220101180000 +0000" stop="20220102004000 +0000" channel="SPORT TV+ HD">
+    <title lang="pt">A Definir</title>
   </programme>
   <programme start="20211226003000 +0000" stop="20211226012000 +0000" channel="SPORT TV1">
     <title lang="pt">UEFA Euro 2020 - Resumo Oficial</title>
