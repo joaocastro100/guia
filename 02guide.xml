@@ -2166,11 +2166,17 @@
   <programme start="20220101230500 +0000" stop="20220102000500 +0000" channel="Canal 11 HD">
     <title lang="pt">Super Mister Quiz</title>
   </programme>
-  <programme start="20211226020000 +0000" stop="20211226040000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Bundesliga - B. Munique x Hertha</title>
+  <programme start="20211226003000 +0000" stop="20211226011500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">NFL Extra</title>
   </programme>
-  <programme start="20211226040000 +0000" stop="20211226050000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga Special</title>
+  <programme start="20211226011500 +0000" stop="20211226041500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">NFL - Cardinals x Colts (Direto)</title>
+  </programme>
+  <programme start="20211226041500 +0000" stop="20211226044500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">NFL Extra</title>
+  </programme>
+  <programme start="20211226044500 +0000" stop="20211226050000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Custom Series</title>
   </programme>
   <programme start="20211226050000 +0000" stop="20211226053000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">OTRO</title>
@@ -2179,10 +2185,10 @@
     <title lang="pt">OTRO</title>
   </programme>
   <programme start="20211226054500 +0000" stop="20211226064500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Segunda Liga Espanhola - Resumos da Jornada</title>
+    <title lang="pt">Bundesliga Special</title>
   </programme>
   <programme start="20211226064500 +0000" stop="20211226074500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga - Melhores Golos</title>
+    <title lang="pt">La Liga Special</title>
   </programme>
   <programme start="20211226074500 +0000" stop="20211226080000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">Bundesliga Special - Entrevista do Mês</title>
@@ -2199,200 +2205,191 @@
   <programme start="20211226100000 +0000" stop="20211226110000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">Leeds United - Take Us Home</title>
   </programme>
-  <programme start="20211226110000 +0000" stop="20211226114500 +0000" channel="ELEVEN SPORTS 1">
+  <programme start="20211226110000 +0000" stop="20211226123000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">Documentário: 24/7 FC</title>
   </programme>
-  <programme start="20211226114500 +0000" stop="20211226121500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Champions League - Resumo do Dia</title>
+  <programme start="20211226123000 +0000" stop="20211226143000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Liga Escocesa 2021-22 - St. Johnstone x Celtic (Direto)</title>
   </programme>
-  <programme start="20211226121500 +0000" stop="20211226124500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Champions League - Resumo do Dia</title>
+  <programme start="20211226143000 +0000" stop="20211226150000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">La Liga Zap</title>
   </programme>
-  <programme start="20211226124500 +0000" stop="20211226134500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League Magazine</title>
+  <programme start="20211226150000 +0000" stop="20211226170000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Championship - Hull City x Blackburn (Direto)</title>
   </programme>
-  <programme start="20211226134500 +0000" stop="20211226154500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga - Real Madrid x At. Madrid</title>
-  </programme>
-  <programme start="20211226154500 +0000" stop="20211226174500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Bundesliga - B. Dortmund x B. Munique</title>
-  </programme>
-  <programme start="20211226174500 +0000" stop="20211226184500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Ligue 1 - Resumos da Jornada</title>
-  </programme>
-  <programme start="20211226184500 +0000" stop="20211226194500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga - Melhores Golos</title>
-  </programme>
-  <programme start="20211226194500 +0000" stop="20211226200000 +0000" channel="ELEVEN SPORTS 1">
+  <programme start="20211226170000 +0000" stop="20211226173000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">Bundesliga Special - Entrevista do Mês</title>
   </programme>
-  <programme start="20211226200000 +0000" stop="20211226204500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Tiki-Tática</title>
+  <programme start="20211226173000 +0000" stop="20211226193000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Jupiler Pro League - Union Saint-Gilloise x Gent (Direto)</title>
   </programme>
-  <programme start="20211226204500 +0000" stop="20211226213000 +0000" channel="ELEVEN SPORTS 1">
+  <programme start="20211226193000 +0000" stop="20211226203000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">La Liga Special</title>
+  </programme>
+  <programme start="20211226203000 +0000" stop="20211226204500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Bundesliga Special - Entrevista do Mês</title>
+  </programme>
+  <programme start="20211226204500 +0000" stop="20211226212500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">NFL Gameday</title>
+  </programme>
+  <programme start="20211226212500 +0000" stop="20211227001500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">NFL - Raiders x Broncos (Direto)</title>
+  </programme>
+  <programme start="20211227001500 +0000" stop="20211227004500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">NFL Gameday</title>
+  </programme>
+  <programme start="20211227004500 +0000" stop="20211227012000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">NFL Extra</title>
   </programme>
-  <programme start="20211226213000 +0000" stop="20211227003000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">NFL - Packers x Browns (Direto)</title>
-  </programme>
-  <programme start="20211227003000 +0000" stop="20211227011500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">NFL Extra</title>
-  </programme>
-  <programme start="20211227011500 +0000" stop="20211227041500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">NFL - Cardinals x Colts (Direto)</title>
+  <programme start="20211227012000 +0000" stop="20211227041500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">NFL - Cowboys x Washington FT (Direto)</title>
   </programme>
   <programme start="20211227041500 +0000" stop="20211227044500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">NFL Extra</title>
+    <title lang="pt">NFL Gameday</title>
   </programme>
   <programme start="20211227044500 +0000" stop="20211227050000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">Custom Series</title>
   </programme>
-  <programme start="20211227050000 +0000" stop="20211227053000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">OTRO</title>
+  <programme start="20211227050000 +0000" stop="20211227060000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UEFA Champions League - Man In The Middle</title>
   </programme>
-  <programme start="20211227053000 +0000" stop="20211227054500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">OTRO</title>
-  </programme>
-  <programme start="20211227054500 +0000" stop="20211227064500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Bundesliga Special</title>
-  </programme>
-  <programme start="20211227064500 +0000" stop="20211227074500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga Special</title>
-  </programme>
-  <programme start="20211227074500 +0000" stop="20211227080000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Bundesliga Special - Entrevista do Mês</title>
+  <programme start="20211227060000 +0000" stop="20211227080000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UEFA Champions League - Barcelona x B. Munique</title>
   </programme>
   <programme start="20211227080000 +0000" stop="20211227083000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">LaLiga Fans</title>
+    <title lang="pt">Champions League Extra</title>
   </programme>
-  <programme start="20211227083000 +0000" stop="20211227093000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UCL - Archive Documentary Series</title>
+  <programme start="20211227083000 +0000" stop="20211227090000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UCL - The Players</title>
   </programme>
-  <programme start="20211227093000 +0000" stop="20211227100000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga Nations</title>
+  <programme start="20211227090000 +0000" stop="20211227093000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UCL - As Melhores Finais da História</title>
   </programme>
-  <programme start="20211227100000 +0000" stop="20211227110000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Leeds United - Take Us Home</title>
+  <programme start="20211227093000 +0000" stop="20211227113000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UEFA Champions League - Barcelona x B. Munique</title>
   </programme>
-  <programme start="20211227110000 +0000" stop="20211227123000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Documentário: 24/7 FC</title>
+  <programme start="20211227113000 +0000" stop="20211227114500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UCL - Ideologias de Jogo</title>
+  </programme>
+  <programme start="20211227114500 +0000" stop="20211227120000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UCL - Ideologias de Jogo</title>
+  </programme>
+  <programme start="20211227120000 +0000" stop="20211227123000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Champions League Extra</title>
   </programme>
   <programme start="20211227123000 +0000" stop="20211227143000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Liga Escocesa 2021-22 - St. Johnstone x Celtic (Direto)</title>
+    <title lang="pt">League One - Doncaster Rovers x Sunderland (Direto)</title>
   </programme>
-  <programme start="20211227143000 +0000" stop="20211227150000 +0000" channel="ELEVEN SPORTS 1">
+  <programme start="20211227143000 +0000" stop="20211227151500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Tiki-Tática</title>
+  </programme>
+  <programme start="20211227151500 +0000" stop="20211227164500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Globe Soccer Awards 2021 (Direto)</title>
+  </programme>
+  <programme start="20211227164500 +0000" stop="20211227170000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">La Liga Zap</title>
   </programme>
-  <programme start="20211227150000 +0000" stop="20211227170000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Championship - Hull City x Blackburn (Direto)</title>
-  </programme>
   <programme start="20211227170000 +0000" stop="20211227173000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Bundesliga Special - Entrevista do Mês</title>
+    <title lang="pt">La Liga - Os Melhores Momentos</title>
   </programme>
   <programme start="20211227173000 +0000" stop="20211227193000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Jupiler Pro League - Union Saint-Gilloise x Gent (Direto)</title>
+    <title lang="pt">Championship - Queens Park Rangers x Bournemouth (Direto)</title>
   </programme>
-  <programme start="20211227193000 +0000" stop="20211227203000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga Special</title>
+  <programme start="20211227193000 +0000" stop="20211227200000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">La Liga World</title>
   </programme>
-  <programme start="20211227203000 +0000" stop="20211227204500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Bundesliga Special - Entrevista do Mês</title>
+  <programme start="20211227200000 +0000" stop="20211227220000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Jupiler Pro League - Beerschot x Anderlecht (Direto)</title>
   </programme>
-  <programme start="20211227204500 +0000" stop="20211227212500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">NFL Gameday</title>
+  <programme start="20211227220000 +0000" stop="20211227223000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">La Liga - Melhores Defesas</title>
   </programme>
-  <programme start="20211227212500 +0000" stop="20211228001500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">NFL - Raiders x Broncos (Direto)</title>
+  <programme start="20211227223000 +0000" stop="20211227231500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Tiki-Tática</title>
   </programme>
-  <programme start="20211228001500 +0000" stop="20211228004500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">NFL Gameday</title>
+  <programme start="20211227231500 +0000" stop="20211228001500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Bundesliga Special</title>
   </programme>
-  <programme start="20211228004500 +0000" stop="20211228012000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">NFL Extra</title>
+  <programme start="20211228001500 +0000" stop="20211228021500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Championship - Derby County x West Brom</title>
   </programme>
-  <programme start="20211228012000 +0000" stop="20211228041500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">NFL - Cowboys x Washington FT (Direto)</title>
+  <programme start="20211228021500 +0000" stop="20211228041500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Championship - Queens Park Rangers x Bournemouth</title>
   </programme>
-  <programme start="20211228041500 +0000" stop="20211228044500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">NFL Gameday</title>
-  </programme>
-  <programme start="20211228044500 +0000" stop="20211228050000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Custom Series</title>
+  <programme start="20211228041500 +0000" stop="20211228050000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Champions League Extra</title>
   </programme>
   <programme start="20211228050000 +0000" stop="20211228060000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">UEFA Champions League - Man In The Middle</title>
   </programme>
   <programme start="20211228060000 +0000" stop="20211228080000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - Barcelona x B. Munique</title>
+    <title lang="pt">UEFA Champions League - Benfica x Barcelona</title>
   </programme>
   <programme start="20211228080000 +0000" stop="20211228083000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">Champions League Extra</title>
   </programme>
   <programme start="20211228083000 +0000" stop="20211228090000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UCL - The Players</title>
+    <title lang="pt">UCL - As Melhores Finais da História</title>
   </programme>
   <programme start="20211228090000 +0000" stop="20211228093000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">UCL - As Melhores Finais da História</title>
   </programme>
   <programme start="20211228093000 +0000" stop="20211228113000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UEFA Champions League - Man. City x RB Leipzig</title>
+  </programme>
+  <programme start="20211228113000 +0000" stop="20211228133000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UEFA Champions League - Benfica x Barcelona</title>
+  </programme>
+  <programme start="20211228133000 +0000" stop="20211228141500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Tiki-Tática</title>
+  </programme>
+  <programme start="20211228141500 +0000" stop="20211228144500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Champions League Extra</title>
+  </programme>
+  <programme start="20211228144500 +0000" stop="20211228150000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UCL - Ideologias de Jogo</title>
+  </programme>
+  <programme start="20211228150000 +0000" stop="20211228160000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UEFA Champions League - Man In The Middle</title>
+  </programme>
+  <programme start="20211228160000 +0000" stop="20211228163000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UCL - As Melhores Finais da História</title>
+  </programme>
+  <programme start="20211228163000 +0000" stop="20211228183000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UEFA Champions League - FC Porto x Milan</title>
+  </programme>
+  <programme start="20211228183000 +0000" stop="20211228193000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UCL Archive Documentary Series</title>
+  </programme>
+  <programme start="20211228193000 +0000" stop="20211228203000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Tiki-Tática</title>
+  </programme>
+  <programme start="20211228203000 +0000" stop="20211228223000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Liga ACB - Barcelona Lassa x BC Andorra (Direto)</title>
+  </programme>
+  <programme start="20211228223000 +0000" stop="20211228233000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">La Liga Talking Football</title>
+  </programme>
+  <programme start="20211228233000 +0000" stop="20211229000000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Championship - Resumos da Jornada</title>
+  </programme>
+  <programme start="20211229000000 +0000" stop="20211229001500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Liga Escocesa 2021-22 - Resumos da Jornada</title>
+  </programme>
+  <programme start="20211229001500 +0000" stop="20211229010000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Tiki-Tática</title>
+  </programme>
+  <programme start="20211229010000 +0000" stop="20211229030000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">UEFA Champions League - Barcelona x B. Munique</title>
   </programme>
-  <programme start="20211228113000 +0000" stop="20211228114500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UCL - Ideologias de Jogo</title>
-  </programme>
-  <programme start="20211228114500 +0000" stop="20211228120000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UCL - Ideologias de Jogo</title>
-  </programme>
-  <programme start="20211228120000 +0000" stop="20211228123000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Champions League Extra</title>
-  </programme>
-  <programme start="20211228123000 +0000" stop="20211228143000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">League One - Doncaster Rovers x Sunderland (Direto)</title>
-  </programme>
-  <programme start="20211228143000 +0000" stop="20211228151500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Tiki-Tática</title>
-  </programme>
-  <programme start="20211228151500 +0000" stop="20211228164500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Globe Soccer Awards 2021 (Direto)</title>
-  </programme>
-  <programme start="20211228164500 +0000" stop="20211228170000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga Zap</title>
-  </programme>
-  <programme start="20211228170000 +0000" stop="20211228173000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga - Os Melhores Momentos</title>
-  </programme>
-  <programme start="20211228173000 +0000" stop="20211228193000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Championship - Queens Park Rangers x Bournemouth (Direto)</title>
-  </programme>
-  <programme start="20211228193000 +0000" stop="20211228200000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga World</title>
-  </programme>
-  <programme start="20211228200000 +0000" stop="20211228220000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Jupiler Pro League - Beerschot x Anderlecht (Direto)</title>
-  </programme>
-  <programme start="20211228220000 +0000" stop="20211228223000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga - Melhores Defesas</title>
-  </programme>
-  <programme start="20211228223000 +0000" stop="20211228231500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Tiki-Tática</title>
-  </programme>
-  <programme start="20211228231500 +0000" stop="20211229001500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Bundesliga Special</title>
-  </programme>
-  <programme start="20211229001500 +0000" stop="20211229021500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Championship - Derby County x West Brom</title>
-  </programme>
-  <programme start="20211229021500 +0000" stop="20211229041500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Championship - Queens Park Rangers x Bournemouth</title>
-  </programme>
-  <programme start="20211229041500 +0000" stop="20211229050000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Champions League Extra</title>
+  <programme start="20211229030000 +0000" stop="20211229050000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UEFA Champions League - Man. City x RB Leipzig</title>
   </programme>
   <programme start="20211229050000 +0000" stop="20211229060000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">UEFA Champions League - Man In The Middle</title>
   </programme>
   <programme start="20211229060000 +0000" stop="20211229080000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - Benfica x Barcelona</title>
+    <title lang="pt">UEFA Champions League - Man. United x Atalanta</title>
   </programme>
   <programme start="20211229080000 +0000" stop="20211229083000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">Champions League Extra</title>
@@ -2404,15 +2401,15 @@
     <title lang="pt">UCL - As Melhores Finais da História</title>
   </programme>
   <programme start="20211229093000 +0000" stop="20211229113000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - Man. City x RB Leipzig</title>
+    <title lang="pt">UEFA Champions League - FC Porto x Milan</title>
   </programme>
   <programme start="20211229113000 +0000" stop="20211229133000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - Benfica x Barcelona</title>
+    <title lang="pt">UEFA Champions League - Man. United x Atalanta</title>
   </programme>
-  <programme start="20211229133000 +0000" stop="20211229141500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Tiki-Tática</title>
+  <programme start="20211229133000 +0000" stop="20211229140000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UCL - The Players</title>
   </programme>
-  <programme start="20211229141500 +0000" stop="20211229144500 +0000" channel="ELEVEN SPORTS 1">
+  <programme start="20211229140000 +0000" stop="20211229144500 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">Champions League Extra</title>
   </programme>
   <programme start="20211229144500 +0000" stop="20211229150000 +0000" channel="ELEVEN SPORTS 1">
@@ -2425,40 +2422,40 @@
     <title lang="pt">UCL - As Melhores Finais da História</title>
   </programme>
   <programme start="20211229163000 +0000" stop="20211229183000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - FC Porto x Milan</title>
+    <title lang="pt">UEFA Champions League - Sporting x Besiktas</title>
   </programme>
   <programme start="20211229183000 +0000" stop="20211229193000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UCL Archive Documentary Series</title>
+    <title lang="pt">UCL - Archive Documentary Series</title>
   </programme>
-  <programme start="20211229193000 +0000" stop="20211229203000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Tiki-Tática</title>
-  </programme>
-  <programme start="20211229203000 +0000" stop="20211229223000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Liga ACB - Barcelona Lassa x BC Andorra (Direto)</title>
-  </programme>
-  <programme start="20211229223000 +0000" stop="20211229233000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga Talking Football</title>
-  </programme>
-  <programme start="20211229233000 +0000" stop="20211230000000 +0000" channel="ELEVEN SPORTS 1">
+  <programme start="20211229193000 +0000" stop="20211229200000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">Championship - Resumos da Jornada</title>
   </programme>
-  <programme start="20211230000000 +0000" stop="20211230001500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Liga Escocesa 2021-22 - Resumos da Jornada</title>
+  <programme start="20211229200000 +0000" stop="20211229220000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Championship - Reading x Fulham (Direto)</title>
   </programme>
-  <programme start="20211230001500 +0000" stop="20211230010000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Tiki-Tática</title>
+  <programme start="20211229220000 +0000" stop="20211229223000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">La Liga World</title>
+  </programme>
+  <programme start="20211229223000 +0000" stop="20211229230000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Jupiler Pro League - Resumos da Jornada</title>
+  </programme>
+  <programme start="20211229230000 +0000" stop="20211230000000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Bundesliga Special</title>
+  </programme>
+  <programme start="20211230000000 +0000" stop="20211230010000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">La Liga - Melhores Golos</title>
   </programme>
   <programme start="20211230010000 +0000" stop="20211230030000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - Barcelona x B. Munique</title>
+    <title lang="pt">UEFA Champions League - Benfica x Barcelona</title>
   </programme>
   <programme start="20211230030000 +0000" stop="20211230050000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - Man. City x RB Leipzig</title>
+    <title lang="pt">UEFA Champions League - FC Porto x Milan</title>
   </programme>
   <programme start="20211230050000 +0000" stop="20211230060000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">UEFA Champions League - Man In The Middle</title>
   </programme>
   <programme start="20211230060000 +0000" stop="20211230080000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - Man. United x Atalanta</title>
+    <title lang="pt">UEFA Champions League - FC Porto x Milan</title>
   </programme>
   <programme start="20211230080000 +0000" stop="20211230083000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">Champions League Extra</title>
@@ -2470,15 +2467,18 @@
     <title lang="pt">UCL - As Melhores Finais da História</title>
   </programme>
   <programme start="20211230093000 +0000" stop="20211230113000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - FC Porto x Milan</title>
+    <title lang="pt">UEFA Champions League - Sporting x Besiktas</title>
   </programme>
   <programme start="20211230113000 +0000" stop="20211230133000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - Man. United x Atalanta</title>
+    <title lang="pt">UEFA Champions League - Chelsea x Juventus</title>
   </programme>
   <programme start="20211230133000 +0000" stop="20211230140000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UCL - The Players</title>
+    <title lang="pt">Champions League - Resumo do Dia</title>
   </programme>
-  <programme start="20211230140000 +0000" stop="20211230144500 +0000" channel="ELEVEN SPORTS 1">
+  <programme start="20211230140000 +0000" stop="20211230143000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Champions League - Resumo do Dia</title>
+  </programme>
+  <programme start="20211230143000 +0000" stop="20211230144500 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">Champions League Extra</title>
   </programme>
   <programme start="20211230144500 +0000" stop="20211230150000 +0000" channel="ELEVEN SPORTS 1">
@@ -2491,40 +2491,49 @@
     <title lang="pt">UCL - As Melhores Finais da História</title>
   </programme>
   <programme start="20211230163000 +0000" stop="20211230183000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - Sporting x Besiktas</title>
+    <title lang="pt">UEFA Champions League - Man. City x PSG</title>
   </programme>
-  <programme start="20211230183000 +0000" stop="20211230193000 +0000" channel="ELEVEN SPORTS 1">
+  <programme start="20211230183000 +0000" stop="20211230194500 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">UCL - Archive Documentary Series</title>
   </programme>
-  <programme start="20211230193000 +0000" stop="20211230200000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Championship - Resumos da Jornada</title>
+  <programme start="20211230194500 +0000" stop="20211230214500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Championship - Nottingham Forest x Huddersfield (Direto)</title>
   </programme>
-  <programme start="20211230200000 +0000" stop="20211230220000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Championship - Reading x Fulham (Direto)</title>
+  <programme start="20211230214500 +0000" stop="20211230223000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Tiki-Tática</title>
   </programme>
-  <programme start="20211230220000 +0000" stop="20211230223000 +0000" channel="ELEVEN SPORTS 1">
+  <programme start="20211230223000 +0000" stop="20211230224500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">La Liga Zap</title>
+  </programme>
+  <programme start="20211230224500 +0000" stop="20211230231500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Ligue 1 2021-22 - Revista da Temporada</title>
+  </programme>
+  <programme start="20211230231500 +0000" stop="20211230234500 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">La Liga World</title>
   </programme>
-  <programme start="20211230223000 +0000" stop="20211230230000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Jupiler Pro League - Resumos da Jornada</title>
+  <programme start="20211230234500 +0000" stop="20211231004500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">La Liga Talking Football</title>
   </programme>
-  <programme start="20211230230000 +0000" stop="20211231000000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Bundesliga Special</title>
+  <programme start="20211231004500 +0000" stop="20211231011500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">NFL Extra</title>
   </programme>
-  <programme start="20211231000000 +0000" stop="20211231010000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga - Melhores Golos</title>
+  <programme start="20211231011500 +0000" stop="20211231040000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">NFL - Cowboys x Washington FT</title>
   </programme>
-  <programme start="20211231010000 +0000" stop="20211231030000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - Benfica x Barcelona</title>
+  <programme start="20211231040000 +0000" stop="20211231043000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">NFL Extra</title>
   </programme>
-  <programme start="20211231030000 +0000" stop="20211231050000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - FC Porto x Milan</title>
+  <programme start="20211231043000 +0000" stop="20211231044500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Custom Series</title>
+  </programme>
+  <programme start="20211231044500 +0000" stop="20211231050000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Custom Series</title>
   </programme>
   <programme start="20211231050000 +0000" stop="20211231060000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - Man In The Middle</title>
+    <title lang="pt">UCL Archive Documentary Series</title>
   </programme>
   <programme start="20211231060000 +0000" stop="20211231080000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - FC Porto x Milan</title>
+    <title lang="pt">UEFA Champions League - Chelsea x Juventus</title>
   </programme>
   <programme start="20211231080000 +0000" stop="20211231083000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">Champions League Extra</title>
@@ -2536,73 +2545,64 @@
     <title lang="pt">UCL - As Melhores Finais da História</title>
   </programme>
   <programme start="20211231093000 +0000" stop="20211231113000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - Sporting x Besiktas</title>
-  </programme>
-  <programme start="20211231113000 +0000" stop="20211231133000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - Chelsea x Juventus</title>
-  </programme>
-  <programme start="20211231133000 +0000" stop="20211231140000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Champions League - Resumo do Dia</title>
-  </programme>
-  <programme start="20211231140000 +0000" stop="20211231143000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Champions League - Resumo do Dia</title>
-  </programme>
-  <programme start="20211231143000 +0000" stop="20211231144500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Champions League Extra</title>
-  </programme>
-  <programme start="20211231144500 +0000" stop="20211231150000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UCL - Ideologias de Jogo</title>
-  </programme>
-  <programme start="20211231150000 +0000" stop="20211231160000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - Man In The Middle</title>
-  </programme>
-  <programme start="20211231160000 +0000" stop="20211231163000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UCL - As Melhores Finais da História</title>
-  </programme>
-  <programme start="20211231163000 +0000" stop="20211231183000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">UEFA Champions League - Man. City x PSG</title>
   </programme>
-  <programme start="20211231183000 +0000" stop="20211231194500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UCL - Archive Documentary Series</title>
-  </programme>
-  <programme start="20211231194500 +0000" stop="20211231214500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Championship - Nottingham Forest x Huddersfield (Direto)</title>
-  </programme>
-  <programme start="20211231214500 +0000" stop="20211231223000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Tiki-Tática</title>
-  </programme>
-  <programme start="20211231223000 +0000" stop="20211231224500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga Zap</title>
-  </programme>
-  <programme start="20211231224500 +0000" stop="20211231231500 +0000" channel="ELEVEN SPORTS 1">
+  <programme start="20211231113000 +0000" stop="20211231120000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">Ligue 1 2021-22 - Revista da Temporada</title>
   </programme>
-  <programme start="20211231231500 +0000" stop="20211231234500 +0000" channel="ELEVEN SPORTS 1">
+  <programme start="20211231120000 +0000" stop="20211231130000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Tiki-Tática</title>
+  </programme>
+  <programme start="20211231130000 +0000" stop="20211231151500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Segunda Liga Espanhola - Oviedo x Ponferradina (Direto)</title>
+  </programme>
+  <programme start="20211231151500 +0000" stop="20211231171500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">La Liga - Valência x Espanyol (Direto)</title>
+  </programme>
+  <programme start="20211231171500 +0000" stop="20211231174500 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">La Liga World</title>
   </programme>
-  <programme start="20211231234500 +0000" stop="20220101004500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga Talking Football</title>
+  <programme start="20211231174500 +0000" stop="20211231181500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Bundesliga Analysis</title>
   </programme>
-  <programme start="20220101004500 +0000" stop="20220101011500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">NFL Extra</title>
+  <programme start="20211231181500 +0000" stop="20211231183000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Liga ACB - Resumos da Jornada</title>
   </programme>
-  <programme start="20220101011500 +0000" stop="20220101040000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">NFL - Cowboys x Washington FT</title>
+  <programme start="20211231183000 +0000" stop="20211231184500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Liga Escocesa 2021-22 - Resumos da Jornada</title>
   </programme>
-  <programme start="20220101040000 +0000" stop="20220101043000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">NFL Extra</title>
+  <programme start="20211231184500 +0000" stop="20211231191500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Championship - Resumos da Jornada</title>
   </programme>
-  <programme start="20220101043000 +0000" stop="20220101044500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Custom Series</title>
+  <programme start="20211231191500 +0000" stop="20211231211500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UEFA Champions League - Chelsea x Juventus</title>
   </programme>
-  <programme start="20220101044500 +0000" stop="20220101050000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Custom Series</title>
+  <programme start="20211231211500 +0000" stop="20211231231500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UEFA Champions League - Man. City x PSG</title>
+  </programme>
+  <programme start="20211231231500 +0000" stop="20211231234500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UCL - As Melhores Finais da História</title>
+  </programme>
+  <programme start="20211231234500 +0000" stop="20220101000000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Champions League Extra</title>
+  </programme>
+  <programme start="20220101000000 +0000" stop="20220101003000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Ligue 1 2021-22 - Revista da Temporada</title>
+  </programme>
+  <programme start="20220101003000 +0000" stop="20220101010000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Bundesliga Analysis</title>
+  </programme>
+  <programme start="20220101010000 +0000" stop="20220101030000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UEFA Champions League - Man. United x Atalanta</title>
+  </programme>
+  <programme start="20220101030000 +0000" stop="20220101050000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UEFA Champions League - Sporting x Besiktas</title>
   </programme>
   <programme start="20220101050000 +0000" stop="20220101060000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UCL Archive Documentary Series</title>
+    <title lang="pt">UCL - Archive Documentary Series</title>
   </programme>
   <programme start="20220101060000 +0000" stop="20220101080000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - Chelsea x Juventus</title>
+    <title lang="pt">UEFA Champions League - Man. City x PSG</title>
   </programme>
   <programme start="20220101080000 +0000" stop="20220101083000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">Champions League Extra</title>
@@ -2610,50 +2610,53 @@
   <programme start="20220101083000 +0000" stop="20220101090000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">UCL - As Melhores Finais da História</title>
   </programme>
-  <programme start="20220101090000 +0000" stop="20220101093000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UCL - As Melhores Finais da História</title>
+  <programme start="20220101090000 +0000" stop="20220101091500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Custom Series</title>
+  </programme>
+  <programme start="20220101091500 +0000" stop="20220101093000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UCL - Ideologias de Jogo</title>
   </programme>
   <programme start="20220101093000 +0000" stop="20220101113000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - Man. City x PSG</title>
+    <title lang="pt">UEFA Champions League - Sporting x B. Dortmund</title>
   </programme>
-  <programme start="20220101113000 +0000" stop="20220101120000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Ligue 1 2021-22 - Revista da Temporada</title>
+  <programme start="20220101113000 +0000" stop="20220101114500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UCL - Ideologias de Jogo</title>
   </programme>
-  <programme start="20220101120000 +0000" stop="20220101130000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Tiki-Tática</title>
-  </programme>
-  <programme start="20220101130000 +0000" stop="20220101151500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Segunda Liga Espanhola - Oviedo x Ponferradina (Direto)</title>
-  </programme>
-  <programme start="20220101151500 +0000" stop="20220101171500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga - Valência x Espanyol (Direto)</title>
-  </programme>
-  <programme start="20220101171500 +0000" stop="20220101174500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga World</title>
-  </programme>
-  <programme start="20220101174500 +0000" stop="20220101181500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Bundesliga Analysis</title>
-  </programme>
-  <programme start="20220101181500 +0000" stop="20220101183000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Liga ACB - Resumos da Jornada</title>
-  </programme>
-  <programme start="20220101183000 +0000" stop="20220101184500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Liga Escocesa 2021-22 - Resumos da Jornada</title>
-  </programme>
-  <programme start="20220101184500 +0000" stop="20220101191500 +0000" channel="ELEVEN SPORTS 1">
+  <programme start="20220101114500 +0000" stop="20220101123000 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">Championship - Resumos da Jornada</title>
   </programme>
+  <programme start="20220101123000 +0000" stop="20220101143000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Championship - Sheffield United x Middlesbrough (Direto)</title>
+  </programme>
+  <programme start="20220101143000 +0000" stop="20220101150000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Custom Series</title>
+  </programme>
+  <programme start="20220101150000 +0000" stop="20220101170000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Championship - Blackpool x Hull City (Direto)</title>
+  </programme>
+  <programme start="20220101170000 +0000" stop="20220101173000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Ligue 1 2021-22 - Revista da Temporada</title>
+  </programme>
+  <programme start="20220101173000 +0000" stop="20220101180000 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Bundesliga Analysis</title>
+  </programme>
+  <programme start="20220101180000 +0000" stop="20220101181500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Champions League Extra</title>
+  </programme>
+  <programme start="20220101181500 +0000" stop="20220101191500 +0000" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UEFA Champions League Magazine</title>
+  </programme>
   <programme start="20220101191500 +0000" stop="20220101211500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - Chelsea x Juventus</title>
+    <title lang="pt">UEFA Champions League - Sporting x B. Dortmund</title>
   </programme>
   <programme start="20220101211500 +0000" stop="20220101231500 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League - Man. City x PSG</title>
+    <title lang="pt">UEFA Champions League - Benfica x Dínamo Kiev</title>
   </programme>
   <programme start="20220101231500 +0000" stop="20220101234500 +0000" channel="ELEVEN SPORTS 1">
     <title lang="pt">UCL - As Melhores Finais da História</title>
   </programme>
   <programme start="20220101234500 +0000" stop="20220102000000 +0000" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Champions League Extra</title>
+    <title lang="pt">UCL - Ideologias de Jogo</title>
   </programme>
   <programme start="20211226003000 +0000" stop="20211226004500 +0000" channel="ELEVEN SPORTS 2">
     <title lang="pt">Liga ACB - Resumos da Jornada</title>
