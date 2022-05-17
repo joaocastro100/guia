@@ -81,240 +81,6 @@
     <display-name lang="pt">Sporting TV</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <programme start="20220515034500 +0100" stop="20220515041000 +0100" channel="A BOLA TV">
-    <title lang="pt">Remate Final</title>
-  </programme>
-  <programme start="20220515041000 +0100" stop="20220515043500 +0100" channel="A BOLA TV">
-    <title lang="pt">Isto É Futebol</title>
-  </programme>
-  <programme start="20220515043500 +0100" stop="20220515050500 +0100" channel="A BOLA TV">
-    <title lang="pt">Jogar Em Casa: Carlos Bica</title>
-  </programme>
-  <programme start="20220515050500 +0100" stop="20220515053500 +0100" channel="A BOLA TV">
-    <title lang="pt">Desporto Motorizado</title>
-  </programme>
-  <programme start="20220515053500 +0100" stop="20220515060500 +0100" channel="A BOLA TV">
-    <title lang="pt">Rivalidades</title>
-  </programme>
-  <programme start="20220515060500 +0100" stop="20220515063000 +0100" channel="A BOLA TV">
-    <title lang="pt">Quem É Vivo Sempre Aparece</title>
-  </programme>
-  <programme start="20220515063000 +0100" stop="20220515065500 +0100" channel="A BOLA TV">
-    <title lang="pt">Bastidores F1</title>
-  </programme>
-  <programme start="20220515070000 +0100" stop="20220515072500 +0100" channel="A BOLA TV">
-    <title lang="pt">Remate Final</title>
-  </programme>
-  <programme start="20220515072500 +0100" stop="20220515075500 +0100" channel="A BOLA TV">
-    <title lang="pt">Vendée Globe</title>
-  </programme>
-  <programme start="20220515080000 +0100" stop="20220515082500 +0100" channel="A BOLA TV">
-    <title lang="pt">Remate Final</title>
-  </programme>
-  <programme start="20220515082500 +0100" stop="20220515084000 +0100" channel="A BOLA TV">
-    <title lang="pt">Custom Series</title>
-  </programme>
-  <programme start="20220515084500 +0100" stop="20220515091500 +0100" channel="A BOLA TV">
-    <title lang="pt">Memórias: Belenenses Salésias</title>
-  </programme>
-  <programme start="20220515091500 +0100" stop="20220515094500 +0100" channel="A BOLA TV">
-    <title lang="pt">Dream Teams</title>
-  </programme>
-  <programme start="20220515094500 +0100" stop="20220515100000 +0100" channel="A BOLA TV">
-    <title lang="pt">Magazine BTT-TV</title>
-  </programme>
-  <programme start="20220515100000 +0100" stop="20220515102500 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Das 10</title>
-  </programme>
-  <programme start="20220515103000 +0100" stop="20220515110000 +0100" channel="A BOLA TV">
-    <title lang="pt">CNTT</title>
-  </programme>
-  <programme start="20220515110000 +0100" stop="20220515113000 +0100" channel="A BOLA TV">
-    <title lang="pt">Compacto Desportivo</title>
-  </programme>
-  <programme start="20220515113000 +0100" stop="20220515120000 +0100" channel="A BOLA TV">
-    <title lang="pt">Deixa Rolar</title>
-  </programme>
-  <programme start="20220515120000 +0100" stop="20220515122500 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Do Meio Dia</title>
-  </programme>
-  <programme start="20220515122500 +0100" stop="20220515125000 +0100" channel="A BOLA TV">
-    <title lang="pt">Bastidores F1</title>
-  </programme>
-  <programme start="20220515125500 +0100" stop="20220515132000 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Da Uma</title>
-  </programme>
-  <programme start="20220515132500 +0100" stop="20220515135500 +0100" channel="A BOLA TV">
-    <title lang="pt">Motores</title>
-  </programme>
-  <programme start="20220515140000 +0100" stop="20220515142500 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Das 2</title>
-  </programme>
-  <programme start="20220515142500 +0100" stop="20220515145500 +0100" channel="A BOLA TV">
-    <title lang="pt">Diamantes Na Areia</title>
-  </programme>
-  <programme start="20220515150000 +0100" stop="20220515165000 +0100" channel="A BOLA TV">
-    <title lang="pt">Hóquei: Final Liga Europeia (Direto)</title>
-  </programme>
-  <programme start="20220515165000 +0100" stop="20220515173000 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Da Tarde</title>
-  </programme>
-  <programme start="20220515173000 +0100" stop="20220515180000 +0100" channel="A BOLA TV">
-    <title lang="pt">Especial: Corrida dos Campeões Equipas</title>
-  </programme>
-  <programme start="20220515180000 +0100" stop="20220515183000 +0100" channel="A BOLA TV">
-    <title lang="pt">Ride</title>
-  </programme>
-  <programme start="20220515183000 +0100" stop="20220515190000 +0100" channel="A BOLA TV">
-    <title lang="pt">Dream Teams</title>
-  </programme>
-  <programme start="20220515190000 +0100" stop="20220515194500 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Das 7</title>
-  </programme>
-  <programme start="20220515194500 +0100" stop="20220515201500 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Das 8</title>
-  </programme>
-  <programme start="20220515201500 +0100" stop="20220515203000 +0100" channel="A BOLA TV">
-    <title lang="pt">Colecções De Sonho: André Villas-Boas</title>
-  </programme>
-  <programme start="20220515203000 +0100" stop="20220515210000 +0100" channel="A BOLA TV">
-    <title lang="pt">Isto É Futebol</title>
-  </programme>
-  <programme start="20220515210000 +0100" stop="20220515213000 +0100" channel="A BOLA TV">
-    <title lang="pt">Deixa Rolar</title>
-  </programme>
-  <programme start="20220515213000 +0100" stop="20220515220000 +0100" channel="A BOLA TV">
-    <title lang="pt">Lendas Dos Mundiais</title>
-  </programme>
-  <programme start="20220515220000 +0100" stop="20220516000000 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola De Domingo</title>
-  </programme>
-  <programme start="20220516000000 +0100" stop="20220516003000 +0100" channel="A BOLA TV">
-    <title lang="pt">Black Power</title>
-  </programme>
-  <programme start="20220516003000 +0100" stop="20220516010000 +0100" channel="A BOLA TV">
-    <title lang="pt">The Coaches\u0027 Voice: Manuel Pellegrini</title>
-  </programme>
-  <programme start="20220516010000 +0100" stop="20220516012500 +0100" channel="A BOLA TV">
-    <title lang="pt">Lendas Dos Mundiais</title>
-  </programme>
-  <programme start="20220516012500 +0100" stop="20220516015000 +0100" channel="A BOLA TV">
-    <title lang="pt">Remate Final</title>
-  </programme>
-  <programme start="20220516015500 +0100" stop="20220516035500 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola De Domingo</title>
-  </programme>
-  <programme start="20220516035500 +0100" stop="20220516042500 +0100" channel="A BOLA TV">
-    <title lang="pt">Remate Final</title>
-  </programme>
-  <programme start="20220516042500 +0100" stop="20220516045500 +0100" channel="A BOLA TV">
-    <title lang="pt">Dream Teams</title>
-  </programme>
-  <programme start="20220516045500 +0100" stop="20220516052500 +0100" channel="A BOLA TV">
-    <title lang="pt">CNTT</title>
-  </programme>
-  <programme start="20220516052500 +0100" stop="20220516055500 +0100" channel="A BOLA TV">
-    <title lang="pt">Isto É Futebol</title>
-  </programme>
-  <programme start="20220516055500 +0100" stop="20220516060500 +0100" channel="A BOLA TV">
-    <title lang="pt">Fairplay</title>
-  </programme>
-  <programme start="20220516060500 +0100" stop="20220516063000 +0100" channel="A BOLA TV">
-    <title lang="pt">Diamantes Na Areia</title>
-  </programme>
-  <programme start="20220516063000 +0100" stop="20220516070000 +0100" channel="A BOLA TV">
-    <title lang="pt">Motores</title>
-  </programme>
-  <programme start="20220516070000 +0100" stop="20220516072500 +0100" channel="A BOLA TV">
-    <title lang="pt">Remate Final</title>
-  </programme>
-  <programme start="20220516072500 +0100" stop="20220516075500 +0100" channel="A BOLA TV">
-    <title lang="pt">Jogar Em Casa</title>
-  </programme>
-  <programme start="20220516080000 +0100" stop="20220516082500 +0100" channel="A BOLA TV">
-    <title lang="pt">Remate Final</title>
-  </programme>
-  <programme start="20220516082500 +0100" stop="20220516085500 +0100" channel="A BOLA TV">
-    <title lang="pt">Desporto Motorizado</title>
-  </programme>
-  <programme start="20220516090000 +0100" stop="20220516091500 +0100" channel="A BOLA TV">
-    <title lang="pt">Flag</title>
-  </programme>
-  <programme start="20220516091500 +0100" stop="20220516093000 +0100" channel="A BOLA TV">
-    <title lang="pt">Magazine FMP</title>
-  </programme>
-  <programme start="20220516093000 +0100" stop="20220516100000 +0100" channel="A BOLA TV">
-    <title lang="pt">Rivalidades</title>
-  </programme>
-  <programme start="20220516100000 +0100" stop="20220516102500 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Das 10</title>
-  </programme>
-  <programme start="20220516103000 +0100" stop="20220516120000 +0100" channel="A BOLA TV">
-    <title lang="pt">Andebol: Águas Santas x Sporting</title>
-  </programme>
-  <programme start="20220516120000 +0100" stop="20220516122500 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Do Meio Dia</title>
-  </programme>
-  <programme start="20220516122500 +0100" stop="20220516125500 +0100" channel="A BOLA TV">
-    <title lang="pt">Ultra-Trail Circuito Mundial</title>
-  </programme>
-  <programme start="20220516125500 +0100" stop="20220516132000 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Da Uma</title>
-  </programme>
-  <programme start="20220516132500 +0100" stop="20220516135000 +0100" channel="A BOLA TV">
-    <title lang="pt">Against All Odds</title>
-  </programme>
-  <programme start="20220516135000 +0100" stop="20220516140000 +0100" channel="A BOLA TV">
-    <title lang="pt">Photo Com Estória</title>
-  </programme>
-  <programme start="20220516140000 +0100" stop="20220516142500 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Das 2</title>
-  </programme>
-  <programme start="20220516142500 +0100" stop="20220516161000 +0100" channel="A BOLA TV">
-    <title lang="pt">Hóquei: Final Liga Europeia</title>
-  </programme>
-  <programme start="20220516161000 +0100" stop="20220516164000 +0100" channel="A BOLA TV">
-    <title lang="pt">Compacto Desportivo</title>
-  </programme>
-  <programme start="20220516164000 +0100" stop="20220516170000 +0100" channel="A BOLA TV">
-    <title lang="pt">Custom Series</title>
-  </programme>
-  <programme start="20220516170000 +0100" stop="20220516173000 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Da Tarde</title>
-  </programme>
-  <programme start="20220516173000 +0100" stop="20220516180000 +0100" channel="A BOLA TV">
-    <title lang="pt">Lendas Dos Mundiais</title>
-  </programme>
-  <programme start="20220516180000 +0100" stop="20220516183000 +0100" channel="A BOLA TV">
-    <title lang="pt">CNTT</title>
-  </programme>
-  <programme start="20220516183000 +0100" stop="20220516190000 +0100" channel="A BOLA TV">
-    <title lang="pt">Jogar Em Casa</title>
-  </programme>
-  <programme start="20220516190000 +0100" stop="20220516195500 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Das 7</title>
-  </programme>
-  <programme start="20220516195500 +0100" stop="20220516201500 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Das 8</title>
-  </programme>
-  <programme start="20220516201500 +0100" stop="20220516212500 +0100" channel="A BOLA TV">
-    <title lang="pt">Conversas Com...</title>
-  </programme>
-  <programme start="20220516213000 +0100" stop="20220516220000 +0100" channel="A BOLA TV">
-    <title lang="pt">Rivalidades</title>
-  </programme>
-  <programme start="20220516220000 +0100" stop="20220517001500 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Da Noite</title>
-  </programme>
-  <programme start="20220517001500 +0100" stop="20220517004500 +0100" channel="A BOLA TV">
-    <title lang="pt">Isto É Futebol</title>
-  </programme>
-  <programme start="20220517004500 +0100" stop="20220517011500 +0100" channel="A BOLA TV">
-    <title lang="pt">Lendas Dos Mundiais</title>
-  </programme>
-  <programme start="20220517011500 +0100" stop="20220517014000 +0100" channel="A BOLA TV">
-    <title lang="pt">Remate Final</title>
-  </programme>
   <programme start="20220517014500 +0100" stop="20220517040000 +0100" channel="A BOLA TV">
     <title lang="pt">A Bola Da Noite</title>
   </programme>
@@ -849,95 +615,194 @@
   <programme start="20220521150000 +0100" stop="20220521163000 +0100" channel="A BOLA TV">
     <title lang="pt">Andebol: Gaia x Póvoa AC (Direto)</title>
   </programme>
-  <programme start="20220515003000 +0100" stop="20220515020000 +0100" channel="BTV1">
-    <title lang="pt">Andebol Feminino - Juve Lis x SLB - Rep.</title>
+  <programme start="20220521163000 +0100" stop="20220521170000 +0100" channel="A BOLA TV">
+    <title lang="pt">Deixa Rolar</title>
   </programme>
-  <programme start="20220515020000 +0100" stop="20220515033000 +0100" channel="BTV1">
-    <title lang="pt">Andebol - SLB x Belenenses - Rep.</title>
+  <programme start="20220521170000 +0100" stop="20220521173000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Da Tarde</title>
   </programme>
-  <programme start="20220515033000 +0100" stop="20220515043000 +0100" channel="BTV1">
-    <title lang="pt">Reportagem Especial</title>
+  <programme start="20220521173000 +0100" stop="20220521191500 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Da Tarde</title>
   </programme>
-  <programme start="20220515043000 +0100" stop="20220515053000 +0100" channel="BTV1">
-    <title lang="pt">Hóquei - Benfica B x FC Alverca - Rep.</title>
+  <programme start="20220521191500 +0100" stop="20220521195500 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Das 7</title>
   </programme>
-  <programme start="20220515053000 +0100" stop="20220515060000 +0100" channel="BTV1">
-    <title lang="pt">Benfica 24 Horas</title>
+  <programme start="20220521195500 +0100" stop="20220521201500 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Das 8</title>
   </programme>
-  <programme start="20220515060000 +0100" stop="20220515063000 +0100" channel="BTV1">
-    <title lang="pt">Pelas Casas do Benfica</title>
+  <programme start="20220521202000 +0100" stop="20220521220000 +0100" channel="A BOLA TV">
+    <title lang="pt">Momento ESPN: Pistorius Parte I</title>
   </programme>
-  <programme start="20220515063000 +0100" stop="20220515070000 +0100" channel="BTV1">
-    <title lang="pt">Vou a Jogo Com 11</title>
+  <programme start="20220521220000 +0100" stop="20220522000000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola De Sábado</title>
   </programme>
-  <programme start="20220515070000 +0100" stop="20220515073000 +0100" channel="BTV1">
-    <title lang="pt">Benfica 24 Horas</title>
+  <programme start="20220522000000 +0100" stop="20220522004500 +0100" channel="A BOLA TV">
+    <title lang="pt">Poquer - Aposta Mundial</title>
   </programme>
-  <programme start="20220515073000 +0100" stop="20220515090000 +0100" channel="BTV1">
-    <title lang="pt">Polo Aquático - C. Fluvial Portuense x SLB - Rep.</title>
+  <programme start="20220522004500 +0100" stop="20220522010000 +0100" channel="A BOLA TV">
+    <title lang="pt">Flag</title>
   </programme>
-  <programme start="20220515090000 +0100" stop="20220515093000 +0100" channel="BTV1">
-    <title lang="pt">Magazine Trial 4X4</title>
+  <programme start="20220522010000 +0100" stop="20220522012500 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
   </programme>
-  <programme start="20220515093000 +0100" stop="20220515100000 +0100" channel="BTV1">
-    <title lang="pt">Benfica 10 Horas</title>
+  <programme start="20220522013000 +0100" stop="20220522033000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola De Sábado</title>
   </programme>
-  <programme start="20220515100000 +0100" stop="20220515130000 +0100" channel="BTV1">
-    <title lang="pt">15º Encontro Nacional de Escolas SLB</title>
+  <programme start="20220522033000 +0100" stop="20220522035500 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
   </programme>
-  <programme start="20220515130000 +0100" stop="20220515133000 +0100" channel="BTV1">
-    <title lang="pt">Vermelho Claro</title>
+  <programme start="20220522035500 +0100" stop="20220522042000 +0100" channel="A BOLA TV">
+    <title lang="pt">Isto É Futebol</title>
   </programme>
-  <programme start="20220515133000 +0100" stop="20220515140000 +0100" channel="BTV1">
-    <title lang="pt">Off Road Magazine</title>
+  <programme start="20220522042000 +0100" stop="20220522045000 +0100" channel="A BOLA TV">
+    <title lang="pt">Jogar Em Casa</title>
   </programme>
-  <programme start="20220515140000 +0100" stop="20220515150000 +0100" channel="BTV1">
-    <title lang="pt">Benfica 14 Horas</title>
+  <programme start="20220522045000 +0100" stop="20220522052000 +0100" channel="A BOLA TV">
+    <title lang="pt">Desporto Motorizado</title>
   </programme>
-  <programme start="20220515150000 +0100" stop="20220515170000 +0100" channel="BTV1">
-    <title lang="pt">Futebol Feminino - Famalicão x SLB - Direto</title>
+  <programme start="20220522052000 +0100" stop="20220522055000 +0100" channel="A BOLA TV">
+    <title lang="pt">Rivalidades</title>
   </programme>
-  <programme start="20220515170000 +0100" stop="20220515173000 +0100" channel="BTV1">
-    <title lang="pt">Notícias</title>
+  <programme start="20220522055000 +0100" stop="20220522060500 +0100" channel="A BOLA TV">
+    <title lang="pt">Fairplay</title>
   </programme>
-  <programme start="20220515173000 +0100" stop="20220515190000 +0100" channel="BTV1">
-    <title lang="pt">Futsal Juniores - SLB x SC Braga - Rep.</title>
+  <programme start="20220522060500 +0100" stop="20220522063000 +0100" channel="A BOLA TV">
+    <title lang="pt">Quem É Vivo Sempre Aparece</title>
   </programme>
-  <programme start="20220515190000 +0100" stop="20220515203000 +0100" channel="BTV1">
-    <title lang="pt">Futsal Sub-17 - SLB x Sporting - Direto</title>
+  <programme start="20220522063000 +0100" stop="20220522065500 +0100" channel="A BOLA TV">
+    <title lang="pt">Bastidores F1</title>
   </programme>
-  <programme start="20220515203000 +0100" stop="20220515210000 +0100" channel="BTV1">
-    <title lang="pt">Benfica 21 Horas</title>
+  <programme start="20220522070000 +0100" stop="20220522072500 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
   </programme>
-  <programme start="20220515210000 +0100" stop="20220515223000 +0100" channel="BTV1">
-    <title lang="pt">Futsal Feminino - SLB x ACDR Arneiros - Rep.</title>
+  <programme start="20220522072500 +0100" stop="20220522075500 +0100" channel="A BOLA TV">
+    <title lang="pt">Vendée Globe</title>
   </programme>
-  <programme start="20220515223000 +0100" stop="20220516000000 +0100" channel="BTV1">
-    <title lang="pt">Futsal Sub-19 Juniores Femininos - SLB x ADCR Caxinas - Rep.</title>
+  <programme start="20220522080000 +0100" stop="20220522082500 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
   </programme>
-  <programme start="20220516000000 +0100" stop="20220516003000 +0100" channel="BTV1">
-    <title lang="pt">Benfica 24 Horas</title>
+  <programme start="20220522082500 +0100" stop="20220522084000 +0100" channel="A BOLA TV">
+    <title lang="pt">Custom Series</title>
   </programme>
-  <programme start="20220516003000 +0100" stop="20220516020000 +0100" channel="BTV1">
-    <title lang="pt">Futsal Juniores - SLB x SC Braga - Rep.</title>
+  <programme start="20220522084500 +0100" stop="20220522091500 +0100" channel="A BOLA TV">
+    <title lang="pt">Memórias</title>
   </programme>
-  <programme start="20220516020000 +0100" stop="20220516040000 +0100" channel="BTV1">
-    <title lang="pt">Futebol Feminino - Famalicão x SLB - Rep.</title>
+  <programme start="20220522091500 +0100" stop="20220522094500 +0100" channel="A BOLA TV">
+    <title lang="pt">Dream Teams</title>
   </programme>
-  <programme start="20220516040000 +0100" stop="20220516043000 +0100" channel="BTV1">
-    <title lang="pt">Benfica 24 Horas</title>
+  <programme start="20220522094500 +0100" stop="20220522100000 +0100" channel="A BOLA TV">
+    <title lang="pt">Magazine BTT-TV</title>
   </programme>
-  <programme start="20220516043000 +0100" stop="20220516070000 +0100" channel="BTV1">
-    <title lang="pt">15º Encontro Nacional de Escolas SLB</title>
+  <programme start="20220522100000 +0100" stop="20220522102500 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Das 10</title>
   </programme>
-  <programme start="20220516070000 +0100" stop="20220516130000 +0100" channel="BTV1">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+  <programme start="20220522103000 +0100" stop="20220522110000 +0100" channel="A BOLA TV">
+    <title lang="pt">Magazine TT</title>
   </programme>
-  <programme start="20220516130000 +0100" stop="20220516190000 +0100" channel="BTV1">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+  <programme start="20220522110000 +0100" stop="20220522113000 +0100" channel="A BOLA TV">
+    <title lang="pt">Compacto Desportivo</title>
   </programme>
-  <programme start="20220516190000 +0100" stop="20220517010000 +0100" channel="BTV1">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+  <programme start="20220522113000 +0100" stop="20220522120000 +0100" channel="A BOLA TV">
+    <title lang="pt">Deixa Rolar</title>
+  </programme>
+  <programme start="20220522120000 +0100" stop="20220522122500 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Do Meio Dia</title>
+  </programme>
+  <programme start="20220522122500 +0100" stop="20220522125000 +0100" channel="A BOLA TV">
+    <title lang="pt">Bastidores F1</title>
+  </programme>
+  <programme start="20220522125500 +0100" stop="20220522132000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Da Uma</title>
+  </programme>
+  <programme start="20220522132500 +0100" stop="20220522135500 +0100" channel="A BOLA TV">
+    <title lang="pt">Motores</title>
+  </programme>
+  <programme start="20220522140000 +0100" stop="20220522142500 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Das 2</title>
+  </programme>
+  <programme start="20220522142500 +0100" stop="20220522145500 +0100" channel="A BOLA TV">
+    <title lang="pt">Diamantes Na Areia</title>
+  </programme>
+  <programme start="20220522145500 +0100" stop="20220522153000 +0100" channel="A BOLA TV">
+    <title lang="pt">Entrevista</title>
+  </programme>
+  <programme start="20220522153000 +0100" stop="20220522154000 +0100" channel="A BOLA TV">
+    <title lang="pt">Roda De Bola</title>
+  </programme>
+  <programme start="20220522154000 +0100" stop="20220522161500 +0100" channel="A BOLA TV">
+    <title lang="pt">Entrevista</title>
+  </programme>
+  <programme start="20220522161500 +0100" stop="20220522171500 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Da Tarde</title>
+  </programme>
+  <programme start="20220522171500 +0100" stop="20220522174500 +0100" channel="A BOLA TV">
+    <title lang="pt">Especial</title>
+  </programme>
+  <programme start="20220522174500 +0100" stop="20220522180000 +0100" channel="A BOLA TV">
+    <title lang="pt">Flag</title>
+  </programme>
+  <programme start="20220522180000 +0100" stop="20220522181500 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Das 6</title>
+  </programme>
+  <programme start="20220522181500 +0100" stop="20220522183000 +0100" channel="A BOLA TV">
+    <title lang="pt">The Coaches\u0027 Voice</title>
+  </programme>
+  <programme start="20220522183000 +0100" stop="20220522190000 +0100" channel="A BOLA TV">
+    <title lang="pt">Dream Teams</title>
+  </programme>
+  <programme start="20220522190500 +0100" stop="20220522201500 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Das 7</title>
+  </programme>
+  <programme start="20220522201500 +0100" stop="20220522203000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Das 8</title>
+  </programme>
+  <programme start="20220522203000 +0100" stop="20220522210000 +0100" channel="A BOLA TV">
+    <title lang="pt">Isto É Futebol</title>
+  </programme>
+  <programme start="20220522210000 +0100" stop="20220522213000 +0100" channel="A BOLA TV">
+    <title lang="pt">Deixa Rolar</title>
+  </programme>
+  <programme start="20220522213000 +0100" stop="20220522220000 +0100" channel="A BOLA TV">
+    <title lang="pt">Lendas Dos Mundiais</title>
+  </programme>
+  <programme start="20220522220000 +0100" stop="20220523000000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola De Domingo</title>
+  </programme>
+  <programme start="20220523000000 +0100" stop="20220523003000 +0100" channel="A BOLA TV">
+    <title lang="pt">Black Power</title>
+  </programme>
+  <programme start="20220523003000 +0100" stop="20220523010000 +0100" channel="A BOLA TV">
+    <title lang="pt">Rivalidades</title>
+  </programme>
+  <programme start="20220523010000 +0100" stop="20220523012500 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
+  </programme>
+  <programme start="20220523013000 +0100" stop="20220523033000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola De Domingo</title>
+  </programme>
+  <programme start="20220523033000 +0100" stop="20220523035500 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
+  </programme>
+  <programme start="20220523035500 +0100" stop="20220523042500 +0100" channel="A BOLA TV">
+    <title lang="pt">Dream Teams</title>
+  </programme>
+  <programme start="20220523042500 +0100" stop="20220523045500 +0100" channel="A BOLA TV">
+    <title lang="pt">Compacto Desportivo</title>
+  </programme>
+  <programme start="20220523045500 +0100" stop="20220523052500 +0100" channel="A BOLA TV">
+    <title lang="pt">Magazine TT</title>
+  </programme>
+  <programme start="20220523052500 +0100" stop="20220523055500 +0100" channel="A BOLA TV">
+    <title lang="pt">Isto É Futebol</title>
+  </programme>
+  <programme start="20220523055500 +0100" stop="20220523060500 +0100" channel="A BOLA TV">
+    <title lang="pt">Fairplay</title>
+  </programme>
+  <programme start="20220523060500 +0100" stop="20220523063000 +0100" channel="A BOLA TV">
+    <title lang="pt">Diamantes Na Areia</title>
+  </programme>
+  <programme start="20220523063000 +0100" stop="20220523073000 +0100" channel="A BOLA TV">
+    <title lang="pt">Motores</title>
   </programme>
   <programme start="20220517010000 +0100" stop="20220517070000 +0100" channel="BTV1">
     <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
@@ -982,72 +847,6 @@
     <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
   </programme>
   <programme start="20220520130000 +0100" stop="20220520190000 +0100" channel="BTV1">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220515010000 +0100" stop="20220515020000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Super Mister Quiz</title>
-  </programme>
-  <programme start="20220515020000 +0100" stop="20220515040000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Liga 3 - U. Torreense x UD Oliveirense</title>
-  </programme>
-  <programme start="20220515040000 +0100" stop="20220515053000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Liga de Futsal</title>
-  </programme>
-  <programme start="20220515053000 +0100" stop="20220515070000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Liga de Futsal - Quinta dos Lombos x Sporting</title>
-  </programme>
-  <programme start="20220515070000 +0100" stop="20220515075500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sagrado Balneário</title>
-  </programme>
-  <programme start="20220515075500 +0100" stop="20220515085500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Super Mister Quiz</title>
-  </programme>
-  <programme start="20220515085500 +0100" stop="20220515105500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Torneio Desenvolvimento UEFA Sub-16 Feminino - Islândia x Espanha</title>
-  </programme>
-  <programme start="20220515105500 +0100" stop="20220515130000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Campeonato de Portugal 2021-22 - Salgueiros x Marítimo B</title>
-  </programme>
-  <programme start="20220515130000 +0100" stop="20220515145500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Campeonato Nacional de Sub-15 - SC Braga x Benfica</title>
-  </programme>
-  <programme start="20220515145500 +0100" stop="20220515165500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Liga Portugal 2 - Feirense x Nacional</title>
-  </programme>
-  <programme start="20220515165500 +0100" stop="20220515190000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Liga 3 - Playoff - U. Leiria x Alverca</title>
-  </programme>
-  <programme start="20220515190000 +0100" stop="20220515195500 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
-  </programme>
-  <programme start="20220515195500 +0100" stop="20220515220000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Brasileirão - Botafogo x Fortaleza</title>
-  </programme>
-  <programme start="20220515220000 +0100" stop="20220515233000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Campeonato Nacional de Sub-17 de Futsal - Benfica x Sporting</title>
-  </programme>
-  <programme start="20220515233000 +0100" stop="20220516003000 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
-  </programme>
-  <programme start="20220516003000 +0100" stop="20220516013000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Super Mister Quiz</title>
-  </programme>
-  <programme start="20220516013000 +0100" stop="20220516033000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Liga Portugal 2 - Feirense x Nacional</title>
-  </programme>
-  <programme start="20220516033000 +0100" stop="20220516053000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Liga 3 - Playoff - U. Leiria x Alverca</title>
-  </programme>
-  <programme start="20220516053000 +0100" stop="20220516093000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Brasileirão - Botafogo x Fortaleza</title>
-  </programme>
-  <programme start="20220516093000 +0100" stop="20220516153000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516153000 +0100" stop="20220516213000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516213000 +0100" stop="20220517033000 +0100" channel="Canal 11 HD">
     <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
   </programme>
   <programme start="20220517033000 +0100" stop="20220517093000 +0100" channel="Canal 11 HD">
@@ -1095,87 +894,6 @@
   <programme start="20220520153000 +0100" stop="20220520213000 +0100" channel="Canal 11 HD">
     <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
   </programme>
-  <programme start="20220515020000 +0100" stop="20220515040000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Ligue 1 Uber Eats - Montpellier x PSG</title>
-  </programme>
-  <programme start="20220515040000 +0100" stop="20220515050000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Champions League - Jogos Clássicos</title>
-  </programme>
-  <programme start="20220515050000 +0100" stop="20220515060000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Documentário: 24/7 FC</title>
-  </programme>
-  <programme start="20220515060000 +0100" stop="20220515061500 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Bundesliga Special - Entrevista do Mês</title>
-  </programme>
-  <programme start="20220515061500 +0100" stop="20220515071500 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Champions League - Jogos Clássicos</title>
-  </programme>
-  <programme start="20220515071500 +0100" stop="20220515080000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Tiki-Tática</title>
-  </programme>
-  <programme start="20220515080000 +0100" stop="20220515083000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UCL - As Melhores Finais da História</title>
-  </programme>
-  <programme start="20220515083000 +0100" stop="20220515090000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Champions League Magazine</title>
-  </programme>
-  <programme start="20220515090000 +0100" stop="20220515093000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UEFA Youth League - A Final</title>
-  </programme>
-  <programme start="20220515093000 +0100" stop="20220515100000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga World</title>
-  </programme>
-  <programme start="20220515100000 +0100" stop="20220515110000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Documentário: 24/7 FC</title>
-  </programme>
-  <programme start="20220515110000 +0100" stop="20220515113000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga Nations</title>
-  </programme>
-  <programme start="20220515113000 +0100" stop="20220515123000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Tiki-Tática</title>
-  </programme>
-  <programme start="20220515123000 +0100" stop="20220515143000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Jupiler Pro League - Antwerp x Club Brugge (Direto)</title>
-  </programme>
-  <programme start="20220515143000 +0100" stop="20220515163000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Bundesliga 2 - FC Nürnberg x Schalke 04 (Direto)</title>
-  </programme>
-  <programme start="20220515163000 +0100" stop="20220515173000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga - Resumos da Jornada</title>
-  </programme>
-  <programme start="20220515173000 +0100" stop="20220515193000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga Santander - Cádiz x Real Madrid (Direto)</title>
-  </programme>
-  <programme start="20220515193000 +0100" stop="20220515200000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga Zap</title>
-  </programme>
-  <programme start="20220515200000 +0100" stop="20220515220000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga SmartBank - Tenerife x Málaga (Direto)</title>
-  </programme>
-  <programme start="20220515220000 +0100" stop="20220516000000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga Santander - Getafe x Barcelona</title>
-  </programme>
-  <programme start="20220516000000 +0100" stop="20220516020000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Bundesliga 2 - FC Nürnberg x Schalke 04</title>
-  </programme>
-  <programme start="20220516020000 +0100" stop="20220516040000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Ligue 1 Uber Eats - Mónaco x Brest</title>
-  </programme>
-  <programme start="20220516040000 +0100" stop="20220516060000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Champions League - Jogos Clássicos</title>
-  </programme>
-  <programme start="20220516060000 +0100" stop="20220516120000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516120000 +0100" stop="20220516180000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516180000 +0100" stop="20220517000000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220517000000 +0100" stop="20220517060000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
   <programme start="20220517060000 +0100" stop="20220517120000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
   </programme>
@@ -1219,90 +937,6 @@
     <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
   </programme>
   <programme start="20220520180000 +0100" stop="20220521000000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220515003000 +0100" stop="20220515004500 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Ligue 1 - Talking Talent</title>
-  </programme>
-  <programme start="20220515004500 +0100" stop="20220515024500 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Ligue 1 Uber Eats - Rennes x Marseille</title>
-  </programme>
-  <programme start="20220515024500 +0100" stop="20220515030000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Bundesliga Special - Entrevista do Mês</title>
-  </programme>
-  <programme start="20220515030000 +0100" stop="20220515050000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Bundesliga - Bielefeld x RB Leipzig</title>
-  </programme>
-  <programme start="20220515050000 +0100" stop="20220515070000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">La Liga Santander - Sevilha x Mallorca</title>
-  </programme>
-  <programme start="20220515070000 +0100" stop="20220515090000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Bundesliga - B. Dortmund x Hertha</title>
-  </programme>
-  <programme start="20220515090000 +0100" stop="20220515110000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">La Liga Santander - Barcelona x Celta</title>
-  </programme>
-  <programme start="20220515110000 +0100" stop="20220515130000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Ligue 1 Uber Eats - Montpellier x PSG</title>
-  </programme>
-  <programme start="20220515130000 +0100" stop="20220515133000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">UEFA Champions League Magazine</title>
-  </programme>
-  <programme start="20220515133000 +0100" stop="20220515140000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">La Liga World</title>
-  </programme>
-  <programme start="20220515140000 +0100" stop="20220515143000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Bundesliga Special - Entrevista do Mês</title>
-  </programme>
-  <programme start="20220515143000 +0100" stop="20220515163000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Bundesliga 2 - W. Bremen x SSV Jahn Regensburg (Direto)</title>
-  </programme>
-  <programme start="20220515163000 +0100" stop="20220515170000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">UEFA Champions League Magazine</title>
-  </programme>
-  <programme start="20220515170000 +0100" stop="20220515173000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">La Liga 5 Things</title>
-  </programme>
-  <programme start="20220515173000 +0100" stop="20220515193000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">La Liga Santander - Getafe x Barcelona (Direto)</title>
-  </programme>
-  <programme start="20220515193000 +0100" stop="20220515194500 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">La Liga 5 Things</title>
-  </programme>
-  <programme start="20220515194500 +0100" stop="20220515201500 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">La Liga Chronicles</title>
-  </programme>
-  <programme start="20220515201500 +0100" stop="20220515203000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Bundesliga Special - Entrevista do Mês</title>
-  </programme>
-  <programme start="20220515203000 +0100" stop="20220515223000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Bundesliga - Wolfsburg x B. Munique</title>
-  </programme>
-  <programme start="20220515223000 +0100" stop="20220515231500 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Tiki-Tática</title>
-  </programme>
-  <programme start="20220515231500 +0100" stop="20220515233000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Ligue 1 - Talking Talent</title>
-  </programme>
-  <programme start="20220515233000 +0100" stop="20220516013000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">La Liga Santander - Cádiz x Real Madrid</title>
-  </programme>
-  <programme start="20220516013000 +0100" stop="20220516020000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">La Liga World</title>
-  </programme>
-  <programme start="20220516020000 +0100" stop="20220516040000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Ligue 1 Uber Eats - Nice x Lille</title>
-  </programme>
-  <programme start="20220516040000 +0100" stop="20220516063000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">La Liga Talking Football</title>
-  </programme>
-  <programme start="20220516063000 +0100" stop="20220516123000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516123000 +0100" stop="20220516183000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516183000 +0100" stop="20220517003000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
   </programme>
   <programme start="20220517003000 +0100" stop="20220517063000 +0100" channel="ELEVEN SPORTS 2">
@@ -1353,102 +987,6 @@
   <programme start="20220520183000 +0100" stop="20220521003000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
   </programme>
-  <programme start="20220515020000 +0100" stop="20220515051500 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20220515051500 +0100" stop="20220515054500 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">NASCAR Cup Series - The Pace Lap</title>
-  </programme>
-  <programme start="20220515054500 +0100" stop="20220515061500 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">ABB FIA Fórmula E - Berlim - Melhores Momentos 2</title>
-  </programme>
-  <programme start="20220515061500 +0100" stop="20220515071500 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Fórmula E - E-Prix Berlim - Treinos Livres 3 (Direto)</title>
-  </programme>
-  <programme start="20220515071500 +0100" stop="20220515073000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">ABB FIA Fórmula E - Berlim - Melhores Momentos 2</title>
-  </programme>
-  <programme start="20220515073000 +0100" stop="20220515080000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Reportagem Trail Run - Circuito ATRP/FPA</title>
-  </programme>
-  <programme start="20220515080000 +0100" stop="20220515090000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Fórmula E - E-Prix Berlim - Treinos Livres 4 (Direto)</title>
-  </programme>
-  <programme start="20220515090000 +0100" stop="20220515091500 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Reportagem Trail Run - Circuito ATRP/FPA</title>
-  </programme>
-  <programme start="20220515091500 +0100" stop="20220515094500 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">ABB FIA Fórmula E - Berlim - Melhores Momentos 2</title>
-  </programme>
-  <programme start="20220515094500 +0100" stop="20220515110000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Fórmula E - E-Prix Berlim - Qualificação 2 (Direto)</title>
-  </programme>
-  <programme start="20220515110000 +0100" stop="20220515111500 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Custom Series</title>
-  </programme>
-  <programme start="20220515111500 +0100" stop="20220515124500 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Fórmula E - E-Prix Berlim - Corrida 1</title>
-  </programme>
-  <programme start="20220515124500 +0100" stop="20220515131500 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Fora de Estrada</title>
-  </programme>
-  <programme start="20220515131500 +0100" stop="20220515140300 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Fórmula E Eleven (Direto)</title>
-  </programme>
-  <programme start="20220515140300 +0100" stop="20220515150000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Fórmula E - E-Prix Berlim - Corrida 2 (Direto)</title>
-  </programme>
-  <programme start="20220515150000 +0100" stop="20220515153000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Fórmula E Eleven (Direto)</title>
-  </programme>
-  <programme start="20220515153000 +0100" stop="20220515154500 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">ABB FIA Fórmula E - Berlim - Melhores Momentos 2</title>
-  </programme>
-  <programme start="20220515154500 +0100" stop="20220515161500 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Fora de Estrada</title>
-  </programme>
-  <programme start="20220515161500 +0100" stop="20220515164500 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">4X4 Trial Magazine</title>
-  </programme>
-  <programme start="20220515164500 +0100" stop="20220515173000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">NASCAR Cup Series - The Pace Lap</title>
-  </programme>
-  <programme start="20220515173000 +0100" stop="20220515193000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">La Liga Santander - At. Madrid x Sevilha (Direto)</title>
-  </programme>
-  <programme start="20220515193000 +0100" stop="20220515200000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">NASCAR Cup Series - The Pace Lap</title>
-  </programme>
-  <programme start="20220515200000 +0100" stop="20220516000000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">NASCAR Cup Series - Kansas Speedway (Direto)</title>
-  </programme>
-  <programme start="20220516000000 +0100" stop="20220516001500 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">ABB FIA Fórmula E - Berlim - Melhores Momentos 2</title>
-  </programme>
-  <programme start="20220516001500 +0100" stop="20220516003000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Reportagem Trail Run - Circuito ATRP/FPA</title>
-  </programme>
-  <programme start="20220516003000 +0100" stop="20220516010000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">4X4 Trial Magazine</title>
-  </programme>
-  <programme start="20220516010000 +0100" stop="20220516013000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Fora de Estrada</title>
-  </programme>
-  <programme start="20220516013000 +0100" stop="20220516020000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20220516020000 +0100" stop="20220516080000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516080000 +0100" stop="20220516140000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516140000 +0100" stop="20220516200000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516200000 +0100" stop="20220517020000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
   <programme start="20220517020000 +0100" stop="20220517080000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
   </programme>
@@ -1492,78 +1030,6 @@
     <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
   </programme>
   <programme start="20220520140000 +0100" stop="20220520200000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220515050000 +0100" stop="20220515093000 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20220515093000 +0100" stop="20220515094500 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">Custom Series</title>
-  </programme>
-  <programme start="20220515094500 +0100" stop="20220515100000 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">Tennis United</title>
-  </programme>
-  <programme start="20220515100000 +0100" stop="20220515101500 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">Tennis United</title>
-  </programme>
-  <programme start="20220515101500 +0100" stop="20220515103000 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">Tennis United</title>
-  </programme>
-  <programme start="20220515103000 +0100" stop="20220515104500 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">Tennis United</title>
-  </programme>
-  <programme start="20220515104500 +0100" stop="20220515110000 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">Tennis United</title>
-  </programme>
-  <programme start="20220515110000 +0100" stop="20220515111500 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">Tennis United</title>
-  </programme>
-  <programme start="20220515111500 +0100" stop="20220515113000 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">Tennis United</title>
-  </programme>
-  <programme start="20220515113000 +0100" stop="20220515120000 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">WTA Highlights</title>
-  </programme>
-  <programme start="20220515120000 +0100" stop="20220515154500 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">WTA 1000 - Roma - Final (Direto)</title>
-  </programme>
-  <programme start="20220515154500 +0100" stop="20220515160000 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">Tennis United</title>
-  </programme>
-  <programme start="20220515160000 +0100" stop="20220515161500 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">Tennis United</title>
-  </programme>
-  <programme start="20220515161500 +0100" stop="20220515163000 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">Tennis United</title>
-  </programme>
-  <programme start="20220515163000 +0100" stop="20220515164500 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">Tennis United</title>
-  </programme>
-  <programme start="20220515164500 +0100" stop="20220515170000 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">Tennis United</title>
-  </programme>
-  <programme start="20220515170000 +0100" stop="20220515173000 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">La Liga 5 Things</title>
-  </programme>
-  <programme start="20220515173000 +0100" stop="20220515193000 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">La Liga Santander - Villarreal x Real Sociedad (Direto)</title>
-  </programme>
-  <programme start="20220515193000 +0100" stop="20220515233000 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20220515233000 +0100" stop="20220516053000 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516053000 +0100" stop="20220516113000 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516113000 +0100" stop="20220516173000 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516173000 +0100" stop="20220516233000 +0100" channel="ELEVEN SPORTS 4">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516233000 +0100" stop="20220517053000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
   </programme>
   <programme start="20220517053000 +0100" stop="20220517113000 +0100" channel="ELEVEN SPORTS 4">
@@ -1611,39 +1077,6 @@
   <programme start="20220520173000 +0100" stop="20220520233000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
   </programme>
-  <programme start="20220515050000 +0100" stop="20220515143000 +0100" channel="ELEVEN SPORTS 5">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20220515143000 +0100" stop="20220515150000 +0100" channel="ELEVEN SPORTS 5">
-    <title lang="pt">La Liga Zap</title>
-  </programme>
-  <programme start="20220515150000 +0100" stop="20220515170000 +0100" channel="ELEVEN SPORTS 5">
-    <title lang="pt">Jupiler Pro League - Genk x Gent (Direto)</title>
-  </programme>
-  <programme start="20220515170000 +0100" stop="20220515173000 +0100" channel="ELEVEN SPORTS 5">
-    <title lang="pt">La Liga 5 Things</title>
-  </programme>
-  <programme start="20220515173000 +0100" stop="20220515193000 +0100" channel="ELEVEN SPORTS 5">
-    <title lang="pt">La Liga Santander - Bétis x Granada (Direto)</title>
-  </programme>
-  <programme start="20220515193000 +0100" stop="20220515233000 +0100" channel="ELEVEN SPORTS 5">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20220515233000 +0100" stop="20220516053000 +0100" channel="ELEVEN SPORTS 5">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516053000 +0100" stop="20220516113000 +0100" channel="ELEVEN SPORTS 5">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516113000 +0100" stop="20220516173000 +0100" channel="ELEVEN SPORTS 5">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516173000 +0100" stop="20220516233000 +0100" channel="ELEVEN SPORTS 5">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516233000 +0100" stop="20220517053000 +0100" channel="ELEVEN SPORTS 5">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
   <programme start="20220517053000 +0100" stop="20220517113000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
   </programme>
@@ -1687,30 +1120,6 @@
     <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
   </programme>
   <programme start="20220520173000 +0100" stop="20220520233000 +0100" channel="ELEVEN SPORTS 5">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220515170000 +0100" stop="20220515173000 +0100" channel="ELEVEN SPORTS 6">
-    <title lang="pt">La Liga Zap</title>
-  </programme>
-  <programme start="20220515173000 +0100" stop="20220515193000 +0100" channel="ELEVEN SPORTS 6">
-    <title lang="pt">La Liga Santander - Levante x Alavés (Direto)</title>
-  </programme>
-  <programme start="20220515193000 +0100" stop="20220515233000 +0100" channel="ELEVEN SPORTS 6">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20220515233000 +0100" stop="20220516053000 +0100" channel="ELEVEN SPORTS 6">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516053000 +0100" stop="20220516113000 +0100" channel="ELEVEN SPORTS 6">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516113000 +0100" stop="20220516173000 +0100" channel="ELEVEN SPORTS 6">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516173000 +0100" stop="20220516233000 +0100" channel="ELEVEN SPORTS 6">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516233000 +0100" stop="20220517053000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
   </programme>
   <programme start="20220517053000 +0100" stop="20220517113000 +0100" channel="ELEVEN SPORTS 6">
@@ -1757,102 +1166,6 @@
   </programme>
   <programme start="20220520173000 +0100" stop="20220520233000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220515003000 +0100" stop="20220515010000 +0100" channel="Eurosport 1">
-    <title lang="pt">Automobilismo: Taça do Mundo, Pau - Resumo</title>
-  </programme>
-  <programme start="20220515010000 +0100" stop="20220515020000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ténis: Roland Garros - Best Of</title>
-  </programme>
-  <programme start="20220515020000 +0100" stop="20220515033000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ciclismo: Volta a Itália - Etapa 8</title>
-  </programme>
-  <programme start="20220515033000 +0100" stop="20220515043000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ciclismo: Volta à Hungria</title>
-  </programme>
-  <programme start="20220515043000 +0100" stop="20220515053000 +0100" channel="Eurosport 1">
-    <title lang="pt">Hipismo: Global Champions Tour - Saltos</title>
-  </programme>
-  <programme start="20220515053000 +0100" stop="20220515073000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ciclismo: Volta a Itália - Etapa 8</title>
-  </programme>
-  <programme start="20220515073000 +0100" stop="20220515083000 +0100" channel="Eurosport 1">
-    <title lang="pt">Triatlo: Super League</title>
-  </programme>
-  <programme start="20220515083000 +0100" stop="20220515093000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ténis: Roland Garros - Best Of</title>
-  </programme>
-  <programme start="20220515093000 +0100" stop="20220515102500 +0100" channel="Eurosport 1">
-    <title lang="pt">Ciclismo: Volta a Itália - Etapa 8</title>
-  </programme>
-  <programme start="20220515102500 +0100" stop="20220515164500 +0100" channel="Eurosport 1">
-    <title lang="pt">Ciclismo: Volta a Itália, Etapa 9 (Direto)</title>
-  </programme>
-  <programme start="20220515164500 +0100" stop="20220515180000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ciclismo: Volta à Hungria</title>
-  </programme>
-  <programme start="20220515180000 +0100" stop="20220515195500 +0100" channel="Eurosport 1">
-    <title lang="pt">Ténis: Roland Garros</title>
-  </programme>
-  <programme start="20220515200000 +0100" stop="20220515220000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ciclismo: Volta a Itália - Etapa 9</title>
-  </programme>
-  <programme start="20220515220000 +0100" stop="20220515225000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ciclismo: Volta à Hungria</title>
-  </programme>
-  <programme start="20220515230000 +0100" stop="20220516003000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ciclismo: Volta a Itália - Etapa 9</title>
-  </programme>
-  <programme start="20220516003000 +0100" stop="20220516020000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ténis: Roland Garros</title>
-  </programme>
-  <programme start="20220516020000 +0100" stop="20220516033000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ciclismo: Volta a Itália</title>
-  </programme>
-  <programme start="20220516033000 +0100" stop="20220516053000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ténis: Open da Austrália</title>
-  </programme>
-  <programme start="20220516053000 +0100" stop="20220516073000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ciclismo: Volta a Itália</title>
-  </programme>
-  <programme start="20220516073000 +0100" stop="20220516090000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ciclismo: Volta a Itália</title>
-  </programme>
-  <programme start="20220516090000 +0100" stop="20220516103000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ténis: Open da Austrália</title>
-  </programme>
-  <programme start="20220516103000 +0100" stop="20220516115500 +0100" channel="Eurosport 1">
-    <title lang="pt">Ténis: Open da Austrália</title>
-  </programme>
-  <programme start="20220516120000 +0100" stop="20220516133000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ciclismo: Volta a Itália</title>
-  </programme>
-  <programme start="20220516133000 +0100" stop="20220516150000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ciclismo: Volta a Itália</title>
-  </programme>
-  <programme start="20220516150000 +0100" stop="20220516163000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ciclismo: Volta a Itália</title>
-  </programme>
-  <programme start="20220516163500 +0100" stop="20220516175500 +0100" channel="Eurosport 1">
-    <title lang="pt">Ténis: Open da Austrália</title>
-  </programme>
-  <programme start="20220516180000 +0100" stop="20220516183000 +0100" channel="Eurosport 1">
-    <title lang="pt">Magazine: Teqball Show</title>
-  </programme>
-  <programme start="20220516183500 +0100" stop="20220516200000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ciclismo: Volta a Itália</title>
-  </programme>
-  <programme start="20220516200000 +0100" stop="20220516210000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ciclismo: Volta à Hungria - Resumo</title>
-  </programme>
-  <programme start="20220516210500 +0100" stop="20220516230000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ténis: Open da Austrália</title>
-  </programme>
-  <programme start="20220516230000 +0100" stop="20220516234500 +0100" channel="Eurosport 1">
-    <title lang="pt">Ciclismo: Volta a Itália</title>
-  </programme>
-  <programme start="20220516234500 +0100" stop="20220517003000 +0100" channel="Eurosport 1">
-    <title lang="pt">Ciclismo: Volta a Itália</title>
   </programme>
   <programme start="20220517003000 +0100" stop="20220517020000 +0100" channel="Eurosport 1">
     <title lang="pt">Ténis: Open da Austrália</title>
@@ -2048,165 +1361,6 @@
   </programme>
   <programme start="20220520230500 +0100" stop="20220521003000 +0100" channel="Eurosport 1">
     <title lang="pt">Ciclismo: Volta a Itália - Etapa 13</title>
-  </programme>
-  <programme start="20220515003000 +0100" stop="20220515020000 +0100" channel="Eurosport 2">
-    <title lang="pt">Ciclismo: Volta a Itália</title>
-  </programme>
-  <programme start="20220515020000 +0100" stop="20220515023000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MX2 - Corrida 2</title>
-  </programme>
-  <programme start="20220515023000 +0100" stop="20220515030000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MXGP - Corrida 1</title>
-  </programme>
-  <programme start="20220515030000 +0100" stop="20220515033000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MXGP - Corrida 2</title>
-  </programme>
-  <programme start="20220515033000 +0100" stop="20220515053000 +0100" channel="Eurosport 2">
-    <title lang="pt">Ciclismo: Volta a Itália - Etapa 8</title>
-  </programme>
-  <programme start="20220515053000 +0100" stop="20220515060000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MX2 - Corrida 1</title>
-  </programme>
-  <programme start="20220515060000 +0100" stop="20220515063000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MX2 - Corrida 2</title>
-  </programme>
-  <programme start="20220515063000 +0100" stop="20220515070000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MXGP - Corrida 1</title>
-  </programme>
-  <programme start="20220515070000 +0100" stop="20220515073000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MXGP - Corrida 2</title>
-  </programme>
-  <programme start="20220515073000 +0100" stop="20220515083000 +0100" channel="Eurosport 2">
-    <title lang="pt">Ciclismo: Volta à Hungria</title>
-  </programme>
-  <programme start="20220515083000 +0100" stop="20220515093000 +0100" channel="Eurosport 2">
-    <title lang="pt">Ciclismo: Volta a Itália - Etapa 8</title>
-  </programme>
-  <programme start="20220515093000 +0100" stop="20220515114000 +0100" channel="Eurosport 2">
-    <title lang="pt">Ténis</title>
-  </programme>
-  <programme start="20220515114000 +0100" stop="20220515134000 +0100" channel="Eurosport 2">
-    <title lang="pt">Ciclismo: Volta à Hungria, Etapa 5 (Direto)</title>
-  </programme>
-  <programme start="20220515134000 +0100" stop="20220515135000 +0100" channel="Eurosport 2">
-    <title lang="pt">Magazine: Unlock The Power of Sport</title>
-  </programme>
-  <programme start="20220515135000 +0100" stop="20220515150000 +0100" channel="Eurosport 2">
-    <title lang="pt">Fórmula E: ePrix - Berlim, Corrida 2 (Direto)</title>
-  </programme>
-  <programme start="20220515150000 +0100" stop="20220515160000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MX2 - Corrida 2 (Direto)</title>
-  </programme>
-  <programme start="20220515160000 +0100" stop="20220515170000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MXGP - Corrida 2 (Direto)</title>
-  </programme>
-  <programme start="20220515170000 +0100" stop="20220515173000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MX2 - Corrida 1</title>
-  </programme>
-  <programme start="20220515173000 +0100" stop="20220515175500 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MXGP - Corrida 1</title>
-  </programme>
-  <programme start="20220515180000 +0100" stop="20220515225500 +0100" channel="Eurosport 2">
-    <title lang="pt">Golfe: PGA Tour - Byron Nelson - Dia 4 (Direto)</title>
-  </programme>
-  <programme start="20220515230000 +0100" stop="20220515233000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MXGP - Corrida 1</title>
-  </programme>
-  <programme start="20220515233000 +0100" stop="20220516000000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MX2 - Corrida 2</title>
-  </programme>
-  <programme start="20220516000000 +0100" stop="20220516003000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MXGP - Corrida 2</title>
-  </programme>
-  <programme start="20220516003000 +0100" stop="20220516020000 +0100" channel="Eurosport 2">
-    <title lang="pt">Ciclismo: Volta a Itália - Etapa 9</title>
-  </programme>
-  <programme start="20220516020000 +0100" stop="20220516023000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MXGP - Corrida 1</title>
-  </programme>
-  <programme start="20220516023000 +0100" stop="20220516030000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MX2 - Corrida 2</title>
-  </programme>
-  <programme start="20220516030000 +0100" stop="20220516033000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MXGP - Corrida 2</title>
-  </programme>
-  <programme start="20220516033000 +0100" stop="20220516053000 +0100" channel="Eurosport 2">
-    <title lang="pt">Ciclismo: Volta a Itália</title>
-  </programme>
-  <programme start="20220516053000 +0100" stop="20220516060000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MX2 - Corrida 1</title>
-  </programme>
-  <programme start="20220516060000 +0100" stop="20220516063000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MXGP - Corrida 1</title>
-  </programme>
-  <programme start="20220516063000 +0100" stop="20220516070000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MX2 - Corrida 2</title>
-  </programme>
-  <programme start="20220516070000 +0100" stop="20220516073000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MXGP - Corrida 2</title>
-  </programme>
-  <programme start="20220516073000 +0100" stop="20220516090000 +0100" channel="Eurosport 2">
-    <title lang="pt">Ténis: Open da Austrália</title>
-  </programme>
-  <programme start="20220516090000 +0100" stop="20220516110000 +0100" channel="Eurosport 2">
-    <title lang="pt">Ciclismo: Volta a Itália</title>
-  </programme>
-  <programme start="20220516110000 +0100" stop="20220516120000 +0100" channel="Eurosport 2">
-    <title lang="pt">Ciclismo: Volta à Hungria</title>
-  </programme>
-  <programme start="20220516120000 +0100" stop="20220516133000 +0100" channel="Eurosport 2">
-    <title lang="pt">Ténis: Open da Austrália</title>
-  </programme>
-  <programme start="20220516133000 +0100" stop="20220516140000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MX2 - Corrida 1</title>
-  </programme>
-  <programme start="20220516140000 +0100" stop="20220516143000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MXGP - Corrida 1</title>
-  </programme>
-  <programme start="20220516143000 +0100" stop="20220516150000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MX2 - Corrida 2</title>
-  </programme>
-  <programme start="20220516150000 +0100" stop="20220516153000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MXGP - Corrida 2</title>
-  </programme>
-  <programme start="20220516153000 +0100" stop="20220516163000 +0100" channel="Eurosport 2">
-    <title lang="pt">Ténis: Roland Garros - Best Of</title>
-  </programme>
-  <programme start="20220516163000 +0100" stop="20220516171500 +0100" channel="Eurosport 2">
-    <title lang="pt">Ciclismo: Volta a Itália</title>
-  </programme>
-  <programme start="20220516171500 +0100" stop="20220516175500 +0100" channel="Eurosport 2">
-    <title lang="pt">Ciclismo: Volta a Itália</title>
-  </programme>
-  <programme start="20220516180000 +0100" stop="20220516193000 +0100" channel="Eurosport 2">
-    <title lang="pt">Ténis: Open da Austrália</title>
-  </programme>
-  <programme start="20220516193500 +0100" stop="20220516200000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MX2 - Corrida 1</title>
-  </programme>
-  <programme start="20220516200000 +0100" stop="20220516203000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MXGP - Corrida 1</title>
-  </programme>
-  <programme start="20220516203000 +0100" stop="20220516210000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MX2 - Corrida 2</title>
-  </programme>
-  <programme start="20220516210000 +0100" stop="20220516213000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MXGP - Corrida 2</title>
-  </programme>
-  <programme start="20220516213000 +0100" stop="20220516223000 +0100" channel="Eurosport 2">
-    <title lang="pt">On Board</title>
-  </programme>
-  <programme start="20220516223000 +0100" stop="20220516225500 +0100" channel="Eurosport 2">
-    <title lang="pt">Ciclismo: Volta a Itália</title>
-  </programme>
-  <programme start="20220516230000 +0100" stop="20220516233000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MXGP - Corrida 1</title>
-  </programme>
-  <programme start="20220516233000 +0100" stop="20220517000000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MX2 - Corrida 2</title>
-  </programme>
-  <programme start="20220517000000 +0100" stop="20220517003000 +0100" channel="Eurosport 2">
-    <title lang="pt">Motocross: Mundial - MXGP - Corrida 2</title>
   </programme>
   <programme start="20220517003000 +0100" stop="20220517011500 +0100" channel="Eurosport 2">
     <title lang="pt">Ciclismo: Volta a Itália</title>
@@ -2466,90 +1620,6 @@
   <programme start="20220520223000 +0100" stop="20220521003000 +0100" channel="Eurosport 2">
     <title lang="pt">Ténis: Roland Garros</title>
   </programme>
-  <programme start="20220515010000 +0100" stop="20220515020000 +0100" channel="Globo Now HD">
-    <title lang="pt">Globo Repórter</title>
-  </programme>
-  <programme start="20220515020000 +0100" stop="20220515040000 +0100" channel="Globo Now HD">
-    <title lang="pt">Jornal Das Dez</title>
-  </programme>
-  <programme start="20220515040000 +0100" stop="20220515053000 +0100" channel="Globo Now HD">
-    <title lang="pt">Jornal Globo News - Edição da Meia-Noite</title>
-  </programme>
-  <programme start="20220515053000 +0100" stop="20220515060000 +0100" channel="Globo Now HD">
-    <title lang="pt">Papo de Política</title>
-  </programme>
-  <programme start="20220515060000 +0100" stop="20220515070000 +0100" channel="Globo Now HD">
-    <title lang="pt">Globo Repórter</title>
-  </programme>
-  <programme start="20220515070000 +0100" stop="20220515080000 +0100" channel="Globo Now HD">
-    <title lang="pt">Jornal Globo News - Edição Das 03H</title>
-  </programme>
-  <programme start="20220515080000 +0100" stop="20220515100000 +0100" channel="Globo Now HD">
-    <title lang="pt">Jornal Das Dez</title>
-  </programme>
-  <programme start="20220515100000 +0100" stop="20220515104000 +0100" channel="Globo Now HD">
-    <title lang="pt">Globo Repórter</title>
-  </programme>
-  <programme start="20220515104000 +0100" stop="20220515111000 +0100" channel="Globo Now HD">
-    <title lang="pt">Em Foco Com Andréia Sadi</title>
-  </programme>
-  <programme start="20220515111000 +0100" stop="20220515120000 +0100" channel="Globo Now HD">
-    <title lang="pt">Jornal Globo News - Edição Das 7H</title>
-  </programme>
-  <programme start="20220515120000 +0100" stop="20220515140000 +0100" channel="Globo Now HD">
-    <title lang="pt">Jornal Globo News - Edição Das 08H</title>
-  </programme>
-  <programme start="20220515140000 +0100" stop="20220515150000 +0100" channel="Globo Now HD">
-    <title lang="pt">Jornal Globo News - Edição Das 10H</title>
-  </programme>
-  <programme start="20220515150000 +0100" stop="20220515160000 +0100" channel="Globo Now HD">
-    <title lang="pt">Globo Rural</title>
-  </programme>
-  <programme start="20220515160000 +0100" stop="20220515182000 +0100" channel="Globo Now HD">
-    <title lang="pt">Jornal Globo News - Edição Meio-Dia</title>
-  </programme>
-  <programme start="20220515182000 +0100" stop="20220515190000 +0100" channel="Globo Now HD">
-    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
-  </programme>
-  <programme start="20220515190000 +0100" stop="20220515210000 +0100" channel="Globo Now HD">
-    <title lang="pt">Jornal Globo News - Edição Das 15H</title>
-  </programme>
-  <programme start="20220515210000 +0100" stop="20220515220000 +0100" channel="Globo Now HD">
-    <title lang="pt">Globo Repórter</title>
-  </programme>
-  <programme start="20220515220000 +0100" stop="20220516023000 +0100" channel="Globo Now HD">
-    <title lang="pt">Jornal Globo News - Edição Das 18H</title>
-  </programme>
-  <programme start="20220516023000 +0100" stop="20220516030000 +0100" channel="Globo Now HD">
-    <title lang="pt">Jornal Das Dez</title>
-  </programme>
-  <programme start="20220516030000 +0100" stop="20220516043000 +0100" channel="Globo Now HD">
-    <title lang="pt">Globo News Documentário</title>
-  </programme>
-  <programme start="20220516043000 +0100" stop="20220516070000 +0100" channel="Globo Now HD">
-    <title lang="pt">Fantástico</title>
-  </programme>
-  <programme start="20220516070000 +0100" stop="20220516080000 +0100" channel="Globo Now HD">
-    <title lang="pt">Jornal Globo News - Edição Das 03H</title>
-  </programme>
-  <programme start="20220516080000 +0100" stop="20220516083000 +0100" channel="Globo Now HD">
-    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
-  </programme>
-  <programme start="20220516083000 +0100" stop="20220516093000 +0100" channel="Globo Now HD">
-    <title lang="pt">Globo News Debate</title>
-  </programme>
-  <programme start="20220516093000 +0100" stop="20220516100000 +0100" channel="Globo Now HD">
-    <title lang="pt">Jornal Das Dez</title>
-  </programme>
-  <programme start="20220516100000 +0100" stop="20220516160000 +0100" channel="Globo Now HD">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516160000 +0100" stop="20220516220000 +0100" channel="Globo Now HD">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220516220000 +0100" stop="20220517040000 +0100" channel="Globo Now HD">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
   <programme start="20220517040000 +0100" stop="20220517100000 +0100" channel="Globo Now HD">
     <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
   </programme>
@@ -2594,186 +1664,6 @@
   </programme>
   <programme start="20220520160000 +0100" stop="20220520220000 +0100" channel="Globo Now HD">
     <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20220515005000 +0100" stop="20220515015500 +0100" channel="Record TV">
-    <title lang="pt">Entrelinhas</title>
-  </programme>
-  <programme start="20220515015500 +0100" stop="20220515022500 +0100" channel="Record TV">
-    <title lang="pt">Nação dos 318</title>
-  </programme>
-  <programme start="20220515022500 +0100" stop="20220515024500 +0100" channel="Record TV">
-    <title lang="pt">Terapia do Amor</title>
-  </programme>
-  <programme start="20220515024500 +0100" stop="20220515030500 +0100" channel="Record TV">
-    <title lang="pt">Vencendo Os Vícios</title>
-  </programme>
-  <programme start="20220515030500 +0100" stop="20220515032500 +0100" channel="Record TV">
-    <title lang="pt">Programa Luxemburgo</title>
-  </programme>
-  <programme start="20220515032500 +0100" stop="20220515034000 +0100" channel="Record TV">
-    <title lang="pt">Programa Alemanha</title>
-  </programme>
-  <programme start="20220515034000 +0100" stop="20220515040500 +0100" channel="Record TV">
-    <title lang="pt">Programa França</title>
-  </programme>
-  <programme start="20220515040500 +0100" stop="20220515041500 +0100" channel="Record TV">
-    <title lang="pt">Ponto de Luz - Lisboa</title>
-  </programme>
-  <programme start="20220515041500 +0100" stop="20220515043500 +0100" channel="Record TV">
-    <title lang="pt">Programa Itália</title>
-  </programme>
-  <programme start="20220515043500 +0100" stop="20220515045500 +0100" channel="Record TV">
-    <title lang="pt">Programa Madeira</title>
-  </programme>
-  <programme start="20220515045500 +0100" stop="20220515051500 +0100" channel="Record TV">
-    <title lang="pt">Programa Suíça</title>
-  </programme>
-  <programme start="20220515051500 +0100" stop="20220515053500 +0100" channel="Record TV">
-    <title lang="pt">Programa Coimbra</title>
-  </programme>
-  <programme start="20220515053500 +0100" stop="20220515054500 +0100" channel="Record TV">
-    <title lang="pt">Ponto de Luz - Porto</title>
-  </programme>
-  <programme start="20220515054500 +0100" stop="20220515060000 +0100" channel="Record TV">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20220515060000 +0100" stop="20220515063000 +0100" channel="Record TV">
-    <title lang="pt">Programa Decisão</title>
-  </programme>
-  <programme start="20220515063000 +0100" stop="20220515070000 +0100" channel="Record TV">
-    <title lang="pt">Não Desista</title>
-  </programme>
-  <programme start="20220515070000 +0100" stop="20220515073000 +0100" channel="Record TV">
-    <title lang="pt">Hora do Milagre</title>
-  </programme>
-  <programme start="20220515073000 +0100" stop="20220515080000 +0100" channel="Record TV">
-    <title lang="pt">Problemas e Soluções</title>
-  </programme>
-  <programme start="20220515080000 +0100" stop="20220515090000 +0100" channel="Record TV">
-    <title lang="pt">Santo Culto - Bispo Macedo</title>
-  </programme>
-  <programme start="20220515090000 +0100" stop="20220515110000 +0100" channel="Record TV">
-    <title lang="pt">Record Kids</title>
-  </programme>
-  <programme start="20220515110000 +0100" stop="20220515130000 +0100" channel="Record TV">
-    <title lang="pt">As Aventuras de Poliana</title>
-  </programme>
-  <programme start="20220515130000 +0100" stop="20220515133000 +0100" channel="Record TV">
-    <title lang="pt">Palco Record</title>
-  </programme>
-  <programme start="20220515133000 +0100" stop="20220515151500 +0100" channel="Record TV">
-    <title lang="pt">Chamas da Vida - Compacto</title>
-  </programme>
-  <programme start="20220515151500 +0100" stop="20220515153000 +0100" channel="Record TV">
-    <title lang="pt">Insólito</title>
-  </programme>
-  <programme start="20220515153000 +0100" stop="20220515180000 +0100" channel="Record TV">
-    <title lang="pt">Hora do Faro</title>
-  </programme>
-  <programme start="20220515180000 +0100" stop="20220515200000 +0100" channel="Record TV">
-    <title lang="pt">Canta Comigo</title>
-  </programme>
-  <programme start="20220515200000 +0100" stop="20220515220000 +0100" channel="Record TV">
-    <title lang="pt">Domingo Espetacular</title>
-  </programme>
-  <programme start="20220515220000 +0100" stop="20220515230000 +0100" channel="Record TV">
-    <title lang="pt">Entrelinhas</title>
-  </programme>
-  <programme start="20220515230000 +0100" stop="20220516001500 +0100" channel="Record TV">
-    <title lang="pt">Câmera Record</title>
-  </programme>
-  <programme start="20220516001500 +0100" stop="20220516033000 +0100" channel="Record TV">
-    <title lang="pt">Domingo Espetacular</title>
-  </programme>
-  <programme start="20220516033000 +0100" stop="20220516040000 +0100" channel="Record TV">
-    <title lang="pt">Nação dos 318</title>
-  </programme>
-  <programme start="20220516040000 +0100" stop="20220516043000 +0100" channel="Record TV">
-    <title lang="pt">Hora do Milagre</title>
-  </programme>
-  <programme start="20220516043000 +0100" stop="20220516045000 +0100" channel="Record TV">
-    <title lang="pt">Programa Luxemburgo</title>
-  </programme>
-  <programme start="20220516045000 +0100" stop="20220516050000 +0100" channel="Record TV">
-    <title lang="pt">Ponto de Luz - Lisboa</title>
-  </programme>
-  <programme start="20220516050000 +0100" stop="20220516052000 +0100" channel="Record TV">
-    <title lang="pt">Programa Madeira</title>
-  </programme>
-  <programme start="20220516052000 +0100" stop="20220516054000 +0100" channel="Record TV">
-    <title lang="pt">Vencendo Os Vícios</title>
-  </programme>
-  <programme start="20220516054000 +0100" stop="20220516060000 +0100" channel="Record TV">
-    <title lang="pt">Programa Coimbra</title>
-  </programme>
-  <programme start="20220516060000 +0100" stop="20220516061500 +0100" channel="Record TV">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20220516061500 +0100" stop="20220516064000 +0100" channel="Record TV">
-    <title lang="pt">Programa França</title>
-  </programme>
-  <programme start="20220516064000 +0100" stop="20220516070000 +0100" channel="Record TV">
-    <title lang="pt">Programa Inglaterra</title>
-  </programme>
-  <programme start="20220516070000 +0100" stop="20220516073000 +0100" channel="Record TV">
-    <title lang="pt">Programa Decisão</title>
-  </programme>
-  <programme start="20220516073000 +0100" stop="20220516080000 +0100" channel="Record TV">
-    <title lang="pt">Nação dos 318</title>
-  </programme>
-  <programme start="20220516080000 +0100" stop="20220516083000 +0100" channel="Record TV">
-    <title lang="pt">Hora do Milagre</title>
-  </programme>
-  <programme start="20220516083000 +0100" stop="20220516090000 +0100" channel="Record TV">
-    <title lang="pt">Problemas e Soluções</title>
-  </programme>
-  <programme start="20220516090000 +0100" stop="20220516100000 +0100" channel="Record TV">
-    <title lang="pt">Hoje em Dia</title>
-  </programme>
-  <programme start="20220516100000 +0100" stop="20220516111500 +0100" channel="Record TV">
-    <title lang="pt">Balanço Geral SP</title>
-  </programme>
-  <programme start="20220516111500 +0100" stop="20220516120000 +0100" channel="Record TV">
-    <title lang="pt">Fala Brasil</title>
-  </programme>
-  <programme start="20220516120000 +0100" stop="20220516133000 +0100" channel="Record TV">
-    <title lang="pt">Power Couple</title>
-  </programme>
-  <programme start="20220516133000 +0100" stop="20220516140000 +0100" channel="Record TV">
-    <title lang="pt">Portugal no Ar</title>
-  </programme>
-  <programme start="20220516140000 +0100" stop="20220516150000 +0100" channel="Record TV">
-    <title lang="pt">Reis</title>
-  </programme>
-  <programme start="20220516150000 +0100" stop="20220516153000 +0100" channel="Record TV">
-    <title lang="pt">Os Milagres de Jesus</title>
-  </programme>
-  <programme start="20220516153000 +0100" stop="20220516161500 +0100" channel="Record TV">
-    <title lang="pt">Jesus</title>
-  </programme>
-  <programme start="20220516161500 +0100" stop="20220516171500 +0100" channel="Record TV">
-    <title lang="pt">Chamas da Vida</title>
-  </programme>
-  <programme start="20220516171500 +0100" stop="20220516181500 +0100" channel="Record TV">
-    <title lang="pt">Que Pobres Tão Ricos</title>
-  </programme>
-  <programme start="20220516181500 +0100" stop="20220516191500 +0100" channel="Record TV">
-    <title lang="pt">As Aventuras de Poliana</title>
-  </programme>
-  <programme start="20220516191500 +0100" stop="20220516200000 +0100" channel="Record TV">
-    <title lang="pt">Fala Portugal</title>
-  </programme>
-  <programme start="20220516200000 +0100" stop="20220516210000 +0100" channel="Record TV">
-    <title lang="pt">Reis</title>
-  </programme>
-  <programme start="20220516210000 +0100" stop="20220516220000 +0100" channel="Record TV">
-    <title lang="pt">Jesus</title>
-  </programme>
-  <programme start="20220516220000 +0100" stop="20220517000000 +0100" channel="Record TV">
-    <title lang="pt">Cidade Alerta SP</title>
-  </programme>
-  <programme start="20220517000000 +0100" stop="20220517005000 +0100" channel="Record TV">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
   </programme>
   <programme start="20220517005000 +0100" stop="20220517011500 +0100" channel="Record TV">
     <title lang="pt">Nosso Tempo</title>
@@ -3243,114 +2133,6 @@
   <programme start="20220521000000 +0100" stop="20220521005000 +0100" channel="Record TV">
     <title lang="pt">Palavra Amiga - Bispo Macedo</title>
   </programme>
-  <programme start="20220515003000 +0100" stop="20220515010000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Taça de Inglaterra - Final - Chelsea x Liverpool</title>
-  </programme>
-  <programme start="20220515010000 +0100" stop="20220515030000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - FC Porto x Estoril</title>
-  </programme>
-  <programme start="20220515030000 +0100" stop="20220515050000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - Sporting x Santa Clara</title>
-  </programme>
-  <programme start="20220515050000 +0100" stop="20220515052500 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Italiana 2021-22 - AS Roma x Veneza</title>
-  </programme>
-  <programme start="20220515053000 +0100" stop="20220515060000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Moto GP 2022 - GP França - Qualificação</title>
-  </programme>
-  <programme start="20220515060000 +0100" stop="20220515065000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">NXT</title>
-  </programme>
-  <programme start="20220515065000 +0100" stop="20220515090000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Taça de Inglaterra - Final - Chelsea x Liverpool</title>
-  </programme>
-  <programme start="20220515090000 +0100" stop="20220515110000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - FC Porto x Estoril</title>
-  </programme>
-  <programme start="20220515110000 +0100" stop="20220515112000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Síntese</title>
-  </programme>
-  <programme start="20220515112000 +0100" stop="20220515115000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - Sporting x Santa Clara</title>
-  </programme>
-  <programme start="20220515115500 +0100" stop="20220515122000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Notícias (Direto)</title>
-  </programme>
-  <programme start="20220515122000 +0100" stop="20220515125000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - FC Porto x Estoril</title>
-  </programme>
-  <programme start="20220515125000 +0100" stop="20220515140000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Grande Jornada - Campeão Liga Sabseg (Direto)</title>
-  </programme>
-  <programme start="20220515140000 +0100" stop="20220515150000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Moto GP 2022 - GP França - Rescaldo (Direto)</title>
-  </programme>
-  <programme start="20220515150000 +0100" stop="20220515180000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Grande Jornada (Direto)</title>
-  </programme>
-  <programme start="20220515180000 +0100" stop="20220515183000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - West Ham x Man. City</title>
-  </programme>
-  <programme start="20220515183000 +0100" stop="20220515190000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Eredivisie - Vitesse x Ajax</title>
-  </programme>
-  <programme start="20220515190000 +0100" stop="20220515214000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Grande Jornada (Direto)</title>
-  </programme>
-  <programme start="20220515214000 +0100" stop="20220515221000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Italiana 2021-22 - AC Milan x Atalanta</title>
-  </programme>
-  <programme start="20220515221000 +0100" stop="20220515233000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Só Golos (Direto)</title>
-  </programme>
-  <programme start="20220515233000 +0100" stop="20220516003000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Últimas Notícias (Direto)</title>
-  </programme>
-  <programme start="20220516003000 +0100" stop="20220516010000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - West Ham x Man. City</title>
-  </programme>
-  <programme start="20220516010000 +0100" stop="20220516013000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Italiana 2021-22 - AC Milan x Atalanta</title>
-  </programme>
-  <programme start="20220516013000 +0100" stop="20220516020000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Eredivisie - Vitesse x Ajax</title>
-  </programme>
-  <programme start="20220516020000 +0100" stop="20220516023000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Moto GP 2022 - GP França</title>
-  </programme>
-  <programme start="20220516023000 +0100" stop="20220516032000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">UFC - Blachowicz x Rakic - Las Vegas</title>
-  </programme>
-  <programme start="20220516032000 +0100" stop="20220516035000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - Resumo da 37ª Jornada</title>
-  </programme>
-  <programme start="20220516035000 +0100" stop="20220516042000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Italiana 2021-22 - Resumos da 37ª Jornada</title>
-  </programme>
-  <programme start="20220516042000 +0100" stop="20220516045000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Portugal - Resumo da 34ª Jornada</title>
-  </programme>
-  <programme start="20220516045000 +0100" stop="20220516050000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Eredivisie - Golos da 34ª Jornada</title>
-  </programme>
-  <programme start="20220516050000 +0100" stop="20220516053000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Premier League - West Ham x Man. City</title>
-  </programme>
-  <programme start="20220516053000 +0100" stop="20220516060000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">Liga Italiana 2021-22 - AC Milan x Atalanta</title>
-  </programme>
-  <programme start="20220516060000 +0100" stop="20220516120000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">A Definir</title>
-  </programme>
-  <programme start="20220516120000 +0100" stop="20220516180000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">A Definir</title>
-  </programme>
-  <programme start="20220516180000 +0100" stop="20220517000000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">A Definir</title>
-  </programme>
-  <programme start="20220517000000 +0100" stop="20220517060000 +0100" channel="SPORT TV+ HD">
-    <title lang="pt">A Definir</title>
-  </programme>
   <programme start="20220517060000 +0100" stop="20220517120000 +0100" channel="SPORT TV+ HD">
     <title lang="pt">A Definir</title>
   </programme>
@@ -3395,96 +2177,6 @@
   </programme>
   <programme start="20220520180000 +0100" stop="20220521000000 +0100" channel="SPORT TV+ HD">
     <title lang="pt">A Definir</title>
-  </programme>
-  <programme start="20220515020000 +0100" stop="20220515023000 +0100" channel="SPORT TV1">
-    <title lang="pt">Liga Portugal - Sporting x Santa Clara</title>
-  </programme>
-  <programme start="20220515023000 +0100" stop="20220515030000 +0100" channel="SPORT TV1">
-    <title lang="pt">Taça de Inglaterra - Final - Chelsea x Liverpool</title>
-  </programme>
-  <programme start="20220515030000 +0100" stop="20220515060000 +0100" channel="SPORT TV1">
-    <title lang="pt">UFC - Blachowicz x Rakic - Las Vegas (Direto)</title>
-  </programme>
-  <programme start="20220515060000 +0100" stop="20220515063000 +0100" channel="SPORT TV1">
-    <title lang="pt">Liga Italiana 2021-22 - AS Roma x Veneza</title>
-  </programme>
-  <programme start="20220515063000 +0100" stop="20220515085000 +0100" channel="SPORT TV1">
-    <title lang="pt">Taça de Inglaterra - Final - Chelsea x Liverpool</title>
-  </programme>
-  <programme start="20220515085000 +0100" stop="20220515110000 +0100" channel="SPORT TV1">
-    <title lang="pt">Liga Portugal - FC Porto x Estoril</title>
-  </programme>
-  <programme start="20220515110000 +0100" stop="20220515133000 +0100" channel="SPORT TV1">
-    <title lang="pt">Liga Portugal 2 - Rio Ave x Desp. Chaves (Direto)</title>
-  </programme>
-  <programme start="20220515133000 +0100" stop="20220515153000 +0100" channel="SPORT TV1">
-    <title lang="pt">Eredivisie - Vitesse x Ajax (Direto)</title>
-  </programme>
-  <programme start="20220515153000 +0100" stop="20220515180000 +0100" channel="SPORT TV1">
-    <title lang="pt">Liga Portugal 2 - Estrela da Amadora x Sp. Covilhã (Direto)</title>
-  </programme>
-  <programme start="20220515180000 +0100" stop="20220515203000 +0100" channel="SPORT TV1">
-    <title lang="pt">Liga Portugal - Famalicão x SC Braga (Direto)</title>
-  </programme>
-  <programme start="20220515203000 +0100" stop="20220515224000 +0100" channel="SPORT TV1">
-    <title lang="pt">Liga Portugal - V. Guimarães x Gil Vicente (Direto)</title>
-  </programme>
-  <programme start="20220515224000 +0100" stop="20220516003000 +0100" channel="SPORT TV1">
-    <title lang="pt">Liga Italiana 2021-22 - AC Milan x Atalanta</title>
-  </programme>
-  <programme start="20220516003000 +0100" stop="20220516010000 +0100" channel="SPORT TV1">
-    <title lang="pt">Premier League - Resumo da 37ª Jornada</title>
-  </programme>
-  <programme start="20220516010000 +0100" stop="20220516013000 +0100" channel="SPORT TV1">
-    <title lang="pt">Liga Italiana 2021-22 - Resumos da 37ª Jornada</title>
-  </programme>
-  <programme start="20220516013000 +0100" stop="20220516020000 +0100" channel="SPORT TV1">
-    <title lang="pt">Liga Portugal - Resumo da 34ª Jornada</title>
-  </programme>
-  <programme start="20220516020000 +0100" stop="20220516021000 +0100" channel="SPORT TV1">
-    <title lang="pt">Eredivisie - Golos da 34ª Jornada</title>
-  </programme>
-  <programme start="20220516021000 +0100" stop="20220516041000 +0100" channel="SPORT TV1">
-    <title lang="pt">ATP World Tour 1000 - Roma - Final</title>
-  </programme>
-  <programme start="20220516041000 +0100" stop="20220516080000 +0100" channel="SPORT TV1">
-    <title lang="pt">Liga Italiana 2021-22 - Cagliari x Inter Milão</title>
-  </programme>
-  <programme start="20220516080000 +0100" stop="20220516083000 +0100" channel="SPORT TV1">
-    <title lang="pt">Liga Portugal - Resumo da 34ª Jornada</title>
-  </programme>
-  <programme start="20220516083000 +0100" stop="20220516104000 +0100" channel="SPORT TV1">
-    <title lang="pt">NBA - Meia-Final Conferência J</title>
-  </programme>
-  <programme start="20220516104000 +0100" stop="20220516125000 +0100" channel="SPORT TV1">
-    <title lang="pt">Liga Portugal - Famalicão x SC Braga</title>
-  </programme>
-  <programme start="20220516125000 +0100" stop="20220516150000 +0100" channel="SPORT TV1">
-    <title lang="pt">Liga Portugal - V. Guimarães x Gil Vicente</title>
-  </programme>
-  <programme start="20220516150000 +0100" stop="20220516171000 +0100" channel="SPORT TV1">
-    <title lang="pt">Liga Portugal 2 - Jogo do Campeão</title>
-  </programme>
-  <programme start="20220516171000 +0100" stop="20220516190000 +0100" channel="SPORT TV1">
-    <title lang="pt">Premier League - West Ham x Man. City</title>
-  </programme>
-  <programme start="20220516190000 +0100" stop="20220516193000 +0100" channel="SPORT TV1">
-    <title lang="pt">UEFA Europa League - Antevisão da Final</title>
-  </programme>
-  <programme start="20220516193000 +0100" stop="20220516200000 +0100" channel="SPORT TV1">
-    <title lang="pt">Premier League - Resumo da 37ª Jornada</title>
-  </programme>
-  <programme start="20220516200000 +0100" stop="20220516220000 +0100" channel="SPORT TV1">
-    <title lang="pt">Premier League - Newcastle x Arsenal (Direto)</title>
-  </programme>
-  <programme start="20220516220000 +0100" stop="20220516223000 +0100" channel="SPORT TV1">
-    <title lang="pt">Eredivisie - Resumo da 32ª Jornada</title>
-  </programme>
-  <programme start="20220516223000 +0100" stop="20220516230000 +0100" channel="SPORT TV1">
-    <title lang="pt">Liga Portugal - Resumo da 34ª Jornada</title>
-  </programme>
-  <programme start="20220516230000 +0100" stop="20220517010000 +0100" channel="SPORT TV1">
-    <title lang="pt">Liga Italiana 2021-22 - Juventus x Lazio</title>
   </programme>
   <programme start="20220517010000 +0100" stop="20220517030000 +0100" channel="SPORT TV1">
     <title lang="pt">UFC - Blachowicz x Rakic - Las Vegas</title>
@@ -3582,87 +2274,6 @@
   <programme start="20220520180000 +0100" stop="20220521000000 +0100" channel="SPORT TV1">
     <title lang="pt">A Definir</title>
   </programme>
-  <programme start="20220515010000 +0100" stop="20220515060000 +0100" channel="SPORT TV2">
-    <title lang="pt">A Definir</title>
-  </programme>
-  <programme start="20220515060000 +0100" stop="20220515070000 +0100" channel="SPORT TV2">
-    <title lang="pt">A Definir</title>
-  </programme>
-  <programme start="20220515070000 +0100" stop="20220515085000 +0100" channel="SPORT TV2">
-    <title lang="pt">Liga de Futsal - Quinta dos Lombos x Sporting</title>
-  </programme>
-  <programme start="20220515085000 +0100" stop="20220515110000 +0100" channel="SPORT TV2">
-    <title lang="pt">ATP World Tour 1000 - Roma - Meia-Final</title>
-  </programme>
-  <programme start="20220515110000 +0100" stop="20220515131000 +0100" channel="SPORT TV2">
-    <title lang="pt">Liga Portugal 2 - Leixões x Casa Pia (Direto)</title>
-  </programme>
-  <programme start="20220515131000 +0100" stop="20220515140000 +0100" channel="SPORT TV2">
-    <title lang="pt">Grande Jornada - Campeão Liga Sabseg (Direto)</title>
-  </programme>
-  <programme start="20220515140000 +0100" stop="20220515160000 +0100" channel="SPORT TV2">
-    <title lang="pt">Premier League - West Ham x Man. City (Direto)</title>
-  </programme>
-  <programme start="20220515160000 +0100" stop="20220515163000 +0100" channel="SPORT TV2">
-    <title lang="pt">Taça de Inglaterra - Final - Chelsea x Liverpool</title>
-  </programme>
-  <programme start="20220515163000 +0100" stop="20220515183000 +0100" channel="SPORT TV2">
-    <title lang="pt">Premier League - Everton x Brentford (Direto)</title>
-  </programme>
-  <programme start="20220515183000 +0100" stop="20220515190000 +0100" channel="SPORT TV2">
-    <title lang="pt">Premier League - West Ham x Man. City</title>
-  </programme>
-  <programme start="20220515190000 +0100" stop="20220515194500 +0100" channel="SPORT TV2">
-    <title lang="pt">Eredivisie - Vitesse x Ajax</title>
-  </programme>
-  <programme start="20220515194500 +0100" stop="20220515215000 +0100" channel="SPORT TV2">
-    <title lang="pt">Liga Italiana 2021-22 - Cagliari x Inter Milão (Direto)</title>
-  </programme>
-  <programme start="20220515215000 +0100" stop="20220515234000 +0100" channel="SPORT TV2">
-    <title lang="pt">Premier League - Aston Villa x Crystal Palace</title>
-  </programme>
-  <programme start="20220515234000 +0100" stop="20220516013000 +0100" channel="SPORT TV2">
-    <title lang="pt">Premier League - Watford x Leicester City</title>
-  </programme>
-  <programme start="20220516013000 +0100" stop="20220516032000 +0100" channel="SPORT TV2">
-    <title lang="pt">Premier League - Leeds United x Brighton &amp; Hove Albion</title>
-  </programme>
-  <programme start="20220516032000 +0100" stop="20220516051000 +0100" channel="SPORT TV2">
-    <title lang="pt">A Definir</title>
-  </programme>
-  <programme start="20220516051000 +0100" stop="20220516060000 +0100" channel="SPORT TV2">
-    <title lang="pt">Rugby - Taça dos Campeões - Meia-Final</title>
-  </programme>
-  <programme start="20220516060000 +0100" stop="20220516070000 +0100" channel="SPORT TV2">
-    <title lang="pt">Rugby - Taça dos Campeões - Racing 92 x Stade Rochelais - Meia-Final</title>
-  </programme>
-  <programme start="20220516070000 +0100" stop="20220516073000 +0100" channel="SPORT TV2">
-    <title lang="pt">Premier League - West Ham x Man. City</title>
-  </programme>
-  <programme start="20220516073000 +0100" stop="20220516080000 +0100" channel="SPORT TV2">
-    <title lang="pt">Eredivisie - Vitesse x Ajax</title>
-  </programme>
-  <programme start="20220516080000 +0100" stop="20220516100000 +0100" channel="SPORT TV2">
-    <title lang="pt">ATP World Tour 1000 - Roma - Final</title>
-  </programme>
-  <programme start="20220516100000 +0100" stop="20220516150000 +0100" channel="SPORT TV2">
-    <title lang="pt">ATP World Tour 250 - Lyon (Direto)</title>
-  </programme>
-  <programme start="20220516150000 +0100" stop="20220516170000 +0100" channel="SPORT TV2">
-    <title lang="pt">Liga Italiana 2021-22 - AC Milan x Atalanta</title>
-  </programme>
-  <programme start="20220516170000 +0100" stop="20220516173000 +0100" channel="SPORT TV2">
-    <title lang="pt">Liga Italiana 2021-22 - Resumos da 37ª Jornada</title>
-  </programme>
-  <programme start="20220516173000 +0100" stop="20220516194500 +0100" channel="SPORT TV2">
-    <title lang="pt">Liga Italiana 2021-22 - Sampdoria x Fiorentina (Direto)</title>
-  </programme>
-  <programme start="20220516194500 +0100" stop="20220516214500 +0100" channel="SPORT TV2">
-    <title lang="pt">Liga Italiana 2021-22 - Juventus x Lazio (Direto)</title>
-  </programme>
-  <programme start="20220516214500 +0100" stop="20220517015000 +0100" channel="SPORT TV2">
-    <title lang="pt">ATP World Tour 250 - Lyon / Genebra - Melhores Jogos do Dia</title>
-  </programme>
   <programme start="20220517015000 +0100" stop="20220517035000 +0100" channel="SPORT TV2">
     <title lang="pt">Premier League - Newcastle x Arsenal</title>
   </programme>
@@ -3747,84 +2358,6 @@
   <programme start="20220520180000 +0100" stop="20220521000000 +0100" channel="SPORT TV2">
     <title lang="pt">A Definir</title>
   </programme>
-  <programme start="20220515003500 +0100" stop="20220515023500 +0100" channel="SPORT TV3">
-    <title lang="pt">MLS - Philadelphia Union x NY Red Bulls (Direto)</title>
-  </programme>
-  <programme start="20220515023500 +0100" stop="20220515070000 +0100" channel="SPORT TV3">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20220515070000 +0100" stop="20220515090000 +0100" channel="SPORT TV3">
-    <title lang="pt">DP World Tour - Soudal Open - 3º Dia</title>
-  </programme>
-  <programme start="20220515090000 +0100" stop="20220515110000 +0100" channel="SPORT TV3">
-    <title lang="pt">Rugby - Taça dos Campeões - Leinster Rugby x Stade Toulousain - Meia-Final</title>
-  </programme>
-  <programme start="20220515110000 +0100" stop="20220515113000 +0100" channel="SPORT TV3">
-    <title lang="pt">Liga Italiana 2021-22 - AS Roma x Veneza</title>
-  </programme>
-  <programme start="20220515113000 +0100" stop="20220515120000 +0100" channel="SPORT TV3">
-    <title lang="pt">Magazine Premier League - Antevisão da Jornada</title>
-  </programme>
-  <programme start="20220515120000 +0100" stop="20220515140000 +0100" channel="SPORT TV3">
-    <title lang="pt">Premier League - Tottenham x Burnley (Direto)</title>
-  </programme>
-  <programme start="20220515140000 +0100" stop="20220515160000 +0100" channel="SPORT TV3">
-    <title lang="pt">Premier League - Wolverhampton x Norwich (Direto)</title>
-  </programme>
-  <programme start="20220515160000 +0100" stop="20220515162500 +0100" channel="SPORT TV3">
-    <title lang="pt">Premier League World</title>
-  </programme>
-  <programme start="20220515163000 +0100" stop="20220515170000 +0100" channel="SPORT TV3">
-    <title lang="pt">Liga Italiana 2021-22 - Antevisão AC Milan x Atalanta (Direto)</title>
-  </programme>
-  <programme start="20220515170000 +0100" stop="20220515193000 +0100" channel="SPORT TV3">
-    <title lang="pt">Liga Italiana 2021-22 - AC Milan x Atalanta (Direto)</title>
-  </programme>
-  <programme start="20220515193000 +0100" stop="20220515200000 +0100" channel="SPORT TV3">
-    <title lang="pt">FIA ERC - Rali Ilhas Canárias - Resumo</title>
-  </programme>
-  <programme start="20220515200000 +0100" stop="20220515203000 +0100" channel="SPORT TV3">
-    <title lang="pt">NBA Action</title>
-  </programme>
-  <programme start="20220515203000 +0100" stop="20220515213000 +0100" channel="SPORT TV3">
-    <title lang="pt">NBA - Meia-Final Conferência (Direto)</title>
-  </programme>
-  <programme start="20220515213000 +0100" stop="20220515214000 +0100" channel="SPORT TV3">
-    <title lang="pt">NBA Action</title>
-  </programme>
-  <programme start="20220515214000 +0100" stop="20220515230000 +0100" channel="SPORT TV3">
-    <title lang="pt">NBA - Meia-Final Conferência (Direto)</title>
-  </programme>
-  <programme start="20220515230000 +0100" stop="20220516030000 +0100" channel="SPORT TV3">
-    <title lang="pt">DP World Tour - Soudal Open - 4º Dia</title>
-  </programme>
-  <programme start="20220516030000 +0100" stop="20220516090000 +0100" channel="SPORT TV3">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20220516090000 +0100" stop="20220516123000 +0100" channel="SPORT TV3">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20220516123000 +0100" stop="20220516163000 +0100" channel="SPORT TV3">
-    <title lang="pt">DP World Tour - Soudal Open - 4º Dia</title>
-  </programme>
-  <programme start="20220516163000 +0100" stop="20220516183000 +0100" channel="SPORT TV3">
-    <title lang="pt">ATP World Tour 250 - Lyon (Direto)</title>
-  </programme>
-  <programme start="20220516183000 +0100" stop="20220516200000 +0100" channel="SPORT TV3">
-    <title lang="pt">World Surf League - Wrapped: Margaret River Pro</title>
-  </programme>
-  <programme start="20220516200000 +0100" stop="20220516205000 +0100" channel="SPORT TV3">
-    <title lang="pt">World Surf League - Wrapped: Margaret River Pro</title>
-  </programme>
-  <programme start="20220516205000 +0100" stop="20220516224000 +0100" channel="SPORT TV3">
-    <title lang="pt">Rugby - Taça dos Campeões - Racing 92 x Stade Rochelais - Meia-Final</title>
-  </programme>
-  <programme start="20220516224000 +0100" stop="20220516234000 +0100" channel="SPORT TV3">
-    <title lang="pt">UFC - The Ultimate Fighter Series - Team Peña x Team Nunes</title>
-  </programme>
-  <programme start="20220516234000 +0100" stop="20220517003000 +0100" channel="SPORT TV3">
-    <title lang="pt">Combate Nacional de Kickboxing - Campeonato Regional Norte</title>
-  </programme>
   <programme start="20220517003000 +0100" stop="20220517010000 +0100" channel="SPORT TV3">
     <title lang="pt">WRC - Antevisão Rali de Portugal</title>
   </programme>
@@ -3896,99 +2429,6 @@
   </programme>
   <programme start="20220520155000 +0100" stop="20220520215000 +0100" channel="SPORT TV3">
     <title lang="pt">A Definir</title>
-  </programme>
-  <programme start="20220515013000 +0100" stop="20220515073000 +0100" channel="SPORT TV4">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20220515073000 +0100" stop="20220515080000 +0100" channel="SPORT TV4">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20220515080000 +0100" stop="20220515082000 +0100" channel="SPORT TV4">
-    <title lang="pt">Moto GP 2022 - Moto3 - Warm Up - GP França (Direto)</title>
-  </programme>
-  <programme start="20220515082000 +0100" stop="20220515084000 +0100" channel="SPORT TV4">
-    <title lang="pt">Moto GP 2022 - Moto2 - Warm Up - GP França (Direto)</title>
-  </programme>
-  <programme start="20220515084000 +0100" stop="20220515091000 +0100" channel="SPORT TV4">
-    <title lang="pt">Moto GP 2022 - MotoGP - Warm Up - GP França (Direto)</title>
-  </programme>
-  <programme start="20220515091000 +0100" stop="20220515100000 +0100" channel="SPORT TV4">
-    <title lang="pt">FIA ERC - Rali Ilhas Canárias - Resumo</title>
-  </programme>
-  <programme start="20220515100000 +0100" stop="20220515112000 +0100" channel="SPORT TV4">
-    <title lang="pt">Moto GP 2022 - Moto3 - Corrida - GP França (Direto)</title>
-  </programme>
-  <programme start="20220515112000 +0100" stop="20220515122500 +0100" channel="SPORT TV4">
-    <title lang="pt">Moto GP 2022 - Moto2 - Corrida - GP França (Direto)</title>
-  </programme>
-  <programme start="20220515122500 +0100" stop="20220515130000 +0100" channel="SPORT TV4">
-    <title lang="pt">Moto GP 2022 - MotoGP - Antevisão GP França (Direto)</title>
-  </programme>
-  <programme start="20220515130000 +0100" stop="20220515140000 +0100" channel="SPORT TV4">
-    <title lang="pt">Moto GP 2022 - MotoGP - Corrida - GP França (Direto)</title>
-  </programme>
-  <programme start="20220515140000 +0100" stop="20220515150000 +0100" channel="SPORT TV4">
-    <title lang="pt">Moto GP 2022 - GP França - Rescaldo (Direto)</title>
-  </programme>
-  <programme start="20220515150000 +0100" stop="20220515153000 +0100" channel="SPORT TV4">
-    <title lang="pt">Camp. do Mundo Motocrosse - GP Itália - Resumo</title>
-  </programme>
-  <programme start="20220515153000 +0100" stop="20220515174000 +0100" channel="SPORT TV4">
-    <title lang="pt">Liga Portugal 2 - Varzim x Mafra (Direto)</title>
-  </programme>
-  <programme start="20220515174000 +0100" stop="20220515181000 +0100" channel="SPORT TV4">
-    <title lang="pt">Moto GP 2022 - MotoE - Corrida 2 - GP França</title>
-  </programme>
-  <programme start="20220515181000 +0100" stop="20220515192000 +0100" channel="SPORT TV4">
-    <title lang="pt">Moto GP 2022 - Moto2 - Corrida - GP França</title>
-  </programme>
-  <programme start="20220515192000 +0100" stop="20220515203000 +0100" channel="SPORT TV4">
-    <title lang="pt">Moto GP 2022 - MotoGP - Corrida - GP França</title>
-  </programme>
-  <programme start="20220515203000 +0100" stop="20220515210000 +0100" channel="SPORT TV4">
-    <title lang="pt">FIA ERC - Rali Ilhas Canárias - Resumo</title>
-  </programme>
-  <programme start="20220515210000 +0100" stop="20220515230000 +0100" channel="SPORT TV4">
-    <title lang="pt">MLS - Seattle Sounders x Minnesota United United (Direto)</title>
-  </programme>
-  <programme start="20220515230000 +0100" stop="20220516000000 +0100" channel="SPORT TV4">
-    <title lang="pt">Moto GP 2022 - Moto3 - Corrida - GP França</title>
-  </programme>
-  <programme start="20220516000000 +0100" stop="20220516011000 +0100" channel="SPORT TV4">
-    <title lang="pt">Moto GP 2022 - MotoGP - Corrida - GP França</title>
-  </programme>
-  <programme start="20220516011000 +0100" stop="20220516071000 +0100" channel="SPORT TV4">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20220516071000 +0100" stop="20220516130000 +0100" channel="SPORT TV4">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20220516130000 +0100" stop="20220516133000 +0100" channel="SPORT TV4">
-    <title lang="pt">FIA ERC - Rali Ilhas Canárias - Resumo</title>
-  </programme>
-  <programme start="20220516133000 +0100" stop="20220516173000 +0100" channel="SPORT TV4">
-    <title lang="pt">European Le Mans Series - 4 Horas Imola</title>
-  </programme>
-  <programme start="20220516173000 +0100" stop="20220516184000 +0100" channel="SPORT TV4">
-    <title lang="pt">Moto GP 2022 - Moto3 - Corrida - GP França</title>
-  </programme>
-  <programme start="20220516184000 +0100" stop="20220516195000 +0100" channel="SPORT TV4">
-    <title lang="pt">Moto GP 2022 - Moto2 - Corrida - GP França</title>
-  </programme>
-  <programme start="20220516195000 +0100" stop="20220516210000 +0100" channel="SPORT TV4">
-    <title lang="pt">Moto GP 2022 - MotoGP - Corrida - GP França</title>
-  </programme>
-  <programme start="20220516210000 +0100" stop="20220516213000 +0100" channel="SPORT TV4">
-    <title lang="pt">WRC - Antevisão Rali de Portugal</title>
-  </programme>
-  <programme start="20220516213000 +0100" stop="20220516220000 +0100" channel="SPORT TV4">
-    <title lang="pt">Campeonato Portugal Ralicross - Mação - Resumo</title>
-  </programme>
-  <programme start="20220516220000 +0100" stop="20220516223000 +0100" channel="SPORT TV4">
-    <title lang="pt">FIA Karting - Portimão - Resumo</title>
-  </programme>
-  <programme start="20220516223000 +0100" stop="20220517013000 +0100" channel="SPORT TV4">
-    <title lang="pt">IndyCar Series - Indianapolis Grand Prix</title>
   </programme>
   <programme start="20220517013000 +0100" stop="20220517073000 +0100" channel="SPORT TV4">
     <title lang="pt">Sem Emissão</title>
@@ -4071,45 +2511,6 @@
   <programme start="20220520153000 +0100" stop="20220520213000 +0100" channel="SPORT TV4">
     <title lang="pt">A Definir</title>
   </programme>
-  <programme start="20220515060000 +0100" stop="20220515103000 +0100" channel="SPORT TV5">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20220515103000 +0100" stop="20220515143000 +0100" channel="SPORT TV5">
-    <title lang="pt">European Le Mans Series - 4 Horas Imola (Direto)</title>
-  </programme>
-  <programme start="20220515143000 +0100" stop="20220515150000 +0100" channel="SPORT TV5">
-    <title lang="pt">DP World Tour - Soudal Open - 4º Dia (Direto)</title>
-  </programme>
-  <programme start="20220515150000 +0100" stop="20220515170000 +0100" channel="SPORT TV5">
-    <title lang="pt">ATP World Tour 1000 - Roma - Final (Direto)</title>
-  </programme>
-  <programme start="20220515170000 +0100" stop="20220515180000 +0100" channel="SPORT TV5">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20220515180000 +0100" stop="20220515193000 +0100" channel="SPORT TV5">
-    <title lang="pt">Vela - Sail GP - Bermuda Sail Grand Prix - 2º Dia (Direto)</title>
-  </programme>
-  <programme start="20220515193000 +0100" stop="20220515223000 +0100" channel="SPORT TV5">
-    <title lang="pt">ATP World Tour 250 - Lyon</title>
-  </programme>
-  <programme start="20220515223000 +0100" stop="20220516023000 +0100" channel="SPORT TV5">
-    <title lang="pt">ATP World Tour 250 - Genebra</title>
-  </programme>
-  <programme start="20220516023000 +0100" stop="20220516060000 +0100" channel="SPORT TV5">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20220516060000 +0100" stop="20220516120000 +0100" channel="SPORT TV5">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20220516120000 +0100" stop="20220516180000 +0100" channel="SPORT TV5">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20220516180000 +0100" stop="20220517000000 +0100" channel="SPORT TV5">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20220517000000 +0100" stop="20220517060000 +0100" channel="SPORT TV5">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
   <programme start="20220517060000 +0100" stop="20220517120000 +0100" channel="SPORT TV5">
     <title lang="pt">Sem Emissão</title>
   </programme>
@@ -4157,165 +2558,6 @@
   </programme>
   <programme start="20220520180000 +0100" stop="20220521000000 +0100" channel="SPORT TV5">
     <title lang="pt">A Definir</title>
-  </programme>
-  <programme start="20220515000500 +0100" stop="20220515015000 +0100" channel="Sporting TV">
-    <title lang="pt">Estamos em Casa!</title>
-  </programme>
-  <programme start="20220515015000 +0100" stop="20220515025000 +0100" channel="Sporting TV">
-    <title lang="pt">Kombat Press</title>
-  </programme>
-  <programme start="20220515025000 +0100" stop="20220515042000 +0100" channel="Sporting TV">
-    <title lang="pt">Sporting Grande Jornal</title>
-  </programme>
-  <programme start="20220515042000 +0100" stop="20220515052000 +0100" channel="Sporting TV">
-    <title lang="pt">ADN de Leão</title>
-  </programme>
-  <programme start="20220515052000 +0100" stop="20220515055000 +0100" channel="Sporting TV">
-    <title lang="pt">Futebol É Com Elas</title>
-  </programme>
-  <programme start="20220515055000 +0100" stop="20220515060000 +0100" channel="Sporting TV">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20220515060000 +0100" stop="20220515072500 +0100" channel="Sporting TV">
-    <title lang="pt">Hóquei em Patins - HC Turquel x SCP</title>
-  </programme>
-  <programme start="20220515072500 +0100" stop="20220515074000 +0100" channel="Sporting TV">
-    <title lang="pt">Antecâmara Sporting TV</title>
-  </programme>
-  <programme start="20220515074500 +0100" stop="20220515080000 +0100" channel="Sporting TV">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20220515080000 +0100" stop="20220515083000 +0100" channel="Sporting TV">
-    <title lang="pt">Ginástica em Casa</title>
-  </programme>
-  <programme start="20220515083000 +0100" stop="20220515084000 +0100" channel="Sporting TV">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20220515084000 +0100" stop="20220515103000 +0100" channel="Sporting TV">
-    <title lang="pt">Basquetebol - SCP x Lusitânia</title>
-  </programme>
-  <programme start="20220515103000 +0100" stop="20220515104500 +0100" channel="Sporting TV">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20220515104500 +0100" stop="20220515114500 +0100" channel="Sporting TV">
-    <title lang="pt">Porta 10A</title>
-  </programme>
-  <programme start="20220515114500 +0100" stop="20220515115500 +0100" channel="Sporting TV">
-    <title lang="pt">Momento 10A</title>
-  </programme>
-  <programme start="20220515115500 +0100" stop="20220515134000 +0100" channel="Sporting TV">
-    <title lang="pt">Hóquei em Patins Feminino - SCP x Benfica (Direto)</title>
-  </programme>
-  <programme start="20220515134000 +0100" stop="20220515144500 +0100" channel="Sporting TV">
-    <title lang="pt">A Taça das Taças</title>
-  </programme>
-  <programme start="20220515144500 +0100" stop="20220515145500 +0100" channel="Sporting TV">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20220515145500 +0100" stop="20220515170000 +0100" channel="Sporting TV">
-    <title lang="pt">Futebol Feminino - SCP x SC Braga (Direto)</title>
-  </programme>
-  <programme start="20220515170000 +0100" stop="20220515173000 +0100" channel="Sporting TV">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20220515173000 +0100" stop="20220515193000 +0100" channel="Sporting TV">
-    <title lang="pt">Estamos em Casa!</title>
-  </programme>
-  <programme start="20220515193000 +0100" stop="20220515200000 +0100" channel="Sporting TV">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20220515200000 +0100" stop="20220515203000 +0100" channel="Sporting TV">
-    <title lang="pt">12º Jogador</title>
-  </programme>
-  <programme start="20220515203000 +0100" stop="20220515213000 +0100" channel="Sporting TV">
-    <title lang="pt">Porta 10A</title>
-  </programme>
-  <programme start="20220515213000 +0100" stop="20220515223000 +0100" channel="Sporting TV">
-    <title lang="pt">Sporting Grande Jornal</title>
-  </programme>
-  <programme start="20220515223000 +0100" stop="20220516003000 +0100" channel="Sporting TV">
-    <title lang="pt">Estamos em Casa!</title>
-  </programme>
-  <programme start="20220516003000 +0100" stop="20220516025000 +0100" channel="Sporting TV">
-    <title lang="pt">Estamos em Casa!</title>
-  </programme>
-  <programme start="20220516025000 +0100" stop="20220516035000 +0100" channel="Sporting TV">
-    <title lang="pt">Sporting Grande Jornal</title>
-  </programme>
-  <programme start="20220516035000 +0100" stop="20220516042000 +0100" channel="Sporting TV">
-    <title lang="pt">Lado B</title>
-  </programme>
-  <programme start="20220516042000 +0100" stop="20220516052000 +0100" channel="Sporting TV">
-    <title lang="pt">Kombat Press</title>
-  </programme>
-  <programme start="20220516052000 +0100" stop="20220516055000 +0100" channel="Sporting TV">
-    <title lang="pt">Futebol É Com Elas</title>
-  </programme>
-  <programme start="20220516055000 +0100" stop="20220516060000 +0100" channel="Sporting TV">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20220516060000 +0100" stop="20220516073000 +0100" channel="Sporting TV">
-    <title lang="pt">Hóquei em Patins Feminino - SCP x UD Vilafranquense</title>
-  </programme>
-  <programme start="20220516073000 +0100" stop="20220516074000 +0100" channel="Sporting TV">
-    <title lang="pt">Momento 10A</title>
-  </programme>
-  <programme start="20220516074500 +0100" stop="20220516080000 +0100" channel="Sporting TV">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20220516080000 +0100" stop="20220516083000 +0100" channel="Sporting TV">
-    <title lang="pt">Ginástica em Casa</title>
-  </programme>
-  <programme start="20220516083000 +0100" stop="20220516084500 +0100" channel="Sporting TV">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20220516084500 +0100" stop="20220516090000 +0100" channel="Sporting TV">
-    <title lang="pt">eSports &amp; Gaming</title>
-  </programme>
-  <programme start="20220516090000 +0100" stop="20220516103000 +0100" channel="Sporting TV">
-    <title lang="pt">Andebol - SCP x AA Avanca</title>
-  </programme>
-  <programme start="20220516103000 +0100" stop="20220516104500 +0100" channel="Sporting TV">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20220516104500 +0100" stop="20220516124500 +0100" channel="Sporting TV">
-    <title lang="pt">Liga Portugal - SCP x FC Vizela</title>
-  </programme>
-  <programme start="20220516124500 +0100" stop="20220516130000 +0100" channel="Sporting TV">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20220516130000 +0100" stop="20220516144500 +0100" channel="Sporting TV">
-    <title lang="pt">Estamos em Casa!</title>
-  </programme>
-  <programme start="20220516144500 +0100" stop="20220516150000 +0100" channel="Sporting TV">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20220516150000 +0100" stop="20220516170000 +0100" channel="Sporting TV">
-    <title lang="pt">Estamos em Casa!</title>
-  </programme>
-  <programme start="20220516170000 +0100" stop="20220516180000 +0100" channel="Sporting TV">
-    <title lang="pt">Boa Tarde Sporting (Direto)</title>
-  </programme>
-  <programme start="20220516180000 +0100" stop="20220516183000 +0100" channel="Sporting TV">
-    <title lang="pt">12º Jogador</title>
-  </programme>
-  <programme start="20220516183000 +0100" stop="20220516185000 +0100" channel="Sporting TV">
-    <title lang="pt">Paddock</title>
-  </programme>
-  <programme start="20220516185000 +0100" stop="20220516190000 +0100" channel="Sporting TV">
-    <title lang="pt">Momento 10A</title>
-  </programme>
-  <programme start="20220516190500 +0100" stop="20220516193000 +0100" channel="Sporting TV">
-    <title lang="pt">19:06</title>
-  </programme>
-  <programme start="20220516193000 +0100" stop="20220516213000 +0100" channel="Sporting TV">
-    <title lang="pt">Estamos em Casa!</title>
-  </programme>
-  <programme start="20220516213000 +0100" stop="20220516230000 +0100" channel="Sporting TV">
-    <title lang="pt">Sporting Grande Jornal</title>
-  </programme>
-  <programme start="20220516230500 +0100" stop="20220517010500 +0100" channel="Sporting TV">
-    <title lang="pt">Estamos em Casa!</title>
   </programme>
   <programme start="20220517010500 +0100" stop="20220517013500 +0100" channel="Sporting TV">
     <title lang="pt">12º Jogador</title>
