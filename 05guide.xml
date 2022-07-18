@@ -51,156 +51,6 @@
     <display-name lang="pt">VH1</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <programme start="20220716000000 +0100" stop="20220716083000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
-  </programme>
-  <programme start="20220716083000 +0100" stop="20220716090000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">+Love</title>
-  </programme>
-  <programme start="20220716090000 +0100" stop="20220716093000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">African Vibes</title>
-  </programme>
-  <programme start="20220716093000 +0100" stop="20220716100000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
-  </programme>
-  <programme start="20220716100000 +0100" stop="20220716103000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Music Trends</title>
-  </programme>
-  <programme start="20220716103000 +0100" stop="20220716110000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Ao Nosso Ritmo</title>
-  </programme>
-  <programme start="20220716110000 +0100" stop="20220716115000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Fresh Music</title>
-  </programme>
-  <programme start="20220716115000 +0100" stop="20220716123000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
-  </programme>
-  <programme start="20220716123000 +0100" stop="20220716130500 +0100" channel="AFRO MUSIC">
-    <title lang="pt">+Love</title>
-  </programme>
-  <programme start="20220716130500 +0100" stop="20220716134500 +0100" channel="AFRO MUSIC">
-    <title lang="pt">African Vibes</title>
-  </programme>
-  <programme start="20220716134500 +0100" stop="20220716142000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
-  </programme>
-  <programme start="20220716142000 +0100" stop="20220716150000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Music Trends</title>
-  </programme>
-  <programme start="20220716150000 +0100" stop="20220716153000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Ao Nosso Ritmo</title>
-  </programme>
-  <programme start="20220716153000 +0100" stop="20220716162000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Fresh Music</title>
-  </programme>
-  <programme start="20220716162000 +0100" stop="20220716170000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
-  </programme>
-  <programme start="20220716170000 +0100" stop="20220716173500 +0100" channel="AFRO MUSIC">
-    <title lang="pt">+Love</title>
-  </programme>
-  <programme start="20220716173500 +0100" stop="20220716181000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">African Vibes</title>
-  </programme>
-  <programme start="20220716181000 +0100" stop="20220716190000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Fresh Music</title>
-  </programme>
-  <programme start="20220716190000 +0100" stop="20220716193600 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Music Trends</title>
-  </programme>
-  <programme start="20220716193600 +0100" stop="20220716201000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Ao Nosso Ritmo</title>
-  </programme>
-  <programme start="20220716201000 +0100" stop="20220716204500 +0100" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
-  </programme>
-  <programme start="20220716204500 +0100" stop="20220716212000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">+Love</title>
-  </programme>
-  <programme start="20220716212000 +0100" stop="20220716221300 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Fresh Music</title>
-  </programme>
-  <programme start="20220716221300 +0100" stop="20220716230000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">African Vibes</title>
-  </programme>
-  <programme start="20220716230000 +0100" stop="20220717000000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Ao Nosso Ritmo</title>
-  </programme>
-  <programme start="20220717000000 +0100" stop="20220717083000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
-  </programme>
-  <programme start="20220717083000 +0100" stop="20220717090000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">+Love</title>
-  </programme>
-  <programme start="20220717090000 +0100" stop="20220717093000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">African Vibes</title>
-  </programme>
-  <programme start="20220717093000 +0100" stop="20220717100000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
-  </programme>
-  <programme start="20220717100000 +0100" stop="20220717103000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Music Trends</title>
-  </programme>
-  <programme start="20220717103000 +0100" stop="20220717110000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Ao Nosso Ritmo</title>
-  </programme>
-  <programme start="20220717110000 +0100" stop="20220717115000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Fresh Music</title>
-  </programme>
-  <programme start="20220717115000 +0100" stop="20220717123000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
-  </programme>
-  <programme start="20220717123000 +0100" stop="20220717130500 +0100" channel="AFRO MUSIC">
-    <title lang="pt">+Love</title>
-  </programme>
-  <programme start="20220717130500 +0100" stop="20220717134500 +0100" channel="AFRO MUSIC">
-    <title lang="pt">African Vibes</title>
-  </programme>
-  <programme start="20220717134500 +0100" stop="20220717142000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
-  </programme>
-  <programme start="20220717142000 +0100" stop="20220717150000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Music Trends</title>
-  </programme>
-  <programme start="20220717150000 +0100" stop="20220717153000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Ao Nosso Ritmo</title>
-  </programme>
-  <programme start="20220717153000 +0100" stop="20220717162000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Fresh Music</title>
-  </programme>
-  <programme start="20220717162000 +0100" stop="20220717170000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
-  </programme>
-  <programme start="20220717170000 +0100" stop="20220717173500 +0100" channel="AFRO MUSIC">
-    <title lang="pt">+Love</title>
-  </programme>
-  <programme start="20220717173500 +0100" stop="20220717181000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">African Vibes</title>
-  </programme>
-  <programme start="20220717181000 +0100" stop="20220717190000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Fresh Music</title>
-  </programme>
-  <programme start="20220717190000 +0100" stop="20220717193600 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Music Trends</title>
-  </programme>
-  <programme start="20220717193600 +0100" stop="20220717201000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Ao Nosso Ritmo</title>
-  </programme>
-  <programme start="20220717201000 +0100" stop="20220717204500 +0100" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
-  </programme>
-  <programme start="20220717204500 +0100" stop="20220717212000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">+Love</title>
-  </programme>
-  <programme start="20220717212000 +0100" stop="20220717221300 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Fresh Music</title>
-  </programme>
-  <programme start="20220717221300 +0100" stop="20220717230000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">African Vibes</title>
-  </programme>
-  <programme start="20220717230000 +0100" stop="20220718000000 +0100" channel="AFRO MUSIC">
-    <title lang="pt">Ao Nosso Ritmo</title>
-  </programme>
   <programme start="20220718000000 +0100" stop="20220718083000 +0100" channel="AFRO MUSIC">
     <title lang="pt">100 Pausas</title>
   </programme>
@@ -576,269 +426,155 @@
   <programme start="20220722230000 +0100" stop="20220723000000 +0100" channel="AFRO MUSIC">
     <title lang="pt">Ao Nosso Ritmo</title>
   </programme>
-  <programme start="20220716001000 +0100" stop="20220716004000 +0100" channel="Caça e Pesca">
-    <title lang="pt">O Infatigável Setter</title>
+  <programme start="20220723000000 +0100" stop="20220723083000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20220716004000 +0100" stop="20220716011500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Nautic Chapter: Atrás dos Escolares na Profundidade da Noite</title>
+  <programme start="20220723083000 +0100" stop="20220723090000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">+Love</title>
   </programme>
-  <programme start="20220716011500 +0100" stop="20220716015000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Bogas Al Remonte</title>
+  <programme start="20220723090000 +0100" stop="20220723093000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
   </programme>
-  <programme start="20220716015000 +0100" stop="20220716021500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Grandes Rebecos Europeus: O Sarrio Pirenaico</title>
+  <programme start="20220723093000 +0100" stop="20220723100000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20220716021500 +0100" stop="20220716024500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Diário de Um Pescador Submarino</title>
+  <programme start="20220723100000 +0100" stop="20220723103000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Music Trends</title>
   </programme>
-  <programme start="20220716024500 +0100" stop="20220716031500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Canal Aberto Pesca</title>
+  <programme start="20220723103000 +0100" stop="20220723110000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
   </programme>
-  <programme start="20220716031500 +0100" stop="20220716034000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Canada In The Rough</title>
+  <programme start="20220723110000 +0100" stop="20220723115000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
   </programme>
-  <programme start="20220716034000 +0100" stop="20220716041000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Diário de Um Pescador Submarino</title>
+  <programme start="20220723115000 +0100" stop="20220723123000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20220716041000 +0100" stop="20220716050500 +0100" channel="Caça e Pesca">
-    <title lang="pt">À Espreita</title>
+  <programme start="20220723123000 +0100" stop="20220723130500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">+Love</title>
   </programme>
-  <programme start="20220716050500 +0100" stop="20220716053500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Monteando a Sul da Serra de Gata (2ª Parte)</title>
+  <programme start="20220723130500 +0100" stop="20220723134500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
   </programme>
-  <programme start="20220716053500 +0100" stop="20220716060000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Sabor Selvagem</title>
+  <programme start="20220723134500 +0100" stop="20220723142000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20220716060000 +0100" stop="20220716062500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Os Setters de Diana</title>
+  <programme start="20220723142000 +0100" stop="20220723150000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Music Trends</title>
   </programme>
-  <programme start="20220716062500 +0100" stop="20220716070000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Arte Animal</title>
+  <programme start="20220723150000 +0100" stop="20220723153000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
   </programme>
-  <programme start="20220716070000 +0100" stop="20220716073300 +0100" channel="Caça e Pesca">
-    <title lang="pt">Época Aberta - Caça</title>
+  <programme start="20220723153000 +0100" stop="20220723162000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
   </programme>
-  <programme start="20220716073300 +0100" stop="20220716080000 +0100" channel="Caça e Pesca">
-    <title lang="pt">O Infatigável Setter</title>
+  <programme start="20220723162000 +0100" stop="20220723170000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20220716080000 +0100" stop="20220716082500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Os Setters de Diana</title>
+  <programme start="20220723170000 +0100" stop="20220723173500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">+Love</title>
   </programme>
-  <programme start="20220716082500 +0100" stop="20220716090500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Pesca a Fio em Huelva</title>
+  <programme start="20220723173500 +0100" stop="20220723181000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
   </programme>
-  <programme start="20220716090500 +0100" stop="20220716093500 +0100" channel="Caça e Pesca">
-    <title lang="pt">À Pesca nos Pirenéus</title>
+  <programme start="20220723181000 +0100" stop="20220723190000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
   </programme>
-  <programme start="20220716093500 +0100" stop="20220716103000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Fishing Girl - Rapariga Pescadora</title>
+  <programme start="20220723190000 +0100" stop="20220723193600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Music Trends</title>
   </programme>
-  <programme start="20220716103000 +0100" stop="20220716110500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Ceuta: Spinning Para o Nacional</title>
+  <programme start="20220723193600 +0100" stop="20220723201000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
   </programme>
-  <programme start="20220716110500 +0100" stop="20220716113000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Sabor Selvagem</title>
+  <programme start="20220723201000 +0100" stop="20220723204500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20220716113000 +0100" stop="20220716120000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Breton: Pequeno Mas Caçador</title>
+  <programme start="20220723204500 +0100" stop="20220723212000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">+Love</title>
   </programme>
-  <programme start="20220716120000 +0100" stop="20220716123000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Arte Animal</title>
+  <programme start="20220723212000 +0100" stop="20220723221300 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
   </programme>
-  <programme start="20220716123000 +0100" stop="20220716130000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Certeros Ballesteros: Sarrios em El Canigó</title>
+  <programme start="20220723221300 +0100" stop="20220723230000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
   </programme>
-  <programme start="20220716130000 +0100" stop="20220716133000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Terra Selvagem</title>
+  <programme start="20220723230000 +0100" stop="20220724000000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
   </programme>
-  <programme start="20220716133000 +0100" stop="20220716135500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Quebec, Visão de Pássaro</title>
+  <programme start="20220724000000 +0100" stop="20220724083000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20220716135500 +0100" stop="20220716142500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Monteando a Sul da Serra de Gata (1ª Parte)</title>
+  <programme start="20220724083000 +0100" stop="20220724090000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">+Love</title>
   </programme>
-  <programme start="20220716142500 +0100" stop="20220716152000 +0100" channel="Caça e Pesca">
-    <title lang="pt">À Espreita</title>
+  <programme start="20220724090000 +0100" stop="20220724093000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
   </programme>
-  <programme start="20220716152000 +0100" stop="20220716155000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Carpas de Valmayor</title>
+  <programme start="20220724093000 +0100" stop="20220724100000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20220716155000 +0100" stop="20220716162500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Escola de Barbos</title>
+  <programme start="20220724100000 +0100" stop="20220724103000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Music Trends</title>
   </programme>
-  <programme start="20220716162500 +0100" stop="20220716170000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Época Aberta - Caça</title>
+  <programme start="20220724103000 +0100" stop="20220724110000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
   </programme>
-  <programme start="20220716170000 +0100" stop="20220716173000 +0100" channel="Caça e Pesca">
-    <title lang="pt">O Infatigável Setter</title>
+  <programme start="20220724110000 +0100" stop="20220724115000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
   </programme>
-  <programme start="20220716173000 +0100" stop="20220716175500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Quebec, Visão de Pássaro</title>
+  <programme start="20220724115000 +0100" stop="20220724123000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20220716175500 +0100" stop="20220716182500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Apenas Seca em Zelai</title>
+  <programme start="20220724123000 +0100" stop="20220724130500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">+Love</title>
   </programme>
-  <programme start="20220716182500 +0100" stop="20220716190000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Arte Animal</title>
+  <programme start="20220724130500 +0100" stop="20220724134500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
   </programme>
-  <programme start="20220716190000 +0100" stop="20220716193500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Canal Aberto Pesca</title>
+  <programme start="20220724134500 +0100" stop="20220724142000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20220716193500 +0100" stop="20220716201000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Achigã na Pós Desova</title>
+  <programme start="20220724142000 +0100" stop="20220724150000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Music Trends</title>
   </programme>
-  <programme start="20220716201000 +0100" stop="20220716211000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Safari de Antílopes na Província do Norte</title>
+  <programme start="20220724150000 +0100" stop="20220724153000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
   </programme>
-  <programme start="20220716211000 +0100" stop="20220716214500 +0100" channel="Caça e Pesca">
-    <title lang="pt">A Pulmão</title>
+  <programme start="20220724153000 +0100" stop="20220724162000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
   </programme>
-  <programme start="20220716214500 +0100" stop="20220716221000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Sabor Selvagem</title>
+  <programme start="20220724162000 +0100" stop="20220724170000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20220716221000 +0100" stop="20220716223500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Os Setters de Diana</title>
+  <programme start="20220724170000 +0100" stop="20220724173500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">+Love</title>
   </programme>
-  <programme start="20220716223500 +0100" stop="20220716230500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Caça com Perdigueiro de Burgos</title>
+  <programme start="20220724173500 +0100" stop="20220724181000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
   </programme>
-  <programme start="20220716230500 +0100" stop="20220716233500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Monteando em Terreno Maqui</title>
+  <programme start="20220724181000 +0100" stop="20220724190000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
   </programme>
-  <programme start="20220716233500 +0100" stop="20220717001000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Nautic Chapter: Atrás dos Escolares na Profundidade da Noite</title>
+  <programme start="20220724190000 +0100" stop="20220724193600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Music Trends</title>
   </programme>
-  <programme start="20220717001000 +0100" stop="20220717004000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Tencas, o Ouro Castelhano</title>
+  <programme start="20220724193600 +0100" stop="20220724201000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
   </programme>
-  <programme start="20220717004000 +0100" stop="20220717010500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Grandes Rebecos Europeus: O Sarrio Pirenaico</title>
+  <programme start="20220724201000 +0100" stop="20220724204500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20220717010500 +0100" stop="20220717013500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Monteando a Sul da Serra de Gata (2ª Parte)</title>
+  <programme start="20220724204500 +0100" stop="20220724212000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">+Love</title>
   </programme>
-  <programme start="20220717013500 +0100" stop="20220717021000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Bogas Al Remonte</title>
+  <programme start="20220724212000 +0100" stop="20220724221300 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
   </programme>
-  <programme start="20220717021000 +0100" stop="20220717024500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Tragacete: Lenda Viva da Caça</title>
+  <programme start="20220724221300 +0100" stop="20220724230000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
   </programme>
-  <programme start="20220717024500 +0100" stop="20220717034000 +0100" channel="Caça e Pesca">
-    <title lang="pt">À Espreita</title>
-  </programme>
-  <programme start="20220717034000 +0100" stop="20220717041000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Ilhas com Tradição</title>
-  </programme>
-  <programme start="20220717041000 +0100" stop="20220717044000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Diário de Um Pescador Submarino</title>
-  </programme>
-  <programme start="20220717044000 +0100" stop="20220717051000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Diário de Um Pescador Submarino</title>
-  </programme>
-  <programme start="20220717051000 +0100" stop="20220717053500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Canada In The Rough</title>
-  </programme>
-  <programme start="20220717053500 +0100" stop="20220717060500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Quebec, Visão de Pássaro</title>
-  </programme>
-  <programme start="20220717060500 +0100" stop="20220717063500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Apenas Seca em Zelai</title>
-  </programme>
-  <programme start="20220717063500 +0100" stop="20220717070000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Canada In The Rough</title>
-  </programme>
-  <programme start="20220717070000 +0100" stop="20220717073000 +0100" channel="Caça e Pesca">
-    <title lang="pt">O Infatigável Setter</title>
-  </programme>
-  <programme start="20220717073000 +0100" stop="20220717080000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Monteando a Sul da Serra de Gata (2ª Parte)</title>
-  </programme>
-  <programme start="20220717080000 +0100" stop="20220717083500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Nautic Chapter: Atrás dos Escolares na Profundidade da Noite</title>
-  </programme>
-  <programme start="20220717083500 +0100" stop="20220717090500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Achigã na Pós Desova</title>
-  </programme>
-  <programme start="20220717090500 +0100" stop="20220717093000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Os Setters de Diana</title>
-  </programme>
-  <programme start="20220717093000 +0100" stop="20220717100500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Época Aberta - Caça</title>
-  </programme>
-  <programme start="20220717100500 +0100" stop="20220717104000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Escola de Barbos</title>
-  </programme>
-  <programme start="20220717104000 +0100" stop="20220717111000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Arte Animal</title>
-  </programme>
-  <programme start="20220717111000 +0100" stop="20220717114500 +0100" channel="Caça e Pesca">
-    <title lang="pt">A Pulmão</title>
-  </programme>
-  <programme start="20220717114500 +0100" stop="20220717121000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Sabor Selvagem</title>
-  </programme>
-  <programme start="20220717121000 +0100" stop="20220717130500 +0100" channel="Caça e Pesca">
-    <title lang="pt">À Espreita</title>
-  </programme>
-  <programme start="20220717130500 +0100" stop="20220717134000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Certeros Ballesteros: Sarrios em El Canigó</title>
-  </programme>
-  <programme start="20220717134000 +0100" stop="20220717143500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Fishing Girl - Rapariga Pescadora</title>
-  </programme>
-  <programme start="20220717143500 +0100" stop="20220717151000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Ceuta: Spinning Para o Nacional</title>
-  </programme>
-  <programme start="20220717151000 +0100" stop="20220717153500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Sabor Selvagem</title>
-  </programme>
-  <programme start="20220717153500 +0100" stop="20220717160500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Monteando a Sul da Serra de Gata (1ª Parte)</title>
-  </programme>
-  <programme start="20220717160500 +0100" stop="20220717163000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Quebec, Visão de Pássaro</title>
-  </programme>
-  <programme start="20220717163000 +0100" stop="20220717170000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Apenas Seca em Zelai</title>
-  </programme>
-  <programme start="20220717170000 +0100" stop="20220717173000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Diário de Um Pescador Submarino</title>
-  </programme>
-  <programme start="20220717173000 +0100" stop="20220717180000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Tenkara à Leonesa</title>
-  </programme>
-  <programme start="20220717180000 +0100" stop="20220717182500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Os Setters de Diana</title>
-  </programme>
-  <programme start="20220717182500 +0100" stop="20220717185000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Canada In The Rough</title>
-  </programme>
-  <programme start="20220717185000 +0100" stop="20220717192000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Breton: Pequeno Mas Caçador</title>
-  </programme>
-  <programme start="20220717192000 +0100" stop="20220717195000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Carpas de Valmayor</title>
-  </programme>
-  <programme start="20220717195000 +0100" stop="20220717202500 +0100" channel="Caça e Pesca">
-    <title lang="pt">Canal Aberto Pesca</title>
-  </programme>
-  <programme start="20220717202500 +0100" stop="20220717210000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Arte Animal</title>
-  </programme>
-  <programme start="20220717210000 +0100" stop="20220717220000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Safari de Antílopes na Província do Norte</title>
-  </programme>
-  <programme start="20220717220000 +0100" stop="20220717223000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Terra Selvagem</title>
-  </programme>
-  <programme start="20220717223000 +0100" stop="20220717230000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Quebec, Visão de Pássaro</title>
-  </programme>
-  <programme start="20220717230000 +0100" stop="20220717234000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Pesca a Fio em Huelva</title>
-  </programme>
-  <programme start="20220717234000 +0100" stop="20220718001000 +0100" channel="Caça e Pesca">
-    <title lang="pt">Caça com Perdigueiro de Burgos</title>
+  <programme start="20220724230000 +0100" stop="20220725000000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
   </programme>
   <programme start="20220718001000 +0100" stop="20220718004500 +0100" channel="Caça e Pesca">
     <title lang="pt">Monteando em Terreno Maqui</title>
@@ -1503,104 +1239,284 @@
   <programme start="20220722233000 +0100" stop="20220723000000 +0100" channel="Caça e Pesca">
     <title lang="pt">Apenas Seca em Zelai</title>
   </programme>
-  <programme start="20220716034300 +0100" stop="20220716060300 +0100" channel="HOT HD">
-    <title lang="pt">Fode A Minha Mãe Que Eu Fodo A Tua</title>
+  <programme start="20220723000000 +0100" stop="20220723003500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Raposas "Mouriscas"</title>
   </programme>
-  <programme start="20220716060300 +0100" stop="20220716071500 +0100" channel="HOT HD">
-    <title lang="pt">As Tuas Mamas São Mais Falsas Que Judas!</title>
+  <programme start="20220723003500 +0100" stop="20220723011000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Nautic Chapter: Atrás dos Escolares na Profundidade da Noite</title>
   </programme>
-  <programme start="20220716071500 +0100" stop="20220716082500 +0100" channel="HOT HD">
-    <title lang="pt">Traz A Tua Amante Que Não Sou Ciumenta</title>
+  <programme start="20220723011000 +0100" stop="20220723014500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Tragacete: Lenda Viva da Caça</title>
   </programme>
-  <programme start="20220716082500 +0100" stop="20220716104000 +0100" channel="HOT HD">
-    <title lang="pt">Papás E Babás</title>
+  <programme start="20220723014500 +0100" stop="20220723021500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Relevo de Galinholas</title>
   </programme>
-  <programme start="20220716104000 +0100" stop="20220716124000 +0100" channel="HOT HD">
-    <title lang="pt">Adoro As Cuecas Da Minha Irmã</title>
+  <programme start="20220723021500 +0100" stop="20220723024500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Diário de Um Pescador Submarino</title>
   </programme>
-  <programme start="20220716124000 +0100" stop="20220716141800 +0100" channel="HOT HD">
-    <title lang="pt">O Gangster De Saint Tropez</title>
+  <programme start="20220723024500 +0100" stop="20220723031000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canada In The Rough</title>
   </programme>
-  <programme start="20220716141800 +0100" stop="20220716151500 +0100" channel="HOT HD">
-    <title lang="pt">Luna, A Betinha De Cascais</title>
+  <programme start="20220723031000 +0100" stop="20220723033500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canada In The Rough</title>
   </programme>
-  <programme start="20220716151500 +0100" stop="20220716161100 +0100" channel="HOT HD">
-    <title lang="pt">Combate De Pesos Pesados</title>
+  <programme start="20220723033500 +0100" stop="20220723040500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Época Aberta - Caça</title>
   </programme>
-  <programme start="20220716161100 +0100" stop="20220716175300 +0100" channel="HOT HD">
-    <title lang="pt">Artefactos Para Prazer Anal</title>
+  <programme start="20220723040500 +0100" stop="20220723050500 +0100" channel="Caça e Pesca">
+    <title lang="pt">A Conexão Elegante</title>
   </programme>
-  <programme start="20220716175300 +0100" stop="20220716193200 +0100" channel="HOT HD">
-    <title lang="pt">Pau No Cu, Esporra Na Cara</title>
+  <programme start="20220723050500 +0100" stop="20220723053000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Arte Animal</title>
   </programme>
-  <programme start="20220716193200 +0100" stop="20220716213000 +0100" channel="HOT HD">
-    <title lang="pt">A Minha Mulher Dá Para 2</title>
+  <programme start="20220723053000 +0100" stop="20220723060000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Diário de Um Pescador Submarino</title>
   </programme>
-  <programme start="20220716213000 +0100" stop="20220717000000 +0100" channel="HOT HD">
-    <title lang="pt">Só Dói Ao Entrar</title>
+  <programme start="20220723060000 +0100" stop="20220723063000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Monteando em La Bujeda</title>
   </programme>
-  <programme start="20220717000000 +0100" stop="20220717005700 +0100" channel="HOT HD">
-    <title lang="pt">Uma Surpresa Para Os Nossos Namorados</title>
+  <programme start="20220723063000 +0100" stop="20220723070000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Uma Berreia de Montanha</title>
   </programme>
-  <programme start="20220717005700 +0100" stop="20220717022500 +0100" channel="HOT HD">
-    <title lang="pt">Irmãos De Sangue E Foda</title>
+  <programme start="20220723070000 +0100" stop="20220723072700 +0100" channel="Caça e Pesca">
+    <title lang="pt">Relevo de Galinholas</title>
   </programme>
-  <programme start="20220717022500 +0100" stop="20220717033700 +0100" channel="HOT HD">
-    <title lang="pt">A Mamã Está On</title>
+  <programme start="20220723072700 +0100" stop="20220723080000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Tragacete: Lenda Viva da Caça</title>
   </programme>
-  <programme start="20220717033700 +0100" stop="20220717042500 +0100" channel="HOT HD">
-    <title lang="pt">Três Amigas Para Um</title>
+  <programme start="20220723080000 +0100" stop="20220723083500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Nautic Chapter: Atrás dos Escolares na Profundidade da Noite</title>
   </programme>
-  <programme start="20220717042500 +0100" stop="20220717055700 +0100" channel="HOT HD">
-    <title lang="pt">Chocolate Negro</title>
+  <programme start="20220723083500 +0100" stop="20220723091000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Raposas "Mouriscas"</title>
   </programme>
-  <programme start="20220717055700 +0100" stop="20220717065600 +0100" channel="HOT HD">
-    <title lang="pt">Festa Depois Da Festa</title>
+  <programme start="20220723091000 +0100" stop="20220723093700 +0100" channel="Caça e Pesca">
+    <title lang="pt">Caça com Perdigueiro de Burgos</title>
   </programme>
-  <programme start="20220717065600 +0100" stop="20220717081300 +0100" channel="HOT HD">
-    <title lang="pt">Sexo Ao Vivo Em Privado</title>
+  <programme start="20220723093700 +0100" stop="20220723101500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Pesca a Fio em Huelva</title>
   </programme>
-  <programme start="20220717081300 +0100" stop="20220717091400 +0100" channel="HOT HD">
-    <title lang="pt">Maduras E Loucas Por Levar No Cu</title>
+  <programme start="20220723101500 +0100" stop="20220723104500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Carpas de Valmayor</title>
   </programme>
-  <programme start="20220717091400 +0100" stop="20220717095600 +0100" channel="HOT HD">
-    <title lang="pt">Assim Se Faz Uma Festa</title>
+  <programme start="20220723104500 +0100" stop="20220723111000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Os Setters de Diana</title>
   </programme>
-  <programme start="20220717095600 +0100" stop="20220717114300 +0100" channel="HOT HD">
-    <title lang="pt">Como Levar Com 2 Na Cona</title>
+  <programme start="20220723111000 +0100" stop="20220723113500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Quebec, Visão de Pássaro</title>
   </programme>
-  <programme start="20220717114300 +0100" stop="20220717130500 +0100" channel="HOT HD">
-    <title lang="pt">Primeiras Submissões</title>
+  <programme start="20220723113500 +0100" stop="20220723120500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Apenas Seca em Zelai</title>
   </programme>
-  <programme start="20220717130500 +0100" stop="20220717144900 +0100" channel="HOT HD">
-    <title lang="pt">Apocalipse Sexual</title>
+  <programme start="20220723120500 +0100" stop="20220723123500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Caça de Reclame Desde Bocoy</title>
   </programme>
-  <programme start="20220717144900 +0100" stop="20220717165100 +0100" channel="HOT HD">
-    <title lang="pt">Salada De Frutas</title>
+  <programme start="20220723123500 +0100" stop="20220723133000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Safari de Antílopes na Província do Norte</title>
   </programme>
-  <programme start="20220717165100 +0100" stop="20220717175100 +0100" channel="HOT HD">
-    <title lang="pt">Trolhas Sortudos</title>
+  <programme start="20220723133000 +0100" stop="20220723140500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Ceuta: Spinning Para o Nacional</title>
   </programme>
-  <programme start="20220717175100 +0100" stop="20220717190700 +0100" channel="HOT HD">
-    <title lang="pt">Casting De Orgia</title>
+  <programme start="20220723140500 +0100" stop="20220723143000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Sabor Selvagem</title>
   </programme>
-  <programme start="20220717190700 +0100" stop="20220717201200 +0100" channel="HOT HD">
-    <title lang="pt">Novatas Francesas</title>
+  <programme start="20220723143000 +0100" stop="20220723145700 +0100" channel="Caça e Pesca">
+    <title lang="pt">Breton: Pequeno Mas Caçador</title>
   </programme>
-  <programme start="20220717201200 +0100" stop="20220717210500 +0100" channel="HOT HD">
-    <title lang="pt">Quem Fodeu A Josephine?</title>
+  <programme start="20220723145700 +0100" stop="20220723153000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canal Aberto Pesca</title>
   </programme>
-  <programme start="20220717210500 +0100" stop="20220717215600 +0100" channel="HOT HD">
-    <title lang="pt">Uau, Isso É Enorme!</title>
+  <programme start="20220723153000 +0100" stop="20220723160000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Época Aberta - Caça</title>
   </programme>
-  <programme start="20220717215600 +0100" stop="20220717224800 +0100" channel="HOT HD">
-    <title lang="pt">Filho Da Mãe</title>
+  <programme start="20220723160000 +0100" stop="20220723163000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Uma Berreia de Montanha</title>
   </programme>
-  <programme start="20220717224800 +0100" stop="20220718000000 +0100" channel="HOT HD">
-    <title lang="pt">Amantes De 2 Caralhos</title>
+  <programme start="20220723163000 +0100" stop="20220723164500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Os Segredos do Tiro</title>
   </programme>
-  <programme start="20220718000000 +0100" stop="20220718005500 +0100" channel="HOT HD">
-    <title lang="pt">Relação Secreta E Proibida</title>
+  <programme start="20220723164500 +0100" stop="20220723170000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Caderno de Campo</title>
+  </programme>
+  <programme start="20220723170000 +0100" stop="20220723173000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Tenkara à Leonesa</title>
+  </programme>
+  <programme start="20220723173000 +0100" stop="20220723175500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Quebec, Visão de Pássaro</title>
+  </programme>
+  <programme start="20220723175500 +0100" stop="20220723182500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Curri de Fundo em Maiorca</title>
+  </programme>
+  <programme start="20220723182500 +0100" stop="20220723190500 +0100" channel="Caça e Pesca">
+    <title lang="pt">A Montaria em La Anguila</title>
+  </programme>
+  <programme start="20220723190500 +0100" stop="20220723194000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Monteando em La Bujeda</title>
+  </programme>
+  <programme start="20220723194000 +0100" stop="20220723201500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Arte Animal</title>
+  </programme>
+  <programme start="20220723201500 +0100" stop="20220723204000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Arte Animal</title>
+  </programme>
+  <programme start="20220723204000 +0100" stop="20220723211000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Pesca à Mosca no Guadiana</title>
+  </programme>
+  <programme start="20220723211000 +0100" stop="20220723213500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Sabor Selvagem</title>
+  </programme>
+  <programme start="20220723213500 +0100" stop="20220723223000 +0100" channel="Caça e Pesca">
+    <title lang="pt">À Espreita</title>
+  </programme>
+  <programme start="20220723223000 +0100" stop="20220723233000 +0100" channel="Caça e Pesca">
+    <title lang="pt">A Conexão Elegante</title>
+  </programme>
+  <programme start="20220723233000 +0100" stop="20220723235500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Os Setters de Diana</title>
+  </programme>
+  <programme start="20220723235500 +0100" stop="20220724002800 +0100" channel="Caça e Pesca">
+    <title lang="pt">Achigã na Pós Desova</title>
+  </programme>
+  <programme start="20220724002800 +0100" stop="20220724010500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Nautic Chapter: À Procura dos Predadores - De Jigging em Jandía</title>
+  </programme>
+  <programme start="20220724010500 +0100" stop="20220724014000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Aos Corços em Las Peñas de Cervera</title>
+  </programme>
+  <programme start="20220724014000 +0100" stop="20220724021000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Diário de Um Pescador Submarino</title>
+  </programme>
+  <programme start="20220724021000 +0100" stop="20220724023500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canada In The Rough</title>
+  </programme>
+  <programme start="20220724023500 +0100" stop="20220724030500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Uma Berreia de Montanha</title>
+  </programme>
+  <programme start="20220724030500 +0100" stop="20220724032000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Os Segredos do Tiro</title>
+  </programme>
+  <programme start="20220724032000 +0100" stop="20220724033500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Caderno de Campo</title>
+  </programme>
+  <programme start="20220724033500 +0100" stop="20220724040500 +0100" channel="Caça e Pesca">
+    <title lang="pt">O Infatigável Setter</title>
+  </programme>
+  <programme start="20220724040500 +0100" stop="20220724043500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Tenkara à Leonesa</title>
+  </programme>
+  <programme start="20220724043500 +0100" stop="20220724051000 +0100" channel="Caça e Pesca">
+    <title lang="pt">A Montaria em La Anguila</title>
+  </programme>
+  <programme start="20220724051000 +0100" stop="20220724053500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Quebec, Visão de Pássaro</title>
+  </programme>
+  <programme start="20220724053500 +0100" stop="20220724060500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Curri de Fundo em Maiorca</title>
+  </programme>
+  <programme start="20220724060500 +0100" stop="20220724063000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canada In The Rough</title>
+  </programme>
+  <programme start="20220724063000 +0100" stop="20220724070000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Diário de Um Pescador Submarino</title>
+  </programme>
+  <programme start="20220724070000 +0100" stop="20220724073500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Nautic Chapter: À Procura dos Predadores - De Jigging em Jandía</title>
+  </programme>
+  <programme start="20220724073500 +0100" stop="20220724080500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Achigã na Pós Desova</title>
+  </programme>
+  <programme start="20220724080500 +0100" stop="20220724084000 +0100" channel="Caça e Pesca">
+    <title lang="pt">A Montaria em La Anguila</title>
+  </programme>
+  <programme start="20220724084000 +0100" stop="20220724091000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Apenas Seca em Zelai</title>
+  </programme>
+  <programme start="20220724091000 +0100" stop="20220724093500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Quebec, Visão de Pássaro</title>
+  </programme>
+  <programme start="20220724093500 +0100" stop="20220724103000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Safari de Antílopes na Província do Norte</title>
+  </programme>
+  <programme start="20220724103000 +0100" stop="20220724110500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Ceuta: Spinning Para o Nacional</title>
+  </programme>
+  <programme start="20220724110500 +0100" stop="20220724113000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Sabor Selvagem</title>
+  </programme>
+  <programme start="20220724113000 +0100" stop="20220724122000 +0100" channel="Caça e Pesca">
+    <title lang="pt">À Espreita</title>
+  </programme>
+  <programme start="20220724122000 +0100" stop="20220724125500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canal Aberto Pesca</title>
+  </programme>
+  <programme start="20220724125500 +0100" stop="20220724133000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Caça de Reclame Desde Bocoy</title>
+  </programme>
+  <programme start="20220724133000 +0100" stop="20220724143000 +0100" channel="Caça e Pesca">
+    <title lang="pt">A Conexão Elegante</title>
+  </programme>
+  <programme start="20220724143000 +0100" stop="20220724150000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Carpas de Valmayor</title>
+  </programme>
+  <programme start="20220724150000 +0100" stop="20220724153000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Breton: Pequeno Mas Caçador</title>
+  </programme>
+  <programme start="20220724153000 +0100" stop="20220724155500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Quebec, Visão de Pássaro</title>
+  </programme>
+  <programme start="20220724155500 +0100" stop="20220724162500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Curri de Fundo em Maiorca</title>
+  </programme>
+  <programme start="20220724162500 +0100" stop="20220724170000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Arte Animal</title>
+  </programme>
+  <programme start="20220724170000 +0100" stop="20220724173000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Diário de Um Pescador Submarino</title>
+  </programme>
+  <programme start="20220724173000 +0100" stop="20220724180500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Fuerteventura: Jigging Canário</title>
+  </programme>
+  <programme start="20220724180500 +0100" stop="20220724183000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Os Setters de Diana</title>
+  </programme>
+  <programme start="20220724183000 +0100" stop="20220724185500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canada In The Rough</title>
+  </programme>
+  <programme start="20220724185500 +0100" stop="20220724193000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Tenkara à Leonesa</title>
+  </programme>
+  <programme start="20220724193000 +0100" stop="20220724195500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Arte Animal</title>
+  </programme>
+  <programme start="20220724195500 +0100" stop="20220724203000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Época Aberta - Caça</title>
+  </programme>
+  <programme start="20220724203000 +0100" stop="20220724210000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Monteando em La Bujeda</title>
+  </programme>
+  <programme start="20220724210000 +0100" stop="20220724213000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Uma Berreia de Montanha</title>
+  </programme>
+  <programme start="20220724213000 +0100" stop="20220724214500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Os Segredos do Tiro</title>
+  </programme>
+  <programme start="20220724214500 +0100" stop="20220724220000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Caderno de Campo</title>
+  </programme>
+  <programme start="20220724220000 +0100" stop="20220724222500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Os Setters de Diana</title>
+  </programme>
+  <programme start="20220724222500 +0100" stop="20220724225500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Pesca à Mosca no Guadiana</title>
+  </programme>
+  <programme start="20220724225500 +0100" stop="20220724232000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Sabor Selvagem</title>
+  </programme>
+  <programme start="20220724232000 +0100" stop="20220724235500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Raposas "Mouriscas"</title>
+  </programme>
+  <programme start="20220724235500 +0100" stop="20220725003000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Nautic Chapter: Atrás dos Escolares na Profundidade da Noite</title>
   </programme>
   <programme start="20220718005500 +0100" stop="20220718042900 +0100" channel="HOT HD">
     <title lang="pt">Julia Ann, 47 Anos E Muitos Paus No Cu!</title>
@@ -1869,47 +1785,98 @@
   <programme start="20220722231400 +0100" stop="20220723000000 +0100" channel="HOT HD">
     <title lang="pt">O Meu Irmão Negro</title>
   </programme>
-  <programme start="20220716050000 +0100" stop="20220716080000 +0100" channel="MCM POP">
-    <title lang="pt">Pop Tonic \u0027Morning\u0027</title>
+  <programme start="20220723000000 +0100" stop="20220723010100 +0100" channel="HOT HD">
+    <title lang="pt">Apanhada Em Flagrante Delito</title>
   </programme>
-  <programme start="20220716080000 +0100" stop="20220716100000 +0100" channel="MCM POP">
-    <title lang="pt">Pop List</title>
+  <programme start="20220723010100 +0100" stop="20220723023700 +0100" channel="HOT HD">
+    <title lang="pt">Assim Se Fode Uma Madura</title>
   </programme>
-  <programme start="20220716100000 +0100" stop="20220716120000 +0100" channel="MCM POP">
-    <title lang="pt">Hit RFM</title>
+  <programme start="20220723023700 +0100" stop="20220723032400 +0100" channel="HOT HD">
+    <title lang="pt">Prateleiras De Carne</title>
   </programme>
-  <programme start="20220716120000 +0100" stop="20220716200000 +0100" channel="MCM POP">
-    <title lang="pt">Pop List</title>
+  <programme start="20220723032400 +0100" stop="20220723055400 +0100" channel="HOT HD">
+    <title lang="pt">As Boas Rebeldes</title>
   </programme>
-  <programme start="20220716200000 +0100" stop="20220716203000 +0100" channel="MCM POP">
-    <title lang="pt">Pop Culte</title>
+  <programme start="20220723055400 +0100" stop="20220723064500 +0100" channel="HOT HD">
+    <title lang="pt">O Primeiro Bdsm Da Minha Namorada</title>
   </programme>
-  <programme start="20220716203000 +0100" stop="20220716230000 +0100" channel="MCM POP">
-    <title lang="pt">Disco Pop</title>
+  <programme start="20220723064500 +0100" stop="20220723094000 +0100" channel="HOT HD">
+    <title lang="pt">Noé Gomes, O Café Expresso Português</title>
   </programme>
-  <programme start="20220716230000 +0100" stop="20220717050000 +0100" channel="MCM POP">
-    <title lang="pt">Pop List</title>
+  <programme start="20220723094000 +0100" stop="20220723104900 +0100" channel="HOT HD">
+    <title lang="pt">Forrobodó Na Esquadra</title>
   </programme>
-  <programme start="20220717050000 +0100" stop="20220717080000 +0100" channel="MCM POP">
-    <title lang="pt">Pop Tonic \u0027Morning\u0027</title>
+  <programme start="20220723104900 +0100" stop="20220723131100 +0100" channel="HOT HD">
+    <title lang="pt">Serviço Público</title>
   </programme>
-  <programme start="20220717080000 +0100" stop="20220717100000 +0100" channel="MCM POP">
-    <title lang="pt">Pop List</title>
+  <programme start="20220723131100 +0100" stop="20220723144200 +0100" channel="HOT HD">
+    <title lang="pt">As Mulherzinhas</title>
   </programme>
-  <programme start="20220717100000 +0100" stop="20220717110000 +0100" channel="MCM POP">
-    <title lang="pt">Pop Legend</title>
+  <programme start="20220723144200 +0100" stop="20220723160700 +0100" channel="HOT HD">
+    <title lang="pt">Massagens De Garganta Funda</title>
   </programme>
-  <programme start="20220717110000 +0100" stop="20220717200000 +0100" channel="MCM POP">
-    <title lang="pt">Pop List</title>
+  <programme start="20220723160700 +0100" stop="20220723175000 +0100" channel="HOT HD">
+    <title lang="pt">Ibiza</title>
   </programme>
-  <programme start="20220717200000 +0100" stop="20220717203000 +0100" channel="MCM POP">
-    <title lang="pt">Pop Culte</title>
+  <programme start="20220723175000 +0100" stop="20220723194200 +0100" channel="HOT HD">
+    <title lang="pt">O Meu Padrasto É Viciado Em Sexo</title>
   </programme>
-  <programme start="20220717203000 +0100" stop="20220717223000 +0100" channel="MCM POP">
-    <title lang="pt">Hit RFM</title>
+  <programme start="20220723194200 +0100" stop="20220723205100 +0100" channel="HOT HD">
+    <title lang="pt">Sem Rei Nem Roque</title>
   </programme>
-  <programme start="20220717223000 +0100" stop="20220718050000 +0100" channel="MCM POP">
-    <title lang="pt">Pop List</title>
+  <programme start="20220723205100 +0100" stop="20220723215500 +0100" channel="HOT HD">
+    <title lang="pt">Eu O Meu Marido E A Empregada</title>
+  </programme>
+  <programme start="20220723215500 +0100" stop="20220724000000 +0100" channel="HOT HD">
+    <title lang="pt">A Revolta Do Escravo</title>
+  </programme>
+  <programme start="20220724000000 +0100" stop="20220724005700 +0100" channel="HOT HD">
+    <title lang="pt">Comi A Amante Do Meu Marido</title>
+  </programme>
+  <programme start="20220724005700 +0100" stop="20220724023800 +0100" channel="HOT HD">
+    <title lang="pt">Artefactos Para Prazer Anal</title>
+  </programme>
+  <programme start="20220724023800 +0100" stop="20220724034300 +0100" channel="HOT HD">
+    <title lang="pt">Pêlo Amor De Deus</title>
+  </programme>
+  <programme start="20220724034300 +0100" stop="20220724061300 +0100" channel="HOT HD">
+    <title lang="pt">Só Dói Ao Entrar</title>
+  </programme>
+  <programme start="20220724061300 +0100" stop="20220724071500 +0100" channel="HOT HD">
+    <title lang="pt">Rusga Sexual</title>
+  </programme>
+  <programme start="20220724071500 +0100" stop="20220724081500 +0100" channel="HOT HD">
+    <title lang="pt">As Primeiras Caseiradas De Um Casal Português</title>
+  </programme>
+  <programme start="20220724081500 +0100" stop="20220724091500 +0100" channel="HOT HD">
+    <title lang="pt">O Cu Da Tua Mãe É Melhor Que O Teu!</title>
+  </programme>
+  <programme start="20220724091500 +0100" stop="20220724110000 +0100" channel="HOT HD">
+    <title lang="pt">Trocas De Pares</title>
+  </programme>
+  <programme start="20220724110000 +0100" stop="20220724115800 +0100" channel="HOT HD">
+    <title lang="pt">A Primeira Dupla Penetração De Alexa</title>
+  </programme>
+  <programme start="20220724115800 +0100" stop="20220724140400 +0100" channel="HOT HD">
+    <title lang="pt">Fodi A Prima</title>
+  </programme>
+  <programme start="20220724140400 +0100" stop="20220724151000 +0100" channel="HOT HD">
+    <title lang="pt">Amadores E Maduros</title>
+  </programme>
+  <programme start="20220724151000 +0100" stop="20220724162100 +0100" channel="HOT HD">
+    <title lang="pt">Traz A Tua Amante Que Não Sou Ciumenta</title>
+  </programme>
+  <programme start="20220724162100 +0100" stop="20220724183000 +0100" channel="HOT HD">
+    <title lang="pt">Não Contes Ao Meu Namorado</title>
+  </programme>
+  <programme start="20220724183000 +0100" stop="20220724203200 +0100" channel="HOT HD">
+    <title lang="pt">Adoro As Cuecas Da Minha Irmã</title>
+  </programme>
+  <programme start="20220724203200 +0100" stop="20220724215400 +0100" channel="HOT HD">
+    <title lang="pt">Um Sonho Português</title>
+  </programme>
+  <programme start="20220724215400 +0100" stop="20220725000000 +0100" channel="HOT HD">
+    <title lang="pt">Vem-Te Dentro Da Minha Mulher</title>
   </programme>
   <programme start="20220718050000 +0100" stop="20220718080000 +0100" channel="MCM POP">
     <title lang="pt">Pop Tonic \u0027Morning\u0027</title>
@@ -2031,182 +1998,47 @@
   <programme start="20220722230000 +0100" stop="20220723050000 +0100" channel="MCM POP">
     <title lang="pt">Pop List</title>
   </programme>
-  <programme start="20220716033000 +0100" stop="20220716060000 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Night Videos</title>
+  <programme start="20220723050000 +0100" stop="20220723080000 +0100" channel="MCM POP">
+    <title lang="pt">Pop Tonic \u0027Morning\u0027</title>
   </programme>
-  <programme start="20220716060000 +0100" stop="20220716070000 +0100" channel="MTV Portugal HD">
-    <title lang="pt">MTV Insomnia</title>
+  <programme start="20220723080000 +0100" stop="20220723100000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
   </programme>
-  <programme start="20220716070000 +0100" stop="20220716090000 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Wake Up</title>
+  <programme start="20220723100000 +0100" stop="20220723120000 +0100" channel="MCM POP">
+    <title lang="pt">Hit RFM</title>
   </programme>
-  <programme start="20220716090000 +0100" stop="20220716110000 +0100" channel="MTV Portugal HD">
-    <title lang="pt">MTV INTO THE MUSIC</title>
+  <programme start="20220723120000 +0100" stop="20220723200000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
   </programme>
-  <programme start="20220716110000 +0100" stop="20220716135600 +0100" channel="MTV Portugal HD">
-    <title lang="pt">MTV Hits</title>
+  <programme start="20220723200000 +0100" stop="20220723203000 +0100" channel="MCM POP">
+    <title lang="pt">Pop Culte</title>
   </programme>
-  <programme start="20220716135600 +0100" stop="20220716142000 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Adorableness</title>
+  <programme start="20220723203000 +0100" stop="20220723230000 +0100" channel="MCM POP">
+    <title lang="pt">Disco Pop</title>
   </programme>
-  <programme start="20220716142000 +0100" stop="20220716150500 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Catfish: The TV Show</title>
+  <programme start="20220723230000 +0100" stop="20220724050000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
   </programme>
-  <programme start="20220716150500 +0100" stop="20220716154500 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Catfish: The TV Show</title>
+  <programme start="20220724050000 +0100" stop="20220724080000 +0100" channel="MCM POP">
+    <title lang="pt">Pop Tonic \u0027Morning\u0027</title>
   </programme>
-  <programme start="20220716154500 +0100" stop="20220716162700 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Catfish: The TV Show</title>
+  <programme start="20220724080000 +0100" stop="20220724100000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
   </programme>
-  <programme start="20220716162700 +0100" stop="20220716171000 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Catfish: The TV Show</title>
+  <programme start="20220724100000 +0100" stop="20220724110000 +0100" channel="MCM POP">
+    <title lang="pt">Pop Legend</title>
   </programme>
-  <programme start="20220716171000 +0100" stop="20220716175300 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Catfish: The TV Show</title>
+  <programme start="20220724110000 +0100" stop="20220724200000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
   </programme>
-  <programme start="20220716175300 +0100" stop="20220716181500 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
+  <programme start="20220724200000 +0100" stop="20220724203000 +0100" channel="MCM POP">
+    <title lang="pt">Pop Culte</title>
   </programme>
-  <programme start="20220716181500 +0100" stop="20220716183800 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
+  <programme start="20220724203000 +0100" stop="20220724223000 +0100" channel="MCM POP">
+    <title lang="pt">Hit RFM</title>
   </programme>
-  <programme start="20220716183800 +0100" stop="20220716190300 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220716190300 +0100" stop="20220716192700 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220716192700 +0100" stop="20220716195100 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220716195100 +0100" stop="20220716201600 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220716201600 +0100" stop="20220716210000 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Siesta Key</title>
-  </programme>
-  <programme start="20220716210000 +0100" stop="20220716214400 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Siesta Key</title>
-  </programme>
-  <programme start="20220716214400 +0100" stop="20220716220800 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220716220800 +0100" stop="20220716223200 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220716223200 +0100" stop="20220716225500 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220716225500 +0100" stop="20220716231700 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220716231700 +0100" stop="20220716234000 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220716234000 +0100" stop="20220717000300 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220717000300 +0100" stop="20220717002500 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220717002500 +0100" stop="20220717004800 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220717004800 +0100" stop="20220717011200 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220717011200 +0100" stop="20220717015700 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Jersey Shore Family Vacation</title>
-  </programme>
-  <programme start="20220717015700 +0100" stop="20220717024200 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Jersey Shore Family Vacation</title>
-  </programme>
-  <programme start="20220717024200 +0100" stop="20220717030200 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220717030200 +0100" stop="20220717032500 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220717032500 +0100" stop="20220717060000 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Night Videos</title>
-  </programme>
-  <programme start="20220717060000 +0100" stop="20220717070000 +0100" channel="MTV Portugal HD">
-    <title lang="pt">MTV Insomnia</title>
-  </programme>
-  <programme start="20220717070000 +0100" stop="20220717092300 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Wake Up</title>
-  </programme>
-  <programme start="20220717092300 +0100" stop="20220717094900 +0100" channel="MTV Portugal HD">
-    <title lang="pt">My Life on MTV</title>
-  </programme>
-  <programme start="20220717094900 +0100" stop="20220717101600 +0100" channel="MTV Portugal HD">
-    <title lang="pt">My Life on MTV</title>
-  </programme>
-  <programme start="20220717101600 +0100" stop="20220717104000 +0100" channel="MTV Portugal HD">
-    <title lang="pt">My Life on MTV</title>
-  </programme>
-  <programme start="20220717104000 +0100" stop="20220717111500 +0100" channel="MTV Portugal HD">
-    <title lang="pt">From Cradle to Stage</title>
-  </programme>
-  <programme start="20220717111500 +0100" stop="20220717135500 +0100" channel="MTV Portugal HD">
-    <title lang="pt">MTV Hits</title>
-  </programme>
-  <programme start="20220717135500 +0100" stop="20220717142000 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220717142000 +0100" stop="20220717150500 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Catfish: The TV Show</title>
-  </programme>
-  <programme start="20220717150500 +0100" stop="20220717154500 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Catfish: The TV Show</title>
-  </programme>
-  <programme start="20220717154500 +0100" stop="20220717162700 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Catfish: The TV Show</title>
-  </programme>
-  <programme start="20220717162700 +0100" stop="20220717171000 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Catfish: The TV Show</title>
-  </programme>
-  <programme start="20220717171000 +0100" stop="20220717175200 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Catfish: The TV Show</title>
-  </programme>
-  <programme start="20220717175200 +0100" stop="20220717180000 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Fresh Out Live</title>
-  </programme>
-  <programme start="20220717180000 +0100" stop="20220717184300 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ghosted: Love Gone Missing</title>
-  </programme>
-  <programme start="20220717184300 +0100" stop="20220717225800 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ghosted: Love Gone Missing</title>
-  </programme>
-  <programme start="20220717225800 +0100" stop="20220717231800 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220717231800 +0100" stop="20220717234000 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220717234000 +0100" stop="20220718000100 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220718000100 +0100" stop="20220718002400 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220718002400 +0100" stop="20220718004800 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220718004800 +0100" stop="20220718011100 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220718011100 +0100" stop="20220718015500 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Jersey Shore Family Vacation</title>
-  </programme>
-  <programme start="20220718015500 +0100" stop="20220718024000 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Jersey Shore Family Vacation</title>
-  </programme>
-  <programme start="20220718024000 +0100" stop="20220718030000 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20220718030000 +0100" stop="20220718032500 +0100" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
+  <programme start="20220724223000 +0100" stop="20220725050000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
   </programme>
   <programme start="20220718032500 +0100" stop="20220718060000 +0100" channel="MTV Portugal HD">
     <title lang="pt">Night Videos</title>
@@ -2646,221 +2478,170 @@
   <programme start="20220722235700 +0100" stop="20220723002000 +0100" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220716035900 +0100" stop="20220716043100 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Crave VII</title>
+  <programme start="20220723002000 +0100" stop="20220723004200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220716043100 +0100" stop="20220716050100 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Neighborhood Rumors</title>
+  <programme start="20220723004200 +0100" stop="20220723010300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220716050100 +0100" stop="20220716063100 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Roommate Orgasms</title>
+  <programme start="20220723010300 +0100" stop="20220723014500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Jersey Shore Family Vacation</title>
   </programme>
-  <programme start="20220716063100 +0100" stop="20220716070200 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Fantasy Flirt I</title>
+  <programme start="20220723014500 +0100" stop="20220723022800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Jersey Shore Family Vacation</title>
   </programme>
-  <programme start="20220716070200 +0100" stop="20220716073200 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Dream Dates Elite I</title>
+  <programme start="20220723022800 +0100" stop="20220723024700 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220716073200 +0100" stop="20220716080300 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Labios Calientes</title>
+  <programme start="20220723024700 +0100" stop="20220723033000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Word Stage</title>
   </programme>
-  <programme start="20220716080300 +0100" stop="20220716083300 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">The Life Erotic II</title>
+  <programme start="20220723033000 +0100" stop="20220723060000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Night Videos</title>
   </programme>
-  <programme start="20220716083300 +0100" stop="20220716092900 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">The Man</title>
+  <programme start="20220723060000 +0100" stop="20220723070000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV Insomnia</title>
   </programme>
-  <programme start="20220716092900 +0100" stop="20220716100000 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">News Uncovered I</title>
+  <programme start="20220723070000 +0100" stop="20220723090000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Wake Up</title>
   </programme>
-  <programme start="20220716100000 +0100" stop="20220716112900 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Interracial Facesitting</title>
+  <programme start="20220723090000 +0100" stop="20220723110000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV INTO THE MUSIC</title>
   </programme>
-  <programme start="20220716112900 +0100" stop="20220716120000 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Fantasy Flirt I</title>
+  <programme start="20220723110000 +0100" stop="20220723135600 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV Hits</title>
   </programme>
-  <programme start="20220716120000 +0100" stop="20220716123200 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Spa X</title>
+  <programme start="20220723135600 +0100" stop="20220723142000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Adorableness</title>
   </programme>
-  <programme start="20220716123200 +0100" stop="20220716130400 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Bare Fitness I</title>
+  <programme start="20220723142000 +0100" stop="20220723150500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20220716130400 +0100" stop="20220716133600 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Secret Sessions I</title>
+  <programme start="20220723150500 +0100" stop="20220723154500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20220716133600 +0100" stop="20220716140500 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Neighborhood Rumors</title>
+  <programme start="20220723154500 +0100" stop="20220723162700 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20220716140500 +0100" stop="20220716143700 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">The Stash III</title>
+  <programme start="20220723162700 +0100" stop="20220723171000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20220716143700 +0100" stop="20220716150900 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">The Stash III</title>
+  <programme start="20220723171000 +0100" stop="20220723175300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20220716150900 +0100" stop="20220716163500 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Kinks + Fetishes</title>
+  <programme start="20220723175300 +0100" stop="20220723181500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220716163500 +0100" stop="20220716170500 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Femme Fit</title>
+  <programme start="20220723181500 +0100" stop="20220723183800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220716170500 +0100" stop="20220716173400 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">News Uncovered I</title>
+  <programme start="20220723183800 +0100" stop="20220723190300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220716173400 +0100" stop="20220716180100 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">The Wild Life: Miami</title>
+  <programme start="20220723190300 +0100" stop="20220723192700 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220716180100 +0100" stop="20220716183300 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Crave VII</title>
+  <programme start="20220723192700 +0100" stop="20220723195100 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220716183300 +0100" stop="20220716200500 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Horny Lesbo Roommates</title>
+  <programme start="20220723195100 +0100" stop="20220723201500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220716200500 +0100" stop="20220716210300 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">The Man</title>
+  <programme start="20220723201500 +0100" stop="20220723210000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Siesta Key</title>
   </programme>
-  <programme start="20220716210300 +0100" stop="20220716213300 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Room Service</title>
+  <programme start="20220723210000 +0100" stop="20220723214400 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Siesta Key</title>
   </programme>
-  <programme start="20220716213300 +0100" stop="20220716220300 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Labios Calientes</title>
+  <programme start="20220723214400 +0100" stop="20220723220800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220716220300 +0100" stop="20220716223300 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Dream Dates Elite I</title>
+  <programme start="20220723220800 +0100" stop="20220723223200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220716223300 +0100" stop="20220716230500 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Intimate Tales</title>
+  <programme start="20220723223200 +0100" stop="20220723225500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220716230500 +0100" stop="20220716233700 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">The Life Erotic II</title>
+  <programme start="20220723225500 +0100" stop="20220723231700 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220716233700 +0100" stop="20220717000900 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">The Life Erotic II</title>
+  <programme start="20220723231700 +0100" stop="20220723234000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220717000900 +0100" stop="20220717003600 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">The Wild Life: Miami</title>
+  <programme start="20220723234000 +0100" stop="20220724000300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220717003600 +0100" stop="20220717010700 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Fantasy Flirt I</title>
+  <programme start="20220724000300 +0100" stop="20220724002500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220717010700 +0100" stop="20220717023700 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Roommate Orgasms</title>
+  <programme start="20220724002500 +0100" stop="20220724004800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220717023700 +0100" stop="20220717030700 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">News Uncovered I</title>
+  <programme start="20220724004800 +0100" stop="20220724011200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220717030700 +0100" stop="20220717033900 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Secret Sessions I</title>
+  <programme start="20220724011200 +0100" stop="20220724015700 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Jersey Shore Family Vacation</title>
   </programme>
-  <programme start="20220717033900 +0100" stop="20220717040900 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Femme Fit</title>
+  <programme start="20220724015700 +0100" stop="20220724024200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Jersey Shore Family Vacation</title>
   </programme>
-  <programme start="20220717040900 +0100" stop="20220717050400 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Swing</title>
+  <programme start="20220724024200 +0100" stop="20220724030200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220717050400 +0100" stop="20220717062800 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Black Porn Stars Unleashed</title>
+  <programme start="20220724030200 +0100" stop="20220724032500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220717062800 +0100" stop="20220717070000 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Intimate Tales</title>
+  <programme start="20220724032500 +0100" stop="20220724060000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Night Videos</title>
   </programme>
-  <programme start="20220717070000 +0100" stop="20220717073000 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Neighborhood Rumors</title>
+  <programme start="20220724060000 +0100" stop="20220724070000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV Insomnia</title>
   </programme>
-  <programme start="20220717073000 +0100" stop="20220717075900 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Labios Calientes</title>
+  <programme start="20220724070000 +0100" stop="20220724090000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Wake Up</title>
   </programme>
-  <programme start="20220717075900 +0100" stop="20220717083100 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Bare Fitness I</title>
+  <programme start="20220724090000 +0100" stop="20220724111500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV Video Music Awards 2021</title>
   </programme>
-  <programme start="20220717083100 +0100" stop="20220717092900 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">The Man</title>
+  <programme start="20220724111500 +0100" stop="20220724135500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV Hits</title>
   </programme>
-  <programme start="20220717092900 +0100" stop="20220717100000 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Dream Dates Elite I</title>
+  <programme start="20220724135500 +0100" stop="20220724142000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220717100000 +0100" stop="20220717113100 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Roommate Orgasms</title>
+  <programme start="20220724142000 +0100" stop="20220724150500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20220717113100 +0100" stop="20220717120300 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">The Life Erotic II</title>
+  <programme start="20220724150500 +0100" stop="20220724154500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20220717120300 +0100" stop="20220717123500 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">The Stash III</title>
+  <programme start="20220724154500 +0100" stop="20220724162700 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20220717123500 +0100" stop="20220717130800 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">The Stash III</title>
+  <programme start="20220724162700 +0100" stop="20220724171000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20220717130800 +0100" stop="20220717133800 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Dream Dates Elite I</title>
+  <programme start="20220724171000 +0100" stop="20220724175200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20220717133800 +0100" stop="20220717140800 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Dream Dates Elite I</title>
+  <programme start="20220724175200 +0100" stop="20220724180000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Fresh Out Live</title>
   </programme>
-  <programme start="20220717140800 +0100" stop="20220717150200 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Swing</title>
+  <programme start="20220724180000 +0100" stop="20220724184300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ghosted: Love Gone Missing</title>
   </programme>
-  <programme start="20220717150200 +0100" stop="20220717162400 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Eager To Please You</title>
+  <programme start="20220724184300 +0100" stop="20220724225800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ghosted: Love Gone Missing</title>
   </programme>
-  <programme start="20220717162400 +0100" stop="20220717165600 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Bare Fitness I</title>
+  <programme start="20220724225800 +0100" stop="20220724231800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220717165600 +0100" stop="20220717172600 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Neighborhood Rumors</title>
+  <programme start="20220724231800 +0100" stop="20220724234000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20220717172600 +0100" stop="20220717175500 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Labios Calientes</title>
-  </programme>
-  <programme start="20220717175500 +0100" stop="20220717182500 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Room Service</title>
-  </programme>
-  <programme start="20220717182500 +0100" stop="20220717185700 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Spa X</title>
-  </programme>
-  <programme start="20220717185700 +0100" stop="20220717192900 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Secret Sessions I</title>
-  </programme>
-  <programme start="20220717192900 +0100" stop="20220717195900 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Femme Fit</title>
-  </programme>
-  <programme start="20220717195900 +0100" stop="20220717202900 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Femme Fit</title>
-  </programme>
-  <programme start="20220717202900 +0100" stop="20220717205700 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">The Wild Life: Miami</title>
-  </programme>
-  <programme start="20220717205700 +0100" stop="20220717212400 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">The Wild Life: Miami</title>
-  </programme>
-  <programme start="20220717212400 +0100" stop="20220717222200 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">The Man</title>
-  </programme>
-  <programme start="20220717222200 +0100" stop="20220717225300 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">News Uncovered I</title>
-  </programme>
-  <programme start="20220717225300 +0100" stop="20220717232600 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Crave VII</title>
-  </programme>
-  <programme start="20220717232600 +0100" stop="20220717235700 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Fantasy Flirt I</title>
-  </programme>
-  <programme start="20220717235700 +0100" stop="20220718002700 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Dream Dates Elite I</title>
-  </programme>
-  <programme start="20220718002700 +0100" stop="20220718005900 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Bare Fitness I</title>
-  </programme>
-  <programme start="20220718005900 +0100" stop="20220718022300 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Black Porn Stars Unleashed</title>
-  </programme>
-  <programme start="20220718022300 +0100" stop="20220718025500 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Secret Sessions I</title>
-  </programme>
-  <programme start="20220718025500 +0100" stop="20220718032700 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Intimate Tales</title>
-  </programme>
-  <programme start="20220718032700 +0100" stop="20220718035600 +0100" channel="PLAYBOY TV HD">
-    <title lang="pt">Neighborhood Rumors</title>
+  <programme start="20220724234000 +0100" stop="20220725000100 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
   <programme start="20220718035600 +0100" stop="20220718042800 +0100" channel="PLAYBOY TV HD">
     <title lang="pt">The Life Erotic II</title>
@@ -3399,131 +3180,224 @@
   <programme start="20220722233200 +0100" stop="20220723000400 +0100" channel="PLAYBOY TV HD">
     <title lang="pt">Fantasy Flirt II</title>
   </programme>
-  <programme start="20220716030000 +0100" stop="20220716040000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Weekend Vibes</title>
+  <programme start="20220723000400 +0100" stop="20220723005800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing</title>
   </programme>
-  <programme start="20220716040000 +0100" stop="20220716050000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Weekend Vibes</title>
+  <programme start="20220723005800 +0100" stop="20220723022700 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Exposure</title>
   </programme>
-  <programme start="20220716050000 +0100" stop="20220716080000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Sunny Vibes</title>
+  <programme start="20220723022700 +0100" stop="20220723025500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Dream Dates</title>
   </programme>
-  <programme start="20220716080000 +0100" stop="20220716094500 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Hit 30</title>
+  <programme start="20220723025500 +0100" stop="20220723032400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Room Service</title>
   </programme>
-  <programme start="20220716094500 +0100" stop="20220716100000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
+  <programme start="20220723032400 +0100" stop="20220723035700 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic IV</title>
   </programme>
-  <programme start="20220716100000 +0100" stop="20220716110000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Rewind</title>
+  <programme start="20220723035700 +0100" stop="20220723042900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Crave VII</title>
   </programme>
-  <programme start="20220716110000 +0100" stop="20220716120000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">100% Ladies</title>
+  <programme start="20220723042900 +0100" stop="20220723045900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Neighborhood Rumors</title>
   </programme>
-  <programme start="20220716120000 +0100" stop="20220716130000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Weekend Vibes</title>
+  <programme start="20220723045900 +0100" stop="20220723063000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Sexo No Velho Oeste</title>
   </programme>
-  <programme start="20220716130000 +0100" stop="20220716140000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Weekend Vibes</title>
+  <programme start="20220723063000 +0100" stop="20220723070100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Fantasy Flirt II</title>
   </programme>
-  <programme start="20220716140000 +0100" stop="20220716150000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Weekend Vibes</title>
+  <programme start="20220723070100 +0100" stop="20220723072900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Dream Dates</title>
   </programme>
-  <programme start="20220716150000 +0100" stop="20220716154500 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Us Hit</title>
+  <programme start="20220723072900 +0100" stop="20220723075800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Room Service</title>
   </programme>
-  <programme start="20220716154500 +0100" stop="20220716161500 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
+  <programme start="20220723075800 +0100" stop="20220723083000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic IV</title>
   </programme>
-  <programme start="20220716161500 +0100" stop="20220716170000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Hit 10</title>
+  <programme start="20220723083000 +0100" stop="20220723092800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Man</title>
   </programme>
-  <programme start="20220716170000 +0100" stop="20220716175900 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Hits \u0026 Lyrics</title>
+  <programme start="20220723092800 +0100" stop="20220723100000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">News Uncovered I</title>
   </programme>
-  <programme start="20220716180000 +0100" stop="20220716194500 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Hit 30</title>
+  <programme start="20220723100000 +0100" stop="20220723112900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Exposure</title>
   </programme>
-  <programme start="20220716194500 +0100" stop="20220716220000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
+  <programme start="20220723112900 +0100" stop="20220723120000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Fantasy Flirt I</title>
   </programme>
-  <programme start="20220716220000 +0100" stop="20220716224500 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Stream It</title>
+  <programme start="20220723120000 +0100" stop="20220723123200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X</title>
   </programme>
-  <programme start="20220716224500 +0100" stop="20220716230000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
+  <programme start="20220723123200 +0100" stop="20220723130400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Secret Sessions I</title>
   </programme>
-  <programme start="20220716230000 +0100" stop="20220717020000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Sounds Of Trace</title>
+  <programme start="20220723130400 +0100" stop="20220723133600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bare Fitness I</title>
   </programme>
-  <programme start="20220717020000 +0100" stop="20220717030000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">New</title>
+  <programme start="20220723133600 +0100" stop="20220723140600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Neighborhood Rumors</title>
   </programme>
-  <programme start="20220717030000 +0100" stop="20220717040000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Weekend Vibes</title>
+  <programme start="20220723140600 +0100" stop="20220723143800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Stash III</title>
   </programme>
-  <programme start="20220717040000 +0100" stop="20220717050000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Weekend Vibes</title>
+  <programme start="20220723143800 +0100" stop="20220723151100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Stash III</title>
   </programme>
-  <programme start="20220717050000 +0100" stop="20220717080000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Sunny Vibes</title>
+  <programme start="20220723151100 +0100" stop="20220723163500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Black Porn Stars Unleashed</title>
   </programme>
-  <programme start="20220717080000 +0100" stop="20220717090000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">100% Ladies</title>
+  <programme start="20220723163500 +0100" stop="20220723170500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Femme Fit</title>
   </programme>
-  <programme start="20220717090000 +0100" stop="20220717095600 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Focus</title>
+  <programme start="20220723170500 +0100" stop="20220723173600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">News Uncovered I</title>
   </programme>
-  <programme start="20220717100000 +0100" stop="20220717114500 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Hit 30</title>
+  <programme start="20220723173600 +0100" stop="20220723180300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Wild Life: Miami</title>
   </programme>
-  <programme start="20220717114500 +0100" stop="20220717120000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
+  <programme start="20220723180300 +0100" stop="20220723183500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Crave VII</title>
   </programme>
-  <programme start="20220717120000 +0100" stop="20220717150000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Sunny Vibes</title>
+  <programme start="20220723183500 +0100" stop="20220723200100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Kinks + Fetishes</title>
   </programme>
-  <programme start="20220717150000 +0100" stop="20220717154500 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Top 10 Caliente</title>
+  <programme start="20220723200100 +0100" stop="20220723205900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Man</title>
   </programme>
-  <programme start="20220717154500 +0100" stop="20220717161500 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
+  <programme start="20220723205900 +0100" stop="20220723213000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Room Service</title>
   </programme>
-  <programme start="20220717161500 +0100" stop="20220717170000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Hit 10</title>
+  <programme start="20220723213000 +0100" stop="20220723215900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Labios Calientes</title>
   </programme>
-  <programme start="20220717170000 +0100" stop="20220717175100 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Hits \u0026 Lyrics</title>
+  <programme start="20220723215900 +0100" stop="20220723222700 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Dream Dates</title>
   </programme>
-  <programme start="20220717175100 +0100" stop="20220717180000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
+  <programme start="20220723222700 +0100" stop="20220723225900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Intimate Tales</title>
   </programme>
-  <programme start="20220717180000 +0100" stop="20220717190000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Rewind</title>
+  <programme start="20220723225900 +0100" stop="20220723233200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic IV</title>
   </programme>
-  <programme start="20220717190000 +0100" stop="20220717194500 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Stream It</title>
+  <programme start="20220723233200 +0100" stop="20220724000400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic IV</title>
   </programme>
-  <programme start="20220717194500 +0100" stop="20220717200000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
+  <programme start="20220724000400 +0100" stop="20220724003100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Wild Life: Miami</title>
   </programme>
-  <programme start="20220717200000 +0100" stop="20220717210000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Weekend Vibes</title>
+  <programme start="20220724003100 +0100" stop="20220724010200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Fantasy Flirt I</title>
   </programme>
-  <programme start="20220717210000 +0100" stop="20220717220000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Weekend Vibes</title>
+  <programme start="20220724010200 +0100" stop="20220724023500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Sexo No Velho Oeste</title>
   </programme>
-  <programme start="20220717220000 +0100" stop="20220717224500 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Top 10 Caliente</title>
+  <programme start="20220724023500 +0100" stop="20220724030600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">News Uncovered I</title>
   </programme>
-  <programme start="20220717224500 +0100" stop="20220717230000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
+  <programme start="20220724030600 +0100" stop="20220724033800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Secret Sessions I</title>
   </programme>
-  <programme start="20220717230000 +0100" stop="20220718020000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">Sounds Of Trace</title>
+  <programme start="20220724033800 +0100" stop="20220724040800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Femme Fit</title>
   </programme>
-  <programme start="20220718020000 +0100" stop="20220718030000 +0100" channel="TRACE URBAN HD">
-    <title lang="pt">New</title>
+  <programme start="20220724040800 +0100" stop="20220724050400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing</title>
+  </programme>
+  <programme start="20220724050400 +0100" stop="20220724062900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Massage Erotica</title>
+  </programme>
+  <programme start="20220724062900 +0100" stop="20220724070100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Intimate Tales</title>
+  </programme>
+  <programme start="20220724070100 +0100" stop="20220724073000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Neighborhood Rumors</title>
+  </programme>
+  <programme start="20220724073000 +0100" stop="20220724080000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Room Service</title>
+  </programme>
+  <programme start="20220724080000 +0100" stop="20220724083200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bare Fitness I</title>
+  </programme>
+  <programme start="20220724083200 +0100" stop="20220724093100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Man</title>
+  </programme>
+  <programme start="20220724093100 +0100" stop="20220724100000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Dream Dates</title>
+  </programme>
+  <programme start="20220724100000 +0100" stop="20220724113100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Sexo No Velho Oeste</title>
+  </programme>
+  <programme start="20220724113100 +0100" stop="20220724120300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic IV</title>
+  </programme>
+  <programme start="20220724120300 +0100" stop="20220724123500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Stash III</title>
+  </programme>
+  <programme start="20220724123500 +0100" stop="20220724130800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Stash III</title>
+  </programme>
+  <programme start="20220724130800 +0100" stop="20220724133600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Dream Dates</title>
+  </programme>
+  <programme start="20220724133600 +0100" stop="20220724140400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Dream Dates</title>
+  </programme>
+  <programme start="20220724140400 +0100" stop="20220724143100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Wild Life: Miami</title>
+  </programme>
+  <programme start="20220724143100 +0100" stop="20220724145800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Wild Life: Miami</title>
+  </programme>
+  <programme start="20220724145800 +0100" stop="20220724162400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Jerked By Stepsisters</title>
+  </programme>
+  <programme start="20220724162400 +0100" stop="20220724165600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bare Fitness I</title>
+  </programme>
+  <programme start="20220724165600 +0100" stop="20220724172600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Neighborhood Rumors</title>
+  </programme>
+  <programme start="20220724172600 +0100" stop="20220724175500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Labios Calientes</title>
+  </programme>
+  <programme start="20220724175500 +0100" stop="20220724182400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Room Service</title>
+  </programme>
+  <programme start="20220724182400 +0100" stop="20220724185600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X</title>
+  </programme>
+  <programme start="20220724185600 +0100" stop="20220724192800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Secret Sessions I</title>
+  </programme>
+  <programme start="20220724192800 +0100" stop="20220724195800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Femme Fit</title>
+  </programme>
+  <programme start="20220724195800 +0100" stop="20220724202900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Femme Fit</title>
+  </programme>
+  <programme start="20220724202900 +0100" stop="20220724205600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Wild Life: Miami</title>
+  </programme>
+  <programme start="20220724205600 +0100" stop="20220724212300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Wild Life: Miami</title>
+  </programme>
+  <programme start="20220724212300 +0100" stop="20220724222100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Man</title>
+  </programme>
+  <programme start="20220724222100 +0100" stop="20220724225300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">News Uncovered I</title>
+  </programme>
+  <programme start="20220724225300 +0100" stop="20220724232500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Crave VII</title>
+  </programme>
+  <programme start="20220724232500 +0100" stop="20220724235600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Fantasy Flirt II</title>
+  </programme>
+  <programme start="20220724235600 +0100" stop="20220725002500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Dream Dates</title>
   </programme>
   <programme start="20220718030000 +0100" stop="20220718050000 +0100" channel="TRACE URBAN HD">
     <title lang="pt">Hits Non Stop</title>
@@ -3831,161 +3705,131 @@
   <programme start="20220722230000 +0100" stop="20220723020000 +0100" channel="TRACE URBAN HD">
     <title lang="pt">Sounds Of Trace</title>
   </programme>
-  <programme start="20220716034000 +0100" stop="20220716040100 +0100" channel="VENUS">
-    <title lang="pt">Tiozão Come Gatinhas</title>
+  <programme start="20220723020000 +0100" stop="20220723030000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">New</title>
   </programme>
-  <programme start="20220716040100 +0100" stop="20220716052600 +0100" channel="VENUS">
-    <title lang="pt">Quem É Melhor, Eu Ou Ela?</title>
+  <programme start="20220723030000 +0100" stop="20220723040000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Weekend Vibes</title>
   </programme>
-  <programme start="20220716052600 +0100" stop="20220716054900 +0100" channel="VENUS">
-    <title lang="pt">Amor A Fogo Lento</title>
+  <programme start="20220723040000 +0100" stop="20220723050000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Weekend Vibes</title>
   </programme>
-  <programme start="20220716054900 +0100" stop="20220716071400 +0100" channel="VENUS">
-    <title lang="pt">Alongamento Excitante</title>
+  <programme start="20220723050000 +0100" stop="20220723080000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Sunny Vibes</title>
   </programme>
-  <programme start="20220716071400 +0100" stop="20220716073700 +0100" channel="VENUS">
-    <title lang="pt">Bosque Em Chamas</title>
+  <programme start="20220723080000 +0100" stop="20220723094500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hit 30</title>
   </programme>
-  <programme start="20220716073700 +0100" stop="20220716090000 +0100" channel="VENUS">
-    <title lang="pt">Massagem Atrevida</title>
+  <programme start="20220723094500 +0100" stop="20220723100000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20220716090000 +0100" stop="20220716102400 +0100" channel="VENUS">
-    <title lang="pt">Peitudas Ao Sol</title>
+  <programme start="20220723100000 +0100" stop="20220723110000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Rewind</title>
   </programme>
-  <programme start="20220716102400 +0100" stop="20220716104800 +0100" channel="VENUS">
-    <title lang="pt">5 De Maio: Trio Festivo</title>
+  <programme start="20220723110000 +0100" stop="20220723120000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">100% Ladies</title>
   </programme>
-  <programme start="20220716104800 +0100" stop="20220716121600 +0100" channel="VENUS">
-    <title lang="pt">Anal No Expediente</title>
+  <programme start="20220723120000 +0100" stop="20220723130000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Weekend Vibes</title>
   </programme>
-  <programme start="20220716121600 +0100" stop="20220716124000 +0100" channel="VENUS">
-    <title lang="pt">Amor A Fogo Lento</title>
+  <programme start="20220723130000 +0100" stop="20220723140000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Weekend Vibes</title>
   </programme>
-  <programme start="20220716124000 +0100" stop="20220716140400 +0100" channel="VENUS">
-    <title lang="pt">Larga Minha Filha E Me Come!</title>
+  <programme start="20220723140000 +0100" stop="20220723150000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Weekend Vibes</title>
   </programme>
-  <programme start="20220716140400 +0100" stop="20220716142800 +0100" channel="VENUS">
-    <title lang="pt">Bosque Em Chamas</title>
+  <programme start="20220723150000 +0100" stop="20220723154500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Us Hit</title>
   </programme>
-  <programme start="20220716142800 +0100" stop="20220716155100 +0100" channel="VENUS">
-    <title lang="pt">Geração Z: Ninfetas Cheias De Tesão</title>
+  <programme start="20220723154500 +0100" stop="20220723161500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20220716155100 +0100" stop="20220716161300 +0100" channel="VENUS">
-    <title lang="pt">Tiozão Come Gatinhas</title>
+  <programme start="20220723161500 +0100" stop="20220723170000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hit 10</title>
   </programme>
-  <programme start="20220716161300 +0100" stop="20220716173700 +0100" channel="VENUS">
-    <title lang="pt">Sedução Milf</title>
+  <programme start="20220723170000 +0100" stop="20220723175900 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits \u0026 Lyrics</title>
   </programme>
-  <programme start="20220716173700 +0100" stop="20220716175900 +0100" channel="VENUS">
-    <title lang="pt">Transa Em Silêncio</title>
+  <programme start="20220723180000 +0100" stop="20220723194500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hit 30</title>
   </programme>
-  <programme start="20220716175900 +0100" stop="20220716192200 +0100" channel="VENUS">
-    <title lang="pt">Orgasmos De Tirar O Fôlego</title>
+  <programme start="20220723194500 +0100" stop="20220723220000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20220716192200 +0100" stop="20220716194500 +0100" channel="VENUS">
-    <title lang="pt">Boca Larga Pernas Longas</title>
+  <programme start="20220723220000 +0100" stop="20220723224500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Stream It</title>
   </programme>
-  <programme start="20220716194500 +0100" stop="20220716211200 +0100" channel="VENUS">
-    <title lang="pt">Delírio Oriental</title>
+  <programme start="20220723224500 +0100" stop="20220723230000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20220716211200 +0100" stop="20220716213500 +0100" channel="VENUS">
-    <title lang="pt">Bronzeada E Comida</title>
+  <programme start="20220723230000 +0100" stop="20220724020000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Sounds Of Trace</title>
   </programme>
-  <programme start="20220716213500 +0100" stop="20220716225900 +0100" channel="VENUS">
-    <title lang="pt">Treinamento De Clitóris</title>
+  <programme start="20220724020000 +0100" stop="20220724030000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">New</title>
   </programme>
-  <programme start="20220716225900 +0100" stop="20220717002400 +0100" channel="VENUS">
-    <title lang="pt">20 Lésbicas Fogosas</title>
+  <programme start="20220724030000 +0100" stop="20220724040000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Weekend Vibes</title>
   </programme>
-  <programme start="20220717002400 +0100" stop="20220717005400 +0100" channel="VENUS">
-    <title lang="pt">Trio Universitário</title>
+  <programme start="20220724040000 +0100" stop="20220724050000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Weekend Vibes</title>
   </programme>
-  <programme start="20220717005400 +0100" stop="20220717022000 +0100" channel="VENUS">
-    <title lang="pt">Lésbicas Pedem Rola</title>
+  <programme start="20220724050000 +0100" stop="20220724080000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Sunny Vibes</title>
   </programme>
-  <programme start="20220717022000 +0100" stop="20220717034200 +0100" channel="VENUS">
-    <title lang="pt">Cuzinhos Britanicos</title>
+  <programme start="20220724080000 +0100" stop="20220724090000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">100% Ladies</title>
   </programme>
-  <programme start="20220717034200 +0100" stop="20220717040000 +0100" channel="VENUS">
-    <title lang="pt">Professora Estrela Pornô</title>
+  <programme start="20220724090000 +0100" stop="20220724095600 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Focus</title>
   </programme>
-  <programme start="20220717040000 +0100" stop="20220717052400 +0100" channel="VENUS">
-    <title lang="pt">Sedução Milf</title>
+  <programme start="20220724100000 +0100" stop="20220724114500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hit 30</title>
   </programme>
-  <programme start="20220717052400 +0100" stop="20220717054800 +0100" channel="VENUS">
-    <title lang="pt">5 De Maio: Trio Festivo</title>
+  <programme start="20220724114500 +0100" stop="20220724120000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20220717054800 +0100" stop="20220717071300 +0100" channel="VENUS">
-    <title lang="pt">Lésbicas Plus Size</title>
+  <programme start="20220724120000 +0100" stop="20220724150000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Sunny Vibes</title>
   </programme>
-  <programme start="20220717071300 +0100" stop="20220717073600 +0100" channel="VENUS">
-    <title lang="pt">Amor A Fogo Lento</title>
+  <programme start="20220724150000 +0100" stop="20220724154500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Top 10 Caliente</title>
   </programme>
-  <programme start="20220717073600 +0100" stop="20220717090000 +0100" channel="VENUS">
-    <title lang="pt">Treinamento De Clitóris</title>
+  <programme start="20220724154500 +0100" stop="20220724161500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20220717090000 +0100" stop="20220717102000 +0100" channel="VENUS">
-    <title lang="pt">4 Gostosas Ninfomaníacas</title>
+  <programme start="20220724161500 +0100" stop="20220724170000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hit 10</title>
   </programme>
-  <programme start="20220717102000 +0100" stop="20220717104200 +0100" channel="VENUS">
-    <title lang="pt">Chupa Aqui</title>
+  <programme start="20220724170000 +0100" stop="20220724175400 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits \u0026 Lyrics</title>
   </programme>
-  <programme start="20220717104200 +0100" stop="20220717121000 +0100" channel="VENUS">
-    <title lang="pt">Sedução Black</title>
+  <programme start="20220724175400 +0100" stop="20220724180000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20220717121000 +0100" stop="20220717123500 +0100" channel="VENUS">
-    <title lang="pt">5 De Maio: Trio Festivo</title>
+  <programme start="20220724180000 +0100" stop="20220724190000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Rewind</title>
   </programme>
-  <programme start="20220717123500 +0100" stop="20220717140100 +0100" channel="VENUS">
-    <title lang="pt">Delírio Oriental</title>
+  <programme start="20220724190000 +0100" stop="20220724194500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Stream It</title>
   </programme>
-  <programme start="20220717140100 +0100" stop="20220717142500 +0100" channel="VENUS">
-    <title lang="pt">Amor A Fogo Lento</title>
+  <programme start="20220724194500 +0100" stop="20220724200000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20220717142500 +0100" stop="20220717155300 +0100" channel="VENUS">
-    <title lang="pt">Anal No Expediente</title>
+  <programme start="20220724200000 +0100" stop="20220724210000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Weekend Vibes</title>
   </programme>
-  <programme start="20220717155300 +0100" stop="20220717161800 +0100" channel="VENUS">
-    <title lang="pt">Chega De Aula Hora Da Rola</title>
+  <programme start="20220724210000 +0100" stop="20220724220000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Weekend Vibes</title>
   </programme>
-  <programme start="20220717161800 +0100" stop="20220717174200 +0100" channel="VENUS">
-    <title lang="pt">Cala A Boca E Me Come</title>
+  <programme start="20220724220000 +0100" stop="20220724224500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Top 10 Caliente</title>
   </programme>
-  <programme start="20220717174200 +0100" stop="20220717180600 +0100" channel="VENUS">
-    <title lang="pt">Bosque Em Chamas</title>
+  <programme start="20220724224500 +0100" stop="20220724230000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20220717180600 +0100" stop="20220717192700 +0100" channel="VENUS">
-    <title lang="pt">Cuzinhos Britanicos</title>
-  </programme>
-  <programme start="20220717192700 +0100" stop="20220717194900 +0100" channel="VENUS">
-    <title lang="pt">Transa Em Silêncio</title>
-  </programme>
-  <programme start="20220717194900 +0100" stop="20220717211700 +0100" channel="VENUS">
-    <title lang="pt">10 Lésbicas Amadoras</title>
-  </programme>
-  <programme start="20220717211700 +0100" stop="20220717212700 +0100" channel="VENUS">
-    <title lang="pt">Alpha Lesbi Ahhhh</title>
-  </programme>
-  <programme start="20220717212700 +0100" stop="20220717225500 +0100" channel="VENUS">
-    <title lang="pt">10 Gatinhas Em Pov</title>
-  </programme>
-  <programme start="20220717225500 +0100" stop="20220717230400 +0100" channel="VENUS">
-    <title lang="pt">Virgem Na Frente Atrás Não</title>
-  </programme>
-  <programme start="20220717230400 +0100" stop="20220718002900 +0100" channel="VENUS">
-    <title lang="pt">Quem É Melhor, Eu Ou Ela?</title>
-  </programme>
-  <programme start="20220718002900 +0100" stop="20220718005200 +0100" channel="VENUS">
-    <title lang="pt">Bronzeada E Comida</title>
-  </programme>
-  <programme start="20220718005200 +0100" stop="20220718022000 +0100" channel="VENUS">
-    <title lang="pt">Conheça Nikki Delano</title>
-  </programme>
-  <programme start="20220718022000 +0100" stop="20220718034500 +0100" channel="VENUS">
-    <title lang="pt">Top 10: Anal Lésbico</title>
-  </programme>
-  <programme start="20220718034500 +0100" stop="20220718035500 +0100" channel="VENUS">
-    <title lang="pt">Gozando Com Minha Madrasta</title>
+  <programme start="20220724230000 +0100" stop="20220725020000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Sounds Of Trace</title>
   </programme>
   <programme start="20220718035500 +0100" stop="20220718051900 +0100" channel="VENUS">
     <title lang="pt">10 Coroas Mandonas</title>
@@ -4359,56 +4203,164 @@
   <programme start="20220722231400 +0100" stop="20220723003900 +0100" channel="VENUS">
     <title lang="pt">10 Trios Caseiros</title>
   </programme>
-  <programme start="20220716020000 +0100" stop="20220716040000 +0100" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
+  <programme start="20220723003900 +0100" stop="20220723004900 +0100" channel="VENUS">
+    <title lang="pt">Promiscuidade Na Yoga</title>
   </programme>
-  <programme start="20220716040000 +0100" stop="20220716080000 +0100" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
+  <programme start="20220723004900 +0100" stop="20220723021300 +0100" channel="VENUS">
+    <title lang="pt">Treinamento De Clitóris</title>
   </programme>
-  <programme start="20220716080000 +0100" stop="20220716110000 +0100" channel="VH1">
-    <title lang="pt">Top 40 Epic Love Songs!</title>
+  <programme start="20220723021300 +0100" stop="20220723023700 +0100" channel="VENUS">
+    <title lang="pt">5 De Maio: Trio Festivo</title>
   </programme>
-  <programme start="20220716110000 +0100" stop="20220716140000 +0100" channel="VH1">
-    <title lang="pt">We Love The: 00</title>
+  <programme start="20220723023700 +0100" stop="20220723040400 +0100" channel="VENUS">
+    <title lang="pt">Taradas Do Escritório</title>
   </programme>
-  <programme start="20220716140000 +0100" stop="20220716150000 +0100" channel="VH1">
-    <title lang="pt">2-4-1 Hits!</title>
+  <programme start="20220723040400 +0100" stop="20220723052800 +0100" channel="VENUS">
+    <title lang="pt">Treinamento De Clitóris</title>
   </programme>
-  <programme start="20220716150000 +0100" stop="20220716190000 +0100" channel="VH1">
-    <title lang="pt">Hits Don</title>
+  <programme start="20220723052800 +0100" stop="20220723055200 +0100" channel="VENUS">
+    <title lang="pt">Vamos Filmar Nosso Anal</title>
   </programme>
-  <programme start="20220716190000 +0100" stop="20220716200000 +0100" channel="VH1">
-    <title lang="pt">Rock</title>
+  <programme start="20220723055200 +0100" stop="20220723071200 +0100" channel="VENUS">
+    <title lang="pt">Video Game Sex</title>
   </programme>
-  <programme start="20220716200000 +0100" stop="20220717020000 +0100" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
+  <programme start="20220723071200 +0100" stop="20220723073500 +0100" channel="VENUS">
+    <title lang="pt">Me Dá O Orgasmo Anal</title>
   </programme>
-  <programme start="20220717020000 +0100" stop="20220717040000 +0100" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
+  <programme start="20220723073500 +0100" stop="20220723090000 +0100" channel="VENUS">
+    <title lang="pt">Sedução Milf</title>
   </programme>
-  <programme start="20220717040000 +0100" stop="20220717080000 +0100" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
+  <programme start="20220723090000 +0100" stop="20220723102600 +0100" channel="VENUS">
+    <title lang="pt">4 Ninfetas Espanholas</title>
   </programme>
-  <programme start="20220717080000 +0100" stop="20220717090000 +0100" channel="VH1">
-    <title lang="pt">Class Of 2001!</title>
+  <programme start="20220723102600 +0100" stop="20220723105200 +0100" channel="VENUS">
+    <title lang="pt">Amigas Querem Anal</title>
   </programme>
-  <programme start="20220717090000 +0100" stop="20220717110000 +0100" channel="VH1">
-    <title lang="pt">We Love The: 00</title>
+  <programme start="20220723105200 +0100" stop="20220723121400 +0100" channel="VENUS">
+    <title lang="pt">Massagem Atrevida</title>
   </programme>
-  <programme start="20220717110000 +0100" stop="20220717140000 +0100" channel="VH1">
-    <title lang="pt">Top 40 Epic Power Ballads!</title>
+  <programme start="20220723121400 +0100" stop="20220723123900 +0100" channel="VENUS">
+    <title lang="pt">Vamos Filmar Nosso Anal</title>
   </programme>
-  <programme start="20220717140000 +0100" stop="20220717150000 +0100" channel="VH1">
-    <title lang="pt">Class Of 2001!</title>
+  <programme start="20220723123900 +0100" stop="20220723140800 +0100" channel="VENUS">
+    <title lang="pt">Amigos E Amantes</title>
   </programme>
-  <programme start="20220717150000 +0100" stop="20220717190000 +0100" channel="VH1">
-    <title lang="pt">Hits Don</title>
+  <programme start="20220723140800 +0100" stop="20220723143000 +0100" channel="VENUS">
+    <title lang="pt">Me Dá O Orgasmo Anal</title>
   </programme>
-  <programme start="20220717190000 +0100" stop="20220717200000 +0100" channel="VH1">
-    <title lang="pt">Crazy In Love!</title>
+  <programme start="20220723143000 +0100" stop="20220723155200 +0100" channel="VENUS">
+    <title lang="pt">Cuzinhos Britanicos</title>
   </programme>
-  <programme start="20220717200000 +0100" stop="20220718020000 +0100" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
+  <programme start="20220723155200 +0100" stop="20220723161500 +0100" channel="VENUS">
+    <title lang="pt">2 Morenas Vs Minha Rola</title>
+  </programme>
+  <programme start="20220723161500 +0100" stop="20220723173900 +0100" channel="VENUS">
+    <title lang="pt">Treinamento De Clitóris</title>
+  </programme>
+  <programme start="20220723173900 +0100" stop="20220723180900 +0100" channel="VENUS">
+    <title lang="pt">Baby Nicols Molhadinha</title>
+  </programme>
+  <programme start="20220723180900 +0100" stop="20220723193500 +0100" channel="VENUS">
+    <title lang="pt">Taradas Do Escritório</title>
+  </programme>
+  <programme start="20220723193500 +0100" stop="20220723200500 +0100" channel="VENUS">
+    <title lang="pt">Fantasia Com Luna Star</title>
+  </programme>
+  <programme start="20220723200500 +0100" stop="20220723213200 +0100" channel="VENUS">
+    <title lang="pt">Free Anal!</title>
+  </programme>
+  <programme start="20220723213200 +0100" stop="20220723215500 +0100" channel="VENUS">
+    <title lang="pt">A Carteira Por Sexo Lésbico</title>
+  </programme>
+  <programme start="20220723215500 +0100" stop="20220723231700 +0100" channel="VENUS">
+    <title lang="pt">Cuzinhos Britanicos</title>
+  </programme>
+  <programme start="20220723231700 +0100" stop="20220723234000 +0100" channel="VENUS">
+    <title lang="pt">Pesca Minha Pica</title>
+  </programme>
+  <programme start="20220723234000 +0100" stop="20220724000000 +0100" channel="VENUS">
+    <title lang="pt">Antes Lésbica Agora Bi</title>
+  </programme>
+  <programme start="20220724000000 +0100" stop="20220724012900 +0100" channel="VENUS">
+    <title lang="pt">Sedução Black</title>
+  </programme>
+  <programme start="20220724012900 +0100" stop="20220724015000 +0100" channel="VENUS">
+    <title lang="pt">Chupa Aqui</title>
+  </programme>
+  <programme start="20220724015000 +0100" stop="20220724031800 +0100" channel="VENUS">
+    <title lang="pt">Foda De Quatro</title>
+  </programme>
+  <programme start="20220724031800 +0100" stop="20220724032800 +0100" channel="VENUS">
+    <title lang="pt">Promiscuidade Na Yoga</title>
+  </programme>
+  <programme start="20220724032800 +0100" stop="20220724045600 +0100" channel="VENUS">
+    <title lang="pt">Sedução Black</title>
+  </programme>
+  <programme start="20220724045600 +0100" stop="20220724052200 +0100" channel="VENUS">
+    <title lang="pt">Amigas Querem Anal</title>
+  </programme>
+  <programme start="20220724052200 +0100" stop="20220724064700 +0100" channel="VENUS">
+    <title lang="pt">Peitudas Ao Sol</title>
+  </programme>
+  <programme start="20220724064700 +0100" stop="20220724071200 +0100" channel="VENUS">
+    <title lang="pt">Vamos Filmar Nosso Anal</title>
+  </programme>
+  <programme start="20220724071200 +0100" stop="20220724083800 +0100" channel="VENUS">
+    <title lang="pt">Lésbicas Pedem Rola</title>
+  </programme>
+  <programme start="20220724083800 +0100" stop="20220724090000 +0100" channel="VENUS">
+    <title lang="pt">Tiozão Come Gatinhas</title>
+  </programme>
+  <programme start="20220724090000 +0100" stop="20220724102300 +0100" channel="VENUS">
+    <title lang="pt">Backstage De Peitutas</title>
+  </programme>
+  <programme start="20220724102300 +0100" stop="20220724104600 +0100" channel="VENUS">
+    <title lang="pt">Gozando Com Amirah Adara</title>
+  </programme>
+  <programme start="20220724104600 +0100" stop="20220724121500 +0100" channel="VENUS">
+    <title lang="pt">Conheça Nikki Delano</title>
+  </programme>
+  <programme start="20220724121500 +0100" stop="20220724124000 +0100" channel="VENUS">
+    <title lang="pt">Amigas Querem Anal</title>
+  </programme>
+  <programme start="20220724124000 +0100" stop="20220724140800 +0100" channel="VENUS">
+    <title lang="pt">Free Anal!</title>
+  </programme>
+  <programme start="20220724140800 +0100" stop="20220724143300 +0100" channel="VENUS">
+    <title lang="pt">Vamos Filmar Nosso Anal</title>
+  </programme>
+  <programme start="20220724143300 +0100" stop="20220724155500 +0100" channel="VENUS">
+    <title lang="pt">Massagem Atrevida</title>
+  </programme>
+  <programme start="20220724155500 +0100" stop="20220724161900 +0100" channel="VENUS">
+    <title lang="pt">Minha Esposa Gosta De Anal</title>
+  </programme>
+  <programme start="20220724161900 +0100" stop="20220724174400 +0100" channel="VENUS">
+    <title lang="pt">Espanholas Dão Gostoso 2</title>
+  </programme>
+  <programme start="20220724174400 +0100" stop="20220724180600 +0100" channel="VENUS">
+    <title lang="pt">Me Dá O Orgasmo Anal</title>
+  </programme>
+  <programme start="20220724180600 +0100" stop="20220724193400 +0100" channel="VENUS">
+    <title lang="pt">Foda De Quatro</title>
+  </programme>
+  <programme start="20220724193400 +0100" stop="20220724200300 +0100" channel="VENUS">
+    <title lang="pt">Baby Nicols Molhadinha</title>
+  </programme>
+  <programme start="20220724200300 +0100" stop="20220724212800 +0100" channel="VENUS">
+    <title lang="pt">10 Bundas Brasileiras Em Ação</title>
+  </programme>
+  <programme start="20220724212800 +0100" stop="20220724213800 +0100" channel="VENUS">
+    <title lang="pt">1 Salsicha Para A Vizinha</title>
+  </programme>
+  <programme start="20220724213800 +0100" stop="20220724230200 +0100" channel="VENUS">
+    <title lang="pt">10 Trios Caseiros</title>
+  </programme>
+  <programme start="20220724230200 +0100" stop="20220724231200 +0100" channel="VENUS">
+    <title lang="pt">Promiscuidade Na Yoga</title>
+  </programme>
+  <programme start="20220724231200 +0100" stop="20220725003500 +0100" channel="VENUS">
+    <title lang="pt">Versatilidade Lésbica</title>
   </programme>
   <programme start="20220718020000 +0100" stop="20220718040000 +0100" channel="VH1">
     <title lang="pt">Non-Stop Nostalgia</title>
@@ -4531,6 +4483,57 @@
     <title lang="pt">Top 40 Rock Anthems vs Pop Hits</title>
   </programme>
   <programme start="20220722230000 +0100" stop="20220723020000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20220723020000 +0100" stop="20220723040000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20220723040000 +0100" stop="20220723080000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20220723080000 +0100" stop="20220723110000 +0100" channel="VH1">
+    <title lang="pt">Top 40 Boys vs Girls!</title>
+  </programme>
+  <programme start="20220723110000 +0100" stop="20220723140000 +0100" channel="VH1">
+    <title lang="pt">We Love The: 00</title>
+  </programme>
+  <programme start="20220723140000 +0100" stop="20220723150000 +0100" channel="VH1">
+    <title lang="pt">2-4-1 Hits!</title>
+  </programme>
+  <programme start="20220723150000 +0100" stop="20220723190000 +0100" channel="VH1">
+    <title lang="pt">Hits Don</title>
+  </programme>
+  <programme start="20220723190000 +0100" stop="20220723200000 +0100" channel="VH1">
+    <title lang="pt">Rock</title>
+  </programme>
+  <programme start="20220723200000 +0100" stop="20220724020000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20220724020000 +0100" stop="20220724040000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20220724040000 +0100" stop="20220724080000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20220724080000 +0100" stop="20220724090000 +0100" channel="VH1">
+    <title lang="pt">Class Of 2003!</title>
+  </programme>
+  <programme start="20220724090000 +0100" stop="20220724110000 +0100" channel="VH1">
+    <title lang="pt">We Love The: 00</title>
+  </programme>
+  <programme start="20220724110000 +0100" stop="20220724140000 +0100" channel="VH1">
+    <title lang="pt">Top 40 R</title>
+  </programme>
+  <programme start="20220724140000 +0100" stop="20220724150000 +0100" channel="VH1">
+    <title lang="pt">Class Of 2003!</title>
+  </programme>
+  <programme start="20220724150000 +0100" stop="20220724190000 +0100" channel="VH1">
+    <title lang="pt">Hits Don</title>
+  </programme>
+  <programme start="20220724190000 +0100" stop="20220724200000 +0100" channel="VH1">
+    <title lang="pt">Crazy In Love!</title>
+  </programme>
+  <programme start="20220724200000 +0100" stop="20220725020000 +0100" channel="VH1">
     <title lang="pt">Non-Stop Nostalgia</title>
   </programme>
 </tv>
