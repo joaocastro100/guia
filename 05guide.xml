@@ -44,1171 +44,1138 @@
     <display-name lang="pt">VH1</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <programme start="20230314000500 +0000" stop="20230314003500 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Canas Com...</title>
-  </programme>
-  <programme start="20230314003500 +0000" stop="20230314010500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Uma Vida a Aprender o Tordo</title>
-  </programme>
-  <programme start="20230314010500 +0000" stop="20230314014500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Streamerman</title>
-  </programme>
-  <programme start="20230314014500 +0000" stop="20230314021500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Ivan La Guía: a Caça Como Meta</title>
-  </programme>
-  <programme start="20230314021500 +0000" stop="20230314025000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Corços com Arco e Carabina</title>
-  </programme>
-  <programme start="20230314025000 +0000" stop="20230314032500 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Canas Com...</title>
-  </programme>
-  <programme start="20230314032500 +0000" stop="20230314040500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Galgos</title>
-  </programme>
-  <programme start="20230314040500 +0000" stop="20230314044000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Streamerman</title>
-  </programme>
-  <programme start="20230314044000 +0000" stop="20230314051500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Montaria</title>
-  </programme>
-  <programme start="20230314051500 +0000" stop="20230314054500 +0000" channel="Caça e Pesca">
-    <title lang="pt">O Grupo de Caça Gastro</title>
-  </programme>
-  <programme start="20230314054500 +0000" stop="20230314061000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Como Pescar na Finlândia</title>
-  </programme>
-  <programme start="20230314061000 +0000" stop="20230314070000 +0000" channel="Caça e Pesca">
-    <title lang="pt">À Espreita</title>
-  </programme>
-  <programme start="20230314070000 +0000" stop="20230314073000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Uma Vida a Aprender o Tordo</title>
-  </programme>
-  <programme start="20230314073000 +0000" stop="20230314080500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Streamerman</title>
-  </programme>
-  <programme start="20230314080500 +0000" stop="20230314083500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Cozinha de Sotobosque</title>
-  </programme>
-  <programme start="20230314083500 +0000" stop="20230314090000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Como Pescar na Finlândia</title>
-  </programme>
-  <programme start="20230314090000 +0000" stop="20230314093000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Quebec com Visão de Pássaro</title>
-  </programme>
-  <programme start="20230314093000 +0000" stop="20230314100500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Canal Aberto Pesca</title>
-  </programme>
-  <programme start="20230314100500 +0000" stop="20230314110500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Safari de Antílopes na Província do Norte</title>
-  </programme>
-  <programme start="20230314110500 +0000" stop="20230314113500 +0000" channel="Caça e Pesca">
-    <title lang="pt">O Grupo de Caça Gastro</title>
-  </programme>
-  <programme start="20230314113500 +0000" stop="20230314120000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Como Pescar na Finlândia</title>
-  </programme>
-  <programme start="20230314120000 +0000" stop="20230314123500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Acampamento Base</title>
-  </programme>
-  <programme start="20230314123500 +0000" stop="20230314131000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Acampamento Base</title>
-  </programme>
-  <programme start="20230314131000 +0000" stop="20230314133500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Paixão Italiana pela Caça</title>
-  </programme>
-  <programme start="20230314133500 +0000" stop="20230314140000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Uma Vida Debaixo de Água</title>
-  </programme>
-  <programme start="20230314140000 +0000" stop="20230314145000 +0000" channel="Caça e Pesca">
-    <title lang="pt">À Espreita</title>
-  </programme>
-  <programme start="20230314145000 +0000" stop="20230314152000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Canal Aberto Pesca</title>
-  </programme>
-  <programme start="20230314152000 +0000" stop="20230314155500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Javalis da Sierra Morena - 2ª Parte</title>
-  </programme>
-  <programme start="20230314155500 +0000" stop="20230314163000 +0000" channel="Caça e Pesca">
-    <title lang="pt">O Grupo de Caça Gastro</title>
-  </programme>
-  <programme start="20230314163000 +0000" stop="20230314170000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Abertura em El Pisuerga</title>
-  </programme>
-  <programme start="20230314170000 +0000" stop="20230314173000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Loucos Pelo 20</title>
-  </programme>
-  <programme start="20230314173000 +0000" stop="20230314180000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Praga de Coelhos em Épila</title>
-  </programme>
-  <programme start="20230314180000 +0000" stop="20230314182500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Uma Vida Debaixo de Água</title>
-  </programme>
-  <programme start="20230314182500 +0000" stop="20230314190000 +0000" channel="Caça e Pesca">
-    <title lang="pt">As Trutas do Carvão</title>
-  </programme>
-  <programme start="20230314190000 +0000" stop="20230314193000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Montaria</title>
-  </programme>
-  <programme start="20230314193000 +0000" stop="20230314200000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Loucos Pelo 20</title>
-  </programme>
-  <programme start="20230314200000 +0000" stop="20230314203000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Subindo o Wazalafken, São Pedro e Seus Afluentes</title>
-  </programme>
-  <programme start="20230314203000 +0000" stop="20230314210000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Para Começar, o Carrión</title>
-  </programme>
-  <programme start="20230314210000 +0000" stop="20230314213000 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Canas Com...</title>
-  </programme>
-  <programme start="20230314213000 +0000" stop="20230314215500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Quebec com Visão de Pássaro</title>
-  </programme>
-  <programme start="20230314215500 +0000" stop="20230314222500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Master Can</title>
-  </programme>
-  <programme start="20230314222500 +0000" stop="20230314230500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Barbos à Superficie em El Yeguas</title>
-  </programme>
-  <programme start="20230314230500 +0000" stop="20230314233500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Monteando na Aldeia de La Calera</title>
-  </programme>
-  <programme start="20230314233500 +0000" stop="20230315000200 +0000" channel="Caça e Pesca">
-    <title lang="pt">Cozinha de Sotobosque</title>
-  </programme>
-  <programme start="20230315000200 +0000" stop="20230315004000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Streamerman</title>
-  </programme>
-  <programme start="20230315004000 +0000" stop="20230315011000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Ivan La Guía: a Caça Como Meta</title>
-  </programme>
-  <programme start="20230315011000 +0000" stop="20230315013700 +0000" channel="Caça e Pesca">
-    <title lang="pt">Do Campo Para a Cozinha</title>
-  </programme>
-  <programme start="20230315013700 +0000" stop="20230315021000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Streamerman</title>
-  </programme>
-  <programme start="20230315021000 +0000" stop="20230315030000 +0000" channel="Caça e Pesca">
-    <title lang="pt">À Espreita</title>
-  </programme>
-  <programme start="20230315030000 +0000" stop="20230315033200 +0000" channel="Caça e Pesca">
-    <title lang="pt">Corços com Arco e Carabina</title>
-  </programme>
-  <programme start="20230315033200 +0000" stop="20230315040000 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Canas Com...</title>
-  </programme>
-  <programme start="20230315040000 +0000" stop="20230315043000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Certeros Ballesteros: O Cupo de Jaima</title>
-  </programme>
-  <programme start="20230315043000 +0000" stop="20230315050000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Loucos Pelo 20</title>
-  </programme>
-  <programme start="20230315050000 +0000" stop="20230315053000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Subindo o Wazalafken, São Pedro e Seus Afluentes</title>
-  </programme>
-  <programme start="20230315053000 +0000" stop="20230315055700 +0000" channel="Caça e Pesca">
-    <title lang="pt">Para Começar, o Carrión</title>
-  </programme>
-  <programme start="20230315055700 +0000" stop="20230315062500 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Canas Com...</title>
-  </programme>
-  <programme start="20230315062500 +0000" stop="20230315070000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Galgos</title>
-  </programme>
-  <programme start="20230315070000 +0000" stop="20230315073000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Cozinha de Sotobosque</title>
-  </programme>
-  <programme start="20230315073000 +0000" stop="20230315080000 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Canas Com...</title>
-  </programme>
-  <programme start="20230315080000 +0000" stop="20230315083000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Do Campo Para a Cozinha</title>
-  </programme>
-  <programme start="20230315083000 +0000" stop="20230315090000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Monteando na Aldeia de La Calera</title>
-  </programme>
-  <programme start="20230315090000 +0000" stop="20230315093000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Master Can</title>
-  </programme>
-  <programme start="20230315093000 +0000" stop="20230315101000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Barbos à Superficie em El Yeguas</title>
-  </programme>
-  <programme start="20230315101000 +0000" stop="20230315103500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Quebec com Visão de Pássaro</title>
-  </programme>
-  <programme start="20230315103500 +0000" stop="20230315110500 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Canas Com...</title>
-  </programme>
-  <programme start="20230315110500 +0000" stop="20230315113500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Acampamento Base</title>
-  </programme>
-  <programme start="20230315113500 +0000" stop="20230315120500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Canal Aberto Pesca</title>
-  </programme>
-  <programme start="20230315120500 +0000" stop="20230315123500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Abertura em El Pisuerga</title>
-  </programme>
-  <programme start="20230315123500 +0000" stop="20230315131000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Javalis da Sierra Morena - 2ª Parte</title>
-  </programme>
-  <programme start="20230315131000 +0000" stop="20230315134500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Canal Aberto Pesca</title>
-  </programme>
-  <programme start="20230315134500 +0000" stop="20230315141500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Para Começar, o Carrión</title>
-  </programme>
-  <programme start="20230315141500 +0000" stop="20230315144000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Quebec com Visão de Pássaro</title>
-  </programme>
-  <programme start="20230315144000 +0000" stop="20230315151000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Praga de Coelhos em Épila</title>
-  </programme>
-  <programme start="20230315151000 +0000" stop="20230315153500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Uma Vida Debaixo de Água</title>
-  </programme>
-  <programme start="20230315153500 +0000" stop="20230315160500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Loucos Pelo 20</title>
-  </programme>
-  <programme start="20230315160500 +0000" stop="20230315170500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Safari de Antílopes na Província do Norte</title>
-  </programme>
-  <programme start="20230315170500 +0000" stop="20230315173500 +0000" channel="Caça e Pesca">
-    <title lang="pt">O Grupo de Caça Gastro</title>
-  </programme>
-  <programme start="20230315173500 +0000" stop="20230315180000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Como Pescar na Finlândia</title>
-  </programme>
-  <programme start="20230315180000 +0000" stop="20230315183500 +0000" channel="Caça e Pesca">
+  <programme start="20230326003000 +0000" stop="20230326020000 +0100" channel="Caça e Pesca">
     <title lang="pt">Palavra de Cuquillero</title>
   </programme>
-  <programme start="20230315183500 +0000" stop="20230315190500 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Caça: Batismo de Aves</title>
+  <programme start="20230326020000 +0100" stop="20230326025000 +0100" channel="Caça e Pesca">
+    <title lang="pt">À Espreita</title>
   </programme>
-  <programme start="20230315190500 +0000" stop="20230315193500 +0000" channel="Caça e Pesca">
+  <programme start="20230326025000 +0100" stop="20230326032000 +0100" channel="Caça e Pesca">
+    <title lang="pt">De Canas Com...</title>
+  </programme>
+  <programme start="20230326032000 +0100" stop="20230326035000 +0100" channel="Caça e Pesca">
     <title lang="pt">Irmãos Caçadores: Arqueiros Africanos</title>
   </programme>
-  <programme start="20230315193500 +0000" stop="20230315201000 +0000" channel="Caça e Pesca">
-    <title lang="pt">As Trutas do Carvão</title>
-  </programme>
-  <programme start="20230315201000 +0000" stop="20230315204000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Loucos Pelo 20</title>
-  </programme>
-  <programme start="20230315204000 +0000" stop="20230315211500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Montaria</title>
-  </programme>
-  <programme start="20230315211500 +0000" stop="20230315220500 +0000" channel="Caça e Pesca">
-    <title lang="pt">À Espreita</title>
-  </programme>
-  <programme start="20230315220500 +0000" stop="20230315223500 +0000" channel="Caça e Pesca">
-    <title lang="pt">O Grupo de Caça Gastro</title>
-  </programme>
-  <programme start="20230315223500 +0000" stop="20230315230000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Como Pescar na Finlândia</title>
-  </programme>
-  <programme start="20230315230000 +0000" stop="20230315232500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Paixão Italiana pela Caça</title>
-  </programme>
-  <programme start="20230315232500 +0000" stop="20230315235000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Uma Vida Debaixo de Água</title>
-  </programme>
-  <programme start="20230315235000 +0000" stop="20230316002000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Subindo o Wazalafken, São Pedro e Seus Afluentes</title>
-  </programme>
-  <programme start="20230316002000 +0000" stop="20230316005000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Certeros Ballesteros: O Cupo de Jaima</title>
-  </programme>
-  <programme start="20230316005000 +0000" stop="20230316012300 +0000" channel="Caça e Pesca">
+  <programme start="20230326035000 +0100" stop="20230326043000 +0100" channel="Caça e Pesca">
     <title lang="pt">Streamerman</title>
   </programme>
-  <programme start="20230316012300 +0000" stop="20230316015000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Cozinha de Sotobosque</title>
-  </programme>
-  <programme start="20230316015000 +0000" stop="20230316022000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Ivan La Guía: a Caça Como Meta</title>
-  </programme>
-  <programme start="20230316022000 +0000" stop="20230316025500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Streamerman</title>
-  </programme>
-  <programme start="20230316025500 +0000" stop="20230316032500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Montaria</title>
-  </programme>
-  <programme start="20230316032500 +0000" stop="20230316035700 +0000" channel="Caça e Pesca">
-    <title lang="pt">Palavra de Cuquillero</title>
-  </programme>
-  <programme start="20230316035700 +0000" stop="20230316042500 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Caça: Batismo de Aves</title>
-  </programme>
-  <programme start="20230316042500 +0000" stop="20230316045500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Irmãos Caçadores: Arqueiros Africanos</title>
-  </programme>
-  <programme start="20230316045500 +0000" stop="20230316054500 +0000" channel="Caça e Pesca">
-    <title lang="pt">À Espreita</title>
-  </programme>
-  <programme start="20230316054500 +0000" stop="20230316062500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Streamerman</title>
-  </programme>
-  <programme start="20230316062500 +0000" stop="20230316070000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Corços com Arco e Carabina</title>
-  </programme>
-  <programme start="20230316070000 +0000" stop="20230316073000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Certeros Ballesteros: O Cupo de Jaima</title>
-  </programme>
-  <programme start="20230316073000 +0000" stop="20230316080000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Irmãos Caçadores: Arqueiros Africanos</title>
-  </programme>
-  <programme start="20230316080000 +0000" stop="20230316083000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Subindo o Wazalafken, São Pedro e Seus Afluentes</title>
-  </programme>
-  <programme start="20230316083000 +0000" stop="20230316090700 +0000" channel="Caça e Pesca">
-    <title lang="pt">Streamerman</title>
-  </programme>
-  <programme start="20230316090700 +0000" stop="20230316094000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Palavra de Cuquillero</title>
-  </programme>
-  <programme start="20230316094000 +0000" stop="20230316101500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Streamerman</title>
-  </programme>
-  <programme start="20230316101500 +0000" stop="20230316104500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Cozinha de Sotobosque</title>
-  </programme>
-  <programme start="20230316104500 +0000" stop="20230316111000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Paixão Italiana pela Caça</title>
-  </programme>
-  <programme start="20230316111000 +0000" stop="20230316113500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Uma Vida Debaixo de Água</title>
-  </programme>
-  <programme start="20230316113500 +0000" stop="20230316121000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Javalis da Sierra Morena - 2ª Parte</title>
-  </programme>
-  <programme start="20230316121000 +0000" stop="20230316124500 +0000" channel="Caça e Pesca">
-    <title lang="pt">As Trutas do Carvão</title>
-  </programme>
-  <programme start="20230316124500 +0000" stop="20230316131200 +0000" channel="Caça e Pesca">
-    <title lang="pt">Praga de Coelhos em Épila</title>
-  </programme>
-  <programme start="20230316131200 +0000" stop="20230316133700 +0000" channel="Caça e Pesca">
-    <title lang="pt">Uma Vida Debaixo de Água</title>
-  </programme>
-  <programme start="20230316133700 +0000" stop="20230316140500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Para Começar, o Carrión</title>
-  </programme>
-  <programme start="20230316140500 +0000" stop="20230316143500 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Caça: Batismo de Aves</title>
-  </programme>
-  <programme start="20230316143500 +0000" stop="20230316150500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Acampamento Base</title>
-  </programme>
-  <programme start="20230316150500 +0000" stop="20230316153500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Loucos Pelo 20</title>
-  </programme>
-  <programme start="20230316153500 +0000" stop="20230316160500 +0000" channel="Caça e Pesca">
-    <title lang="pt">O Grupo de Caça Gastro</title>
-  </programme>
-  <programme start="20230316160500 +0000" stop="20230316162800 +0000" channel="Caça e Pesca">
-    <title lang="pt">Como Pescar na Finlândia</title>
-  </programme>
-  <programme start="20230316162800 +0000" stop="20230316165500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Cozinha de Sotobosque</title>
-  </programme>
-  <programme start="20230316165500 +0000" stop="20230316172500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Canal Aberto Pesca</title>
-  </programme>
-  <programme start="20230316172500 +0000" stop="20230316175500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Loucos Pelo 20</title>
-  </programme>
-  <programme start="20230316175500 +0000" stop="20230316183000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Montaria</title>
-  </programme>
-  <programme start="20230316183000 +0000" stop="20230316190500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Rondas Com Arco e Espingarda</title>
-  </programme>
-  <programme start="20230316190500 +0000" stop="20230316192000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Os Segredos do Arco</title>
-  </programme>
-  <programme start="20230316192000 +0000" stop="20230316193500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Caderno de Campo</title>
-  </programme>
-  <programme start="20230316193500 +0000" stop="20230316200500 +0000" channel="Caça e Pesca">
-    <title lang="pt">O Grupo de Caça Gastro</title>
-  </programme>
-  <programme start="20230316200500 +0000" stop="20230316203000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Como Pescar na Finlândia</title>
-  </programme>
-  <programme start="20230316203000 +0000" stop="20230316212000 +0000" channel="Caça e Pesca">
-    <title lang="pt">À Espreita</title>
-  </programme>
-  <programme start="20230316212000 +0000" stop="20230316215500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Canal Aberto Pesca</title>
-  </programme>
-  <programme start="20230316215500 +0000" stop="20230316222000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Quebec com Visão de Pássaro</title>
-  </programme>
-  <programme start="20230316222000 +0000" stop="20230316225000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Abertura em El Pisuerga</title>
-  </programme>
-  <programme start="20230316225000 +0000" stop="20230316233000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Barbos à Superficie em El Yeguas</title>
-  </programme>
-  <programme start="20230316233000 +0000" stop="20230317000500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Master Can</title>
-  </programme>
-  <programme start="20230317000500 +0000" stop="20230317003500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Monteando na Aldeia de La Calera</title>
-  </programme>
-  <programme start="20230317003500 +0000" stop="20230317010500 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Canas Com...</title>
-  </programme>
-  <programme start="20230317010500 +0000" stop="20230317013500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Do Campo Para a Cozinha</title>
-  </programme>
-  <programme start="20230317013500 +0000" stop="20230317021000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Rondas Com Arco e Espingarda</title>
-  </programme>
-  <programme start="20230317021000 +0000" stop="20230317022500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Os Segredos do Arco</title>
-  </programme>
-  <programme start="20230317022500 +0000" stop="20230317024000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Caderno de Campo</title>
-  </programme>
-  <programme start="20230317024000 +0000" stop="20230317030500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Quebec com Visão de Pássaro</title>
-  </programme>
-  <programme start="20230317030500 +0000" stop="20230317033800 +0000" channel="Caça e Pesca">
-    <title lang="pt">Streamerman</title>
-  </programme>
-  <programme start="20230317033800 +0000" stop="20230317040800 +0000" channel="Caça e Pesca">
-    <title lang="pt">Ivan La Guía: a Caça Como Meta</title>
-  </programme>
-  <programme start="20230317040800 +0000" stop="20230317044000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Corços com Arco e Carabina</title>
-  </programme>
-  <programme start="20230317044000 +0000" stop="20230317051000 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Canas Com...</title>
-  </programme>
-  <programme start="20230317051000 +0000" stop="20230317054000 +0000" channel="Caça e Pesca">
-    <title lang="pt">O Grupo de Caça Gastro</title>
-  </programme>
-  <programme start="20230317054000 +0000" stop="20230317060500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Como Pescar na Finlândia</title>
-  </programme>
-  <programme start="20230317060500 +0000" stop="20230317063500 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Caça: Batismo de Aves</title>
-  </programme>
-  <programme start="20230317063500 +0000" stop="20230317070000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Loucos Pelo 20</title>
-  </programme>
-  <programme start="20230317070000 +0000" stop="20230317074000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Barbos à Superficie em El Yeguas</title>
-  </programme>
-  <programme start="20230317074000 +0000" stop="20230317081500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Master Can</title>
-  </programme>
-  <programme start="20230317081500 +0000" stop="20230317084500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Monteando na Aldeia de La Calera</title>
-  </programme>
-  <programme start="20230317084500 +0000" stop="20230317091500 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Canas Com...</title>
-  </programme>
-  <programme start="20230317091500 +0000" stop="20230317094500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Do Campo Para a Cozinha</title>
-  </programme>
-  <programme start="20230317094500 +0000" stop="20230317101500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Irmãos Caçadores: Arqueiros Africanos</title>
-  </programme>
-  <programme start="20230317101500 +0000" stop="20230317104500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Subindo o Wazalafken, São Pedro e Seus Afluentes</title>
-  </programme>
-  <programme start="20230317104500 +0000" stop="20230317111500 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Canas Com...</title>
-  </programme>
-  <programme start="20230317111500 +0000" stop="20230317114500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Cozinha de Sotobosque</title>
-  </programme>
-  <programme start="20230317114500 +0000" stop="20230317121000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Como Pescar na Finlândia</title>
-  </programme>
-  <programme start="20230317121000 +0000" stop="20230317124000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Paixão Italiana pela Caça</title>
-  </programme>
-  <programme start="20230317124000 +0000" stop="20230317130500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Uma Vida Debaixo de Água</title>
-  </programme>
-  <programme start="20230317130500 +0000" stop="20230317133000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Quebec com Visão de Pássaro</title>
-  </programme>
-  <programme start="20230317133000 +0000" stop="20230317140000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Canal Aberto Pesca</title>
-  </programme>
-  <programme start="20230317140000 +0000" stop="20230317143200 +0000" channel="Caça e Pesca">
-    <title lang="pt">Acampamento Base</title>
-  </programme>
-  <programme start="20230317143200 +0000" stop="20230317150500 +0000" channel="Caça e Pesca">
-    <title lang="pt">O Grupo de Caça Gastro</title>
-  </programme>
-  <programme start="20230317150500 +0000" stop="20230317153500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Abertura em El Pisuerga</title>
-  </programme>
-  <programme start="20230317153500 +0000" stop="20230317161000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Montaria</title>
-  </programme>
-  <programme start="20230317161000 +0000" stop="20230317164000 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Caça: Batismo de Aves</title>
-  </programme>
-  <programme start="20230317164000 +0000" stop="20230317173000 +0000" channel="Caça e Pesca">
-    <title lang="pt">À Espreita</title>
-  </programme>
-  <programme start="20230317173000 +0000" stop="20230317180000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Para Começar, o Carrión</title>
-  </programme>
-  <programme start="20230317180000 +0000" stop="20230317183000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Loucos Pelo 20</title>
-  </programme>
-  <programme start="20230317183000 +0000" stop="20230317190000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Canal Aberto Pesca</title>
-  </programme>
-  <programme start="20230317190000 +0000" stop="20230317192500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Como Pescar na Finlândia</title>
-  </programme>
-  <programme start="20230317192500 +0000" stop="20230317200000 +0000" channel="Caça e Pesca">
-    <title lang="pt">As Trutas do Carvão</title>
-  </programme>
-  <programme start="20230317200000 +0000" stop="20230317202500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Quebec com Visão de Pássaro</title>
-  </programme>
-  <programme start="20230317202500 +0000" stop="20230317205500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Loucos Pelo 20</title>
-  </programme>
-  <programme start="20230317205500 +0000" stop="20230317213000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Javalis da Sierra Morena - 2ª Parte</title>
-  </programme>
-  <programme start="20230317213000 +0000" stop="20230317220500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Rondas Com Arco e Espingarda</title>
-  </programme>
-  <programme start="20230317220500 +0000" stop="20230317222000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Os Segredos do Arco</title>
-  </programme>
-  <programme start="20230317222000 +0000" stop="20230317223500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Caderno de Campo</title>
-  </programme>
-  <programme start="20230317223500 +0000" stop="20230317230500 +0000" channel="Caça e Pesca">
-    <title lang="pt">O Grupo de Caça Gastro</title>
-  </programme>
-  <programme start="20230317230500 +0000" stop="20230317233500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Praga de Coelhos em Épila</title>
-  </programme>
-  <programme start="20230317233500 +0000" stop="20230318000000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Uma Vida Debaixo de Água</title>
-  </programme>
-  <programme start="20230318000000 +0000" stop="20230318003000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Cozinha de Sotobosque</title>
-  </programme>
-  <programme start="20230318003000 +0000" stop="20230318010500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Streamerman</title>
-  </programme>
-  <programme start="20230318010500 +0000" stop="20230318013500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Certeros Ballesteros: O Cupo de Jaima</title>
-  </programme>
-  <programme start="20230318013500 +0000" stop="20230318020800 +0000" channel="Caça e Pesca">
-    <title lang="pt">Palavra de Cuquillero</title>
-  </programme>
-  <programme start="20230318020800 +0000" stop="20230318024500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Streamerman</title>
-  </programme>
-  <programme start="20230318024500 +0000" stop="20230318032000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Corços com Arco e Carabina</title>
-  </programme>
-  <programme start="20230318032000 +0000" stop="20230318035000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Ivan La Guía: a Caça Como Meta</title>
-  </programme>
-  <programme start="20230318035000 +0000" stop="20230318042000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Canal Aberto Pesca</title>
-  </programme>
-  <programme start="20230318042000 +0000" stop="20230318044700 +0000" channel="Caça e Pesca">
-    <title lang="pt">Para Começar, o Carrión</title>
-  </programme>
-  <programme start="20230318044700 +0000" stop="20230318051500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Loucos Pelo 20</title>
-  </programme>
-  <programme start="20230318051500 +0000" stop="20230318054700 +0000" channel="Caça e Pesca">
-    <title lang="pt">Montaria</title>
-  </programme>
-  <programme start="20230318054700 +0000" stop="20230318062500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Rondas Com Arco e Espingarda</title>
-  </programme>
-  <programme start="20230318062500 +0000" stop="20230318064000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Os Segredos do Arco</title>
-  </programme>
-  <programme start="20230318064000 +0000" stop="20230318070000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Caderno de Campo</title>
-  </programme>
-  <programme start="20230318070000 +0000" stop="20230318073200 +0000" channel="Caça e Pesca">
-    <title lang="pt">Palavra de Cuquillero</title>
-  </programme>
-  <programme start="20230318073200 +0000" stop="20230318080000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Certeros Ballesteros: O Cupo de Jaima</title>
-  </programme>
-  <programme start="20230318080000 +0000" stop="20230318083300 +0000" channel="Caça e Pesca">
-    <title lang="pt">Streamerman</title>
-  </programme>
-  <programme start="20230318083300 +0000" stop="20230318090000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Cozinha de Sotobosque</title>
-  </programme>
-  <programme start="20230318090000 +0000" stop="20230318093000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Master Can</title>
-  </programme>
-  <programme start="20230318093000 +0000" stop="20230318100700 +0000" channel="Caça e Pesca">
-    <title lang="pt">Barbos à Superficie em El Yeguas</title>
-  </programme>
-  <programme start="20230318100700 +0000" stop="20230318104200 +0000" channel="Caça e Pesca">
-    <title lang="pt">As Trutas do Carvão</title>
-  </programme>
-  <programme start="20230318104200 +0000" stop="20230318110700 +0000" channel="Caça e Pesca">
-    <title lang="pt">Quebec com Visão de Pássaro</title>
-  </programme>
-  <programme start="20230318110700 +0000" stop="20230318113400 +0000" channel="Caça e Pesca">
-    <title lang="pt">Praga de Coelhos em Épila</title>
-  </programme>
-  <programme start="20230318113400 +0000" stop="20230318115700 +0000" channel="Caça e Pesca">
-    <title lang="pt">Uma Vida Debaixo de Água</title>
-  </programme>
-  <programme start="20230318115700 +0000" stop="20230318122500 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Caça: Batismo de Aves</title>
-  </programme>
-  <programme start="20230318122500 +0000" stop="20230318125500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Acampamento Base</title>
-  </programme>
-  <programme start="20230318125500 +0000" stop="20230318132500 +0000" channel="Caça e Pesca">
-    <title lang="pt">O Grupo de Caça Gastro</title>
-  </programme>
-  <programme start="20230318132500 +0000" stop="20230318135000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Como Pescar na Finlândia</title>
-  </programme>
-  <programme start="20230318135000 +0000" stop="20230318142500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Javalis da Sierra Morena - 2ª Parte</title>
-  </programme>
-  <programme start="20230318142500 +0000" stop="20230318145500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Canal Aberto Pesca</title>
-  </programme>
-  <programme start="20230318145500 +0000" stop="20230318152500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Canal Aberto Pesca</title>
-  </programme>
-  <programme start="20230318152500 +0000" stop="20230318160000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Rondas Com Arco e Espingarda</title>
-  </programme>
-  <programme start="20230318160000 +0000" stop="20230318161500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Os Segredos do Arco</title>
-  </programme>
-  <programme start="20230318161500 +0000" stop="20230318163000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Caderno de Campo</title>
-  </programme>
-  <programme start="20230318163000 +0000" stop="20230318170000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Abertura em El Pisuerga</title>
-  </programme>
-  <programme start="20230318170000 +0000" stop="20230318173000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Monteando na Aldeia de La Calera</title>
-  </programme>
-  <programme start="20230318173000 +0000" stop="20230318180000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Entre Zarros Comuns, Patos Trombeteiros e Patos Reais</title>
-  </programme>
-  <programme start="20230318180000 +0000" stop="20230318182500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Uma Vida Debaixo de Água</title>
-  </programme>
-  <programme start="20230318182500 +0000" stop="20230318185500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Montaria</title>
-  </programme>
-  <programme start="20230318185500 +0000" stop="20230318192500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Loucos Pelo 20</title>
-  </programme>
-  <programme start="20230318192500 +0000" stop="20230318195500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Loucos Pelo 20</title>
-  </programme>
-  <programme start="20230318195500 +0000" stop="20230318202500 +0000" channel="Caça e Pesca">
-    <title lang="pt">O Grupo de Caça Gastro</title>
-  </programme>
-  <programme start="20230318202500 +0000" stop="20230318205000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Como Pescar na Finlândia</title>
-  </programme>
-  <programme start="20230318205000 +0000" stop="20230318214000 +0000" channel="Caça e Pesca">
-    <title lang="pt">À Espreita</title>
-  </programme>
-  <programme start="20230318214000 +0000" stop="20230318221000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Para Começar, o Carrión</title>
-  </programme>
-  <programme start="20230318221000 +0000" stop="20230318224000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Quebec com Visão de Pássaro</title>
-  </programme>
-  <programme start="20230318224000 +0000" stop="20230318231000 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Canas Com...</title>
-  </programme>
-  <programme start="20230318231000 +0000" stop="20230318234000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Subindo o Wazalafken, São Pedro e Seus Afluentes</title>
-  </programme>
-  <programme start="20230318234000 +0000" stop="20230319001000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Do Campo Para a Cozinha</title>
-  </programme>
-  <programme start="20230319001000 +0000" stop="20230319004000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Irmãos Caçadores: Arqueiros Africanos</title>
-  </programme>
-  <programme start="20230319004000 +0000" stop="20230319012000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Streamerman</title>
-  </programme>
-  <programme start="20230319012000 +0000" stop="20230319015000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Ivan La Guía: a Caça Como Meta</title>
-  </programme>
-  <programme start="20230319015000 +0000" stop="20230319022500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Rondas Com Arco e Espingarda</title>
-  </programme>
-  <programme start="20230319022500 +0000" stop="20230319024000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Os Segredos do Arco</title>
-  </programme>
-  <programme start="20230319024000 +0000" stop="20230319025500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Caderno de Campo</title>
-  </programme>
-  <programme start="20230319025500 +0000" stop="20230319032500 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Canas Com...</title>
-  </programme>
-  <programme start="20230319032500 +0000" stop="20230319035500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Cozinha de Sotobosque</title>
-  </programme>
-  <programme start="20230319035500 +0000" stop="20230319042500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Abertura em El Pisuerga</title>
-  </programme>
-  <programme start="20230319042500 +0000" stop="20230319045500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Monteando na Aldeia de La Calera</title>
-  </programme>
-  <programme start="20230319045500 +0000" stop="20230319052500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Entre Zarros Comuns, Patos Trombeteiros e Patos Reais</title>
-  </programme>
-  <programme start="20230319052500 +0000" stop="20230319055000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Uma Vida Debaixo de Água</title>
-  </programme>
-  <programme start="20230319055000 +0000" stop="20230319062500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Corços com Arco e Carabina</title>
-  </programme>
-  <programme start="20230319062500 +0000" stop="20230319070000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Streamerman</title>
-  </programme>
-  <programme start="20230319070000 +0000" stop="20230319073000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Do Campo Para a Cozinha</title>
-  </programme>
-  <programme start="20230319073000 +0000" stop="20230319080000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Subindo o Wazalafken, São Pedro e Seus Afluentes</title>
-  </programme>
-  <programme start="20230319080000 +0000" stop="20230319083000 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Canas Com...</title>
-  </programme>
-  <programme start="20230319083000 +0000" stop="20230319090000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Monteando na Aldeia de La Calera</title>
-  </programme>
-  <programme start="20230319090000 +0000" stop="20230319092500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Uma Vida Debaixo de Água</title>
-  </programme>
-  <programme start="20230319092500 +0000" stop="20230319095500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Praga de Coelhos em Épila</title>
-  </programme>
-  <programme start="20230319095500 +0000" stop="20230319103000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Acampamento Base</title>
-  </programme>
-  <programme start="20230319103000 +0000" stop="20230319110500 +0000" channel="Caça e Pesca">
-    <title lang="pt">O Grupo de Caça Gastro</title>
-  </programme>
-  <programme start="20230319110500 +0000" stop="20230319113000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Como Pescar na Finlândia</title>
-  </programme>
-  <programme start="20230319113000 +0000" stop="20230319122000 +0000" channel="Caça e Pesca">
-    <title lang="pt">À Espreita</title>
-  </programme>
-  <programme start="20230319122000 +0000" stop="20230319125500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Canal Aberto Pesca</title>
-  </programme>
-  <programme start="20230319125500 +0000" stop="20230319132500 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Caça: Batismo de Aves</title>
-  </programme>
-  <programme start="20230319132500 +0000" stop="20230319135500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Para Começar, o Carrión</title>
-  </programme>
-  <programme start="20230319135500 +0000" stop="20230319143000 +0000" channel="Caça e Pesca">
-    <title lang="pt">As Trutas do Carvão</title>
-  </programme>
-  <programme start="20230319143000 +0000" stop="20230319150500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Javalis da Sierra Morena - 2ª Parte</title>
-  </programme>
-  <programme start="20230319150500 +0000" stop="20230319154000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Entre Zarros Comuns, Patos Trombeteiros e Patos Reais</title>
-  </programme>
-  <programme start="20230319154000 +0000" stop="20230319160500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Uma Vida Debaixo de Água</title>
-  </programme>
-  <programme start="20230319160500 +0000" stop="20230319163500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Loucos Pelo 20</title>
-  </programme>
-  <programme start="20230319163500 +0000" stop="20230319170000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Quebec com Visão de Pássaro</title>
-  </programme>
-  <programme start="20230319170000 +0000" stop="20230319173000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Streamerman</title>
-  </programme>
-  <programme start="20230319173000 +0000" stop="20230319180000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Pliva</title>
-  </programme>
-  <programme start="20230319180000 +0000" stop="20230319182500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Quebec com Visão de Pássaro</title>
-  </programme>
-  <programme start="20230319182500 +0000" stop="20230319185500 +0000" channel="Caça e Pesca">
+  <programme start="20230326043000 +0100" stop="20230326050000 +0100" channel="Caça e Pesca">
     <title lang="pt">Perdizes de Janeiro</title>
   </programme>
-  <programme start="20230319185500 +0000" stop="20230319192500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Abertura em El Pisuerga</title>
+  <programme start="20230326050000 +0100" stop="20230326053500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Certeros Ballesteros: Perdizes e Codornizes à Mão</title>
   </programme>
-  <programme start="20230319192500 +0000" stop="20230319195500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Loucos Pelo 20</title>
+  <programme start="20230326053500 +0100" stop="20230326060000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Uma Vida Debaixo de Água</title>
   </programme>
-  <programme start="20230319195500 +0000" stop="20230319202500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Canal Aberto Pesca</title>
-  </programme>
-  <programme start="20230319202500 +0000" stop="20230319205500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Montaria</title>
-  </programme>
-  <programme start="20230319205500 +0000" stop="20230319213000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Rondas Com Arco e Espingarda</title>
-  </programme>
-  <programme start="20230319213000 +0000" stop="20230319214500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Os Segredos do Arco</title>
-  </programme>
-  <programme start="20230319214500 +0000" stop="20230319220000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Caderno de Campo</title>
-  </programme>
-  <programme start="20230319220000 +0000" stop="20230319223000 +0000" channel="Caça e Pesca">
-    <title lang="pt">O Grupo de Caça Gastro</title>
-  </programme>
-  <programme start="20230319223000 +0000" stop="20230319225500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Como Pescar na Finlândia</title>
-  </programme>
-  <programme start="20230319225500 +0000" stop="20230319232500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Cozinha de Sotobosque</title>
-  </programme>
-  <programme start="20230319232500 +0000" stop="20230320000000 +0000" channel="Caça e Pesca">
+  <programme start="20230326060000 +0100" stop="20230326063000 +0100" channel="Caça e Pesca">
     <title lang="pt">Streamerman</title>
   </programme>
-  <programme start="20230320000000 +0000" stop="20230320003000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Certeros Ballesteros: O Cupo de Jaima</title>
-  </programme>
-  <programme start="20230320003000 +0000" stop="20230320010300 +0000" channel="Caça e Pesca">
-    <title lang="pt">Palavra de Cuquillero</title>
-  </programme>
-  <programme start="20230320010300 +0000" stop="20230320013000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Cozinha de Sotobosque</title>
-  </programme>
-  <programme start="20230320013000 +0000" stop="20230320015800 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Canas Com...</title>
-  </programme>
-  <programme start="20230320015800 +0000" stop="20230320022800 +0000" channel="Caça e Pesca">
-    <title lang="pt">Irmãos Caçadores: Arqueiros Africanos</title>
-  </programme>
-  <programme start="20230320022800 +0000" stop="20230320030500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Streamerman</title>
-  </programme>
-  <programme start="20230320030500 +0000" stop="20230320033500 +0000" channel="Caça e Pesca">
+  <programme start="20230326063000 +0100" stop="20230326070000 +0100" channel="Caça e Pesca">
     <title lang="pt">Ivan La Guía: a Caça Como Meta</title>
   </programme>
-  <programme start="20230320033500 +0000" stop="20230320040500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Streamerman</title>
-  </programme>
-  <programme start="20230320040500 +0000" stop="20230320043200 +0000" channel="Caça e Pesca">
-    <title lang="pt">Pliva</title>
-  </programme>
-  <programme start="20230320043200 +0000" stop="20230320045500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Quebec com Visão de Pássaro</title>
-  </programme>
-  <programme start="20230320045500 +0000" stop="20230320052500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Perdizes de Janeiro</title>
-  </programme>
-  <programme start="20230320052500 +0000" stop="20230320060000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Rondas Com Arco e Espingarda</title>
-  </programme>
-  <programme start="20230320060000 +0000" stop="20230320061500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Os Segredos do Arco</title>
-  </programme>
-  <programme start="20230320061500 +0000" stop="20230320063000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Caderno de Campo</title>
-  </programme>
-  <programme start="20230320063000 +0000" stop="20230320070000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Master Can</title>
-  </programme>
-  <programme start="20230320070000 +0000" stop="20230320073000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Certeros Ballesteros: O Cupo de Jaima</title>
-  </programme>
-  <programme start="20230320073000 +0000" stop="20230320080000 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Canas Com...</title>
-  </programme>
-  <programme start="20230320080000 +0000" stop="20230320083000 +0000" channel="Caça e Pesca">
+  <programme start="20230326070000 +0100" stop="20230326073000 +0100" channel="Caça e Pesca">
     <title lang="pt">Cozinha de Sotobosque</title>
   </programme>
-  <programme start="20230320083000 +0000" stop="20230320085500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Uma Vida Debaixo de Água</title>
+  <programme start="20230326073000 +0100" stop="20230326080000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Escalando Owazalafken, Serras Abaixo do Forte de Niebla</title>
   </programme>
-  <programme start="20230320085500 +0000" stop="20230320093500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Rondas Com Arco e Espingarda</title>
+  <programme start="20230326080000 +0100" stop="20230326083000 +0100" channel="Caça e Pesca">
+    <title lang="pt">De Canas Com...</title>
   </programme>
-  <programme start="20230320093500 +0000" stop="20230320095000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Os Segredos do Arco</title>
-  </programme>
-  <programme start="20230320095000 +0000" stop="20230320100500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Caderno de Campo</title>
-  </programme>
-  <programme start="20230320100500 +0000" stop="20230320104000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Acampamento Base</title>
-  </programme>
-  <programme start="20230320104000 +0000" stop="20230320111000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Abertura em El Pisuerga</title>
-  </programme>
-  <programme start="20230320111000 +0000" stop="20230320114000 +0000" channel="Caça e Pesca">
+  <programme start="20230326083000 +0100" stop="20230326090000 +0100" channel="Caça e Pesca">
     <title lang="pt">Quebec com Visão de Pássaro</title>
   </programme>
-  <programme start="20230320114000 +0000" stop="20230320121000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Praga de Coelhos em Épila</title>
+  <programme start="20230326090000 +0100" stop="20230326093500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canal Aberto Pesca</title>
   </programme>
-  <programme start="20230320121000 +0000" stop="20230320124000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Pliva</title>
-  </programme>
-  <programme start="20230320124000 +0000" stop="20230320131000 +0000" channel="Caça e Pesca">
+  <programme start="20230326093500 +0100" stop="20230326100500 +0100" channel="Caça e Pesca">
     <title lang="pt">Para Começar, o Carrión</title>
   </programme>
-  <programme start="20230320131000 +0000" stop="20230320140000 +0000" channel="Caça e Pesca">
-    <title lang="pt">À Espreita</title>
-  </programme>
-  <programme start="20230320140000 +0000" stop="20230320143500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Montaria</title>
-  </programme>
-  <programme start="20230320143500 +0000" stop="20230320150500 +0000" channel="Caça e Pesca">
-    <title lang="pt">De Caça: Batismo de Aves</title>
-  </programme>
-  <programme start="20230320150500 +0000" stop="20230320154000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Canal Aberto Pesca</title>
-  </programme>
-  <programme start="20230320154000 +0000" stop="20230320161500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Entre Zarros Comuns, Patos Trombeteiros e Patos Reais</title>
-  </programme>
-  <programme start="20230320161500 +0000" stop="20230320164000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Uma Vida Debaixo de Água</title>
-  </programme>
-  <programme start="20230320164000 +0000" stop="20230320171000 +0000" channel="Caça e Pesca">
-    <title lang="pt">O Grupo de Caça Gastro</title>
-  </programme>
-  <programme start="20230320171000 +0000" stop="20230320173500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Como Pescar na Finlândia</title>
-  </programme>
-  <programme start="20230320173500 +0000" stop="20230320180500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Canal Aberto Pesca</title>
-  </programme>
-  <programme start="20230320180500 +0000" stop="20230320183500 +0000" channel="Caça e Pesca">
+  <programme start="20230326100500 +0100" stop="20230326103500 +0100" channel="Caça e Pesca">
     <title lang="pt">Loucos Pelo 20</title>
   </programme>
-  <programme start="20230320183500 +0000" stop="20230320190000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Quebec com Visão de Pássaro</title>
-  </programme>
-  <programme start="20230320190000 +0000" stop="20230320193000 +0000" channel="Caça e Pesca">
+  <programme start="20230326103500 +0100" stop="20230326110500 +0100" channel="Caça e Pesca">
     <title lang="pt">O Grupo de Caça Gastro</title>
   </programme>
-  <programme start="20230320193000 +0000" stop="20230320195000 +0000" channel="Caça e Pesca">
+  <programme start="20230326110500 +0100" stop="20230326113000 +0100" channel="Caça e Pesca">
     <title lang="pt">Como Pescar na Finlândia</title>
   </programme>
-  <programme start="20230320195000 +0000" stop="20230320202000 +0000" channel="Caça e Pesca">
-    <title lang="pt">Monteiros: Experiência e Juventude</title>
+  <programme start="20230326113000 +0100" stop="20230326120000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Cozinha de Sotobosque</title>
   </programme>
-  <programme start="20230320202000 +0000" stop="20230320210000 +0000" channel="Caça e Pesca">
+  <programme start="20230326120000 +0100" stop="20230326125000 +0100" channel="Caça e Pesca">
+    <title lang="pt">À Espreita</title>
+  </programme>
+  <programme start="20230326125000 +0100" stop="20230326132000 +0100" channel="Caça e Pesca">
+    <title lang="pt">De Caça: Batismo de Aves</title>
+  </programme>
+  <programme start="20230326132000 +0100" stop="20230326140000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Rondas Com Arco e Espingarda</title>
+  </programme>
+  <programme start="20230326140000 +0100" stop="20230326141500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Os Segredos do Arco</title>
+  </programme>
+  <programme start="20230326141500 +0100" stop="20230326143500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Caderno de Campo</title>
+  </programme>
+  <programme start="20230326143500 +0100" stop="20230326150500 +0100" channel="Caça e Pesca">
+    <title lang="pt">O Grupo de Caça Gastro</title>
+  </programme>
+  <programme start="20230326150500 +0100" stop="20230326152500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Como Pescar na Finlândia</title>
+  </programme>
+  <programme start="20230326152500 +0100" stop="20230326160000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Montaria</title>
+  </programme>
+  <programme start="20230326160000 +0100" stop="20230326163500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Certeros Ballesteros: Perdizes e Codornizes à Mão</title>
+  </programme>
+  <programme start="20230326163500 +0100" stop="20230326170000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Uma Vida Debaixo de Água</title>
+  </programme>
+  <programme start="20230326170000 +0100" stop="20230326173500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Streamerman</title>
+  </programme>
+  <programme start="20230326173500 +0100" stop="20230326180500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Tenkara no Mar</title>
+  </programme>
+  <programme start="20230326180500 +0100" stop="20230326183000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Quebec com Visão de Pássaro</title>
+  </programme>
+  <programme start="20230326183000 +0100" stop="20230326190000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Corços em Santo Domingo de Silos</title>
+  </programme>
+  <programme start="20230326190000 +0100" stop="20230326194000 +0100" channel="Caça e Pesca">
     <title lang="pt">Javalis em Cabra do Santo Cristo</title>
   </programme>
-  <programme start="20230320210000 +0000" stop="20230320212500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Cozinha de Sotobosque</title>
+  <programme start="20230326194000 +0100" stop="20230326201000 +0100" channel="Caça e Pesca">
+    <title lang="pt">As Ninfas de Ombreiro</title>
   </programme>
-  <programme start="20230320212500 +0000" stop="20230320220500 +0000" channel="Caça e Pesca">
-    <title lang="pt">As Trutas do Carvão</title>
+  <programme start="20230326201000 +0100" stop="20230326204000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Palavra de Podengueiro</title>
   </programme>
-  <programme start="20230320220500 +0000" stop="20230320223500 +0000" channel="Caça e Pesca">
+  <programme start="20230326204000 +0100" stop="20230326211000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canal Aberto Pesca</title>
+  </programme>
+  <programme start="20230326211000 +0100" stop="20230326214000 +0100" channel="Caça e Pesca">
     <title lang="pt">Loucos Pelo 20</title>
   </programme>
-  <programme start="20230320223500 +0000" stop="20230320230500 +0000" channel="Caça e Pesca">
+  <programme start="20230326214000 +0100" stop="20230326221000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Podengos Naveños de Navatrasierra</title>
+  </programme>
+  <programme start="20230326221000 +0100" stop="20230326223500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Uma Vida Debaixo de Água</title>
+  </programme>
+  <programme start="20230326223500 +0100" stop="20230326230700 +0100" channel="Caça e Pesca">
+    <title lang="pt">Entre Zarros Comuns, Patos Trombeteiros e Patos Reais</title>
+  </programme>
+  <programme start="20230326230700 +0100" stop="20230326233500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Pliva</title>
+  </programme>
+  <programme start="20230326233500 +0100" stop="20230327000500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Monteiros: Experiência e Juventude</title>
+  </programme>
+  <programme start="20230327000500 +0100" stop="20230327003500 +0100" channel="Caça e Pesca">
     <title lang="pt">Monteando na Aldeia de La Calera</title>
   </programme>
-  <programme start="20230320230500 +0000" stop="20230320233500 +0000" channel="Caça e Pesca">
+  <programme start="20230327003500 +0100" stop="20230327010500 +0100" channel="Caça e Pesca">
     <title lang="pt">Subindo o Wazalafken, São Pedro e Seus Afluentes</title>
   </programme>
-  <programme start="20230320233500 +0000" stop="20230321000500 +0000" channel="Caça e Pesca">
-    <title lang="pt">Do Campo Para a Cozinha</title>
+  <programme start="20230327010500 +0100" stop="20230327013500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Irmãos Caçadores: Arqueiros Africanos</title>
   </programme>
-  <programme start="20230314010000 +0000" stop="20230314030000 +0000" channel="VH1">
+  <programme start="20230327013500 +0100" stop="20230327020500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Streamerman</title>
+  </programme>
+  <programme start="20230327020500 +0100" stop="20230327023500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Perdizes de Janeiro</title>
+  </programme>
+  <programme start="20230327023500 +0100" stop="20230327031000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Streamerman</title>
+  </programme>
+  <programme start="20230327031000 +0100" stop="20230327034000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Tenkara no Mar</title>
+  </programme>
+  <programme start="20230327034000 +0100" stop="20230327040500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Quebec com Visão de Pássaro</title>
+  </programme>
+  <programme start="20230327040500 +0100" stop="20230327043500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Corços em Santo Domingo de Silos</title>
+  </programme>
+  <programme start="20230327043500 +0100" stop="20230327052500 +0100" channel="Caça e Pesca">
+    <title lang="pt">À Espreita</title>
+  </programme>
+  <programme start="20230327052500 +0100" stop="20230327060000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Palavra de Cuquillero</title>
+  </programme>
+  <programme start="20230327060000 +0100" stop="20230327063000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Podengo Andaluz, Paixão pela Caça</title>
+  </programme>
+  <programme start="20230327063000 +0100" stop="20230327070000 +0100" channel="Caça e Pesca">
+    <title lang="pt">De Canas Com...</title>
+  </programme>
+  <programme start="20230327070000 +0100" stop="20230327073000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Palavra de Podengueiro</title>
+  </programme>
+  <programme start="20230327073000 +0100" stop="20230327080000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Podengo Andaluz, Paixão pela Caça</title>
+  </programme>
+  <programme start="20230327080000 +0100" stop="20230327083000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Subindo o Wazalafken, São Pedro e Seus Afluentes</title>
+  </programme>
+  <programme start="20230327083000 +0100" stop="20230327090000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Monteiros: Experiência e Juventude</title>
+  </programme>
+  <programme start="20230327090000 +0100" stop="20230327094000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Rondas Com Arco e Espingarda</title>
+  </programme>
+  <programme start="20230327094000 +0100" stop="20230327095500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Os Segredos do Arco</title>
+  </programme>
+  <programme start="20230327095500 +0100" stop="20230327101500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Caderno de Campo</title>
+  </programme>
+  <programme start="20230327101500 +0100" stop="20230327104500 +0100" channel="Caça e Pesca">
+    <title lang="pt">De Caça: Batismo de Aves</title>
+  </programme>
+  <programme start="20230327104500 +0100" stop="20230327111500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Pliva</title>
+  </programme>
+  <programme start="20230327111500 +0100" stop="20230327114500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Loucos Pelo 20</title>
+  </programme>
+  <programme start="20230327114500 +0100" stop="20230327122000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Entre Zarros Comuns, Patos Trombeteiros e Patos Reais</title>
+  </programme>
+  <programme start="20230327122000 +0100" stop="20230327124500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Uma Vida Debaixo de Água</title>
+  </programme>
+  <programme start="20230327124500 +0100" stop="20230327132000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canal Aberto Pesca</title>
+  </programme>
+  <programme start="20230327132000 +0100" stop="20230327141000 +0100" channel="Caça e Pesca">
+    <title lang="pt">À Espreita</title>
+  </programme>
+  <programme start="20230327141000 +0100" stop="20230327145000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Javalis em Cabra do Santo Cristo</title>
+  </programme>
+  <programme start="20230327145000 +0100" stop="20230327152000 +0100" channel="Caça e Pesca">
+    <title lang="pt">As Ninfas de Ombreiro</title>
+  </programme>
+  <programme start="20230327152000 +0100" stop="20230327155000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Certeros Ballesteros: Perdizes e Codornizes à Mão</title>
+  </programme>
+  <programme start="20230327155000 +0100" stop="20230327161500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Uma Vida Debaixo de Água</title>
+  </programme>
+  <programme start="20230327161500 +0100" stop="20230327164500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Podengos Naveños de Navatrasierra</title>
+  </programme>
+  <programme start="20230327164500 +0100" stop="20230327171500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Loucos Pelo 20</title>
+  </programme>
+  <programme start="20230327171500 +0100" stop="20230327174500 +0100" channel="Caça e Pesca">
+    <title lang="pt">O Grupo de Caça Gastro</title>
+  </programme>
+  <programme start="20230327174500 +0100" stop="20230327180500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Como Pescar na Finlândia</title>
+  </programme>
+  <programme start="20230327180500 +0100" stop="20230327183500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canal Aberto Pesca</title>
+  </programme>
+  <programme start="20230327183500 +0100" stop="20230327190000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Quebec com Visão de Pássaro</title>
+  </programme>
+  <programme start="20230327190000 +0100" stop="20230327193000 +0100" channel="Caça e Pesca">
+    <title lang="pt">O Grupo de Caça Gastro</title>
+  </programme>
+  <programme start="20230327193000 +0100" stop="20230327200000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Os Achigãs do Sol de Outono</title>
+  </programme>
+  <programme start="20230327200000 +0100" stop="20230327203500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Monteiros: Experiência e Juventude</title>
+  </programme>
+  <programme start="20230327203500 +0100" stop="20230327210500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Montaria</title>
+  </programme>
+  <programme start="20230327210500 +0100" stop="20230327213500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Cozinha de Sotobosque</title>
+  </programme>
+  <programme start="20230327213500 +0100" stop="20230327220500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Tenkara no Mar</title>
+  </programme>
+  <programme start="20230327220500 +0100" stop="20230327223500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Quebec com Visão de Pássaro</title>
+  </programme>
+  <programme start="20230327223500 +0100" stop="20230327230500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Para Começar, o Carrión</title>
+  </programme>
+  <programme start="20230327230500 +0100" stop="20230327233000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Cozinha de Sotobosque</title>
+  </programme>
+  <programme start="20230327233000 +0100" stop="20230328000000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Escalando Owazalafken, Serras Abaixo do Forte de Niebla</title>
+  </programme>
+  <programme start="20230328000000 +0100" stop="20230328003000 +0100" channel="Caça e Pesca">
+    <title lang="pt">De Canas Com...</title>
+  </programme>
+  <programme start="20230328003000 +0100" stop="20230328010500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Palavra de Cuquillero</title>
+  </programme>
+  <programme start="20230328010500 +0100" stop="20230328014000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Streamerman</title>
+  </programme>
+  <programme start="20230328014000 +0100" stop="20230328021500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Corços em Santo Domingo de Silos</title>
+  </programme>
+  <programme start="20230328021500 +0100" stop="20230328024200 +0100" channel="Caça e Pesca">
+    <title lang="pt">Perdizes de Janeiro</title>
+  </programme>
+  <programme start="20230328024200 +0100" stop="20230328031000 +0100" channel="Caça e Pesca">
+    <title lang="pt">De Canas Com...</title>
+  </programme>
+  <programme start="20230328031000 +0100" stop="20230328034000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Irmãos Caçadores: Arqueiros Africanos</title>
+  </programme>
+  <programme start="20230328034000 +0100" stop="20230328041000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Streamerman</title>
+  </programme>
+  <programme start="20230328041000 +0100" stop="20230328044000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Montaria</title>
+  </programme>
+  <programme start="20230328044000 +0100" stop="20230328051000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Cozinha de Sotobosque</title>
+  </programme>
+  <programme start="20230328051000 +0100" stop="20230328054000 +0100" channel="Caça e Pesca">
+    <title lang="pt">O Grupo de Caça Gastro</title>
+  </programme>
+  <programme start="20230328054000 +0100" stop="20230328061000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Os Achigãs do Sol de Outono</title>
+  </programme>
+  <programme start="20230328061000 +0100" stop="20230328070000 +0100" channel="Caça e Pesca">
+    <title lang="pt">À Espreita</title>
+  </programme>
+  <programme start="20230328070000 +0100" stop="20230328073500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Palavra de Cuquillero</title>
+  </programme>
+  <programme start="20230328073500 +0100" stop="20230328080500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Escalando Owazalafken, Serras Abaixo do Forte de Niebla</title>
+  </programme>
+  <programme start="20230328080500 +0100" stop="20230328083000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Cozinha de Sotobosque</title>
+  </programme>
+  <programme start="20230328083000 +0100" stop="20230328085000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Como Pescar na Finlândia</title>
+  </programme>
+  <programme start="20230328085000 +0100" stop="20230328091500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Quebec com Visão de Pássaro</title>
+  </programme>
+  <programme start="20230328091500 +0100" stop="20230328095000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canal Aberto Pesca</title>
+  </programme>
+  <programme start="20230328095000 +0100" stop="20230328103000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Rondas Com Arco e Espingarda</title>
+  </programme>
+  <programme start="20230328103000 +0100" stop="20230328104500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Os Segredos do Arco</title>
+  </programme>
+  <programme start="20230328104500 +0100" stop="20230328110500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Caderno de Campo</title>
+  </programme>
+  <programme start="20230328110500 +0100" stop="20230328113500 +0100" channel="Caça e Pesca">
+    <title lang="pt">O Grupo de Caça Gastro</title>
+  </programme>
+  <programme start="20230328113500 +0100" stop="20230328120500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Os Achigãs do Sol de Outono</title>
+  </programme>
+  <programme start="20230328120500 +0100" stop="20230328123500 +0100" channel="Caça e Pesca">
+    <title lang="pt">De Caça: Batismo de Aves</title>
+  </programme>
+  <programme start="20230328123500 +0100" stop="20230328130500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Podengos Naveños de Navatrasierra</title>
+  </programme>
+  <programme start="20230328130500 +0100" stop="20230328134000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Entre Zarros Comuns, Patos Trombeteiros e Patos Reais</title>
+  </programme>
+  <programme start="20230328134000 +0100" stop="20230328140500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Uma Vida Debaixo de Água</title>
+  </programme>
+  <programme start="20230328140500 +0100" stop="20230328145500 +0100" channel="Caça e Pesca">
+    <title lang="pt">À Espreita</title>
+  </programme>
+  <programme start="20230328145500 +0100" stop="20230328152500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canal Aberto Pesca</title>
+  </programme>
+  <programme start="20230328152500 +0100" stop="20230328160500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Javalis em Cabra do Santo Cristo</title>
+  </programme>
+  <programme start="20230328160500 +0100" stop="20230328163500 +0100" channel="Caça e Pesca">
+    <title lang="pt">O Grupo de Caça Gastro</title>
+  </programme>
+  <programme start="20230328163500 +0100" stop="20230328170500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Tenkara no Mar</title>
+  </programme>
+  <programme start="20230328170500 +0100" stop="20230328173500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Loucos Pelo 20</title>
+  </programme>
+  <programme start="20230328173500 +0100" stop="20230328180500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Certeros Ballesteros: Perdizes e Codornizes à Mão</title>
+  </programme>
+  <programme start="20230328180500 +0100" stop="20230328183000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Uma Vida Debaixo de Água</title>
+  </programme>
+  <programme start="20230328183000 +0100" stop="20230328190000 +0100" channel="Caça e Pesca">
+    <title lang="pt">As Ninfas de Ombreiro</title>
+  </programme>
+  <programme start="20230328190000 +0100" stop="20230328193000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Montaria</title>
+  </programme>
+  <programme start="20230328193000 +0100" stop="20230328200000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Loucos Pelo 20</title>
+  </programme>
+  <programme start="20230328200000 +0100" stop="20230328203000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Subindo o Wazalafken, Navegando no Rio Fuy</title>
+  </programme>
+  <programme start="20230328203000 +0100" stop="20230328210500 +0100" channel="Caça e Pesca">
+    <title lang="pt">A Evolução da Ria de Vigo</title>
+  </programme>
+  <programme start="20230328210500 +0100" stop="20230328213500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Surfcasting: Reunião de Pesca</title>
+  </programme>
+  <programme start="20230328213500 +0100" stop="20230328220000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Quebec com Visão de Pássaro</title>
+  </programme>
+  <programme start="20230328220000 +0100" stop="20230328223000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Monteiros: Experiência e Juventude</title>
+  </programme>
+  <programme start="20230328223000 +0100" stop="20230328230000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Pliva</title>
+  </programme>
+  <programme start="20230328230000 +0100" stop="20230328233500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Monteiros: Experiência e Juventude</title>
+  </programme>
+  <programme start="20230328233500 +0100" stop="20230329000500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Cozinha de Sotobosque</title>
+  </programme>
+  <programme start="20230329000500 +0100" stop="20230329004000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Streamerman</title>
+  </programme>
+  <programme start="20230329004000 +0100" stop="20230329011000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Corços em Santo Domingo de Silos</title>
+  </programme>
+  <programme start="20230329011000 +0100" stop="20230329014000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Palavra de Podengueiro</title>
+  </programme>
+  <programme start="20230329014000 +0100" stop="20230329021000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Streamerman</title>
+  </programme>
+  <programme start="20230329021000 +0100" stop="20230329030000 +0100" channel="Caça e Pesca">
+    <title lang="pt">À Espreita</title>
+  </programme>
+  <programme start="20230329030000 +0100" stop="20230329032700 +0100" channel="Caça e Pesca">
+    <title lang="pt">Perdizes de Janeiro</title>
+  </programme>
+  <programme start="20230329032700 +0100" stop="20230329035500 +0100" channel="Caça e Pesca">
+    <title lang="pt">De Canas Com...</title>
+  </programme>
+  <programme start="20230329035500 +0100" stop="20230329042500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Podengo Andaluz, Paixão pela Caça</title>
+  </programme>
+  <programme start="20230329042500 +0100" stop="20230329045200 +0100" channel="Caça e Pesca">
+    <title lang="pt">Loucos Pelo 20</title>
+  </programme>
+  <programme start="20230329045200 +0100" stop="20230329052200 +0100" channel="Caça e Pesca">
+    <title lang="pt">Subindo o Wazalafken, Navegando no Rio Fuy</title>
+  </programme>
+  <programme start="20230329052200 +0100" stop="20230329055700 +0100" channel="Caça e Pesca">
+    <title lang="pt">A Evolução da Ria de Vigo</title>
+  </programme>
+  <programme start="20230329055700 +0100" stop="20230329063000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Surfcasting: Reunião de Pesca</title>
+  </programme>
+  <programme start="20230329063000 +0100" stop="20230329070000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Irmãos Caçadores: Arqueiros Africanos</title>
+  </programme>
+  <programme start="20230329070000 +0100" stop="20230329073000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Cozinha de Sotobosque</title>
+  </programme>
+  <programme start="20230329073000 +0100" stop="20230329080000 +0100" channel="Caça e Pesca">
+    <title lang="pt">De Canas Com...</title>
+  </programme>
+  <programme start="20230329080000 +0100" stop="20230329083000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Palavra de Podengueiro</title>
+  </programme>
+  <programme start="20230329083000 +0100" stop="20230329090000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Surfcasting: Reunião de Pesca</title>
+  </programme>
+  <programme start="20230329090000 +0100" stop="20230329093000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Monteiros: Experiência e Juventude</title>
+  </programme>
+  <programme start="20230329093000 +0100" stop="20230329100200 +0100" channel="Caça e Pesca">
+    <title lang="pt">Monteiros: Experiência e Juventude</title>
+  </programme>
+  <programme start="20230329100200 +0100" stop="20230329103000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Pliva</title>
+  </programme>
+  <programme start="20230329103000 +0100" stop="20230329105500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Quebec com Visão de Pássaro</title>
+  </programme>
+  <programme start="20230329105500 +0100" stop="20230329112500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Podengos Naveños de Navatrasierra</title>
+  </programme>
+  <programme start="20230329112500 +0100" stop="20230329115500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canal Aberto Pesca</title>
+  </programme>
+  <programme start="20230329115500 +0100" stop="20230329122500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Tenkara no Mar</title>
+  </programme>
+  <programme start="20230329122500 +0100" stop="20230329130500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Javalis em Cabra do Santo Cristo</title>
+  </programme>
+  <programme start="20230329130500 +0100" stop="20230329133500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canal Aberto Pesca</title>
+  </programme>
+  <programme start="20230329133500 +0100" stop="20230329141000 +0100" channel="Caça e Pesca">
+    <title lang="pt">A Evolução da Ria de Vigo</title>
+  </programme>
+  <programme start="20230329141000 +0100" stop="20230329144000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Certeros Ballesteros: Perdizes e Codornizes à Mão</title>
+  </programme>
+  <programme start="20230329144000 +0100" stop="20230329150500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Quebec com Visão de Pássaro</title>
+  </programme>
+  <programme start="20230329150500 +0100" stop="20230329152700 +0100" channel="Caça e Pesca">
+    <title lang="pt">Uma Vida Debaixo de Água</title>
+  </programme>
+  <programme start="20230329152700 +0100" stop="20230329155500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Loucos Pelo 20</title>
+  </programme>
+  <programme start="20230329155500 +0100" stop="20230329163000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Rondas Com Arco e Espingarda</title>
+  </programme>
+  <programme start="20230329163000 +0100" stop="20230329164500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Os Segredos do Arco</title>
+  </programme>
+  <programme start="20230329164500 +0100" stop="20230329170000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Caderno de Campo</title>
+  </programme>
+  <programme start="20230329170000 +0100" stop="20230329173000 +0100" channel="Caça e Pesca">
+    <title lang="pt">O Grupo de Caça Gastro</title>
+  </programme>
+  <programme start="20230329173000 +0100" stop="20230329180000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Os Achigãs do Sol de Outono</title>
+  </programme>
+  <programme start="20230329180000 +0100" stop="20230329183500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Caça e Gestão no "Vedat" de Silla</title>
+  </programme>
+  <programme start="20230329183500 +0100" stop="20230329190500 +0100" channel="Caça e Pesca">
+    <title lang="pt">De Caça: Coelhos e Galinhas em Ibiza</title>
+  </programme>
+  <programme start="20230329190500 +0100" stop="20230329194000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Caçando a Dente com Um Velho Lobo do Mar</title>
+  </programme>
+  <programme start="20230329194000 +0100" stop="20230329201000 +0100" channel="Caça e Pesca">
+    <title lang="pt">As Ninfas de Ombreiro</title>
+  </programme>
+  <programme start="20230329201000 +0100" stop="20230329204000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Loucos Pelo 20</title>
+  </programme>
+  <programme start="20230329204000 +0100" stop="20230329211000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Montaria</title>
+  </programme>
+  <programme start="20230329211000 +0100" stop="20230329220000 +0100" channel="Caça e Pesca">
+    <title lang="pt">À Espreita</title>
+  </programme>
+  <programme start="20230329220000 +0100" stop="20230329223000 +0100" channel="Caça e Pesca">
+    <title lang="pt">O Grupo de Caça Gastro</title>
+  </programme>
+  <programme start="20230329223000 +0100" stop="20230329225000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Como Pescar na Finlândia</title>
+  </programme>
+  <programme start="20230329225000 +0100" stop="20230329232500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Entre Zarros Comuns, Patos Trombeteiros e Patos Reais</title>
+  </programme>
+  <programme start="20230329232500 +0100" stop="20230329235000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Uma Vida Debaixo de Água</title>
+  </programme>
+  <programme start="20230329235000 +0100" stop="20230330002000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Subindo o Wazalafken, Navegando no Rio Fuy</title>
+  </programme>
+  <programme start="20230330002000 +0100" stop="20230330005500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Podengo Andaluz, Paixão pela Caça</title>
+  </programme>
+  <programme start="20230330005500 +0100" stop="20230330012500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Escalando Owazalafken, Serras Abaixo do Forte de Niebla</title>
+  </programme>
+  <programme start="20230330012500 +0100" stop="20230330015000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Cozinha de Sotobosque</title>
+  </programme>
+  <programme start="20230330015000 +0100" stop="20230330022500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Corços em Santo Domingo de Silos</title>
+  </programme>
+  <programme start="20230330022500 +0100" stop="20230330030000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Streamerman</title>
+  </programme>
+  <programme start="20230330030000 +0100" stop="20230330033000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Montaria</title>
+  </programme>
+  <programme start="20230330033000 +0100" stop="20230330040500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Caça e Gestão no "Vedat" de Silla</title>
+  </programme>
+  <programme start="20230330040500 +0100" stop="20230330043500 +0100" channel="Caça e Pesca">
+    <title lang="pt">De Caça: Coelhos e Galinhas em Ibiza</title>
+  </programme>
+  <programme start="20230330043500 +0100" stop="20230330050500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Caçando a Dente com Um Velho Lobo do Mar</title>
+  </programme>
+  <programme start="20230330050500 +0100" stop="20230330055500 +0100" channel="Caça e Pesca">
+    <title lang="pt">À Espreita</title>
+  </programme>
+  <programme start="20230330055500 +0100" stop="20230330063000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Streamerman</title>
+  </programme>
+  <programme start="20230330063000 +0100" stop="20230330070000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Perdizes de Janeiro</title>
+  </programme>
+  <programme start="20230330070000 +0100" stop="20230330073000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Podengo Andaluz, Paixão pela Caça</title>
+  </programme>
+  <programme start="20230330073000 +0100" stop="20230330080000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Caçando a Dente com Um Velho Lobo do Mar</title>
+  </programme>
+  <programme start="20230330080000 +0100" stop="20230330083000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Subindo o Wazalafken, Navegando no Rio Fuy</title>
+  </programme>
+  <programme start="20230330083000 +0100" stop="20230330090500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Streamerman</title>
+  </programme>
+  <programme start="20230330090500 +0100" stop="20230330094000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Caça e Gestão no "Vedat" de Silla</title>
+  </programme>
+  <programme start="20230330094000 +0100" stop="20230330101000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Escalando Owazalafken, Serras Abaixo do Forte de Niebla</title>
+  </programme>
+  <programme start="20230330101000 +0100" stop="20230330104000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Cozinha de Sotobosque</title>
+  </programme>
+  <programme start="20230330104000 +0100" stop="20230330111000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Entre Zarros Comuns, Patos Trombeteiros e Patos Reais</title>
+  </programme>
+  <programme start="20230330111000 +0100" stop="20230330113500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Uma Vida Debaixo de Água</title>
+  </programme>
+  <programme start="20230330113500 +0100" stop="20230330121500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Javalis em Cabra do Santo Cristo</title>
+  </programme>
+  <programme start="20230330121500 +0100" stop="20230330124500 +0100" channel="Caça e Pesca">
+    <title lang="pt">As Ninfas de Ombreiro</title>
+  </programme>
+  <programme start="20230330124500 +0100" stop="20230330131500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Certeros Ballesteros: Perdizes e Codornizes à Mão</title>
+  </programme>
+  <programme start="20230330131500 +0100" stop="20230330134000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Uma Vida Debaixo de Água</title>
+  </programme>
+  <programme start="20230330134000 +0100" stop="20230330141500 +0100" channel="Caça e Pesca">
+    <title lang="pt">A Evolução da Ria de Vigo</title>
+  </programme>
+  <programme start="20230330141500 +0100" stop="20230330144500 +0100" channel="Caça e Pesca">
+    <title lang="pt">De Caça: Coelhos e Galinhas em Ibiza</title>
+  </programme>
+  <programme start="20230330144500 +0100" stop="20230330151500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Podengos Naveños de Navatrasierra</title>
+  </programme>
+  <programme start="20230330151500 +0100" stop="20230330154500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Loucos Pelo 20</title>
+  </programme>
+  <programme start="20230330154500 +0100" stop="20230330161500 +0100" channel="Caça e Pesca">
+    <title lang="pt">O Grupo de Caça Gastro</title>
+  </programme>
+  <programme start="20230330161500 +0100" stop="20230330163500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Como Pescar na Finlândia</title>
+  </programme>
+  <programme start="20230330163500 +0100" stop="20230330170000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Cozinha de Sotobosque</title>
+  </programme>
+  <programme start="20230330170000 +0100" stop="20230330173000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canal Aberto Pesca</title>
+  </programme>
+  <programme start="20230330173000 +0100" stop="20230330180000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Loucos Pelo 20</title>
+  </programme>
+  <programme start="20230330180000 +0100" stop="20230330183000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Montaria</title>
+  </programme>
+  <programme start="20230330183000 +0100" stop="20230330193000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Sarrios e Escargots Com a Onf</title>
+  </programme>
+  <programme start="20230330193000 +0100" stop="20230330200000 +0100" channel="Caça e Pesca">
+    <title lang="pt">O Grupo de Caça Gastro</title>
+  </programme>
+  <programme start="20230330200000 +0100" stop="20230330203500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Os Achigãs do Sol de Outono</title>
+  </programme>
+  <programme start="20230330203500 +0100" stop="20230330212500 +0100" channel="Caça e Pesca">
+    <title lang="pt">À Espreita</title>
+  </programme>
+  <programme start="20230330212500 +0100" stop="20230330220000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canal Aberto Pesca</title>
+  </programme>
+  <programme start="20230330220000 +0100" stop="20230330222500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Quebec com Visão de Pássaro</title>
+  </programme>
+  <programme start="20230330222500 +0100" stop="20230330225500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Tenkara no Mar</title>
+  </programme>
+  <programme start="20230330225500 +0100" stop="20230330232500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Pliva</title>
+  </programme>
+  <programme start="20230330232500 +0100" stop="20230330235500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Monteiros: Experiência e Juventude</title>
+  </programme>
+  <programme start="20230330235500 +0100" stop="20230331003000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Monteiros: Experiência e Juventude</title>
+  </programme>
+  <programme start="20230331003000 +0100" stop="20230331010000 +0100" channel="Caça e Pesca">
+    <title lang="pt">De Canas Com...</title>
+  </programme>
+  <programme start="20230331010000 +0100" stop="20230331013000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Surfcasting: Reunião de Pesca</title>
+  </programme>
+  <programme start="20230331013000 +0100" stop="20230331020000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Palavra de Podengueiro</title>
+  </programme>
+  <programme start="20230331020000 +0100" stop="20230331023000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Quebec com Visão de Pássaro</title>
+  </programme>
+  <programme start="20230331023000 +0100" stop="20230331033000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Sarrios e Escargots Com a Onf</title>
+  </programme>
+  <programme start="20230331033000 +0100" stop="20230331040000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Streamerman</title>
+  </programme>
+  <programme start="20230331040000 +0100" stop="20230331043000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Corços em Santo Domingo de Silos</title>
+  </programme>
+  <programme start="20230331043000 +0100" stop="20230331050000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Perdizes de Janeiro</title>
+  </programme>
+  <programme start="20230331050000 +0100" stop="20230331053000 +0100" channel="Caça e Pesca">
+    <title lang="pt">O Grupo de Caça Gastro</title>
+  </programme>
+  <programme start="20230331053000 +0100" stop="20230331060000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Os Achigãs do Sol de Outono</title>
+  </programme>
+  <programme start="20230331060000 +0100" stop="20230331063000 +0100" channel="Caça e Pesca">
+    <title lang="pt">De Caça: Coelhos e Galinhas em Ibiza</title>
+  </programme>
+  <programme start="20230331063000 +0100" stop="20230331070000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Loucos Pelo 20</title>
+  </programme>
+  <programme start="20230331070000 +0100" stop="20230331073000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Pliva</title>
+  </programme>
+  <programme start="20230331073000 +0100" stop="20230331080000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Monteiros: Experiência e Juventude</title>
+  </programme>
+  <programme start="20230331080000 +0100" stop="20230331083500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Monteiros: Experiência e Juventude</title>
+  </programme>
+  <programme start="20230331083500 +0100" stop="20230331090500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Surfcasting: Reunião de Pesca</title>
+  </programme>
+  <programme start="20230331090500 +0100" stop="20230331093500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Palavra de Podengueiro</title>
+  </programme>
+  <programme start="20230331093500 +0100" stop="20230331101000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Caçando a Dente com Um Velho Lobo do Mar</title>
+  </programme>
+  <programme start="20230331101000 +0100" stop="20230331104000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Subindo o Wazalafken, Navegando no Rio Fuy</title>
+  </programme>
+  <programme start="20230331104000 +0100" stop="20230331111000 +0100" channel="Caça e Pesca">
+    <title lang="pt">De Canas Com...</title>
+  </programme>
+  <programme start="20230331111000 +0100" stop="20230331114000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Cozinha de Sotobosque</title>
+  </programme>
+  <programme start="20230331114000 +0100" stop="20230331120000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Como Pescar na Finlândia</title>
+  </programme>
+  <programme start="20230331120000 +0100" stop="20230331123500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Entre Zarros Comuns, Patos Trombeteiros e Patos Reais</title>
+  </programme>
+  <programme start="20230331123500 +0100" stop="20230331130000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Uma Vida Debaixo de Água</title>
+  </programme>
+  <programme start="20230331130000 +0100" stop="20230331133000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Quebec com Visão de Pássaro</title>
+  </programme>
+  <programme start="20230331133000 +0100" stop="20230331140000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canal Aberto Pesca</title>
+  </programme>
+  <programme start="20230331140000 +0100" stop="20230331143500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Podengos Naveños de Navatrasierra</title>
+  </programme>
+  <programme start="20230331143500 +0100" stop="20230331150500 +0100" channel="Caça e Pesca">
+    <title lang="pt">O Grupo de Caça Gastro</title>
+  </programme>
+  <programme start="20230331150500 +0100" stop="20230331153500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Tenkara no Mar</title>
+  </programme>
+  <programme start="20230331153500 +0100" stop="20230331160500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Montaria</title>
+  </programme>
+  <programme start="20230331160500 +0100" stop="20230331163500 +0100" channel="Caça e Pesca">
+    <title lang="pt">De Caça: Coelhos e Galinhas em Ibiza</title>
+  </programme>
+  <programme start="20230331163500 +0100" stop="20230331172500 +0100" channel="Caça e Pesca">
+    <title lang="pt">À Espreita</title>
+  </programme>
+  <programme start="20230331172500 +0100" stop="20230331180000 +0100" channel="Caça e Pesca">
+    <title lang="pt">A Evolução da Ria de Vigo</title>
+  </programme>
+  <programme start="20230331180000 +0100" stop="20230331183000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Loucos Pelo 20</title>
+  </programme>
+  <programme start="20230331183000 +0100" stop="20230331190000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canal Aberto Pesca</title>
+  </programme>
+  <programme start="20230331190000 +0100" stop="20230331193000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Os Achigãs do Sol de Outono</title>
+  </programme>
+  <programme start="20230331193000 +0100" stop="20230331200000 +0100" channel="Caça e Pesca">
+    <title lang="pt">As Ninfas de Ombreiro</title>
+  </programme>
+  <programme start="20230331200000 +0100" stop="20230331202500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Quebec com Visão de Pássaro</title>
+  </programme>
+  <programme start="20230331202500 +0100" stop="20230331205500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Loucos Pelo 20</title>
+  </programme>
+  <programme start="20230331205500 +0100" stop="20230331213500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Javalis em Cabra do Santo Cristo</title>
+  </programme>
+  <programme start="20230331213500 +0100" stop="20230331223000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Sarrios e Escargots Com a Onf</title>
+  </programme>
+  <programme start="20230331223000 +0100" stop="20230331230000 +0100" channel="Caça e Pesca">
+    <title lang="pt">O Grupo de Caça Gastro</title>
+  </programme>
+  <programme start="20230331230000 +0100" stop="20230331233000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Certeros Ballesteros: Perdizes e Codornizes à Mão</title>
+  </programme>
+  <programme start="20230331233000 +0100" stop="20230331235500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Uma Vida Debaixo de Água</title>
+  </programme>
+  <programme start="20230331235500 +0100" stop="20230401002500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Cozinha de Sotobosque</title>
+  </programme>
+  <programme start="20230401002500 +0100" stop="20230401005500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Escalando Owazalafken, Serras Abaixo do Forte de Niebla</title>
+  </programme>
+  <programme start="20230401005500 +0100" stop="20230401012500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Podengo Andaluz, Paixão pela Caça</title>
+  </programme>
+  <programme start="20230401012500 +0100" stop="20230401015800 +0100" channel="Caça e Pesca">
+    <title lang="pt">Caça e Gestão no "Vedat" de Silla</title>
+  </programme>
+  <programme start="20230401015800 +0100" stop="20230401023300 +0100" channel="Caça e Pesca">
+    <title lang="pt">Streamerman</title>
+  </programme>
+  <programme start="20230401023300 +0100" stop="20230401030000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Perdizes de Janeiro</title>
+  </programme>
+  <programme start="20230401030000 +0100" stop="20230401033000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Corços em Santo Domingo de Silos</title>
+  </programme>
+  <programme start="20230401033000 +0100" stop="20230401040000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canal Aberto Pesca</title>
+  </programme>
+  <programme start="20230401040000 +0100" stop="20230401043500 +0100" channel="Caça e Pesca">
+    <title lang="pt">A Evolução da Ria de Vigo</title>
+  </programme>
+  <programme start="20230401043500 +0100" stop="20230401050500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Loucos Pelo 20</title>
+  </programme>
+  <programme start="20230401050500 +0100" stop="20230401053500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Streamerman</title>
+  </programme>
+  <programme start="20230401053500 +0100" stop="20230401060500 +0100" channel="Caça e Pesca">
+    <title lang="pt">Montaria</title>
+  </programme>
+  <programme start="20230401060500 +0100" stop="20230401070000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Sarrios e Escargots Com a Onf</title>
+  </programme>
+  <programme start="20230401070000 +0100" stop="20230401073000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Caça e Gestão no "Vedat" de Silla</title>
+  </programme>
+  <programme start="20230401073000 +0100" stop="20230401080000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Podengo Andaluz, Paixão pela Caça</title>
+  </programme>
+  <programme start="20230401080000 +0100" stop="20230401083000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Escalando Owazalafken, Serras Abaixo do Forte de Niebla</title>
+  </programme>
+  <programme start="20230401083000 +0100" stop="20230401090000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Cozinha de Sotobosque</title>
+  </programme>
+  <programme start="20230401090000 +0100" stop="20230401093000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Monteiros: Experiência e Juventude</title>
+  </programme>
+  <programme start="20230401093000 +0100" stop="20230401100000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Pliva</title>
+  </programme>
+  <programme start="20230401100000 +0100" stop="20230401103000 +0100" channel="Caça e Pesca">
+    <title lang="pt">As Ninfas de Ombreiro</title>
+  </programme>
+  <programme start="20230401103000 +0100" stop="20230401110000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Quebec com Visão de Pássaro</title>
+  </programme>
+  <programme start="20230401110000 +0100" stop="20230401113000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Certeros Ballesteros: Perdizes e Codornizes à Mão</title>
+  </programme>
+  <programme start="20230401113000 +0100" stop="20230401120000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Uma Vida Debaixo de Água</title>
+  </programme>
+  <programme start="20230401120000 +0100" stop="20230401123000 +0100" channel="Caça e Pesca">
+    <title lang="pt">De Caça: Coelhos e Galinhas em Ibiza</title>
+  </programme>
+  <programme start="20230401123000 +0100" stop="20230401130000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Podengos Naveños de Navatrasierra</title>
+  </programme>
+  <programme start="20230401130000 +0100" stop="20230401133000 +0100" channel="Caça e Pesca">
+    <title lang="pt">O Grupo de Caça Gastro</title>
+  </programme>
+  <programme start="20230401133000 +0100" stop="20230401140000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Como Pescar na Finlândia</title>
+  </programme>
+  <programme start="20230401140000 +0100" stop="20230401143000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Javalis em Cabra do Santo Cristo</title>
+  </programme>
+  <programme start="20230401143000 +0100" stop="20230401150000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canal Aberto Pesca</title>
+  </programme>
+  <programme start="20230401150000 +0100" stop="20230401153000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Canal Aberto Pesca</title>
+  </programme>
+  <programme start="20230401153000 +0100" stop="20230401163000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Sarrios e Escargots Com a Onf</title>
+  </programme>
+  <programme start="20230401163000 +0100" stop="20230401170000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Tenkara no Mar</title>
+  </programme>
+  <programme start="20230401170000 +0100" stop="20230401173000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Monteiros: Experiência e Juventude</title>
+  </programme>
+  <programme start="20230401173000 +0100" stop="20230401180000 +0100" channel="Caça e Pesca">
+    <title lang="pt">África do Sul em Aberto</title>
+  </programme>
+  <programme start="20230401180000 +0100" stop="20230401183000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Uma Vida Debaixo de Água</title>
+  </programme>
+  <programme start="20230401183000 +0100" stop="20230401190000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Montaria</title>
+  </programme>
+  <programme start="20230401190000 +0100" stop="20230401193000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Loucos Pelo 20</title>
+  </programme>
+  <programme start="20230401193000 +0100" stop="20230401200000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Loucos Pelo 20</title>
+  </programme>
+  <programme start="20230401200000 +0100" stop="20230401203000 +0100" channel="Caça e Pesca">
+    <title lang="pt">O Grupo de Caça Gastro</title>
+  </programme>
+  <programme start="20230401203000 +0100" stop="20230401210000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Os Achigãs do Sol de Outono</title>
+  </programme>
+  <programme start="20230401210000 +0100" stop="20230401220000 +0100" channel="Caça e Pesca">
+    <title lang="pt">À Espreita</title>
+  </programme>
+  <programme start="20230401220000 +0100" stop="20230401223000 +0100" channel="Caça e Pesca">
+    <title lang="pt">A Evolução da Ria de Vigo</title>
+  </programme>
+  <programme start="20230401223000 +0100" stop="20230401230000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Quebec com Visão de Pássaro</title>
+  </programme>
+  <programme start="20230401230000 +0100" stop="20230401233000 +0100" channel="Caça e Pesca">
+    <title lang="pt">De Canas Com...</title>
+  </programme>
+  <programme start="20230401233000 +0100" stop="20230402000000 +0100" channel="Caça e Pesca">
+    <title lang="pt">Subindo o Wazalafken, Navegando no Rio Fuy</title>
+  </programme>
+  <programme start="20230326020000 +0100" stop="20230326040000 +0100" channel="VH1">
     <title lang="pt">Non-Stop Nostalgia</title>
   </programme>
-  <programme start="20230314030000 +0000" stop="20230314070000 +0000" channel="VH1">
+  <programme start="20230326040000 +0100" stop="20230326080000 +0100" channel="VH1">
     <title lang="pt">Non-Stop Nostalgia</title>
   </programme>
-  <programme start="20230314070000 +0000" stop="20230314080000 +0000" channel="VH1">
-    <title lang="pt">Class Of 2002!</title>
+  <programme start="20230326080000 +0100" stop="20230326090000 +0100" channel="VH1">
+    <title lang="pt">Class Of 2008</title>
   </programme>
-  <programme start="20230314080000 +0000" stop="20230314130000 +0000" channel="VH1">
+  <programme start="20230326090000 +0100" stop="20230326110000 +0100" channel="VH1">
     <title lang="pt">We Love The: 00</title>
   </programme>
-  <programme start="20230314130000 +0000" stop="20230314140000 +0000" channel="VH1">
-    <title lang="pt">Class Of 2002!</title>
+  <programme start="20230326110000 +0100" stop="20230326140000 +0100" channel="VH1">
+    <title lang="pt">40 Worldwide Anthems From The...</title>
   </programme>
-  <programme start="20230314140000 +0000" stop="20230314180000 +0000" channel="VH1">
+  <programme start="20230326140000 +0100" stop="20230326150000 +0100" channel="VH1">
+    <title lang="pt">Class Of 2008</title>
+  </programme>
+  <programme start="20230326150000 +0100" stop="20230326190000 +0100" channel="VH1">
     <title lang="pt">Hits Don</title>
   </programme>
-  <programme start="20230314180000 +0000" stop="20230314190000 +0000" channel="VH1">
-    <title lang="pt">Classic Collabs!</title>
-  </programme>
-  <programme start="20230314190000 +0000" stop="20230315010000 +0000" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
-  </programme>
-  <programme start="20230315010000 +0000" stop="20230315030000 +0000" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
-  </programme>
-  <programme start="20230315030000 +0000" stop="20230315070000 +0000" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
-  </programme>
-  <programme start="20230315070000 +0000" stop="20230315080000 +0000" channel="VH1">
-    <title lang="pt">2-4-1 Hits!</title>
-  </programme>
-  <programme start="20230315080000 +0000" stop="20230315130000 +0000" channel="VH1">
-    <title lang="pt">We Love The: 00</title>
-  </programme>
-  <programme start="20230315130000 +0000" stop="20230315140000 +0000" channel="VH1">
-    <title lang="pt">2-4-1 Hits!</title>
-  </programme>
-  <programme start="20230315140000 +0000" stop="20230315180000 +0000" channel="VH1">
-    <title lang="pt">Hits Don</title>
-  </programme>
-  <programme start="20230315180000 +0000" stop="20230315190000 +0000" channel="VH1">
-    <title lang="pt">Can</title>
-  </programme>
-  <programme start="20230315190000 +0000" stop="20230316010000 +0000" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
-  </programme>
-  <programme start="20230316010000 +0000" stop="20230316030000 +0000" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
-  </programme>
-  <programme start="20230316030000 +0000" stop="20230316070000 +0000" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
-  </programme>
-  <programme start="20230316070000 +0000" stop="20230316080000 +0000" channel="VH1">
-    <title lang="pt">Class Of 2003!</title>
-  </programme>
-  <programme start="20230316080000 +0000" stop="20230316130000 +0000" channel="VH1">
-    <title lang="pt">We Love The: 00</title>
-  </programme>
-  <programme start="20230316130000 +0000" stop="20230316140000 +0000" channel="VH1">
-    <title lang="pt">Class Of 2003!</title>
-  </programme>
-  <programme start="20230316140000 +0000" stop="20230316180000 +0000" channel="VH1">
-    <title lang="pt">Hits Don</title>
-  </programme>
-  <programme start="20230316180000 +0000" stop="20230316190000 +0000" channel="VH1">
-    <title lang="pt">Rap &amp; R</title>
-  </programme>
-  <programme start="20230316190000 +0000" stop="20230317010000 +0000" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
-  </programme>
-  <programme start="20230317010000 +0000" stop="20230317030000 +0000" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
-  </programme>
-  <programme start="20230317030000 +0000" stop="20230317070000 +0000" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
-  </programme>
-  <programme start="20230317070000 +0000" stop="20230317080000 +0000" channel="VH1">
-    <title lang="pt">Independent Women Of the 00</title>
-  </programme>
-  <programme start="20230317080000 +0000" stop="20230317130000 +0000" channel="VH1">
-    <title lang="pt">We Love The: 00</title>
-  </programme>
-  <programme start="20230317130000 +0000" stop="20230317140000 +0000" channel="VH1">
-    <title lang="pt">Independent Women Of the 00</title>
-  </programme>
-  <programme start="20230317140000 +0000" stop="20230317180000 +0000" channel="VH1">
-    <title lang="pt">Hits Don</title>
-  </programme>
-  <programme start="20230317180000 +0000" stop="20230317190000 +0000" channel="VH1">
-    <title lang="pt">Dancefloor Fillers!</title>
-  </programme>
-  <programme start="20230317190000 +0000" stop="20230317220000 +0000" channel="VH1">
-    <title lang="pt">Pop vs R&amp;B Ladies! Top 40</title>
-  </programme>
-  <programme start="20230317220000 +0000" stop="20230318010000 +0000" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
-  </programme>
-  <programme start="20230318010000 +0000" stop="20230318030000 +0000" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
-  </programme>
-  <programme start="20230318030000 +0000" stop="20230318070000 +0000" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
-  </programme>
-  <programme start="20230318070000 +0000" stop="20230318100000 +0000" channel="VH1">
-    <title lang="pt">2-4-1 Hits From the Girls!</title>
-  </programme>
-  <programme start="20230318100000 +0000" stop="20230318130000 +0000" channel="VH1">
-    <title lang="pt">We Love The: 00</title>
-  </programme>
-  <programme start="20230318130000 +0000" stop="20230318140000 +0000" channel="VH1">
-    <title lang="pt">2-4-1 Hits!</title>
-  </programme>
-  <programme start="20230318140000 +0000" stop="20230318180000 +0000" channel="VH1">
-    <title lang="pt">Hits Don</title>
-  </programme>
-  <programme start="20230318180000 +0000" stop="20230318190000 +0000" channel="VH1">
-    <title lang="pt">Rock</title>
-  </programme>
-  <programme start="20230318190000 +0000" stop="20230319010000 +0000" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
-  </programme>
-  <programme start="20230319010000 +0000" stop="20230319030000 +0000" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
-  </programme>
-  <programme start="20230319030000 +0000" stop="20230319070000 +0000" channel="VH1">
-    <title lang="pt">Non-Stop Nostalgia</title>
-  </programme>
-  <programme start="20230319070000 +0000" stop="20230319080000 +0000" channel="VH1">
-    <title lang="pt">Class Of 2004!</title>
-  </programme>
-  <programme start="20230319080000 +0000" stop="20230319100000 +0000" channel="VH1">
-    <title lang="pt">We Love The: 00</title>
-  </programme>
-  <programme start="20230319100000 +0000" stop="20230319130000 +0000" channel="VH1">
-    <title lang="pt">40 Feel-Good Anthems From The...</title>
-  </programme>
-  <programme start="20230319130000 +0000" stop="20230319140000 +0000" channel="VH1">
-    <title lang="pt">Class Of 2004!</title>
-  </programme>
-  <programme start="20230319140000 +0000" stop="20230319180000 +0000" channel="VH1">
-    <title lang="pt">Hits Don</title>
-  </programme>
-  <programme start="20230319180000 +0000" stop="20230319190000 +0000" channel="VH1">
+  <programme start="20230326190000 +0100" stop="20230326200000 +0100" channel="VH1">
     <title lang="pt">Crazy In Love!</title>
   </programme>
-  <programme start="20230319190000 +0000" stop="20230320010000 +0000" channel="VH1">
+  <programme start="20230326200000 +0100" stop="20230327020000 +0100" channel="VH1">
     <title lang="pt">Non-Stop Nostalgia</title>
   </programme>
-  <programme start="20230320010000 +0000" stop="20230320030000 +0000" channel="VH1">
+  <programme start="20230327020000 +0100" stop="20230327040000 +0100" channel="VH1">
     <title lang="pt">Non-Stop Nostalgia</title>
   </programme>
-  <programme start="20230320030000 +0000" stop="20230320070000 +0000" channel="VH1">
+  <programme start="20230327040000 +0100" stop="20230327080000 +0100" channel="VH1">
     <title lang="pt">Non-Stop Nostalgia</title>
   </programme>
-  <programme start="20230320070000 +0000" stop="20230320080000 +0000" channel="VH1">
-    <title lang="pt">Greatest Heartbreak Anthems!</title>
+  <programme start="20230327080000 +0100" stop="20230327090000 +0100" channel="VH1">
+    <title lang="pt">Dance Hits From the Girls!</title>
   </programme>
-  <programme start="20230320080000 +0000" stop="20230320130000 +0000" channel="VH1">
+  <programme start="20230327090000 +0100" stop="20230327140000 +0100" channel="VH1">
     <title lang="pt">We Love The: 00</title>
   </programme>
-  <programme start="20230320130000 +0000" stop="20230320140000 +0000" channel="VH1">
-    <title lang="pt">Greatest Heartbreak Anthems!</title>
+  <programme start="20230327140000 +0100" stop="20230327150000 +0100" channel="VH1">
+    <title lang="pt">Dance Hits From the Girls!</title>
   </programme>
-  <programme start="20230320140000 +0000" stop="20230320180000 +0000" channel="VH1">
+  <programme start="20230327150000 +0100" stop="20230327190000 +0100" channel="VH1">
     <title lang="pt">Hits Don</title>
   </programme>
-  <programme start="20230320180000 +0000" stop="20230320190000 +0000" channel="VH1">
+  <programme start="20230327190000 +0100" stop="20230327200000 +0100" channel="VH1">
     <title lang="pt">Chillout Zone</title>
   </programme>
-  <programme start="20230320190000 +0000" stop="20230321010000 +0000" channel="VH1">
+  <programme start="20230327200000 +0100" stop="20230328020000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20230328020000 +0100" stop="20230328040000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20230328040000 +0100" stop="20230328080000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20230328080000 +0100" stop="20230328090000 +0100" channel="VH1">
+    <title lang="pt">Class Of 2009</title>
+  </programme>
+  <programme start="20230328090000 +0100" stop="20230328140000 +0100" channel="VH1">
+    <title lang="pt">We Love The: 00</title>
+  </programme>
+  <programme start="20230328140000 +0100" stop="20230328150000 +0100" channel="VH1">
+    <title lang="pt">Class Of 2009</title>
+  </programme>
+  <programme start="20230328150000 +0100" stop="20230328190000 +0100" channel="VH1">
+    <title lang="pt">Hits Don</title>
+  </programme>
+  <programme start="20230328190000 +0100" stop="20230328200000 +0100" channel="VH1">
+    <title lang="pt">Classic Collabs!</title>
+  </programme>
+  <programme start="20230328200000 +0100" stop="20230329020000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20230329020000 +0100" stop="20230329040000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20230329040000 +0100" stop="20230329080000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20230329080000 +0100" stop="20230329090000 +0100" channel="VH1">
+    <title lang="pt">2-4-1 Hits!</title>
+  </programme>
+  <programme start="20230329090000 +0100" stop="20230329140000 +0100" channel="VH1">
+    <title lang="pt">We Love The: 00</title>
+  </programme>
+  <programme start="20230329140000 +0100" stop="20230329150000 +0100" channel="VH1">
+    <title lang="pt">2-4-1 Hits!</title>
+  </programme>
+  <programme start="20230329150000 +0100" stop="20230329190000 +0100" channel="VH1">
+    <title lang="pt">Hits Don</title>
+  </programme>
+  <programme start="20230329190000 +0100" stop="20230329200000 +0100" channel="VH1">
+    <title lang="pt">Can</title>
+  </programme>
+  <programme start="20230329200000 +0100" stop="20230330020000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20230330020000 +0100" stop="20230330040000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20230330040000 +0100" stop="20230330080000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20230330080000 +0100" stop="20230330090000 +0100" channel="VH1">
+    <title lang="pt">Class Of 2000!</title>
+  </programme>
+  <programme start="20230330090000 +0100" stop="20230330140000 +0100" channel="VH1">
+    <title lang="pt">We Love The: 00</title>
+  </programme>
+  <programme start="20230330140000 +0100" stop="20230330150000 +0100" channel="VH1">
+    <title lang="pt">Class Of 2000!</title>
+  </programme>
+  <programme start="20230330150000 +0100" stop="20230330190000 +0100" channel="VH1">
+    <title lang="pt">Hits Don</title>
+  </programme>
+  <programme start="20230330190000 +0100" stop="20230330200000 +0100" channel="VH1">
+    <title lang="pt">Rap &amp; R</title>
+  </programme>
+  <programme start="20230330200000 +0100" stop="20230331020000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20230331020000 +0100" stop="20230331040000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20230331040000 +0100" stop="20230331080000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20230331080000 +0100" stop="20230331090000 +0100" channel="VH1">
+    <title lang="pt">Shakira X Christina!</title>
+  </programme>
+  <programme start="20230331090000 +0100" stop="20230331140000 +0100" channel="VH1">
+    <title lang="pt">We Love The: 00</title>
+  </programme>
+  <programme start="20230331140000 +0100" stop="20230331150000 +0100" channel="VH1">
+    <title lang="pt">Shakira X Christina!</title>
+  </programme>
+  <programme start="20230331150000 +0100" stop="20230331190000 +0100" channel="VH1">
+    <title lang="pt">Hits Don</title>
+  </programme>
+  <programme start="20230331190000 +0100" stop="20230331200000 +0100" channel="VH1">
+    <title lang="pt">Dancefloor Fillers!</title>
+  </programme>
+  <programme start="20230331200000 +0100" stop="20230331230000 +0100" channel="VH1">
+    <title lang="pt">Independent Women Of the 00</title>
+  </programme>
+  <programme start="20230331230000 +0100" stop="20230401020000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20230401020000 +0100" stop="20230401040000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20230401040000 +0100" stop="20230401080000 +0100" channel="VH1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+  </programme>
+  <programme start="20230401080000 +0100" stop="20230401110000 +0100" channel="VH1">
+    <title lang="pt">40 Perfect Pop Duets!</title>
+  </programme>
+  <programme start="20230401110000 +0100" stop="20230401140000 +0100" channel="VH1">
+    <title lang="pt">We Love The: 00</title>
+  </programme>
+  <programme start="20230401140000 +0100" stop="20230401150000 +0100" channel="VH1">
+    <title lang="pt">2-4-1 Hits!</title>
+  </programme>
+  <programme start="20230401150000 +0100" stop="20230401190000 +0100" channel="VH1">
+    <title lang="pt">Hits Don</title>
+  </programme>
+  <programme start="20230401190000 +0100" stop="20230401200000 +0100" channel="VH1">
+    <title lang="pt">Rock</title>
+  </programme>
+  <programme start="20230401200000 +0100" stop="20230402020000 +0100" channel="VH1">
     <title lang="pt">Non-Stop Nostalgia</title>
   </programme>
 </tv>
