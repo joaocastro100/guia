@@ -80,7 +80,12 @@
   </channel>
   <channel id="NOS Studios  HD">
     <display-name lang="pt">NOS Studios  HD</display-name>
-    <url>http://www.nos.pt.E</url>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CINEMUNDO HD">
+    <display-name lang="pt">CINEMUNDO HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/cinemundo-hd.png" />
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="AMC HD">
     <display-name lang="pt">AMC HD</display-name>
@@ -19223,6 +19228,288 @@
   </programme>
   <programme start="20230416145000 +0100" stop="20230416170500 +0100" channel="HOLLYWOOD">
     <title lang="pt">Matrix</title>
+  </programme>
+  <programme start="20230410004500 +0100" stop="20230410022500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Arsenal</title>
+  </programme>
+  <programme start="20230410022500 +0100" stop="20230410042500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">A Pele Onde Eu Vivo</title>
+  </programme>
+  <programme start="20230410042500 +0100" stop="20230410061000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Vénus de Vison</title>
+  </programme>
+  <programme start="20230410061000 +0100" stop="20230410075000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Somewhere - Algures</title>
+  </programme>
+  <programme start="20230410075000 +0100" stop="20230410093500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">O Crime de Henry</title>
+  </programme>
+  <programme start="20230410093500 +0100" stop="20230410113500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Romeu e Julieta</title>
+  </programme>
+  <programme start="20230410113500 +0100" stop="20230410133000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">A Rapariga Dinamarquesa</title>
+  </programme>
+  <programme start="20230410133000 +0100" stop="20230410134500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Popcorner</title>
+  </programme>
+  <programme start="20230410134500 +0100" stop="20230410153500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Bem-Vindo Ao Norte</title>
+  </programme>
+  <programme start="20230410153500 +0100" stop="20230410171000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Raparigas Rebeldes De Paradise Hills</title>
+  </programme>
+  <programme start="20230410171000 +0100" stop="20230410190000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Trust - Perigo Online</title>
+  </programme>
+  <programme start="20230410190000 +0100" stop="20230410210000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Desafio Total</title>
+  </programme>
+  <programme start="20230410210000 +0100" stop="20230410230000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Silk Road: Mercado Clandestino</title>
+  </programme>
+  <programme start="20230410230000 +0100" stop="20230411004000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">A Casa Na Floresta</title>
+  </programme>
+  <programme start="20230411004000 +0100" stop="20230411024000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">In the Cut - Atracção Perigosa</title>
+  </programme>
+  <programme start="20230411024000 +0100" stop="20230411042500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">O Pistoleiro do Diabo</title>
+  </programme>
+  <programme start="20230411042500 +0100" stop="20230411062000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Dor e Glória</title>
+  </programme>
+  <programme start="20230411062000 +0100" stop="20230411082500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">A Rapariga Dinamarquesa</title>
+  </programme>
+  <programme start="20230411082500 +0100" stop="20230411100000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Duros Como Ladrões</title>
+  </programme>
+  <programme start="20230411100000 +0100" stop="20230411115500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Balibó</title>
+  </programme>
+  <programme start="20230411115500 +0100" stop="20230411135000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">A Dama de Ferro</title>
+  </programme>
+  <programme start="20230411135000 +0100" stop="20230411153500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Do Jeito que Elas Querem</title>
+  </programme>
+  <programme start="20230411153500 +0100" stop="20230411172000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Mães À Solta</title>
+  </programme>
+  <programme start="20230411172000 +0100" stop="20230411191000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Operação Entebbe</title>
+  </programme>
+  <programme start="20230411191000 +0100" stop="20230411210000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">A Garota Dos Meus Sonhos</title>
+  </programme>
+  <programme start="20230411210000 +0100" stop="20230411224500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Miúdos E Graúdos</title>
+  </programme>
+  <programme start="20230411224500 +0100" stop="20230412003000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">O Pistoleiro do Diabo</title>
+  </programme>
+  <programme start="20230412003000 +0100" stop="20230412022500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Cleanskin: Ameaça Terrorista</title>
+  </programme>
+  <programme start="20230412022500 +0100" stop="20230412050500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Apocalypse Now</title>
+  </programme>
+  <programme start="20230412050500 +0100" stop="20230412064500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Drone</title>
+  </programme>
+  <programme start="20230412064500 +0100" stop="20230412083000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Milhões</title>
+  </programme>
+  <programme start="20230412083000 +0100" stop="20230412105000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Ela Odeia-me</title>
+  </programme>
+  <programme start="20230412105000 +0100" stop="20230412122500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Aves Migratórias</title>
+  </programme>
+  <programme start="20230412122500 +0100" stop="20230412140500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Namoro à Espanhola</title>
+  </programme>
+  <programme start="20230412140500 +0100" stop="20230412154000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Dividas De Sangue</title>
+  </programme>
+  <programme start="20230412154000 +0100" stop="20230412173000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">A Verdade e Só a Verdade</title>
+  </programme>
+  <programme start="20230412173000 +0100" stop="20230412192000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Last Vegas - Despedida De Arromba</title>
+  </programme>
+  <programme start="20230412192000 +0100" stop="20230412210000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Projeto 725</title>
+  </programme>
+  <programme start="20230412210000 +0100" stop="20230412223500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Alad´ Quê?</title>
+  </programme>
+  <programme start="20230412223500 +0100" stop="20230413003500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Cavaleiros Da Justiça</title>
+  </programme>
+  <programme start="20230413003500 +0100" stop="20230413031500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Apocalypse Now</title>
+  </programme>
+  <programme start="20230413031500 +0100" stop="20230413051000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Anatomia do Golpe</title>
+  </programme>
+  <programme start="20230413051000 +0100" stop="20230413065000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Batalha Em Seattle</title>
+  </programme>
+  <programme start="20230413065000 +0100" stop="20230413083500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">O Crime de Henry</title>
+  </programme>
+  <programme start="20230413083500 +0100" stop="20230413095500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Adama</title>
+  </programme>
+  <programme start="20230413095500 +0100" stop="20230413115500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">O Prodígio</title>
+  </programme>
+  <programme start="20230413115500 +0100" stop="20230413134500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Music</title>
+  </programme>
+  <programme start="20230413134500 +0100" stop="20230413153500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">A Minha Família do Norte</title>
+  </programme>
+  <programme start="20230413153500 +0100" stop="20230413172500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Operação Entebbe</title>
+  </programme>
+  <programme start="20230413172500 +0100" stop="20230413191500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Saqueadores</title>
+  </programme>
+  <programme start="20230413191500 +0100" stop="20230413204000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">3022</title>
+  </programme>
+  <programme start="20230413204000 +0100" stop="20230413210000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Popcorner</title>
+  </programme>
+  <programme start="20230413210000 +0100" stop="20230413223500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">John Henry</title>
+  </programme>
+  <programme start="20230413223500 +0100" stop="20230414002000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Quarto 203</title>
+  </programme>
+  <programme start="20230414002000 +0100" stop="20230414020000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">A Casa Na Floresta</title>
+  </programme>
+  <programme start="20230414020000 +0100" stop="20230414034000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Vénus de Vison</title>
+  </programme>
+  <programme start="20230414034000 +0100" stop="20230414054000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">In the Cut - Atracção Perigosa</title>
+  </programme>
+  <programme start="20230414054000 +0100" stop="20230414071000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Até o Fim!</title>
+  </programme>
+  <programme start="20230414071000 +0100" stop="20230414085000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Viagem À Juventude</title>
+  </programme>
+  <programme start="20230414085000 +0100" stop="20230414102000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Fuga de Dunkirk</title>
+  </programme>
+  <programme start="20230414102000 +0100" stop="20230414121000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">O Principezinho VP</title>
+  </programme>
+  <programme start="20230414121000 +0100" stop="20230414140000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Trust - Perigo Online</title>
+  </programme>
+  <programme start="20230414140000 +0100" stop="20230414154000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Amor Acidental</title>
+  </programme>
+  <programme start="20230414154000 +0100" stop="20230414172000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Maré de Azar</title>
+  </programme>
+  <programme start="20230414172000 +0100" stop="20230414185000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Raparigas Rebeldes De Paradise Hills</title>
+  </programme>
+  <programme start="20230414185000 +0100" stop="20230414190500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Popcorner</title>
+  </programme>
+  <programme start="20230414190500 +0100" stop="20230414210000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Dark Tide - Águas Profundas</title>
+  </programme>
+  <programme start="20230414210000 +0100" stop="20230414230500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Notting Hill</title>
+  </programme>
+  <programme start="20230414230500 +0100" stop="20230415004500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Shootfighter - Combate Brutal</title>
+  </programme>
+  <programme start="20230415004500 +0100" stop="20230415021500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Shootfighter 2 - A Cruel Vingança</title>
+  </programme>
+  <programme start="20230415021500 +0100" stop="20230415034500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Os Amantes Passageiros</title>
+  </programme>
+  <programme start="20230415034500 +0100" stop="20230415052000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Arsenal</title>
+  </programme>
+  <programme start="20230415052000 +0100" stop="20230415070500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">A Dama de Ferro</title>
+  </programme>
+  <programme start="20230415070500 +0100" stop="20230415090500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Romeu e Julieta</title>
+  </programme>
+  <programme start="20230415090500 +0100" stop="20230415103000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Vic O Viking: A Espada Mágica VP</title>
+  </programme>
+  <programme start="20230415103000 +0100" stop="20230415122000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Os Medos De Rain</title>
+  </programme>
+  <programme start="20230415122000 +0100" stop="20230415142000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Notting Hill</title>
+  </programme>
+  <programme start="20230415142000 +0100" stop="20230415143500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Popcorner</title>
+  </programme>
+  <programme start="20230415143500 +0100" stop="20230415163500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Stronger - Força de Viver</title>
+  </programme>
+  <programme start="20230415163500 +0100" stop="20230415185000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Patriots Day - Unidos Por Boston</title>
+  </programme>
+  <programme start="20230415185000 +0100" stop="20230415210000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Compromisso de Honra</title>
+  </programme>
+  <programme start="20230415210000 +0100" stop="20230415223500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Eliminators: Fugir ou Morrer</title>
+  </programme>
+  <programme start="20230415223500 +0100" stop="20230416002000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Postais Mortíferos</title>
+  </programme>
+  <programme start="20230416002000 +0100" stop="20230416021000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Morte Súbita</title>
+  </programme>
+  <programme start="20230416021000 +0100" stop="20230416035000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">A Casa Na Floresta</title>
+  </programme>
+  <programme start="20230416035000 +0100" stop="20230416053000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">A Descida</title>
+  </programme>
+  <programme start="20230416053000 +0100" stop="20230416065500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Wild Indian</title>
+  </programme>
+  <programme start="20230416065500 +0100" stop="20230416082500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Aves Migratórias</title>
+  </programme>
+  <programme start="20230416082500 +0100" stop="20230416101000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Dark Tide - Águas Profundas</title>
+  </programme>
+  <programme start="20230416101000 +0100" stop="20230416120000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Dark Tide - Águas Profundas</title>
+  </programme>
+  <programme start="20230416120000 +0100" stop="20230416121500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Popcorner</title>
+  </programme>
+  <programme start="20230416121500 +0100" stop="20230416135000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Ride - Na Onda</title>
+  </programme>
+  <programme start="20230416135000 +0100" stop="20230416155000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Margin Call - O Dia Antes do Fim</title>
+  </programme>
+  <programme start="20230416155000 +0100" stop="20230416172500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Miúdos E Graúdos</title>
   </programme>
   <programme start="20230410000900 +0100" stop="20230410020800 +0100" channel="AMC HD">
     <title lang="pt">Need For Speed: O Filme</title>
