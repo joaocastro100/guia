@@ -1,47 +1,3006 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="AFRO MUSIC">
-    <display-name lang="pt">AFRO MUSIC</display-name>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CAÇA E PESCA">
+    <display-name lang="pt">CAÇA E PESCA</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="CAçAVISION">
+    <display-name lang="pt">CAçAVISION</display-name>
     <url>http://www.meo.pt</url>
   </channel>
   <channel id="Blaze HD">
     <display-name lang="pt">Blaze HD</display-name>
     <url>http://www.meo.pt</url>
   </channel>
-  <channel id="Caça e Pesca">
-    <display-name lang="pt">Caça e Pesca</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="CBS REALITY">
-    <display-name lang="pt">CBS REALITY</display-name>
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="HOT HD">
-    <display-name lang="pt">HOT HD</display-name>
+  <channel id="MTV Portugal HD">
+    <display-name lang="pt">MTV Portugal HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/mtv-portugal-hd.png" />
     <url>http://www.meo.pt</url>
   </channel>
   <channel id="MCM POP">
     <display-name lang="pt">MCM POP</display-name>
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="MTV Portugal HD">
-    <display-name lang="pt">MTV Portugal HD</display-name>
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="PLAYBOY TV HD">
-    <display-name lang="pt">PLAYBOY TV HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/mcm-pop.png" />
     <url>http://www.meo.pt</url>
   </channel>
   <channel id="TRACE URBAN HD">
     <display-name lang="pt">TRACE URBAN HD</display-name>
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="VENUS">
-    <display-name lang="pt">VENUS</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/trace-urban-hd.png" />
     <url>http://www.meo.pt</url>
   </channel>
   <channel id="VH1">
     <display-name lang="pt">VH1</display-name>
-    <url>http://www.nos.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
+  <channel id="AFRO MUSIC">
+    <display-name lang="pt">AFRO MUSIC</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/afro-music.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="HOT HD">
+    <display-name lang="pt">HOT HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/hot-hd.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="VENUS">
+    <display-name lang="pt">VENUS</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/venus.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="PLAYBOY TV HD">
+    <display-name lang="pt">PLAYBOY TV HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/playboy-tv-hd.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <programme start="20230410004200 +0100" stop="20230410012500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Floribama Shore</title>
+  </programme>
+  <programme start="20230410012500 +0100" stop="20230410021000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Floribama Shore</title>
+  </programme>
+  <programme start="20230410021000 +0100" stop="20230410023200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230410023200 +0100" stop="20230410025300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230410025300 +0100" stop="20230410060000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Night Videos</title>
+  </programme>
+  <programme start="20230410060000 +0100" stop="20230410070100 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Wake Up</title>
+  </programme>
+  <programme start="20230410070100 +0100" stop="20230410090100 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Wake Up</title>
+  </programme>
+  <programme start="20230410090100 +0100" stop="20230410110100 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV INTO THE MUSIC</title>
+  </programme>
+  <programme start="20230410110100 +0100" stop="20230410135300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Non Stop Hits</title>
+  </programme>
+  <programme start="20230410135300 +0100" stop="20230410143800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Just Tattoo Of Us</title>
+  </programme>
+  <programme start="20230410143800 +0100" stop="20230410152200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Just Tattoo Of Us</title>
+  </programme>
+  <programme start="20230410152200 +0100" stop="20230410160700 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Celeb Ex In The City</title>
+  </programme>
+  <programme start="20230410160700 +0100" stop="20230410165100 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Celeb Ex In The City</title>
+  </programme>
+  <programme start="20230410165100 +0100" stop="20230410171300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230410171300 +0100" stop="20230410173500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230410173500 +0100" stop="20230410175600 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230410175600 +0100" stop="20230410184200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish UK</title>
+  </programme>
+  <programme start="20230410184200 +0100" stop="20230410192200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230410192200 +0100" stop="20230410200200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230410200200 +0100" stop="20230410204300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230410204300 +0100" stop="20230410210800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230410210800 +0100" stop="20230410213300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230410213300 +0100" stop="20230410215700 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230410215700 +0100" stop="20230410224000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Jersey Shore Family Vacation</title>
+  </programme>
+  <programme start="20230410224000 +0100" stop="20230410232200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ex On The Beach US</title>
+  </programme>
+  <programme start="20230410232200 +0100" stop="20230410234400 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230410234400 +0100" stop="20230411000500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230411000500 +0100" stop="20230411002800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230411002800 +0100" stop="20230411004800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230411004800 +0100" stop="20230411013100 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Floribama Shore</title>
+  </programme>
+  <programme start="20230411013100 +0100" stop="20230411021400 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Floribama Shore</title>
+  </programme>
+  <programme start="20230411021400 +0100" stop="20230411023600 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230411023600 +0100" stop="20230411025700 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230411025700 +0100" stop="20230411060000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Night Videos</title>
+  </programme>
+  <programme start="20230411060000 +0100" stop="20230411065500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Wake Up</title>
+  </programme>
+  <programme start="20230411065500 +0100" stop="20230411065900 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV Breakfast Club</title>
+  </programme>
+  <programme start="20230411065900 +0100" stop="20230411090100 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Wake Up</title>
+  </programme>
+  <programme start="20230411090100 +0100" stop="20230411110000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV INTO THE MUSIC</title>
+  </programme>
+  <programme start="20230411110000 +0100" stop="20230411135300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Non Stop Hits</title>
+  </programme>
+  <programme start="20230411135300 +0100" stop="20230411141500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Just Tattoo of Us USA</title>
+  </programme>
+  <programme start="20230411141500 +0100" stop="20230411143700 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Just Tattoo of Us USA</title>
+  </programme>
+  <programme start="20230411143700 +0100" stop="20230411145900 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Just Tattoo of Us USA</title>
+  </programme>
+  <programme start="20230411145900 +0100" stop="20230411152100 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Just Tattoo of Us USA</title>
+  </programme>
+  <programme start="20230411152100 +0100" stop="20230411160600 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Celeb Ex In The City</title>
+  </programme>
+  <programme start="20230411160600 +0100" stop="20230411165100 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Celeb Ex In The City</title>
+  </programme>
+  <programme start="20230411165100 +0100" stop="20230411171300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230411171300 +0100" stop="20230411173500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230411173500 +0100" stop="20230411175700 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230411175700 +0100" stop="20230411183800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230411183800 +0100" stop="20230411192000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230411192000 +0100" stop="20230411200200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230411200200 +0100" stop="20230411204300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230411204300 +0100" stop="20230411210700 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230411210700 +0100" stop="20230411213200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230411213200 +0100" stop="20230411215700 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230411215700 +0100" stop="20230411224000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Teen Mom Family Reunion</title>
+  </programme>
+  <programme start="20230411224000 +0100" stop="20230411232200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">The Real Friends of WeHo</title>
+  </programme>
+  <programme start="20230411232200 +0100" stop="20230411234500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230411234500 +0100" stop="20230412000500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230412000500 +0100" stop="20230412002800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230412002800 +0100" stop="20230412005000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230412005000 +0100" stop="20230412013300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Floribama Shore</title>
+  </programme>
+  <programme start="20230412013300 +0100" stop="20230412021600 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Floribama Shore</title>
+  </programme>
+  <programme start="20230412021600 +0100" stop="20230412023800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230412023800 +0100" stop="20230412025900 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230412025900 +0100" stop="20230412060000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Night Videos</title>
+  </programme>
+  <programme start="20230412060000 +0100" stop="20230412070100 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Wake Up</title>
+  </programme>
+  <programme start="20230412070100 +0100" stop="20230412090200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV Breakfast Club</title>
+  </programme>
+  <programme start="20230412090200 +0100" stop="20230412110300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV INTO THE MUSIC</title>
+  </programme>
+  <programme start="20230412110300 +0100" stop="20230412134800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Non Stop Hits</title>
+  </programme>
+  <programme start="20230412134800 +0100" stop="20230412140900 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Just Tattoo of Us USA</title>
+  </programme>
+  <programme start="20230412140900 +0100" stop="20230412143100 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Just Tattoo of Us USA</title>
+  </programme>
+  <programme start="20230412143100 +0100" stop="20230412145300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Just Tattoo of Us USA</title>
+  </programme>
+  <programme start="20230412145300 +0100" stop="20230412151300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Just Tattoo of Us USA</title>
+  </programme>
+  <programme start="20230412151300 +0100" stop="20230412155800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Celeb Ex In The City</title>
+  </programme>
+  <programme start="20230412155800 +0100" stop="20230412164200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Celeb Ex In The City</title>
+  </programme>
+  <programme start="20230412164200 +0100" stop="20230412170400 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230412170400 +0100" stop="20230412172600 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230412172600 +0100" stop="20230412174800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230412174800 +0100" stop="20230412175300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Fresh Out Live</title>
+  </programme>
+  <programme start="20230412175300 +0100" stop="20230412183700 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230412183700 +0100" stop="20230412191800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230412191800 +0100" stop="20230412195800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230412195800 +0100" stop="20230412204300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230412204300 +0100" stop="20230412210600 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230412210600 +0100" stop="20230412213200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230412213200 +0100" stop="20230412215700 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230412215700 +0100" stop="20230412225700 +0100" channel="MTV Portugal HD">
+    <title lang="pt">The Challenge: Ride or Dies</title>
+  </programme>
+  <programme start="20230412225700 +0100" stop="20230412234100 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Jersey Shore Family Vacation</title>
+  </programme>
+  <programme start="20230412234100 +0100" stop="20230412234600 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Fresh Out Live</title>
+  </programme>
+  <programme start="20230412234600 +0100" stop="20230413000900 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230413000900 +0100" stop="20230413003100 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230413003100 +0100" stop="20230413005100 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230413005100 +0100" stop="20230413013500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Floribama Shore</title>
+  </programme>
+  <programme start="20230413013500 +0100" stop="20230413021800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Floribama Shore</title>
+  </programme>
+  <programme start="20230413021800 +0100" stop="20230413024100 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230413024100 +0100" stop="20230413030200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230413030200 +0100" stop="20230413060000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Night Videos</title>
+  </programme>
+  <programme start="20230413060000 +0100" stop="20230413070000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Wake Up</title>
+  </programme>
+  <programme start="20230413070000 +0100" stop="20230413090000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV Breakfast Club</title>
+  </programme>
+  <programme start="20230413090000 +0100" stop="20230413110000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV INTO THE MUSIC</title>
+  </programme>
+  <programme start="20230413110000 +0100" stop="20230413134000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Non Stop Hits</title>
+  </programme>
+  <programme start="20230413134000 +0100" stop="20230413140300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Just Tattoo of Us: USA</title>
+  </programme>
+  <programme start="20230413140300 +0100" stop="20230413142500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Just Tattoo of Us: USA</title>
+  </programme>
+  <programme start="20230413142500 +0100" stop="20230413144800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Just Tattoo of Us: USA</title>
+  </programme>
+  <programme start="20230413144800 +0100" stop="20230413151000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Just Tattoo of Us: USA</title>
+  </programme>
+  <programme start="20230413151000 +0100" stop="20230413155500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Celeb Ex In The City</title>
+  </programme>
+  <programme start="20230413155500 +0100" stop="20230413164200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Celeb Ex In The City</title>
+  </programme>
+  <programme start="20230413164200 +0100" stop="20230413170600 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230413170600 +0100" stop="20230413173000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230413173000 +0100" stop="20230413175500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230413175500 +0100" stop="20230413183800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230413183800 +0100" stop="20230413192000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230413192000 +0100" stop="20230413200000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230413200000 +0100" stop="20230413211000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230413211000 +0100" stop="20230413213500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230413213500 +0100" stop="20230413224500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230413224500 +0100" stop="20230413230700 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230413230700 +0100" stop="20230413233000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230413233000 +0100" stop="20230413235500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230413235500 +0100" stop="20230414001800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230414001800 +0100" stop="20230414004000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230414004000 +0100" stop="20230414010400 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230414010400 +0100" stop="20230414014800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Floribama Shore</title>
+  </programme>
+  <programme start="20230414014800 +0100" stop="20230414023500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Floribama Shore</title>
+  </programme>
+  <programme start="20230414023500 +0100" stop="20230414025700 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230414025700 +0100" stop="20230414032000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230414032000 +0100" stop="20230414060000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Night Videos</title>
+  </programme>
+  <programme start="20230414060000 +0100" stop="20230414070000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Wake Up</title>
+  </programme>
+  <programme start="20230414070000 +0100" stop="20230414090000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV Breakfast Club</title>
+  </programme>
+  <programme start="20230414090000 +0100" stop="20230414110000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV INTO THE MUSIC</title>
+  </programme>
+  <programme start="20230414110000 +0100" stop="20230414134000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Non Stop Hits</title>
+  </programme>
+  <programme start="20230414134000 +0100" stop="20230414140300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Just Tattoo of Us: USA</title>
+  </programme>
+  <programme start="20230414140300 +0100" stop="20230414142500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Just Tattoo of Us: USA</title>
+  </programme>
+  <programme start="20230414142500 +0100" stop="20230414151000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Just Tattoo Of Us</title>
+  </programme>
+  <programme start="20230414151000 +0100" stop="20230414155500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Celeb Ex In The City</title>
+  </programme>
+  <programme start="20230414155500 +0100" stop="20230414164200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Celeb Ex In The City</title>
+  </programme>
+  <programme start="20230414164200 +0100" stop="20230414170600 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230414170600 +0100" stop="20230414173100 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230414173100 +0100" stop="20230414175500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230414175500 +0100" stop="20230414183800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230414183800 +0100" stop="20230414192000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230414192000 +0100" stop="20230414200000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230414200000 +0100" stop="20230414211000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230414211000 +0100" stop="20230414213500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230414213500 +0100" stop="20230414224500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230414224500 +0100" stop="20230414235000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">The Challenge: Ride or Dies</title>
+  </programme>
+  <programme start="20230414235000 +0100" stop="20230414235500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Fresh Out Live</title>
+  </programme>
+  <programme start="20230414235500 +0100" stop="20230415001800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230415001800 +0100" stop="20230415004000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230415004000 +0100" stop="20230415010400 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230415010400 +0100" stop="20230415014800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Floribama Shore</title>
+  </programme>
+  <programme start="20230415014800 +0100" stop="20230415023500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Floribama Shore</title>
+  </programme>
+  <programme start="20230415023500 +0100" stop="20230415032000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Word Stage</title>
+  </programme>
+  <programme start="20230415032000 +0100" stop="20230415060000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Night Videos</title>
+  </programme>
+  <programme start="20230415060000 +0100" stop="20230415070000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV Insomnia</title>
+  </programme>
+  <programme start="20230415070000 +0100" stop="20230415090000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Wake Up</title>
+  </programme>
+  <programme start="20230415090000 +0100" stop="20230415110000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV INTO THE MUSIC</title>
+  </programme>
+  <programme start="20230415110000 +0100" stop="20230415135500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV Hits</title>
+  </programme>
+  <programme start="20230415135500 +0100" stop="20230415141800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Deliciousness</title>
+  </programme>
+  <programme start="20230415141800 +0100" stop="20230415150000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230415150000 +0100" stop="20230415154000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230415154000 +0100" stop="20230415162000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230415162000 +0100" stop="20230415170000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230415170000 +0100" stop="20230415174500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230415174500 +0100" stop="20230415181000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230415181000 +0100" stop="20230415183300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230415183300 +0100" stop="20230415185500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230415185500 +0100" stop="20230415191800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230415191800 +0100" stop="20230415194100 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230415194100 +0100" stop="20230415200500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230415200500 +0100" stop="20230415231000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Siesta Key: Miami Moves</title>
+  </programme>
+  <programme start="20230415231000 +0100" stop="20230415233200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230415233200 +0100" stop="20230415235500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230415235500 +0100" stop="20230416001800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230416001800 +0100" stop="20230416004000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230416004000 +0100" stop="20230416010300 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230416010300 +0100" stop="20230416014800 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Floribama Shore</title>
+  </programme>
+  <programme start="20230416014800 +0100" stop="20230416023500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Floribama Shore</title>
+  </programme>
+  <programme start="20230416023500 +0100" stop="20230416025600 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230416025600 +0100" stop="20230416032000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20230416032000 +0100" stop="20230416060000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Night Videos</title>
+  </programme>
+  <programme start="20230416060000 +0100" stop="20230416070000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV Insomnia</title>
+  </programme>
+  <programme start="20230416070000 +0100" stop="20230416090000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Wake Up</title>
+  </programme>
+  <programme start="20230416090000 +0100" stop="20230416110000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV INTO THE MUSIC</title>
+  </programme>
+  <programme start="20230416110000 +0100" stop="20230416134000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">MTV Hits</title>
+  </programme>
+  <programme start="20230416134000 +0100" stop="20230416142200 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230416142200 +0100" stop="20230416150500 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230416150500 +0100" stop="20230416154700 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230416154700 +0100" stop="20230416163000 +0100" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20230410050000 +0100" stop="20230410080000 +0100" channel="MCM POP">
+    <title lang="pt">Pop Tonic 'Morning'</title>
+  </programme>
+  <programme start="20230410080000 +0100" stop="20230410100000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20230410100000 +0100" stop="20230410103000 +0100" channel="MCM POP">
+    <title lang="pt">Hit RFM</title>
+  </programme>
+  <programme start="20230410103000 +0100" stop="20230410110000 +0100" channel="MCM POP">
+    <title lang="pt">Pop 80'</title>
+  </programme>
+  <programme start="20230410110000 +0100" stop="20230410200000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20230410200000 +0100" stop="20230410203000 +0100" channel="MCM POP">
+    <title lang="pt">Hit RFM</title>
+  </programme>
+  <programme start="20230410203000 +0100" stop="20230410230000 +0100" channel="MCM POP">
+    <title lang="pt">Pop Rock</title>
+  </programme>
+  <programme start="20230410230000 +0100" stop="20230411050000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20230411050000 +0100" stop="20230411080000 +0100" channel="MCM POP">
+    <title lang="pt">Pop Tonic 'Morning'</title>
+  </programme>
+  <programme start="20230411080000 +0100" stop="20230411100000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20230411100000 +0100" stop="20230411103000 +0100" channel="MCM POP">
+    <title lang="pt">Hit RFM</title>
+  </programme>
+  <programme start="20230411103000 +0100" stop="20230411110000 +0100" channel="MCM POP">
+    <title lang="pt">Pop 80'</title>
+  </programme>
+  <programme start="20230411110000 +0100" stop="20230411200000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20230411200000 +0100" stop="20230411203000 +0100" channel="MCM POP">
+    <title lang="pt">Hit RFM</title>
+  </programme>
+  <programme start="20230411203000 +0100" stop="20230411230000 +0100" channel="MCM POP">
+    <title lang="pt">Pop Rock</title>
+  </programme>
+  <programme start="20230411230000 +0100" stop="20230412050000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20230412050000 +0100" stop="20230412080000 +0100" channel="MCM POP">
+    <title lang="pt">Pop Tonic 'Morning'</title>
+  </programme>
+  <programme start="20230412080000 +0100" stop="20230412100000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20230412100000 +0100" stop="20230412120000 +0100" channel="MCM POP">
+    <title lang="pt">Hit RFM</title>
+  </programme>
+  <programme start="20230412120000 +0100" stop="20230412200000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20230412200000 +0100" stop="20230412203000 +0100" channel="MCM POP">
+    <title lang="pt">Pop Culte</title>
+  </programme>
+  <programme start="20230412203000 +0100" stop="20230412230000 +0100" channel="MCM POP">
+    <title lang="pt">Disco Pop</title>
+  </programme>
+  <programme start="20230412230000 +0100" stop="20230413050000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20230413050000 +0100" stop="20230413080000 +0100" channel="MCM POP">
+    <title lang="pt">Pop Tonic 'Morning'</title>
+  </programme>
+  <programme start="20230413080000 +0100" stop="20230413100000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20230413100000 +0100" stop="20230413110000 +0100" channel="MCM POP">
+    <title lang="pt">Pop Legend</title>
+  </programme>
+  <programme start="20230413110000 +0100" stop="20230413200000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20230413200000 +0100" stop="20230413203000 +0100" channel="MCM POP">
+    <title lang="pt">Pop Culte</title>
+  </programme>
+  <programme start="20230413203000 +0100" stop="20230413223000 +0100" channel="MCM POP">
+    <title lang="pt">Hit RFM</title>
+  </programme>
+  <programme start="20230413223000 +0100" stop="20230414050000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20230414050000 +0100" stop="20230414080000 +0100" channel="MCM POP">
+    <title lang="pt">Pop Tonic 'Morning'</title>
+  </programme>
+  <programme start="20230414080000 +0100" stop="20230414100000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20230414100000 +0100" stop="20230414103000 +0100" channel="MCM POP">
+    <title lang="pt">Hit RFM</title>
+  </programme>
+  <programme start="20230414103000 +0100" stop="20230414110000 +0100" channel="MCM POP">
+    <title lang="pt">Pop 80'</title>
+  </programme>
+  <programme start="20230414110000 +0100" stop="20230414200000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20230414200000 +0100" stop="20230414203000 +0100" channel="MCM POP">
+    <title lang="pt">Hit RFM</title>
+  </programme>
+  <programme start="20230414203000 +0100" stop="20230414230000 +0100" channel="MCM POP">
+    <title lang="pt">Pop Rock</title>
+  </programme>
+  <programme start="20230414230000 +0100" stop="20230415050000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20230415050000 +0100" stop="20230415080000 +0100" channel="MCM POP">
+    <title lang="pt">Pop Tonic 'Morning'</title>
+  </programme>
+  <programme start="20230415080000 +0100" stop="20230415100000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20230415100000 +0100" stop="20230415103000 +0100" channel="MCM POP">
+    <title lang="pt">Hit RFM</title>
+  </programme>
+  <programme start="20230415103000 +0100" stop="20230415110000 +0100" channel="MCM POP">
+    <title lang="pt">Pop 80'</title>
+  </programme>
+  <programme start="20230415110000 +0100" stop="20230415200000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20230415200000 +0100" stop="20230415203000 +0100" channel="MCM POP">
+    <title lang="pt">Hit RFM</title>
+  </programme>
+  <programme start="20230415203000 +0100" stop="20230415230000 +0100" channel="MCM POP">
+    <title lang="pt">Pop Rock</title>
+  </programme>
+  <programme start="20230415230000 +0100" stop="20230416050000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20230416050000 +0100" stop="20230416080000 +0100" channel="MCM POP">
+    <title lang="pt">Pop Tonic 'Morning'</title>
+  </programme>
+  <programme start="20230416080000 +0100" stop="20230416100000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20230416100000 +0100" stop="20230416103000 +0100" channel="MCM POP">
+    <title lang="pt">Hit RFM</title>
+  </programme>
+  <programme start="20230416103000 +0100" stop="20230416110000 +0100" channel="MCM POP">
+    <title lang="pt">Pop 80'</title>
+  </programme>
+  <programme start="20230416110000 +0100" stop="20230416200000 +0100" channel="MCM POP">
+    <title lang="pt">Pop List</title>
+  </programme>
+  <programme start="20230410020000 +0100" stop="20230410080000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Urban Vibes</title>
+  </programme>
+  <programme start="20230410080000 +0100" stop="20230410080400 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230410080400 +0100" stop="20230410140400 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230410140400 +0100" stop="20230410141500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230410141500 +0100" stop="20230410150000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hit 10</title>
+  </programme>
+  <programme start="20230410150000 +0100" stop="20230410160000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits &amp; Lyrics</title>
+  </programme>
+  <programme start="20230410160000 +0100" stop="20230410164500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Top 10 Hip Hop</title>
+  </programme>
+  <programme start="20230410164500 +0100" stop="20230410170000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230410170000 +0100" stop="20230410180000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230410180000 +0100" stop="20230410190000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Stream It</title>
+  </programme>
+  <programme start="20230410190000 +0100" stop="20230410200000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">New</title>
+  </programme>
+  <programme start="20230410200000 +0100" stop="20230411020000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Sounds Of Trace</title>
+  </programme>
+  <programme start="20230411020000 +0100" stop="20230411080000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Urban Vibes</title>
+  </programme>
+  <programme start="20230411080000 +0100" stop="20230411080400 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230411080400 +0100" stop="20230411140400 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230411140400 +0100" stop="20230411141500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230411141500 +0100" stop="20230411150000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hit 10</title>
+  </programme>
+  <programme start="20230411150000 +0100" stop="20230411160000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits &amp; Lyrics</title>
+  </programme>
+  <programme start="20230411160000 +0100" stop="20230411164500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Top 10 Caliente</title>
+  </programme>
+  <programme start="20230411164500 +0100" stop="20230411170000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230411170000 +0100" stop="20230411180000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230411180000 +0100" stop="20230411190000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Stream It</title>
+  </programme>
+  <programme start="20230411190000 +0100" stop="20230411200000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">New</title>
+  </programme>
+  <programme start="20230411200000 +0100" stop="20230412020000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Sounds Of Trace</title>
+  </programme>
+  <programme start="20230412020000 +0100" stop="20230412080000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Urban Vibes</title>
+  </programme>
+  <programme start="20230412080000 +0100" stop="20230412080800 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230412080800 +0100" stop="20230412140800 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230412140800 +0100" stop="20230412141500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230412141500 +0100" stop="20230412150000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hit 10</title>
+  </programme>
+  <programme start="20230412150000 +0100" stop="20230412160000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits &amp; Lyrics</title>
+  </programme>
+  <programme start="20230412160000 +0100" stop="20230412164500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Top 10 US</title>
+  </programme>
+  <programme start="20230412164500 +0100" stop="20230412170000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230412170000 +0100" stop="20230412180000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230412180000 +0100" stop="20230412190000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Stream It</title>
+  </programme>
+  <programme start="20230412190000 +0100" stop="20230412200000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">New</title>
+  </programme>
+  <programme start="20230412200000 +0100" stop="20230413020000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Sounds Of Trace</title>
+  </programme>
+  <programme start="20230413020000 +0100" stop="20230413080000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Urban Vibes</title>
+  </programme>
+  <programme start="20230413080000 +0100" stop="20230413080400 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230413080400 +0100" stop="20230413140400 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230413140400 +0100" stop="20230413141500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230413141500 +0100" stop="20230413150000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hit 10</title>
+  </programme>
+  <programme start="20230413150000 +0100" stop="20230413160000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits &amp; Lyrics</title>
+  </programme>
+  <programme start="20230413160000 +0100" stop="20230413164500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Top 10 Pop</title>
+  </programme>
+  <programme start="20230413164500 +0100" stop="20230413170000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230413170000 +0100" stop="20230413180000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230413180000 +0100" stop="20230413190000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Stream It</title>
+  </programme>
+  <programme start="20230413190000 +0100" stop="20230413200000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">New</title>
+  </programme>
+  <programme start="20230413200000 +0100" stop="20230414020000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Sounds Of Trace</title>
+  </programme>
+  <programme start="20230414020000 +0100" stop="20230414080000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Urban Vibes</title>
+  </programme>
+  <programme start="20230414080000 +0100" stop="20230414080800 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230414080800 +0100" stop="20230414140800 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230414140800 +0100" stop="20230414141500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230414141500 +0100" stop="20230414150000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hit 10</title>
+  </programme>
+  <programme start="20230414150000 +0100" stop="20230414160000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits &amp; Lyrics</title>
+  </programme>
+  <programme start="20230414160000 +0100" stop="20230414164500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Top 10 Club</title>
+  </programme>
+  <programme start="20230414164500 +0100" stop="20230414170000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230414170000 +0100" stop="20230414180000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230414180000 +0100" stop="20230414190000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Stream It</title>
+  </programme>
+  <programme start="20230414190000 +0100" stop="20230414200000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">New</title>
+  </programme>
+  <programme start="20230414200000 +0100" stop="20230415020000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Sounds Of Trace</title>
+  </programme>
+  <programme start="20230415020000 +0100" stop="20230415060000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Weekend Vibes</title>
+  </programme>
+  <programme start="20230415060000 +0100" stop="20230415080000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hit 30</title>
+  </programme>
+  <programme start="20230415080000 +0100" stop="20230415085600 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Focus</title>
+  </programme>
+  <programme start="20230415085600 +0100" stop="20230415090000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230415090000 +0100" stop="20230415140000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Weekend Vibes</title>
+  </programme>
+  <programme start="20230415140000 +0100" stop="20230415141500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230415141500 +0100" stop="20230415150000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hit 10</title>
+  </programme>
+  <programme start="20230415150000 +0100" stop="20230415160000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">100% Party</title>
+  </programme>
+  <programme start="20230415160000 +0100" stop="20230415180000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Weekend Vibes</title>
+  </programme>
+  <programme start="20230415180000 +0100" stop="20230415200000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230415200000 +0100" stop="20230416020000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Sounds Of Trace</title>
+  </programme>
+  <programme start="20230416020000 +0100" stop="20230416070000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Weekend Vibes</title>
+  </programme>
+  <programme start="20230416070000 +0100" stop="20230416080000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Rewind</title>
+  </programme>
+  <programme start="20230416080000 +0100" stop="20230416100000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hit 30</title>
+  </programme>
+  <programme start="20230416100000 +0100" stop="20230416140000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Weekend Vibes</title>
+  </programme>
+  <programme start="20230416140000 +0100" stop="20230416141500 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
+  </programme>
+  <programme start="20230416141500 +0100" stop="20230416150000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Hit 10</title>
+  </programme>
+  <programme start="20230416150000 +0100" stop="20230416160000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">100% Ladies</title>
+  </programme>
+  <programme start="20230416160000 +0100" stop="20230416200000 +0100" channel="TRACE URBAN HD">
+    <title lang="pt">Weekend Vibes</title>
+  </programme>
+  <programme start="20230410092400 +0100" stop="20230410095700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230410095700 +0100" stop="20230410102700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230410102700 +0100" stop="20230410110000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230410110000 +0100" stop="20230410115500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230410115500 +0100" stop="20230410123600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230410123600 +0100" stop="20230410131000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20230410131000 +0100" stop="20230410134300 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230410134300 +0100" stop="20230410142600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230410142600 +0100" stop="20230410145800 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230410145800 +0100" stop="20230410153300 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230410153300 +0100" stop="20230410162600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230410162600 +0100" stop="20230410171100 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230410171100 +0100" stop="20230410174500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20230410174500 +0100" stop="20230410182200 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230410182200 +0100" stop="20230410191400 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230410191400 +0100" stop="20230410194200 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230410194200 +0100" stop="20230410201800 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230410201800 +0100" stop="20230410210100 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230410210100 +0100" stop="20230410213700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20230410213700 +0100" stop="20230410222700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230410222700 +0100" stop="20230410223500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230410223500 +0100" stop="20230411092400 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230411092400 +0100" stop="20230411095700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230411095700 +0100" stop="20230411102700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230411102700 +0100" stop="20230411110000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230411110000 +0100" stop="20230411115500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230411115500 +0100" stop="20230411123600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230411123600 +0100" stop="20230411131000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20230411131000 +0100" stop="20230411134300 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230411134300 +0100" stop="20230411142600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230411142600 +0100" stop="20230411145800 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230411145800 +0100" stop="20230411153300 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230411153300 +0100" stop="20230411162600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230411162600 +0100" stop="20230411171100 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230411171100 +0100" stop="20230411174500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20230411174500 +0100" stop="20230411182200 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230411182200 +0100" stop="20230411191400 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230411191400 +0100" stop="20230411194200 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230411194200 +0100" stop="20230411201800 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230411201800 +0100" stop="20230411210100 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230411210100 +0100" stop="20230411213700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20230411213700 +0100" stop="20230411222700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230411222700 +0100" stop="20230411223500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230411223500 +0100" stop="20230412092400 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230412092400 +0100" stop="20230412095700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230412095700 +0100" stop="20230412102700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230412102700 +0100" stop="20230412110000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230412110000 +0100" stop="20230412115500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230412115500 +0100" stop="20230412123600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230412123600 +0100" stop="20230412131000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20230412131000 +0100" stop="20230412134300 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230412134300 +0100" stop="20230412142600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230412142600 +0100" stop="20230412145800 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230412145800 +0100" stop="20230412153300 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230412153300 +0100" stop="20230412162600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230412162600 +0100" stop="20230412171100 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230412171100 +0100" stop="20230412174500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20230412174500 +0100" stop="20230412182200 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230412182200 +0100" stop="20230412191400 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230412191400 +0100" stop="20230412194200 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230412194200 +0100" stop="20230412201800 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230412201800 +0100" stop="20230412210100 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230412210100 +0100" stop="20230412213700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20230412213700 +0100" stop="20230412222700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230412222700 +0100" stop="20230412223500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230412223500 +0100" stop="20230413092400 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230413092400 +0100" stop="20230413095700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230413095700 +0100" stop="20230413102700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230413102700 +0100" stop="20230413110000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230413110000 +0100" stop="20230413115500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230413115500 +0100" stop="20230413123600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230413123600 +0100" stop="20230413131000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20230413131000 +0100" stop="20230413134300 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230413134300 +0100" stop="20230413142600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230413142600 +0100" stop="20230413145800 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230413145800 +0100" stop="20230413153300 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230413153300 +0100" stop="20230413162600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230413162600 +0100" stop="20230413171100 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230413171100 +0100" stop="20230413174500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20230413174500 +0100" stop="20230413182200 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230413182200 +0100" stop="20230413191400 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230413191400 +0100" stop="20230413194200 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230413194200 +0100" stop="20230413201800 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230413201800 +0100" stop="20230413210100 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230413210100 +0100" stop="20230413213700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20230413213700 +0100" stop="20230413222700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230413222700 +0100" stop="20230413223500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230413223500 +0100" stop="20230414092400 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230414092400 +0100" stop="20230414095700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230414095700 +0100" stop="20230414102700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230414102700 +0100" stop="20230414110000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230414110000 +0100" stop="20230414115500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230414115500 +0100" stop="20230414123600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230414123600 +0100" stop="20230414131000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20230414131000 +0100" stop="20230414134300 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230414134300 +0100" stop="20230414142600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230414142600 +0100" stop="20230414145800 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230414145800 +0100" stop="20230414153300 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230414153300 +0100" stop="20230414162600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230414162600 +0100" stop="20230414171100 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230414171100 +0100" stop="20230414174500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20230414174500 +0100" stop="20230414182200 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230414182200 +0100" stop="20230414191400 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230414191400 +0100" stop="20230414194200 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230414194200 +0100" stop="20230414201800 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230414201800 +0100" stop="20230414210100 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230414210100 +0100" stop="20230414213700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20230414213700 +0100" stop="20230414222700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230414222700 +0100" stop="20230414223500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230414223500 +0100" stop="20230415092400 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230415092400 +0100" stop="20230415095700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230415095700 +0100" stop="20230415102700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230415102700 +0100" stop="20230415110000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230415110000 +0100" stop="20230415115500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230415115500 +0100" stop="20230415123600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230415123600 +0100" stop="20230415131000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20230415131000 +0100" stop="20230415134300 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230415134300 +0100" stop="20230415142600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230415142600 +0100" stop="20230415145800 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230415145800 +0100" stop="20230415153300 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230415153300 +0100" stop="20230415162600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230415162600 +0100" stop="20230415171100 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230415171100 +0100" stop="20230415174500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20230415174500 +0100" stop="20230415182200 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230415182200 +0100" stop="20230415191400 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230415191400 +0100" stop="20230415194200 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230415194200 +0100" stop="20230415201800 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230415201800 +0100" stop="20230415210100 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230415210100 +0100" stop="20230415213700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20230415213700 +0100" stop="20230415222700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230415222700 +0100" stop="20230415223500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230415223500 +0100" stop="20230416092400 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230416092400 +0100" stop="20230416095700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230416095700 +0100" stop="20230416102700 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230416102700 +0100" stop="20230416110000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230416110000 +0100" stop="20230416115500 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230416115500 +0100" stop="20230416123600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230416123600 +0100" stop="20230416131000 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20230416131000 +0100" stop="20230416134300 +0100" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230416134300 +0100" stop="20230416142600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230416142600 +0100" stop="20230416145800 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Destaques</title>
+  </programme>
+  <programme start="20230416145800 +0100" stop="20230416153300 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230416153300 +0100" stop="20230416162600 +0100" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230410000000 +0100" stop="20230410010400 +0100" channel="HOT HD">
+    <title lang="pt">Trios A Preto E Branco</title>
+  </programme>
+  <programme start="20230410010400 +0100" stop="20230410021400 +0100" channel="HOT HD">
+    <title lang="pt">Tias Italianas Penetradas Por 2 Caralhos</title>
+  </programme>
+  <programme start="20230410021400 +0100" stop="20230410031900 +0100" channel="HOT HD">
+    <title lang="pt">Pecados De Mãe E Filha</title>
+  </programme>
+  <programme start="20230410031900 +0100" stop="20230410043800 +0100" channel="HOT HD">
+    <title lang="pt">Vale Tudo Na Casa Do Rocco: Parte 2</title>
+  </programme>
+  <programme start="20230410043800 +0100" stop="20230410054700 +0100" channel="HOT HD">
+    <title lang="pt">As Aventuras Do Português Dyego</title>
+  </programme>
+  <programme start="20230410054700 +0100" stop="20230410065800 +0100" channel="HOT HD">
+    <title lang="pt">A Namorada Do Meu Colega</title>
+  </programme>
+  <programme start="20230410065800 +0100" stop="20230410085400 +0100" channel="HOT HD">
+    <title lang="pt">Sexo E As Profissões</title>
+  </programme>
+  <programme start="20230410085400 +0100" stop="20230410093600 +0100" channel="HOT HD">
+    <title lang="pt">Dois É A Conta Que Deus Fez</title>
+  </programme>
+  <programme start="20230410093600 +0100" stop="20230410114900 +0100" channel="HOT HD">
+    <title lang="pt">Um Na Rata, Outro Na Bilha</title>
+  </programme>
+  <programme start="20230410114900 +0100" stop="20230410131400 +0100" channel="HOT HD">
+    <title lang="pt">Ela É Amiga Da Minha Mulher E Vive Dando Em Cima De Mim</title>
+  </programme>
+  <programme start="20230410131400 +0100" stop="20230410152300 +0100" channel="HOT HD">
+    <title lang="pt">Trocas De Fluídos</title>
+  </programme>
+  <programme start="20230410152300 +0100" stop="20230410164200 +0100" channel="HOT HD">
+    <title lang="pt">Meninas Amorosas</title>
+  </programme>
+  <programme start="20230410164200 +0100" stop="20230410173100 +0100" channel="HOT HD">
+    <title lang="pt">A Mamã Vai Com Dois</title>
+  </programme>
+  <programme start="20230410173100 +0100" stop="20230410205800 +0100" channel="HOT HD">
+    <title lang="pt">Troca De Presentes</title>
+  </programme>
+  <programme start="20230410205800 +0100" stop="20230410220800 +0100" channel="HOT HD">
+    <title lang="pt">1ª Aventura A Três</title>
+  </programme>
+  <programme start="20230410220800 +0100" stop="20230411000000 +0100" channel="HOT HD">
+    <title lang="pt">Traição Com Traição Se Paga</title>
+  </programme>
+  <programme start="20230411000000 +0100" stop="20230411013300 +0100" channel="HOT HD">
+    <title lang="pt">Sonhos De Mulheres Casadas</title>
+  </programme>
+  <programme start="20230411013300 +0100" stop="20230411031300 +0100" channel="HOT HD">
+    <title lang="pt">Rocco, Sexo Em Grupo Com Mães E Pitas: Parte 2</title>
+  </programme>
+  <programme start="20230411031300 +0100" stop="20230411043400 +0100" channel="HOT HD">
+    <title lang="pt">A Minha Filha Pela Tua</title>
+  </programme>
+  <programme start="20230411043400 +0100" stop="20230411071900 +0100" channel="HOT HD">
+    <title lang="pt">Um Vagabundo Na Alta Foda</title>
+  </programme>
+  <programme start="20230411071900 +0100" stop="20230411082500 +0100" channel="HOT HD">
+    <title lang="pt">Mães À Caça</title>
+  </programme>
+  <programme start="20230411082500 +0100" stop="20230411095600 +0100" channel="HOT HD">
+    <title lang="pt">Rainhas Do Kizomba</title>
+  </programme>
+  <programme start="20230411095600 +0100" stop="20230411105500 +0100" channel="HOT HD">
+    <title lang="pt">Yoga Diferente</title>
+  </programme>
+  <programme start="20230411105500 +0100" stop="20230411131400 +0100" channel="HOT HD">
+    <title lang="pt">Sexo Descomplicado</title>
+  </programme>
+  <programme start="20230411131400 +0100" stop="20230411142100 +0100" channel="HOT HD">
+    <title lang="pt">Miminhos Da Mamã</title>
+  </programme>
+  <programme start="20230411142100 +0100" stop="20230411162100 +0100" channel="HOT HD">
+    <title lang="pt">Sexo De Alta Costura</title>
+  </programme>
+  <programme start="20230411162100 +0100" stop="20230411172200 +0100" channel="HOT HD">
+    <title lang="pt">A Mamã Sabe Cuidar De Si</title>
+  </programme>
+  <programme start="20230411172200 +0100" stop="20230411191300 +0100" channel="HOT HD">
+    <title lang="pt">Sexo Amador Com Saloias</title>
+  </programme>
+  <programme start="20230411191300 +0100" stop="20230411205800 +0100" channel="HOT HD">
+    <title lang="pt">Rocco, Trios Depravados: Parte 1</title>
+  </programme>
+  <programme start="20230411205800 +0100" stop="20230411220000 +0100" channel="HOT HD">
+    <title lang="pt">Comi A Filha Do Vizinho</title>
+  </programme>
+  <programme start="20230411220000 +0100" stop="20230412000000 +0100" channel="HOT HD">
+    <title lang="pt">Rocco, Tias Vs Sobrinhas: Parte 1</title>
+  </programme>
+  <programme start="20230412000000 +0100" stop="20230412015100 +0100" channel="HOT HD">
+    <title lang="pt">Serviço De Estrangeiras E Fodas</title>
+  </programme>
+  <programme start="20230412015100 +0100" stop="20230412032200 +0100" channel="HOT HD">
+    <title lang="pt">Putas Novas Na Casa Do Rocco: Parte 2</title>
+  </programme>
+  <programme start="20230412032200 +0100" stop="20230412041100 +0100" channel="HOT HD">
+    <title lang="pt">Um Sonho De Miúda</title>
+  </programme>
+  <programme start="20230412041100 +0100" stop="20230412053500 +0100" channel="HOT HD">
+    <title lang="pt">Rocco, Trios Depravados: Parte 2</title>
+  </programme>
+  <programme start="20230412053500 +0100" stop="20230412072500 +0100" channel="HOT HD">
+    <title lang="pt">Porcas Depois Dos 40</title>
+  </programme>
+  <programme start="20230412072500 +0100" stop="20230412083600 +0100" channel="HOT HD">
+    <title lang="pt">Simplesmente Angela</title>
+  </programme>
+  <programme start="20230412083600 +0100" stop="20230412100800 +0100" channel="HOT HD">
+    <title lang="pt">Por Favor, Deixa-Me Ver Enquanto Comes A Minha Mulher</title>
+  </programme>
+  <programme start="20230412100800 +0100" stop="20230412110300 +0100" channel="HOT HD">
+    <title lang="pt">Ninguém Ama Como As Mulheres</title>
+  </programme>
+  <programme start="20230412110300 +0100" stop="20230412125700 +0100" channel="HOT HD">
+    <title lang="pt">Podes Foder A Minha Mulher Que Eu Deixo</title>
+  </programme>
+  <programme start="20230412125700 +0100" stop="20230412141400 +0100" channel="HOT HD">
+    <title lang="pt">O Doutor Negro</title>
+  </programme>
+  <programme start="20230412141400 +0100" stop="20230412145800 +0100" channel="HOT HD">
+    <title lang="pt">Arquitecto De Obras Feitas</title>
+  </programme>
+  <programme start="20230412145800 +0100" stop="20230412175000 +0100" channel="HOT HD">
+    <title lang="pt">Orgias Nas Residências Universitárias</title>
+  </programme>
+  <programme start="20230412175000 +0100" stop="20230412194900 +0100" channel="HOT HD">
+    <title lang="pt">Os Opostos Atraem-Se</title>
+  </programme>
+  <programme start="20230412194900 +0100" stop="20230412204500 +0100" channel="HOT HD">
+    <title lang="pt">A Empregada De Limpeza</title>
+  </programme>
+  <programme start="20230412204500 +0100" stop="20230412220500 +0100" channel="HOT HD">
+    <title lang="pt">Operação Rabos Negros Amadores</title>
+  </programme>
+  <programme start="20230412220500 +0100" stop="20230412231800 +0100" channel="HOT HD">
+    <title lang="pt">O Toucinho Italiano É Uma Maravilha!</title>
+  </programme>
+  <programme start="20230412231800 +0100" stop="20230413000000 +0100" channel="HOT HD">
+    <title lang="pt">As Minhas Amigas Trans</title>
+  </programme>
+  <programme start="20230413000000 +0100" stop="20230413011300 +0100" channel="HOT HD">
+    <title lang="pt">Triângulos De Paixão</title>
+  </programme>
+  <programme start="20230413011300 +0100" stop="20230413034800 +0100" channel="HOT HD">
+    <title lang="pt">Rocco Renova O Harém</title>
+  </programme>
+  <programme start="20230413034800 +0100" stop="20230413060400 +0100" channel="HOT HD">
+    <title lang="pt">Para O Cu É Que É O Caminho!</title>
+  </programme>
+  <programme start="20230413060400 +0100" stop="20230413071800 +0100" channel="HOT HD">
+    <title lang="pt">Réveillon</title>
+  </programme>
+  <programme start="20230413071800 +0100" stop="20230413093400 +0100" channel="HOT HD">
+    <title lang="pt">Pagar Para Foder</title>
+  </programme>
+  <programme start="20230413093400 +0100" stop="20230413103400 +0100" channel="HOT HD">
+    <title lang="pt">Cus Com Sabor A Vodka</title>
+  </programme>
+  <programme start="20230413103400 +0100" stop="20230413113900 +0100" channel="HOT HD">
+    <title lang="pt">O Preto Comeu Uma Francesinha</title>
+  </programme>
+  <programme start="20230413113900 +0100" stop="20230413133900 +0100" channel="HOT HD">
+    <title lang="pt">Orgias Amadoras Com Donas De Casa Da Toscânia</title>
+  </programme>
+  <programme start="20230413133900 +0100" stop="20230413143900 +0100" channel="HOT HD">
+    <title lang="pt">Natal É Quando A Mulher Quiser</title>
+  </programme>
+  <programme start="20230413143900 +0100" stop="20230413155800 +0100" channel="HOT HD">
+    <title lang="pt">Amigas Na Dor E No Prazer</title>
+  </programme>
+  <programme start="20230413155800 +0100" stop="20230413181600 +0100" channel="HOT HD">
+    <title lang="pt">Pablo, O Enrabador Em Série</title>
+  </programme>
+  <programme start="20230413181600 +0100" stop="20230413204000 +0100" channel="HOT HD">
+    <title lang="pt">Os Amigos São Para Filmar As Ocasiões</title>
+  </programme>
+  <programme start="20230413204000 +0100" stop="20230413214600 +0100" channel="HOT HD">
+    <title lang="pt">As Enfermeiras</title>
+  </programme>
+  <programme start="20230413214600 +0100" stop="20230414000000 +0100" channel="HOT HD">
+    <title lang="pt">Orgias No Super Bowl</title>
+  </programme>
+  <programme start="20230414000000 +0100" stop="20230414010200 +0100" channel="HOT HD">
+    <title lang="pt">A Minha Cota Papou Um Puto</title>
+  </programme>
+  <programme start="20230414010200 +0100" stop="20230414030600 +0100" channel="HOT HD">
+    <title lang="pt">Pau No Cu</title>
+  </programme>
+  <programme start="20230414030600 +0100" stop="20230414041600 +0100" channel="HOT HD">
+    <title lang="pt">Rocco, Tias Vs Sobrinhas: Parte 2</title>
+  </programme>
+  <programme start="20230414041600 +0100" stop="20230414051900 +0100" channel="HOT HD">
+    <title lang="pt">Aberta A Tudo</title>
+  </programme>
+  <programme start="20230414051900 +0100" stop="20230414065400 +0100" channel="HOT HD">
+    <title lang="pt">Para Pequenas Latinas, Um Grande Pau</title>
+  </programme>
+  <programme start="20230414065400 +0100" stop="20230414080900 +0100" channel="HOT HD">
+    <title lang="pt">Rocco, Sexo Em Grupo Com Mães E Pitas: Parte 1</title>
+  </programme>
+  <programme start="20230414080900 +0100" stop="20230414100800 +0100" channel="HOT HD">
+    <title lang="pt">Prazer Do Além</title>
+  </programme>
+  <programme start="20230414100800 +0100" stop="20230414111400 +0100" channel="HOT HD">
+    <title lang="pt">Amor A 3</title>
+  </programme>
+  <programme start="20230414111400 +0100" stop="20230414132500 +0100" channel="HOT HD">
+    <title lang="pt">Praxes Sexuais Das Meninas Do Colégio</title>
+  </programme>
+  <programme start="20230414132500 +0100" stop="20230414142800 +0100" channel="HOT HD">
+    <title lang="pt">Anal Forte Com A Portuguesa Ãngela</title>
+  </programme>
+  <programme start="20230414142800 +0100" stop="20230414162100 +0100" channel="HOT HD">
+    <title lang="pt">Porno Em Movimento</title>
+  </programme>
+  <programme start="20230414162100 +0100" stop="20230414170900 +0100" channel="HOT HD">
+    <title lang="pt">Quarentonas Doidas Por Dois Paus</title>
+  </programme>
+  <programme start="20230414170900 +0100" stop="20230414180300 +0100" channel="HOT HD">
+    <title lang="pt">Sem Trancas Na Porta Dos Fundos</title>
+  </programme>
+  <programme start="20230414180300 +0100" stop="20230414185100 +0100" channel="HOT HD">
+    <title lang="pt">A Filha Do Meu Amigo</title>
+  </programme>
+  <programme start="20230414185100 +0100" stop="20230414200000 +0100" channel="HOT HD">
+    <title lang="pt">O Amigo Do Papá Dá-Me Explicações</title>
+  </programme>
+  <programme start="20230414200000 +0100" stop="20230414211200 +0100" channel="HOT HD">
+    <title lang="pt">Que Grandes Mulheres!</title>
+  </programme>
+  <programme start="20230414211200 +0100" stop="20230414231100 +0100" channel="HOT HD">
+    <title lang="pt">Primeira Vez Anal De Márcia Imperador</title>
+  </programme>
+  <programme start="20230414231100 +0100" stop="20230415000000 +0100" channel="HOT HD">
+    <title lang="pt">Encontros De Verão</title>
+  </programme>
+  <programme start="20230415000000 +0100" stop="20230415004100 +0100" channel="HOT HD">
+    <title lang="pt">Gang Bang Para O Only Fans</title>
+  </programme>
+  <programme start="20230415004100 +0100" stop="20230415025600 +0100" channel="HOT HD">
+    <title lang="pt">Quanto Mais Me Enrabas, Quanto Mais Gosto De Ti</title>
+  </programme>
+  <programme start="20230415025600 +0100" stop="20230415044500 +0100" channel="HOT HD">
+    <title lang="pt">O Sonho Americano: Parte 2</title>
+  </programme>
+  <programme start="20230415044500 +0100" stop="20230415052600 +0100" channel="HOT HD">
+    <title lang="pt">Cus Com 50 Anos</title>
+  </programme>
+  <programme start="20230415052600 +0100" stop="20230415061100 +0100" channel="HOT HD">
+    <title lang="pt">Mães De 40 Anos</title>
+  </programme>
+  <programme start="20230415061100 +0100" stop="20230415082600 +0100" channel="HOT HD">
+    <title lang="pt">Provei O Doce Da Minha Irmã</title>
+  </programme>
+  <programme start="20230415082600 +0100" stop="20230415095700 +0100" channel="HOT HD">
+    <title lang="pt">As Loucuras De Tanya Tate</title>
+  </programme>
+  <programme start="20230415095700 +0100" stop="20230415112100 +0100" channel="HOT HD">
+    <title lang="pt">Mulher Partilhada Vida Abençoada</title>
+  </programme>
+  <programme start="20230415112100 +0100" stop="20230415130100 +0100" channel="HOT HD">
+    <title lang="pt">A Menina Dos Olhos Do Professor</title>
+  </programme>
+  <programme start="20230415130100 +0100" stop="20230415135100 +0100" channel="HOT HD">
+    <title lang="pt">Desejos Kinky</title>
+  </programme>
+  <programme start="20230415135100 +0100" stop="20230415155900 +0100" channel="HOT HD">
+    <title lang="pt">Poderosas</title>
+  </programme>
+  <programme start="20230415155900 +0100" stop="20230415170200 +0100" channel="HOT HD">
+    <title lang="pt">Professor Que Ponteiro Tão Grande!</title>
+  </programme>
+  <programme start="20230415170200 +0100" stop="20230415175200 +0100" channel="HOT HD">
+    <title lang="pt">Jasmine A Portuguesa Quer Paz E Amor</title>
+  </programme>
+  <programme start="20230415175200 +0100" stop="20230415185300 +0100" channel="HOT HD">
+    <title lang="pt">Swing Com A Madrasta</title>
+  </programme>
+  <programme start="20230415185300 +0100" stop="20230415195400 +0100" channel="HOT HD">
+    <title lang="pt">Mulher Rica Procura Amante</title>
+  </programme>
+  <programme start="20230415195400 +0100" stop="20230415215100 +0100" channel="HOT HD">
+    <title lang="pt">Recém Divorciadas E Prontas Para Foder</title>
+  </programme>
+  <programme start="20230415215100 +0100" stop="20230415232000 +0100" channel="HOT HD">
+    <title lang="pt">O Sonho Americano: Parte 1</title>
+  </programme>
+  <programme start="20230415232000 +0100" stop="20230416000000 +0100" channel="HOT HD">
+    <title lang="pt">Sextas-Feiras Kinky Episódio 3</title>
+  </programme>
+  <programme start="20230416000000 +0100" stop="20230416012000 +0100" channel="HOT HD">
+    <title lang="pt">A Dentista</title>
+  </programme>
+  <programme start="20230416012000 +0100" stop="20230416030400 +0100" channel="HOT HD">
+    <title lang="pt">Mamalhudas Europeias</title>
+  </programme>
+  <programme start="20230416030400 +0100" stop="20230416035800 +0100" channel="HOT HD">
+    <title lang="pt">5 Doidas À Solta</title>
+  </programme>
+  <programme start="20230416035800 +0100" stop="20230416050900 +0100" channel="HOT HD">
+    <title lang="pt">Violadas Por 2 No Armazém Abandonado: Parte 1</title>
+  </programme>
+  <programme start="20230416050900 +0100" stop="20230416063000 +0100" channel="HOT HD">
+    <title lang="pt">Orgasmos Múltiplos</title>
+  </programme>
+  <programme start="20230416063000 +0100" stop="20230416065600 +0100" channel="HOT HD">
+    <title lang="pt">Sylvie Castro, A Milf Tuga Visita Barcelona</title>
+  </programme>
+  <programme start="20230416065600 +0100" stop="20230416080000 +0100" channel="HOT HD">
+    <title lang="pt">Ratas Sumarentas</title>
+  </programme>
+  <programme start="20230416080000 +0100" stop="20230416094600 +0100" channel="HOT HD">
+    <title lang="pt">Comi A Minha Irmã Mais Velha</title>
+  </programme>
+  <programme start="20230416094600 +0100" stop="20230416104100 +0100" channel="HOT HD">
+    <title lang="pt">Terapia De Choque Para Casais</title>
+  </programme>
+  <programme start="20230416104100 +0100" stop="20230416124900 +0100" channel="HOT HD">
+    <title lang="pt">O Meu Pau De Laranja Lima</title>
+  </programme>
+  <programme start="20230416124900 +0100" stop="20230416140900 +0100" channel="HOT HD">
+    <title lang="pt">Mães Ciumentas</title>
+  </programme>
+  <programme start="20230416140900 +0100" stop="20230416161000 +0100" channel="HOT HD">
+    <title lang="pt">Festa Com 4 Cinquentonas E 1 Jovem</title>
+  </programme>
+  <programme start="20230416161000 +0100" stop="20230416180700 +0100" channel="HOT HD">
+    <title lang="pt">Turismo Anal Em Portugal</title>
+  </programme>
+  <programme start="20230410002000 +0100" stop="20230410014800 +0100" channel="VENUS">
+    <title lang="pt">Indecência Na Natureza</title>
+  </programme>
+  <programme start="20230410014800 +0100" stop="20230410022000 +0100" channel="VENUS">
+    <title lang="pt">Conheça Christy Love</title>
+  </programme>
+  <programme start="20230410022000 +0100" stop="20230410034700 +0100" channel="VENUS">
+    <title lang="pt">Lésbicas On Fire</title>
+  </programme>
+  <programme start="20230410034700 +0100" stop="20230410051100 +0100" channel="VENUS">
+    <title lang="pt">Pegando No Pau</title>
+  </programme>
+  <programme start="20230410051100 +0100" stop="20230410053900 +0100" channel="VENUS">
+    <title lang="pt">Melissa Lynn E Seus Peitões</title>
+  </programme>
+  <programme start="20230410053900 +0100" stop="20230410070300 +0100" channel="VENUS">
+    <title lang="pt">Milfs Libidinosas</title>
+  </programme>
+  <programme start="20230410070300 +0100" stop="20230410073400 +0100" channel="VENUS">
+    <title lang="pt">Banho De Leite O Melhor Final</title>
+  </programme>
+  <programme start="20230410073400 +0100" stop="20230410090000 +0100" channel="VENUS">
+    <title lang="pt">Diversão Lésbica</title>
+  </programme>
+  <programme start="20230410090000 +0100" stop="20230410102400 +0100" channel="VENUS">
+    <title lang="pt">Especial: Strippers XXX</title>
+  </programme>
+  <programme start="20230410102400 +0100" stop="20230410104600 +0100" channel="VENUS">
+    <title lang="pt">A Secretária Aguenta Tudo</title>
+  </programme>
+  <programme start="20230410104600 +0100" stop="20230410121400 +0100" channel="VENUS">
+    <title lang="pt">Casting De Latinas XXX</title>
+  </programme>
+  <programme start="20230410121400 +0100" stop="20230410123700 +0100" channel="VENUS">
+    <title lang="pt">Bunny Colby Beldade Jovem</title>
+  </programme>
+  <programme start="20230410123700 +0100" stop="20230410140100 +0100" channel="VENUS">
+    <title lang="pt">10 Gostosas Travessas</title>
+  </programme>
+  <programme start="20230410140100 +0100" stop="20230410143400 +0100" channel="VENUS">
+    <title lang="pt">Banho De Leite O Melhor Final</title>
+  </programme>
+  <programme start="20230410143400 +0100" stop="20230410155800 +0100" channel="VENUS">
+    <title lang="pt">Indianas Safadas</title>
+  </programme>
+  <programme start="20230410155800 +0100" stop="20230410162000 +0100" channel="VENUS">
+    <title lang="pt">Angelicalmente Perversa</title>
+  </programme>
+  <programme start="20230410162000 +0100" stop="20230410174600 +0100" channel="VENUS">
+    <title lang="pt">Se Olhou Tem Que Comer!</title>
+  </programme>
+  <programme start="20230410174600 +0100" stop="20230410181700 +0100" channel="VENUS">
+    <title lang="pt">Gosto Mais Com Pelinhos</title>
+  </programme>
+  <programme start="20230410181700 +0100" stop="20230410194500 +0100" channel="VENUS">
+    <title lang="pt">Indecência Na Natureza</title>
+  </programme>
+  <programme start="20230410194500 +0100" stop="20230410201300 +0100" channel="VENUS">
+    <title lang="pt">Esguichada No Clímax</title>
+  </programme>
+  <programme start="20230410201300 +0100" stop="20230410214100 +0100" channel="VENUS">
+    <title lang="pt">Perigo: Curvas À Frente</title>
+  </programme>
+  <programme start="20230410214100 +0100" stop="20230410220400 +0100" channel="VENUS">
+    <title lang="pt">Pornô No Hospital</title>
+  </programme>
+  <programme start="20230410220400 +0100" stop="20230410232400 +0100" channel="VENUS">
+    <title lang="pt">Peitudas Audaciosas</title>
+  </programme>
+  <programme start="20230410232400 +0100" stop="20230410234800 +0100" channel="VENUS">
+    <title lang="pt">Esguichada Prazer XXX</title>
+  </programme>
+  <programme start="20230410234800 +0100" stop="20230411011200 +0100" channel="VENUS">
+    <title lang="pt">10 Ruivinhas Safadas</title>
+  </programme>
+  <programme start="20230411011200 +0100" stop="20230411014100 +0100" channel="VENUS">
+    <title lang="pt">Enfermerinhas Lésbicas</title>
+  </programme>
+  <programme start="20230411014100 +0100" stop="20230411030500 +0100" channel="VENUS">
+    <title lang="pt">Lésbicas Curvelíneas</title>
+  </programme>
+  <programme start="20230411030500 +0100" stop="20230411033000 +0100" channel="VENUS">
+    <title lang="pt">Holly Hendrix Petite</title>
+  </programme>
+  <programme start="20230411033000 +0100" stop="20230411045900 +0100" channel="VENUS">
+    <title lang="pt">A Chefe Deu Mole</title>
+  </programme>
+  <programme start="20230411045900 +0100" stop="20230411052700 +0100" channel="VENUS">
+    <title lang="pt">Doutor Analise Minha Vulva</title>
+  </programme>
+  <programme start="20230411052700 +0100" stop="20230411065200 +0100" channel="VENUS">
+    <title lang="pt">Uma Enrabada Gostosa</title>
+  </programme>
+  <programme start="20230411065200 +0100" stop="20230411071400 +0100" channel="VENUS">
+    <title lang="pt">A Secretária Aguenta Tudo</title>
+  </programme>
+  <programme start="20230411071400 +0100" stop="20230411073700 +0100" channel="VENUS">
+    <title lang="pt">Bunny Colby Beldade Jovem</title>
+  </programme>
+  <programme start="20230411073700 +0100" stop="20230411090000 +0100" channel="VENUS">
+    <title lang="pt">Provocação XXX</title>
+  </programme>
+  <programme start="20230411090000 +0100" stop="20230411102800 +0100" channel="VENUS">
+    <title lang="pt">O Melhor Anal</title>
+  </programme>
+  <programme start="20230411102800 +0100" stop="20230411105000 +0100" channel="VENUS">
+    <title lang="pt">69 Com Athena</title>
+  </programme>
+  <programme start="20230411105000 +0100" stop="20230411121400 +0100" channel="VENUS">
+    <title lang="pt">Milfs Libidinosas</title>
+  </programme>
+  <programme start="20230411121400 +0100" stop="20230411123600 +0100" channel="VENUS">
+    <title lang="pt">A Secretária Aguenta Tudo</title>
+  </programme>
+  <programme start="20230411123600 +0100" stop="20230411140000 +0100" channel="VENUS">
+    <title lang="pt">Era Uma Vez Um Hétero</title>
+  </programme>
+  <programme start="20230411140000 +0100" stop="20230411142300 +0100" channel="VENUS">
+    <title lang="pt">Bunny Colby Beldade Jovem</title>
+  </programme>
+  <programme start="20230411142300 +0100" stop="20230411154800 +0100" channel="VENUS">
+    <title lang="pt">Uma Chupada Amiga</title>
+  </programme>
+  <programme start="20230411154800 +0100" stop="20230411161100 +0100" channel="VENUS">
+    <title lang="pt">Final Oral</title>
+  </programme>
+  <programme start="20230411161100 +0100" stop="20230411173400 +0100" channel="VENUS">
+    <title lang="pt">Lésbicas Curvelíneas</title>
+  </programme>
+  <programme start="20230411173400 +0100" stop="20230411190300 +0100" channel="VENUS">
+    <title lang="pt">A Chefe Deu Mole</title>
+  </programme>
+  <programme start="20230411190300 +0100" stop="20230411203100 +0100" channel="VENUS">
+    <title lang="pt">Casting De Latinas XXX</title>
+  </programme>
+  <programme start="20230411203100 +0100" stop="20230411215500 +0100" channel="VENUS">
+    <title lang="pt">Especial: Strippers XXX</title>
+  </programme>
+  <programme start="20230411215500 +0100" stop="20230411222300 +0100" channel="VENUS">
+    <title lang="pt">Esguichada No Clímax</title>
+  </programme>
+  <programme start="20230411222300 +0100" stop="20230411234800 +0100" channel="VENUS">
+    <title lang="pt">Castigada Pelo Chefe</title>
+  </programme>
+  <programme start="20230411234800 +0100" stop="20230412001100 +0100" channel="VENUS">
+    <title lang="pt">Pornô No Hospital</title>
+  </programme>
+  <programme start="20230412001100 +0100" stop="20230412013900 +0100" channel="VENUS">
+    <title lang="pt">Pool Party De Safadas</title>
+  </programme>
+  <programme start="20230412013900 +0100" stop="20230412020200 +0100" channel="VENUS">
+    <title lang="pt">Esguichada Prazer XXX</title>
+  </programme>
+  <programme start="20230412020200 +0100" stop="20230412032600 +0100" channel="VENUS">
+    <title lang="pt">Irmãs Rivais</title>
+  </programme>
+  <programme start="20230412032600 +0100" stop="20230412035600 +0100" channel="VENUS">
+    <title lang="pt">Enfermerinhas Lésbicas</title>
+  </programme>
+  <programme start="20230412035600 +0100" stop="20230412052100 +0100" channel="VENUS">
+    <title lang="pt">Engastagada Com O Seu Irmão</title>
+  </programme>
+  <programme start="20230412052100 +0100" stop="20230412054300 +0100" channel="VENUS">
+    <title lang="pt">69 Com Athena</title>
+  </programme>
+  <programme start="20230412054300 +0100" stop="20230412070500 +0100" channel="VENUS">
+    <title lang="pt">Ménage Dos Sonhos</title>
+  </programme>
+  <programme start="20230412070500 +0100" stop="20230412072800 +0100" channel="VENUS">
+    <title lang="pt">A Secretária Aguenta Tudo</title>
+  </programme>
+  <programme start="20230412072800 +0100" stop="20230412085000 +0100" channel="VENUS">
+    <title lang="pt">Lésbicas Infiéis</title>
+  </programme>
+  <programme start="20230412085000 +0100" stop="20230412090000 +0100" channel="VENUS">
+    <title lang="pt">69 De Pé</title>
+  </programme>
+  <programme start="20230412090000 +0100" stop="20230412102800 +0100" channel="VENUS">
+    <title lang="pt">A Chefe Deu Mole</title>
+  </programme>
+  <programme start="20230412102800 +0100" stop="20230412105100 +0100" channel="VENUS">
+    <title lang="pt">Eva Lovia Vs India Summer</title>
+  </programme>
+  <programme start="20230412105100 +0100" stop="20230412121700 +0100" channel="VENUS">
+    <title lang="pt">Se Olhou Tem Que Comer!</title>
+  </programme>
+  <programme start="20230412121700 +0100" stop="20230412123900 +0100" channel="VENUS">
+    <title lang="pt">69 Com Athena</title>
+  </programme>
+  <programme start="20230412123900 +0100" stop="20230412140400 +0100" channel="VENUS">
+    <title lang="pt">10 Ruivinhas Safadas</title>
+  </programme>
+  <programme start="20230412140400 +0100" stop="20230412142600 +0100" channel="VENUS">
+    <title lang="pt">A Secretária Aguenta Tudo</title>
+  </programme>
+  <programme start="20230412142600 +0100" stop="20230412154900 +0100" channel="VENUS">
+    <title lang="pt">Aidra Fox E Suas Amigas</title>
+  </programme>
+  <programme start="20230412154900 +0100" stop="20230412161700 +0100" channel="VENUS">
+    <title lang="pt">Milf Vs Gatinho</title>
+  </programme>
+  <programme start="20230412161700 +0100" stop="20230412174500 +0100" channel="VENUS">
+    <title lang="pt">Pool Party De Safadas</title>
+  </programme>
+  <programme start="20230412174500 +0100" stop="20230412180800 +0100" channel="VENUS">
+    <title lang="pt">Bunny Colby Beldade Jovem</title>
+  </programme>
+  <programme start="20230412180800 +0100" stop="20230412193100 +0100" channel="VENUS">
+    <title lang="pt">Irmãs Rivais</title>
+  </programme>
+  <programme start="20230412193100 +0100" stop="20230412200400 +0100" channel="VENUS">
+    <title lang="pt">Banho De Leite O Melhor Final</title>
+  </programme>
+  <programme start="20230412200400 +0100" stop="20230412212800 +0100" channel="VENUS">
+    <title lang="pt">Milfs Libidinosas</title>
+  </programme>
+  <programme start="20230412212800 +0100" stop="20230412215100 +0100" channel="VENUS">
+    <title lang="pt">Final Oral</title>
+  </programme>
+  <programme start="20230412215100 +0100" stop="20230412231900 +0100" channel="VENUS">
+    <title lang="pt">O Melhor Anal</title>
+  </programme>
+  <programme start="20230412231900 +0100" stop="20230412235000 +0100" channel="VENUS">
+    <title lang="pt">Gosto Mais Com Pelinhos</title>
+  </programme>
+  <programme start="20230412235000 +0100" stop="20230413011800 +0100" channel="VENUS">
+    <title lang="pt">Indecência Na Natureza</title>
+  </programme>
+  <programme start="20230413011800 +0100" stop="20230413013900 +0100" channel="VENUS">
+    <title lang="pt">Angelicalmente Perversa</title>
+  </programme>
+  <programme start="20230413013900 +0100" stop="20230413030700 +0100" channel="VENUS">
+    <title lang="pt">No Cuzinho É Mais Gostoso</title>
+  </programme>
+  <programme start="20230413030700 +0100" stop="20230413033600 +0100" channel="VENUS">
+    <title lang="pt">Esguichada No Clímax</title>
+  </programme>
+  <programme start="20230413033600 +0100" stop="20230413035900 +0100" channel="VENUS">
+    <title lang="pt">Pornô No Hospital</title>
+  </programme>
+  <programme start="20230413035900 +0100" stop="20230413052000 +0100" channel="VENUS">
+    <title lang="pt">Ménage Dos Sonhos</title>
+  </programme>
+  <programme start="20230413052000 +0100" stop="20230413054300 +0100" channel="VENUS">
+    <title lang="pt">Eva Lovia Vs India Summer</title>
+  </programme>
+  <programme start="20230413054300 +0100" stop="20230413071000 +0100" channel="VENUS">
+    <title lang="pt">Britânicas</title>
+  </programme>
+  <programme start="20230413071000 +0100" stop="20230413073200 +0100" channel="VENUS">
+    <title lang="pt">69 Com Athena</title>
+  </programme>
+  <programme start="20230413073200 +0100" stop="20230413090000 +0100" channel="VENUS">
+    <title lang="pt">Perigo: Curvas À Frente</title>
+  </programme>
+  <programme start="20230413090000 +0100" stop="20230413102300 +0100" channel="VENUS">
+    <title lang="pt">Irmãs Rivais</title>
+  </programme>
+  <programme start="20230413102300 +0100" stop="20230413104500 +0100" channel="VENUS">
+    <title lang="pt">Carter Cruise Muito Molhada</title>
+  </programme>
+  <programme start="20230413104500 +0100" stop="20230413120900 +0100" channel="VENUS">
+    <title lang="pt">Lésbicas Curvelíneas</title>
+  </programme>
+  <programme start="20230413120900 +0100" stop="20230413133300 +0100" channel="VENUS">
+    <title lang="pt">Castigada Pelo Chefe</title>
+  </programme>
+  <programme start="20230413133300 +0100" stop="20230413135500 +0100" channel="VENUS">
+    <title lang="pt">69 Com Athena</title>
+  </programme>
+  <programme start="20230413135500 +0100" stop="20230413151500 +0100" channel="VENUS">
+    <title lang="pt">Peitudas Audaciosas</title>
+  </programme>
+  <programme start="20230413151500 +0100" stop="20230413154300 +0100" channel="VENUS">
+    <title lang="pt">Chupadinha Milf</title>
+  </programme>
+  <programme start="20230413154300 +0100" stop="20230413171100 +0100" channel="VENUS">
+    <title lang="pt">No Cuzinho É Mais Gostoso</title>
+  </programme>
+  <programme start="20230413171100 +0100" stop="20230413173300 +0100" channel="VENUS">
+    <title lang="pt">A Secretária Aguenta Tudo</title>
+  </programme>
+  <programme start="20230413173300 +0100" stop="20230413185600 +0100" channel="VENUS">
+    <title lang="pt">Ménage No Acampamento</title>
+  </programme>
+  <programme start="20230413185600 +0100" stop="20230413191900 +0100" channel="VENUS">
+    <title lang="pt">Bunny Colby Beldade Jovem</title>
+  </programme>
+  <programme start="20230413191900 +0100" stop="20230413204600 +0100" channel="VENUS">
+    <title lang="pt">Se Olhou Tem Que Comer!</title>
+  </programme>
+  <programme start="20230413204600 +0100" stop="20230413211300 +0100" channel="VENUS">
+    <title lang="pt">Milf Vs Gatinho</title>
+  </programme>
+  <programme start="20230413211300 +0100" stop="20230413224200 +0100" channel="VENUS">
+    <title lang="pt">A Chefe Deu Mole</title>
+  </programme>
+  <programme start="20230413224200 +0100" stop="20230413231400 +0100" channel="VENUS">
+    <title lang="pt">Banho De Leite O Melhor Final</title>
+  </programme>
+  <programme start="20230413231400 +0100" stop="20230414003600 +0100" channel="VENUS">
+    <title lang="pt">Devoradora De Pica</title>
+  </programme>
+  <programme start="20230414003600 +0100" stop="20230414005900 +0100" channel="VENUS">
+    <title lang="pt">Final Oral</title>
+  </programme>
+  <programme start="20230414005900 +0100" stop="20230414020600 +0100" channel="VENUS">
+    <title lang="pt">Sexxxo Ficção</title>
+  </programme>
+  <programme start="20230414020600 +0100" stop="20230414033200 +0100" channel="VENUS">
+    <title lang="pt">A Madrasta Insaciável</title>
+  </programme>
+  <programme start="20230414033200 +0100" stop="20230414035400 +0100" channel="VENUS">
+    <title lang="pt">Angelicalmente Perversa</title>
+  </programme>
+  <programme start="20230414035400 +0100" stop="20230414052100 +0100" channel="VENUS">
+    <title lang="pt">Britânicas</title>
+  </programme>
+  <programme start="20230414052100 +0100" stop="20230414054300 +0100" channel="VENUS">
+    <title lang="pt">Carter Cruise Muito Molhada</title>
+  </programme>
+  <programme start="20230414054300 +0100" stop="20230414071100 +0100" channel="VENUS">
+    <title lang="pt">Um Toque Para Gozar</title>
+  </programme>
+  <programme start="20230414071100 +0100" stop="20230414073300 +0100" channel="VENUS">
+    <title lang="pt">Eva Lovia Vs India Summer</title>
+  </programme>
+  <programme start="20230414073300 +0100" stop="20230414090000 +0100" channel="VENUS">
+    <title lang="pt">Casting De Latinas XXX</title>
+  </programme>
+  <programme start="20230414090000 +0100" stop="20230414102200 +0100" channel="VENUS">
+    <title lang="pt">Ménage No Acampamento</title>
+  </programme>
+  <programme start="20230414102200 +0100" stop="20230414104600 +0100" channel="VENUS">
+    <title lang="pt">Olha Para Mim Enquanto Goza</title>
+  </programme>
+  <programme start="20230414104600 +0100" stop="20230414121400 +0100" channel="VENUS">
+    <title lang="pt">Pool Party De Safadas</title>
+  </programme>
+  <programme start="20230414121400 +0100" stop="20230414123600 +0100" channel="VENUS">
+    <title lang="pt">Carter Cruise Muito Molhada</title>
+  </programme>
+  <programme start="20230414123600 +0100" stop="20230414140400 +0100" channel="VENUS">
+    <title lang="pt">Indecência Na Natureza</title>
+  </programme>
+  <programme start="20230414140400 +0100" stop="20230414142700 +0100" channel="VENUS">
+    <title lang="pt">Eva Lovia Vs India Summer</title>
+  </programme>
+  <programme start="20230414142700 +0100" stop="20230414155200 +0100" channel="VENUS">
+    <title lang="pt">Especial: Strippers XXX</title>
+  </programme>
+  <programme start="20230414155200 +0100" stop="20230414162000 +0100" channel="VENUS">
+    <title lang="pt">Melissa Lynn E Seus Peitões</title>
+  </programme>
+  <programme start="20230414162000 +0100" stop="20230414172700 +0100" channel="VENUS">
+    <title lang="pt">Sexxxo Ficção</title>
+  </programme>
+  <programme start="20230414172700 +0100" stop="20230414174900 +0100" channel="VENUS">
+    <title lang="pt">69 Com Athena</title>
+  </programme>
+  <programme start="20230414174900 +0100" stop="20230414191500 +0100" channel="VENUS">
+    <title lang="pt">A Madrasta Insaciável</title>
+  </programme>
+  <programme start="20230414191500 +0100" stop="20230414193700 +0100" channel="VENUS">
+    <title lang="pt">A Secretária Aguenta Tudo</title>
+  </programme>
+  <programme start="20230414193700 +0100" stop="20230414210000 +0100" channel="VENUS">
+    <title lang="pt">Lésbicas Curvelíneas</title>
+  </programme>
+  <programme start="20230414210000 +0100" stop="20230414222500 +0100" channel="VENUS">
+    <title lang="pt">Fodendo Para A Fama</title>
+  </programme>
+  <programme start="20230414222500 +0100" stop="20230414225500 +0100" channel="VENUS">
+    <title lang="pt">Lucía Quer Sexo</title>
+  </programme>
+  <programme start="20230414225500 +0100" stop="20230415001900 +0100" channel="VENUS">
+    <title lang="pt">Pegando No Pau</title>
+  </programme>
+  <programme start="20230415001900 +0100" stop="20230415004900 +0100" channel="VENUS">
+    <title lang="pt">Baby Nicols Molhadinha</title>
+  </programme>
+  <programme start="20230415004900 +0100" stop="20230415021600 +0100" channel="VENUS">
+    <title lang="pt">Convertida À Estrela Pornô</title>
+  </programme>
+  <programme start="20230415021600 +0100" stop="20230415034000 +0100" channel="VENUS">
+    <title lang="pt">Casamento Perfeito</title>
+  </programme>
+  <programme start="20230415034000 +0100" stop="20230415040200 +0100" channel="VENUS">
+    <title lang="pt">Final Oral</title>
+  </programme>
+  <programme start="20230415040200 +0100" stop="20230415052900 +0100" channel="VENUS">
+    <title lang="pt">Peitões Em Jogo</title>
+  </programme>
+  <programme start="20230415052900 +0100" stop="20230415055200 +0100" channel="VENUS">
+    <title lang="pt">Olha Para Mim Enquanto Goza</title>
+  </programme>
+  <programme start="20230415055200 +0100" stop="20230415071500 +0100" channel="VENUS">
+    <title lang="pt">Engastagada Com O Seu Irmão</title>
+  </programme>
+  <programme start="20230415071500 +0100" stop="20230415073600 +0100" channel="VENUS">
+    <title lang="pt">Carter Cruise Muito Molhada</title>
+  </programme>
+  <programme start="20230415073600 +0100" stop="20230415090000 +0100" channel="VENUS">
+    <title lang="pt">Milfs Libidinosas</title>
+  </programme>
+  <programme start="20230415090000 +0100" stop="20230415102600 +0100" channel="VENUS">
+    <title lang="pt">A Madrasta Insaciável</title>
+  </programme>
+  <programme start="20230415102600 +0100" stop="20230415105900 +0100" channel="VENUS">
+    <title lang="pt">Amante &amp; Marido</title>
+  </programme>
+  <programme start="20230415105900 +0100" stop="20230415122700 +0100" channel="VENUS">
+    <title lang="pt">No Cuzinho É Mais Gostoso</title>
+  </programme>
+  <programme start="20230415122700 +0100" stop="20230415125100 +0100" channel="VENUS">
+    <title lang="pt">Olha Para Mim Enquanto Goza</title>
+  </programme>
+  <programme start="20230415125100 +0100" stop="20230415141300 +0100" channel="VENUS">
+    <title lang="pt">Devoradora De Pica</title>
+  </programme>
+  <programme start="20230415141300 +0100" stop="20230415143500 +0100" channel="VENUS">
+    <title lang="pt">Carter Cruise Muito Molhada</title>
+  </programme>
+  <programme start="20230415143500 +0100" stop="20230415160300 +0100" channel="VENUS">
+    <title lang="pt">O Melhor Anal</title>
+  </programme>
+  <programme start="20230415160300 +0100" stop="20230415163100 +0100" channel="VENUS">
+    <title lang="pt">Primeiro Bate Uma Para Mim</title>
+  </programme>
+  <programme start="20230415163100 +0100" stop="20230415175800 +0100" channel="VENUS">
+    <title lang="pt">Convertida À Estrela Pornô</title>
+  </programme>
+  <programme start="20230415175800 +0100" stop="20230415182100 +0100" channel="VENUS">
+    <title lang="pt">Eva Lovia Vs India Summer</title>
+  </programme>
+  <programme start="20230415182100 +0100" stop="20230415194500 +0100" channel="VENUS">
+    <title lang="pt">Casamento Perfeito</title>
+  </programme>
+  <programme start="20230415194500 +0100" stop="20230415200700 +0100" channel="VENUS">
+    <title lang="pt">69 Com Athena</title>
+  </programme>
+  <programme start="20230415200700 +0100" stop="20230415213500 +0100" channel="VENUS">
+    <title lang="pt">Pool Party De Safadas</title>
+  </programme>
+  <programme start="20230415213500 +0100" stop="20230415220300 +0100" channel="VENUS">
+    <title lang="pt">Melissa Lynn E Seus Peitões</title>
+  </programme>
+  <programme start="20230415220300 +0100" stop="20230415222500 +0100" channel="VENUS">
+    <title lang="pt">A Secretária Aguenta Tudo</title>
+  </programme>
+  <programme start="20230415222500 +0100" stop="20230415235200 +0100" channel="VENUS">
+    <title lang="pt">Britânicas</title>
+  </programme>
+  <programme start="20230415235200 +0100" stop="20230416001900 +0100" channel="VENUS">
+    <title lang="pt">Milf Vs Gatinho</title>
+  </programme>
+  <programme start="20230416001900 +0100" stop="20230416014800 +0100" channel="VENUS">
+    <title lang="pt">Peitões Em Jogo</title>
+  </programme>
+  <programme start="20230416014800 +0100" stop="20230416021000 +0100" channel="VENUS">
+    <title lang="pt">Bunny Colby Beldade Jovem</title>
+  </programme>
+  <programme start="20230416021000 +0100" stop="20230416033500 +0100" channel="VENUS">
+    <title lang="pt">Fanáticos Por Peitos</title>
+  </programme>
+  <programme start="20230416033500 +0100" stop="20230416040500 +0100" channel="VENUS">
+    <title lang="pt">Baby Nicols Molhadinha</title>
+  </programme>
+  <programme start="20230416040500 +0100" stop="20230416053100 +0100" channel="VENUS">
+    <title lang="pt">Diversão Lésbica</title>
+  </programme>
+  <programme start="20230416053100 +0100" stop="20230416060400 +0100" channel="VENUS">
+    <title lang="pt">Amante &amp; Marido</title>
+  </programme>
+  <programme start="20230416060400 +0100" stop="20230416072300 +0100" channel="VENUS">
+    <title lang="pt">Lavou Tá Novo!</title>
+  </programme>
+  <programme start="20230416072300 +0100" stop="20230416085000 +0100" channel="VENUS">
+    <title lang="pt">Se Olhou Tem Que Comer!</title>
+  </programme>
+  <programme start="20230416085000 +0100" stop="20230416090000 +0100" channel="VENUS">
+    <title lang="pt">69 De Pé</title>
+  </programme>
+  <programme start="20230416090000 +0100" stop="20230416102300 +0100" channel="VENUS">
+    <title lang="pt">Lésbicas Curvelíneas</title>
+  </programme>
+  <programme start="20230416102300 +0100" stop="20230416104700 +0100" channel="VENUS">
+    <title lang="pt">Jaye Quer Na Cara</title>
+  </programme>
+  <programme start="20230416104700 +0100" stop="20230416121500 +0100" channel="VENUS">
+    <title lang="pt">Indecência Na Natureza</title>
+  </programme>
+  <programme start="20230416121500 +0100" stop="20230416124800 +0100" channel="VENUS">
+    <title lang="pt">Amante &amp; Marido</title>
+  </programme>
+  <programme start="20230416124800 +0100" stop="20230416141600 +0100" channel="VENUS">
+    <title lang="pt">Pool Party De Safadas</title>
+  </programme>
+  <programme start="20230416141600 +0100" stop="20230416144000 +0100" channel="VENUS">
+    <title lang="pt">Olha Para Mim Enquanto Goza</title>
+  </programme>
+  <programme start="20230416144000 +0100" stop="20230416160900 +0100" channel="VENUS">
+    <title lang="pt">No Cuzinho É Mais Gostoso</title>
+  </programme>
+  <programme start="20230416160900 +0100" stop="20230416163300 +0100" channel="VENUS">
+    <title lang="pt">A Gozada Da Aj Applegate</title>
+  </programme>
+  <programme start="20230410013500 +0100" stop="20230410020400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Fantasy Flirt I</title>
+  </programme>
+  <programme start="20230410020400 +0100" stop="20230410023200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Neighborhood Rumors</title>
+  </programme>
+  <programme start="20230410023200 +0100" stop="20230410030200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X</title>
+  </programme>
+  <programme start="20230410030200 +0100" stop="20230410033200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230410033200 +0100" stop="20230410040200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230410040200 +0100" stop="20230410054400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Multiple Dicks – One House</title>
+  </programme>
+  <programme start="20230410054400 +0100" stop="20230410061400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Secret Sessions I</title>
+  </programme>
+  <programme start="20230410061400 +0100" stop="20230410064400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Intimate Tales</title>
+  </programme>
+  <programme start="20230410064400 +0100" stop="20230410073700 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing V</title>
+  </programme>
+  <programme start="20230410073700 +0100" stop="20230410083200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing V</title>
+  </programme>
+  <programme start="20230410083200 +0100" stop="20230410090100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X</title>
+  </programme>
+  <programme start="20230410090100 +0100" stop="20230410093000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X</title>
+  </programme>
+  <programme start="20230410093000 +0100" stop="20230410100000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bare Fitness I</title>
+  </programme>
+  <programme start="20230410100000 +0100" stop="20230410112300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bored Housewives</title>
+  </programme>
+  <programme start="20230410112300 +0100" stop="20230410121500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing V</title>
+  </programme>
+  <programme start="20230410121500 +0100" stop="20230410124400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230410124400 +0100" stop="20230410131400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy’s Casting Calls: The Mansion</title>
+  </programme>
+  <programme start="20230410131400 +0100" stop="20230410134200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Neighborhood Rumors</title>
+  </programme>
+  <programme start="20230410134200 +0100" stop="20230410144300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Marriage 2.0 Part 1</title>
+  </programme>
+  <programme start="20230410144300 +0100" stop="20230410151300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230410151300 +0100" stop="20230410165500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Multiple Dicks – One House</title>
+  </programme>
+  <programme start="20230410165500 +0100" stop="20230410182500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Insatiable Young Sluts</title>
+  </programme>
+  <programme start="20230410182500 +0100" stop="20230410185500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy’s Casting Calls: The Mansion</title>
+  </programme>
+  <programme start="20230410185500 +0100" stop="20230410192400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230410192400 +0100" stop="20230410195200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Warm Up</title>
+  </programme>
+  <programme start="20230410195200 +0100" stop="20230410202000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Warm Up</title>
+  </programme>
+  <programme start="20230410202000 +0100" stop="20230410205000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230410205000 +0100" stop="20230410211500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Wild Life: Miami</title>
+  </programme>
+  <programme start="20230410211500 +0100" stop="20230410214300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Dream Dates Elite I</title>
+  </programme>
+  <programme start="20230410214300 +0100" stop="20230410221300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bare Fitness I</title>
+  </programme>
+  <programme start="20230410221300 +0100" stop="20230410224300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230410224300 +0100" stop="20230410231400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230410231400 +0100" stop="20230411000800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing V</title>
+  </programme>
+  <programme start="20230411000800 +0100" stop="20230411003800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X</title>
+  </programme>
+  <programme start="20230411003800 +0100" stop="20230411010800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X</title>
+  </programme>
+  <programme start="20230411010800 +0100" stop="20230411023200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Sensual Poolside Fun</title>
+  </programme>
+  <programme start="20230411023200 +0100" stop="20230411030200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230411030200 +0100" stop="20230411033000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230411033000 +0100" stop="20230411040000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230411040000 +0100" stop="20230411042600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Neighborhood Rumors</title>
+  </programme>
+  <programme start="20230411042600 +0100" stop="20230411045300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Neighborhood Rumors</title>
+  </programme>
+  <programme start="20230411045300 +0100" stop="20230411062600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bbc Business</title>
+  </programme>
+  <programme start="20230411062600 +0100" stop="20230411071900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing V</title>
+  </programme>
+  <programme start="20230411071900 +0100" stop="20230411074800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230411074800 +0100" stop="20230411081400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230411081400 +0100" stop="20230411084200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230411084200 +0100" stop="20230411090500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Wild Life: Miami</title>
+  </programme>
+  <programme start="20230411090500 +0100" stop="20230411093100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Dream Dates Elite I</title>
+  </programme>
+  <programme start="20230411093100 +0100" stop="20230411100000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bare Fitness I</title>
+  </programme>
+  <programme start="20230411100000 +0100" stop="20230411115600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Action In The Law Firm</title>
+  </programme>
+  <programme start="20230411115600 +0100" stop="20230411125200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing V</title>
+  </programme>
+  <programme start="20230411125200 +0100" stop="20230411132400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230411132400 +0100" stop="20230411135500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230411135500 +0100" stop="20230411142400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Warm Up</title>
+  </programme>
+  <programme start="20230411142400 +0100" stop="20230411145300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Warm Up</title>
+  </programme>
+  <programme start="20230411145300 +0100" stop="20230411152300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Fantasy Flirt I</title>
+  </programme>
+  <programme start="20230411152300 +0100" stop="20230411155300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230411155300 +0100" stop="20230411161800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Wild Life: Miami</title>
+  </programme>
+  <programme start="20230411161800 +0100" stop="20230411164600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Dream Dates Elite I</title>
+  </programme>
+  <programme start="20230411164600 +0100" stop="20230411171600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bare Fitness I</title>
+  </programme>
+  <programme start="20230411171600 +0100" stop="20230411174600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230411174600 +0100" stop="20230411181700 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230411181700 +0100" stop="20230411191100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing V</title>
+  </programme>
+  <programme start="20230411191100 +0100" stop="20230411194100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X</title>
+  </programme>
+  <programme start="20230411194100 +0100" stop="20230411201100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X</title>
+  </programme>
+  <programme start="20230411201100 +0100" stop="20230411204100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230411204100 +0100" stop="20230411210600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Wild Life: Miami</title>
+  </programme>
+  <programme start="20230411210600 +0100" stop="20230411213400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Dream Dates Elite I</title>
+  </programme>
+  <programme start="20230411213400 +0100" stop="20230411220400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bare Fitness I</title>
+  </programme>
+  <programme start="20230411220400 +0100" stop="20230411223400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230411223400 +0100" stop="20230411230400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230411230400 +0100" stop="20230411235700 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing V</title>
+  </programme>
+  <programme start="20230411235700 +0100" stop="20230412002500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Neighborhood Rumors</title>
+  </programme>
+  <programme start="20230412002500 +0100" stop="20230412005200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Neighborhood Rumors</title>
+  </programme>
+  <programme start="20230412005200 +0100" stop="20230412023400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Multiple Dicks – One House</title>
+  </programme>
+  <programme start="20230412023400 +0100" stop="20230412030400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230412030400 +0100" stop="20230412033300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230412033300 +0100" stop="20230412040200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230412040200 +0100" stop="20230412043000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Fantasy Flirt I</title>
+  </programme>
+  <programme start="20230412043000 +0100" stop="20230412045800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Fantasy Flirt I</title>
+  </programme>
+  <programme start="20230412045800 +0100" stop="20230412062200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Sensual Poolside Fun</title>
+  </programme>
+  <programme start="20230412062200 +0100" stop="20230412071200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing V</title>
+  </programme>
+  <programme start="20230412071200 +0100" stop="20230412074000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230412074000 +0100" stop="20230412080800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230412080800 +0100" stop="20230412083600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230412083600 +0100" stop="20230412090400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Secret Sessions I</title>
+  </programme>
+  <programme start="20230412090400 +0100" stop="20230412093200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Intimate Tales</title>
+  </programme>
+  <programme start="20230412093200 +0100" stop="20230412100000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Girls Of Metart II</title>
+  </programme>
+  <programme start="20230412100000 +0100" stop="20230412112700 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Three Dicks Of Revenge</title>
+  </programme>
+  <programme start="20230412112700 +0100" stop="20230412122100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing V</title>
+  </programme>
+  <programme start="20230412122100 +0100" stop="20230412125100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230412125100 +0100" stop="20230412132100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230412132100 +0100" stop="20230412142200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Marriage 2.0 Part 1</title>
+  </programme>
+  <programme start="20230412142200 +0100" stop="20230412145200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X</title>
+  </programme>
+  <programme start="20230412145200 +0100" stop="20230412152200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230412152200 +0100" stop="20230412171800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Action In The Law Firm</title>
+  </programme>
+  <programme start="20230412171800 +0100" stop="20230412174300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Wild Life: Miami</title>
+  </programme>
+  <programme start="20230412174300 +0100" stop="20230412181100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Dream Dates Elite I</title>
+  </programme>
+  <programme start="20230412181100 +0100" stop="20230412184100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bare Fitness I</title>
+  </programme>
+  <programme start="20230412184100 +0100" stop="20230412191100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230412191100 +0100" stop="20230412194100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230412194100 +0100" stop="20230412203400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing V</title>
+  </programme>
+  <programme start="20230412203400 +0100" stop="20230412210200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Neighborhood Rumors</title>
+  </programme>
+  <programme start="20230412210200 +0100" stop="20230412213000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Neighborhood Rumors</title>
+  </programme>
+  <programme start="20230412213000 +0100" stop="20230412220000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230412220000 +0100" stop="20230412223000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Secret Sessions I</title>
+  </programme>
+  <programme start="20230412223000 +0100" stop="20230412230000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Intimate Tales</title>
+  </programme>
+  <programme start="20230412230000 +0100" stop="20230412232900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Girls Of Metart II</title>
+  </programme>
+  <programme start="20230412232900 +0100" stop="20230412235900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230412235900 +0100" stop="20230413002700 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230413002700 +0100" stop="20230413012000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing V</title>
+  </programme>
+  <programme start="20230413012000 +0100" stop="20230413014900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Fantasy Flirt I</title>
+  </programme>
+  <programme start="20230413014900 +0100" stop="20230413021800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Fantasy Flirt I</title>
+  </programme>
+  <programme start="20230413021800 +0100" stop="20230413034100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bored Housewives</title>
+  </programme>
+  <programme start="20230413034100 +0100" stop="20230413041100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230413041100 +0100" stop="20230413050700 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Perception</title>
+  </programme>
+  <programme start="20230413050700 +0100" stop="20230413053500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230413053500 +0100" stop="20230413060500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230413060500 +0100" stop="20230413065800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing V</title>
+  </programme>
+  <programme start="20230413065800 +0100" stop="20230413072800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230413072800 +0100" stop="20230413075700 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230413075700 +0100" stop="20230413082800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230413082800 +0100" stop="20230413085900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Secret Sessions I</title>
+  </programme>
+  <programme start="20230413085900 +0100" stop="20230413093000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Intimate Tales</title>
+  </programme>
+  <programme start="20230413093000 +0100" stop="20230413100000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Girls Of Metart II</title>
+  </programme>
+  <programme start="20230413100000 +0100" stop="20230413113400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bbc Business</title>
+  </programme>
+  <programme start="20230413113400 +0100" stop="20230413122800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing V</title>
+  </programme>
+  <programme start="20230413122800 +0100" stop="20230413125600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230413125600 +0100" stop="20230413132600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230413132600 +0100" stop="20230413135600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X</title>
+  </programme>
+  <programme start="20230413135600 +0100" stop="20230413142300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Neighborhood Rumors</title>
+  </programme>
+  <programme start="20230413142300 +0100" stop="20230413145100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Neighborhood Rumors</title>
+  </programme>
+  <programme start="20230413145100 +0100" stop="20230413152100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230413152100 +0100" stop="20230413155100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Secret Sessions I</title>
+  </programme>
+  <programme start="20230413155100 +0100" stop="20230413162100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Intimate Tales</title>
+  </programme>
+  <programme start="20230413162100 +0100" stop="20230413165000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Girls Of Metart II</title>
+  </programme>
+  <programme start="20230413165000 +0100" stop="20230413172000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230413172000 +0100" stop="20230413174800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230413174800 +0100" stop="20230413184300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing V</title>
+  </programme>
+  <programme start="20230413184300 +0100" stop="20230413191200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Fantasy Flirt I</title>
+  </programme>
+  <programme start="20230413191200 +0100" stop="20230413194100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Fantasy Flirt I</title>
+  </programme>
+  <programme start="20230413194100 +0100" stop="20230413201100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230413201100 +0100" stop="20230413204100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Secret Sessions I</title>
+  </programme>
+  <programme start="20230413204100 +0100" stop="20230413211100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Intimate Tales</title>
+  </programme>
+  <programme start="20230413211100 +0100" stop="20230413214000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Girls Of Metart II</title>
+  </programme>
+  <programme start="20230413214000 +0100" stop="20230413221000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230413221000 +0100" stop="20230413223800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230413223800 +0100" stop="20230413233100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing</title>
+  </programme>
+  <programme start="20230413233100 +0100" stop="20230414003200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Marriage 2.0 Part 1</title>
+  </programme>
+  <programme start="20230414003200 +0100" stop="20230414022700 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Action In The Law Firm</title>
+  </programme>
+  <programme start="20230414022700 +0100" stop="20230414025700 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230414025700 +0100" stop="20230414032600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons II</title>
+  </programme>
+  <programme start="20230414032600 +0100" stop="20230414035600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230414035600 +0100" stop="20230414042400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Warm Up</title>
+  </programme>
+  <programme start="20230414042400 +0100" stop="20230414045200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Warm Up</title>
+  </programme>
+  <programme start="20230414045200 +0100" stop="20230414061500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bored Housewives</title>
+  </programme>
+  <programme start="20230414061500 +0100" stop="20230414070800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing</title>
+  </programme>
+  <programme start="20230414070800 +0100" stop="20230414073800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230414073800 +0100" stop="20230414080600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons II</title>
+  </programme>
+  <programme start="20230414080600 +0100" stop="20230414083600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230414083600 +0100" stop="20230414100000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bored Housewives</title>
+  </programme>
+  <programme start="20230414100000 +0100" stop="20230414113100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Insatiable Young Sluts</title>
+  </programme>
+  <programme start="20230414113100 +0100" stop="20230414120000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230414120000 +0100" stop="20230414123100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230414123100 +0100" stop="20230414130200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X</title>
+  </programme>
+  <programme start="20230414130200 +0100" stop="20230414133100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Fantasy Flirt I</title>
+  </programme>
+  <programme start="20230414133100 +0100" stop="20230414140000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Fantasy Flirt I</title>
+  </programme>
+  <programme start="20230414140000 +0100" stop="20230414143000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230414143000 +0100" stop="20230414160500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bbc Business</title>
+  </programme>
+  <programme start="20230414160500 +0100" stop="20230414163500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Secret Sessions I</title>
+  </programme>
+  <programme start="20230414163500 +0100" stop="20230414170500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Intimate Tales</title>
+  </programme>
+  <programme start="20230414170500 +0100" stop="20230414173400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Girls Of Metart II</title>
+  </programme>
+  <programme start="20230414173400 +0100" stop="20230414180400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230414180400 +0100" stop="20230414183200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230414183200 +0100" stop="20230414192500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing V</title>
+  </programme>
+  <programme start="20230414192500 +0100" stop="20230414202600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Marriage 2.0 Part 1</title>
+  </programme>
+  <programme start="20230414202600 +0100" stop="20230414205600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230414205600 +0100" stop="20230414221900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bored Housewives</title>
+  </programme>
+  <programme start="20230414221900 +0100" stop="20230414224900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy’s Casting Calls: The Mansion</title>
+  </programme>
+  <programme start="20230414224900 +0100" stop="20230414231800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230414231800 +0100" stop="20230415001100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing</title>
+  </programme>
+  <programme start="20230415001100 +0100" stop="20230415003900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Warm Up</title>
+  </programme>
+  <programme start="20230415003900 +0100" stop="20230415010700 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Warm Up</title>
+  </programme>
+  <programme start="20230415010700 +0100" stop="20230415023400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Three Dicks Of Revenge</title>
+  </programme>
+  <programme start="20230415023400 +0100" stop="20230415030400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230415030400 +0100" stop="20230415033200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons II</title>
+  </programme>
+  <programme start="20230415033200 +0100" stop="20230415040200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230415040200 +0100" stop="20230415043300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X</title>
+  </programme>
+  <programme start="20230415043300 +0100" stop="20230415050400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X</title>
+  </programme>
+  <programme start="20230415050400 +0100" stop="20230415070000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Action In The Law Firm</title>
+  </programme>
+  <programme start="20230415070000 +0100" stop="20230415073100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230415073100 +0100" stop="20230415075900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons II</title>
+  </programme>
+  <programme start="20230415075900 +0100" stop="20230415083000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230415083000 +0100" stop="20230415085700 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Wild Life: Miami</title>
+  </programme>
+  <programme start="20230415085700 +0100" stop="20230415092700 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Dream Dates Elite I</title>
+  </programme>
+  <programme start="20230415092700 +0100" stop="20230415100000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bare Fitness I</title>
+  </programme>
+  <programme start="20230415100000 +0100" stop="20230415112400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Sensual Poolside Fun</title>
+  </programme>
+  <programme start="20230415112400 +0100" stop="20230415121700 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing V</title>
+  </programme>
+  <programme start="20230415121700 +0100" stop="20230415124500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Neighborhood Rumors</title>
+  </programme>
+  <programme start="20230415124500 +0100" stop="20230415131400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Fantasy Flirt I</title>
+  </programme>
+  <programme start="20230415131400 +0100" stop="20230415134300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Fantasy Flirt I</title>
+  </programme>
+  <programme start="20230415134300 +0100" stop="20230415141300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X</title>
+  </programme>
+  <programme start="20230415141300 +0100" stop="20230415144300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Secret Sessions I</title>
+  </programme>
+  <programme start="20230415144300 +0100" stop="20230415151300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Intimate Tales</title>
+  </programme>
+  <programme start="20230415151300 +0100" stop="20230415164300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Insatiable Young Sluts</title>
+  </programme>
+  <programme start="20230415164300 +0100" stop="20230415173900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Perception</title>
+  </programme>
+  <programme start="20230415173900 +0100" stop="20230415180800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Girls Of Metart II</title>
+  </programme>
+  <programme start="20230415180800 +0100" stop="20230415183800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X</title>
+  </programme>
+  <programme start="20230415183800 +0100" stop="20230415200100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bored Housewives</title>
+  </programme>
+  <programme start="20230415200100 +0100" stop="20230415202600 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Wild Life: Miami</title>
+  </programme>
+  <programme start="20230415202600 +0100" stop="20230415205400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Dream Dates Elite I</title>
+  </programme>
+  <programme start="20230415205400 +0100" stop="20230415212200 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230415212200 +0100" stop="20230415215100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230415215100 +0100" stop="20230415222100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230415222100 +0100" stop="20230415224900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Neighborhood Rumors</title>
+  </programme>
+  <programme start="20230415224900 +0100" stop="20230415231900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230415231900 +0100" stop="20230415234900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230415234900 +0100" stop="20230416001800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Girls Of Metart II</title>
+  </programme>
+  <programme start="20230416001800 +0100" stop="20230416011100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Swing V</title>
+  </programme>
+  <programme start="20230416011100 +0100" stop="20230416024500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bbc Business</title>
+  </programme>
+  <programme start="20230416024500 +0100" stop="20230416031500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Bare Fitness I</title>
+  </programme>
+  <programme start="20230416031500 +0100" stop="20230416034400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Fantasy Flirt I</title>
+  </programme>
+  <programme start="20230416034400 +0100" stop="20230416044000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Perception</title>
+  </programme>
+  <programme start="20230416044000 +0100" stop="20230416050800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Warm Up</title>
+  </programme>
+  <programme start="20230416050800 +0100" stop="20230416064800 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Nasty Beasts Of Seduction</title>
+  </programme>
+  <programme start="20230416064800 +0100" stop="20230416071500 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Neighborhood Rumors</title>
+  </programme>
+  <programme start="20230416071500 +0100" stop="20230416074400 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X</title>
+  </programme>
+  <programme start="20230416074400 +0100" stop="20230416081100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Seduction Weapons</title>
+  </programme>
+  <programme start="20230416081100 +0100" stop="20230416083900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Fantasy Flirt I</title>
+  </programme>
+  <programme start="20230416083900 +0100" stop="20230416090300 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Wild Life: Miami</title>
+  </programme>
+  <programme start="20230416090300 +0100" stop="20230416093000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Dream Dates Elite I</title>
+  </programme>
+  <programme start="20230416093000 +0100" stop="20230416100000 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230416100000 +0100" stop="20230416114100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Multiple Dicks – One House</title>
+  </programme>
+  <programme start="20230416114100 +0100" stop="20230416121100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories III</title>
+  </programme>
+  <programme start="20230416121100 +0100" stop="20230416124100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Secret Sessions I</title>
+  </programme>
+  <programme start="20230416124100 +0100" stop="20230416131100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Intimate Tales</title>
+  </programme>
+  <programme start="20230416131100 +0100" stop="20230416134100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230416134100 +0100" stop="20230416141100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Life Erotic II</title>
+  </programme>
+  <programme start="20230416141100 +0100" stop="20230416143900 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Warm Up</title>
+  </programme>
+  <programme start="20230416143900 +0100" stop="20230416150700 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">The Warm Up</title>
+  </programme>
+  <programme start="20230416150700 +0100" stop="20230416163100 +0100" channel="PLAYBOY TV HD">
+    <title lang="pt">Sensual Poolside Fun</title>
+  </programme>
 </tv>
