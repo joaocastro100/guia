@@ -100,90 +100,6 @@
     <icon src="https://www.meo.pt/PublishingImages/canais/eurosport-2.png" />
     <url>http://www.meo.pt</url>
   </channel>
-  <programme start="20230410010000 +0100" stop="20230410043000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Domingo Espetacular</title>
-  </programme>
-  <programme start="20230410043000 +0100" stop="20230410050000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Congresso Para O Sucesso</title>
-  </programme>
-  <programme start="20230410050000 +0100" stop="20230410052000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Madeira</title>
-  </programme>
-  <programme start="20230410052000 +0100" stop="20230410054000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Vencendo Os Vícios</title>
-  </programme>
-  <programme start="20230410054000 +0100" stop="20230410060000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Coimbra</title>
-  </programme>
-  <programme start="20230410060000 +0100" stop="20230410061500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20230410061500 +0100" stop="20230410064000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa França</title>
-  </programme>
-  <programme start="20230410064000 +0100" stop="20230410065000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Lisboa</title>
-  </programme>
-  <programme start="20230410065000 +0100" stop="20230410071000 +0100" channel="RECORD TV HD">
-    <title lang="pt">A Hora Do Milagre</title>
-  </programme>
-  <programme start="20230410071000 +0100" stop="20230410073000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Vencendo Os Vícios</title>
-  </programme>
-  <programme start="20230410073000 +0100" stop="20230410080000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Hora Do Milagre</title>
-  </programme>
-  <programme start="20230410080000 +0100" stop="20230410090000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Café Com Fé</title>
-  </programme>
-  <programme start="20230410090000 +0100" stop="20230410120000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Domingo Espetacular</title>
-  </programme>
-  <programme start="20230410120000 +0100" stop="20230410123000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Balanço Geral SP</title>
-  </programme>
-  <programme start="20230410123000 +0100" stop="20230410133000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Jesus</title>
-  </programme>
-  <programme start="20230410133000 +0100" stop="20230410140000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Portugal No Ar</title>
-  </programme>
-  <programme start="20230410140000 +0100" stop="20230410150000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Fala Brasil</title>
-  </programme>
-  <programme start="20230410150000 +0100" stop="20230410153000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Os Milagres De Jesus</title>
-  </programme>
-  <programme start="20230410153000 +0100" stop="20230410163000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Vidas Em Jogo</title>
-  </programme>
-  <programme start="20230410163000 +0100" stop="20230410173000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Os Dez Mandamentos</title>
-  </programme>
-  <programme start="20230410173000 +0100" stop="20230410181500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Mar De Amor</title>
-  </programme>
-  <programme start="20230410181500 +0100" stop="20230410184500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Superbook</title>
-  </programme>
-  <programme start="20230410184500 +0100" stop="20230410191500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Superbook</title>
-  </programme>
-  <programme start="20230410191500 +0100" stop="20230410200000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Fala Portugal</title>
-  </programme>
-  <programme start="20230410200000 +0100" stop="20230410210000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Jesus</title>
-  </programme>
-  <programme start="20230410210000 +0100" stop="20230410220000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Os Dez Mandamentos</title>
-  </programme>
-  <programme start="20230410220000 +0100" stop="20230411000000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Cidade Alerta SP</title>
-  </programme>
-  <programme start="20230411000000 +0100" stop="20230411005000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
   <programme start="20230411005000 +0100" stop="20230411011500 +0100" channel="RECORD TV HD">
     <title lang="pt">Os Milagres De Jesus</title>
   </programme>
@@ -790,65 +706,92 @@
   <programme start="20230416154500 +0100" stop="20230416200000 +0100" channel="RECORD TV HD">
     <title lang="pt">Hora Do Faro</title>
   </programme>
-  <programme start="20230410010000 +0100" stop="20230410030000 +0100" channel="ELEVEN 1">
-    <title lang="pt">Lorient x Marseille - Ligue 1</title>
+  <programme start="20230416200000 +0100" stop="20230416220000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Canta Comigo</title>
   </programme>
-  <programme start="20230410030000 +0100" stop="20230410050000 +0100" channel="ELEVEN 1">
-    <title lang="pt">Almería x Valencia - La Liga</title>
+  <programme start="20230416220000 +0100" stop="20230417010000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Entrelinhas</title>
   </programme>
-  <programme start="20230410050000 +0100" stop="20230410070000 +0100" channel="ELEVEN 1">
-    <title lang="pt">Hamburger x Hannover - Bundesliga 2</title>
+  <programme start="20230417010000 +0100" stop="20230417043000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Domingo Espetacular</title>
   </programme>
-  <programme start="20230410070000 +0100" stop="20230410090000 +0100" channel="ELEVEN 1">
-    <title lang="pt">Club Brugge x Seraing - Jupiler Pro League</title>
+  <programme start="20230417043000 +0100" stop="20230417050000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Congresso Para O Sucesso</title>
   </programme>
-  <programme start="20230410090000 +0100" stop="20230410110000 +0100" channel="ELEVEN 1">
-    <title lang="pt">Hertha x Leipzig - Bundesliga</title>
+  <programme start="20230417050000 +0100" stop="20230417052000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Programa Madeira</title>
   </programme>
-  <programme start="20230410110000 +0100" stop="20230410120000 +0100" channel="ELEVEN 1">
-    <title lang="pt">Planeta Eleven</title>
+  <programme start="20230417052000 +0100" stop="20230417054000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Programa Vencendo Os Vícios</title>
   </programme>
-  <programme start="20230410120000 +0100" stop="20230410130000 +0100" channel="ELEVEN 1">
-    <title lang="pt">Ligue 1 - Resumos Da Jornada 30</title>
+  <programme start="20230417054000 +0100" stop="20230417060000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Programa Coimbra</title>
   </programme>
-  <programme start="20230410130000 +0100" stop="20230410150000 +0100" channel="ELEVEN 1">
-    <title lang="pt">Man United x Everton - Premier League</title>
+  <programme start="20230417060000 +0100" stop="20230417061500 +0100" channel="RECORD TV HD">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
   </programme>
-  <programme start="20230410150000 +0100" stop="20230410151500 +0100" channel="ELEVEN 1">
-    <title lang="pt">Premier League - Resumo - Man United x Everton</title>
+  <programme start="20230417061500 +0100" stop="20230417064000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Programa França</title>
   </programme>
-  <programme start="20230410151500 +0100" stop="20230410153000 +0100" channel="ELEVEN 1">
-    <title lang="pt">Ligue 1 - Resumo - Angers x Lille</title>
+  <programme start="20230417064000 +0100" stop="20230417065000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Lisboa</title>
   </programme>
-  <programme start="20230410153000 +0100" stop="20230410154500 +0100" channel="ELEVEN 1">
-    <title lang="pt">Bundesliga - Resumo - Dortmund x Union</title>
+  <programme start="20230417065000 +0100" stop="20230417071000 +0100" channel="RECORD TV HD">
+    <title lang="pt">A Hora Do Milagre</title>
   </programme>
-  <programme start="20230410154500 +0100" stop="20230410160000 +0100" channel="ELEVEN 1">
-    <title lang="pt">Laliga - Resumo - Real Madrid x Villarreal</title>
+  <programme start="20230417071000 +0100" stop="20230417073000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Programa Vencendo Os Vícios</title>
   </programme>
-  <programme start="20230410160000 +0100" stop="20230410180000 +0100" channel="ELEVEN 1">
-    <title lang="pt">Lens x Strasbourg - Ligue 1</title>
+  <programme start="20230417073000 +0100" stop="20230417080000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Hora Do Milagre</title>
   </programme>
-  <programme start="20230410180000 +0100" stop="20230410190000 +0100" channel="ELEVEN 1">
-    <title lang="pt">Bundesliga - Resumos Da Jornada 27</title>
+  <programme start="20230417080000 +0100" stop="20230417090000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Café Com Fé</title>
   </programme>
-  <programme start="20230410190000 +0100" stop="20230410193000 +0100" channel="ELEVEN 1">
-    <title lang="pt">Laliga World</title>
+  <programme start="20230417090000 +0100" stop="20230417120000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Domingo Espetacular</title>
   </programme>
-  <programme start="20230410193000 +0100" stop="20230410200000 +0100" channel="ELEVEN 1">
-    <title lang="pt">Entrevista - Nélson Semedo</title>
+  <programme start="20230417120000 +0100" stop="20230417123000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Balanço Geral SP</title>
   </programme>
-  <programme start="20230410200000 +0100" stop="20230410220000 +0100" channel="ELEVEN 1">
-    <title lang="pt">Barcelona x Girona - La Liga (Direto)</title>
+  <programme start="20230417123000 +0100" stop="20230417133000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Jesus</title>
   </programme>
-  <programme start="20230410220000 +0100" stop="20230410230000 +0100" channel="ELEVEN 1">
-    <title lang="pt">Premier League - Resumos Da Jornada 30</title>
+  <programme start="20230417133000 +0100" stop="20230417140000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Portugal No Ar</title>
   </programme>
-  <programme start="20230410230000 +0100" stop="20230410233000 +0100" channel="ELEVEN 1">
-    <title lang="pt">Inter, O Caminho Europeu - Liga Dos Campeões</title>
+  <programme start="20230417140000 +0100" stop="20230417150000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Fala Brasil</title>
   </programme>
-  <programme start="20230410233000 +0100" stop="20230411000000 +0100" channel="ELEVEN 1">
-    <title lang="pt">Benfica, O Caminho Europeu - Liga Dos Campeões</title>
+  <programme start="20230417150000 +0100" stop="20230417153000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Os Milagres De Jesus</title>
+  </programme>
+  <programme start="20230417153000 +0100" stop="20230417163000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Vidas Em Jogo</title>
+  </programme>
+  <programme start="20230417163000 +0100" stop="20230417173000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Os Dez Mandamentos</title>
+  </programme>
+  <programme start="20230417173000 +0100" stop="20230417181500 +0100" channel="RECORD TV HD">
+    <title lang="pt">Quando Me Apaixono</title>
+  </programme>
+  <programme start="20230417181500 +0100" stop="20230417184500 +0100" channel="RECORD TV HD">
+    <title lang="pt">Superbook</title>
+  </programme>
+  <programme start="20230417184500 +0100" stop="20230417191500 +0100" channel="RECORD TV HD">
+    <title lang="pt">Superbook</title>
+  </programme>
+  <programme start="20230417191500 +0100" stop="20230417200000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Fala Portugal</title>
+  </programme>
+  <programme start="20230417200000 +0100" stop="20230417210000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Jesus</title>
+  </programme>
+  <programme start="20230417210000 +0100" stop="20230417220000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Os Dez Mandamentos</title>
+  </programme>
+  <programme start="20230417220000 +0100" stop="20230418000000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Cidade Alerta SP</title>
   </programme>
   <programme start="20230411000000 +0100" stop="20230411020000 +0100" channel="ELEVEN 1">
     <title lang="pt">Alavés x Andorra - La Liga</title>
@@ -875,7 +818,7 @@
     <title lang="pt">Anderlecht x Westerlo - Jupiler Pro League</title>
   </programme>
   <programme start="20230411090000 +0100" stop="20230411110000 +0100" channel="ELEVEN 1">
-    <title lang="pt">Leicester x Bournemouth - Premier League</title>
+    <title lang="pt">Man United x Everton - Premier League</title>
   </programme>
   <programme start="20230411110000 +0100" stop="20230411120000 +0100" channel="ELEVEN 1">
     <title lang="pt">Premier League - Resumos Da Jornada 30</title>
@@ -1204,56 +1147,29 @@
   <programme start="20230416160500 +0100" stop="20230416163000 +0100" channel="ELEVEN 1">
     <title lang="pt">Entrevista - Diogo Dalot</title>
   </programme>
-  <programme start="20230410000000 +0100" stop="20230410010000 +0100" channel="ELEVEN 2">
+  <programme start="20230416163000 +0100" stop="20230416183000 +0100" channel="ELEVEN 1">
+    <title lang="pt">Nott´M Forest x Man United - Premier League (Direto)</title>
+  </programme>
+  <programme start="20230416183000 +0100" stop="20230416193000 +0100" channel="ELEVEN 1">
     <title lang="pt">Premier Eleven</title>
   </programme>
-  <programme start="20230410010000 +0100" stop="20230410030000 +0100" channel="ELEVEN 2">
-    <title lang="pt">R. Vallecano x Atl. Madrid - La Liga</title>
+  <programme start="20230416193000 +0100" stop="20230416200000 +0100" channel="ELEVEN 1">
+    <title lang="pt">Laliga 5 Things - Sevilla</title>
   </programme>
-  <programme start="20230410030000 +0100" stop="20230410050000 +0100" channel="ELEVEN 2">
-    <title lang="pt">Bochum x Stuttgart - Bundesliga</title>
+  <programme start="20230416200000 +0100" stop="20230416220000 +0100" channel="ELEVEN 1">
+    <title lang="pt">Valencia x Sevilla - La Liga (Direto)</title>
   </programme>
-  <programme start="20230410050000 +0100" stop="20230410070000 +0100" channel="ELEVEN 2">
-    <title lang="pt">Villarreal B x Málaga - La Liga</title>
+  <programme start="20230416220000 +0100" stop="20230416230000 +0100" channel="ELEVEN 1">
+    <title lang="pt">Planeta Eleven</title>
   </programme>
-  <programme start="20230410070000 +0100" stop="20230410090000 +0100" channel="ELEVEN 2">
-    <title lang="pt">Nürnberg x Karlsruher - Bundesliga 2</title>
+  <programme start="20230416230000 +0100" stop="20230417010000 +0100" channel="ELEVEN 1">
+    <title lang="pt">Getafe x Barcelona - La Liga</title>
   </programme>
-  <programme start="20230410090000 +0100" stop="20230410100000 +0100" channel="ELEVEN 2">
-    <title lang="pt">Premier Eleven</title>
+  <programme start="20230417010000 +0100" stop="20230417030000 +0100" channel="ELEVEN 1">
+    <title lang="pt">Union x Bochum - Bundesliga</title>
   </programme>
-  <programme start="20230410100000 +0100" stop="20230410120000 +0100" channel="ELEVEN 2">
-    <title lang="pt">Lyon x Rennes - Ligue 1</title>
-  </programme>
-  <programme start="20230410120000 +0100" stop="20230410140000 +0100" channel="ELEVEN 2">
-    <title lang="pt">Sevilla x Celta - La Liga</title>
-  </programme>
-  <programme start="20230410140000 +0100" stop="20230410150000 +0100" channel="ELEVEN 2">
-    <title lang="pt">Laliga - Resumos Da Jornada 28</title>
-  </programme>
-  <programme start="20230410150000 +0100" stop="20230410170000 +0100" channel="ELEVEN 2">
-    <title lang="pt">Dortmund x Union - Bundesliga</title>
-  </programme>
-  <programme start="20230410170000 +0100" stop="20230410171500 +0100" channel="ELEVEN 2">
-    <title lang="pt">Premier League - Resumo - Wolves x Chelsea</title>
-  </programme>
-  <programme start="20230410171500 +0100" stop="20230410173000 +0100" channel="ELEVEN 2">
-    <title lang="pt">Laliga - Resumo - R. Vallecano x Atl. Madrid</title>
-  </programme>
-  <programme start="20230410173000 +0100" stop="20230410174500 +0100" channel="ELEVEN 2">
-    <title lang="pt">Premier League - Resumo - Southampton x Man City</title>
-  </programme>
-  <programme start="20230410174500 +0100" stop="20230410180000 +0100" channel="ELEVEN 2">
-    <title lang="pt">Bundesliga - Resumo - Freiburg x Bayern</title>
-  </programme>
-  <programme start="20230410180000 +0100" stop="20230410200000 +0100" channel="ELEVEN 2">
-    <title lang="pt">Real Madrid x Villarreal - La Liga</title>
-  </programme>
-  <programme start="20230410200000 +0100" stop="20230410220000 +0100" channel="ELEVEN 2">
-    <title lang="pt">Alavés x Andorra - La Liga (Direto)</title>
-  </programme>
-  <programme start="20230410220000 +0100" stop="20230411000000 +0100" channel="ELEVEN 2">
-    <title lang="pt">Nice x PSG - Ligue 1</title>
+  <programme start="20230417030000 +0100" stop="20230417040000 +0100" channel="ELEVEN 1">
+    <title lang="pt">Marseille x Troyes - Ligue 1</title>
   </programme>
   <programme start="20230411000000 +0100" stop="20230411020000 +0100" channel="ELEVEN 2">
     <title lang="pt">Barcelona x Girona - La Liga</title>
@@ -1432,14 +1348,14 @@
   <programme start="20230413220000 +0100" stop="20230414000000 +0100" channel="ELEVEN 2">
     <title lang="pt">Man City x Bayern - Liga Dos Campeões</title>
   </programme>
-  <programme start="20230414000000 +0100" stop="20230414050000 +0100" channel="ELEVEN 2">
+  <programme start="20230414000000 +0100" stop="20230414053000 +0100" channel="ELEVEN 2">
     <title lang="pt">PFL Regular Season - Perfect Fighter</title>
   </programme>
-  <programme start="20230414050000 +0100" stop="20230414070000 +0100" channel="ELEVEN 2">
+  <programme start="20230414053000 +0100" stop="20230414073000 +0100" channel="ELEVEN 2">
     <title lang="pt">Villarreal B x Málaga - La Liga</title>
   </programme>
-  <programme start="20230414070000 +0100" stop="20230414074500 +0100" channel="ELEVEN 2">
-    <title lang="pt">Laliga Talking Football</title>
+  <programme start="20230414073000 +0100" stop="20230414074500 +0100" channel="ELEVEN 2">
+    <title lang="pt">Laliga - Resumo - Barcelona x Girona</title>
   </programme>
   <programme start="20230414074500 +0100" stop="20230414080000 +0100" channel="ELEVEN 2">
     <title lang="pt">Laliga Zap</title>
@@ -1549,50 +1465,26 @@
   <programme start="20230416151500 +0100" stop="20230416173000 +0100" channel="ELEVEN 2">
     <title lang="pt">Getafe x Barcelona - La Liga (Direto)</title>
   </programme>
-  <programme start="20230410003000 +0100" stop="20230410010000 +0100" channel="ELEVEN 3">
-    <title lang="pt">Premier League Stories - Hall Of Fame, Pablo Zabaleta</title>
+  <programme start="20230416173000 +0100" stop="20230416194500 +0100" channel="ELEVEN 2">
+    <title lang="pt">Atl. Madrid x Almería - La Liga (Direto)</title>
   </programme>
-  <programme start="20230410010000 +0100" stop="20230410050000 +0100" channel="ELEVEN 3">
-    <title lang="pt">Sem Emissão</title>
+  <programme start="20230416194500 +0100" stop="20230416214500 +0100" channel="ELEVEN 2">
+    <title lang="pt">Marseille x Troyes - Ligue 1 (Direto)</title>
   </programme>
-  <programme start="20230410050000 +0100" stop="20230410100000 +0100" channel="ELEVEN 3">
-    <title lang="pt">Sem Emissão</title>
+  <programme start="20230416214500 +0100" stop="20230416220000 +0100" channel="ELEVEN 2">
+    <title lang="pt">Bundesliga - My Story</title>
   </programme>
-  <programme start="20230410100000 +0100" stop="20230410120000 +0100" channel="ELEVEN 3">
-    <title lang="pt">Basquetebol: Gran Canaria x Badalona - Liga Endesa</title>
+  <programme start="20230416220000 +0100" stop="20230417000000 +0100" channel="ELEVEN 2">
+    <title lang="pt">Nott´M Forest x Man United - Premier League</title>
   </programme>
-  <programme start="20230410120000 +0100" stop="20230410141500 +0100" channel="ELEVEN 3">
-    <title lang="pt">Tenis: WTA 1000 - Miami - Final</title>
+  <programme start="20230417000000 +0100" stop="20230417010000 +0100" channel="ELEVEN 2">
+    <title lang="pt">Premier Eleven</title>
   </programme>
-  <programme start="20230410141500 +0100" stop="20230410143000 +0100" channel="ELEVEN 3">
-    <title lang="pt">Tennis United</title>
+  <programme start="20230417010000 +0100" stop="20230417030000 +0100" channel="ELEVEN 2">
+    <title lang="pt">Lille x Montpellier - Ligue 1</title>
   </programme>
-  <programme start="20230410143000 +0100" stop="20230410163000 +0100" channel="ELEVEN 3">
-    <title lang="pt">Fulham x West Ham - Premier League</title>
-  </programme>
-  <programme start="20230410163000 +0100" stop="20230410173000 +0100" channel="ELEVEN 3">
-    <title lang="pt">Ligue 1 - Resumos Da Jornada 30</title>
-  </programme>
-  <programme start="20230410173000 +0100" stop="20230410193000 +0100" channel="ELEVEN 3">
-    <title lang="pt">Club Brugge x Seraing - Jupiler Pro League</title>
-  </programme>
-  <programme start="20230410193000 +0100" stop="20230410213000 +0100" channel="ELEVEN 3">
-    <title lang="pt">Basquetebol: Breogán x Real Madrid - Liga Endesa</title>
-  </programme>
-  <programme start="20230410213000 +0100" stop="20230410214500 +0100" channel="ELEVEN 3">
-    <title lang="pt">Liga ACB - Resumos Da Jornada</title>
-  </programme>
-  <programme start="20230410214500 +0100" stop="20230410220000 +0100" channel="ELEVEN 3">
-    <title lang="pt">BMX Ultimate X - África Do Sul</title>
-  </programme>
-  <programme start="20230410220000 +0100" stop="20230410223000 +0100" channel="ELEVEN 3">
-    <title lang="pt">Fora De Estrada</title>
-  </programme>
-  <programme start="20230410223000 +0100" stop="20230410230000 +0100" channel="ELEVEN 3">
-    <title lang="pt">Automobilismo: Formula E – The Recharge</title>
-  </programme>
-  <programme start="20230410230000 +0100" stop="20230411000000 +0100" channel="ELEVEN 3">
-    <title lang="pt">Extreme E - Highlights - Arábia Saudita</title>
+  <programme start="20230417030000 +0100" stop="20230417040000 +0100" channel="ELEVEN 2">
+    <title lang="pt">Wolfsburg x Leverkusen - Bundesliga</title>
   </programme>
   <programme start="20230411000000 +0100" stop="20230411010000 +0100" channel="ELEVEN 3">
     <title lang="pt">Boxe: Anthony Joshua x Jermaine Franklin</title>
@@ -1846,40 +1738,22 @@
   <programme start="20230416143000 +0100" stop="20230416163000 +0100" channel="ELEVEN 3">
     <title lang="pt">Bremen x Freiburg - Bundesliga (Direto)</title>
   </programme>
-  <programme start="20230410000000 +0100" stop="20230410020000 +0100" channel="ELEVEN 4">
-    <title lang="pt">Sem Emissão</title>
+  <programme start="20230416163000 +0100" stop="20230416183000 +0100" channel="ELEVEN 3">
+    <title lang="pt">Union x Bochum - Bundesliga (Direto)</title>
   </programme>
-  <programme start="20230410020000 +0100" stop="20230410040000 +0100" channel="ELEVEN 4">
-    <title lang="pt">Sem Emissão</title>
+  <programme start="20230416183000 +0100" stop="20230416203000 +0100" channel="ELEVEN 3">
+    <title lang="pt">Wolfsburg x Leverkusen - Bundesliga (Direto)</title>
   </programme>
-  <programme start="20230410040000 +0100" stop="20230410060000 +0100" channel="ELEVEN 4">
-    <title lang="pt">Sem Emissão</title>
+  <programme start="20230416203000 +0100" stop="20230416223000 +0100" channel="ELEVEN 3">
+    <title lang="pt">West Ham x Arsenal - Premier League</title>
   </programme>
-  <programme start="20230410060000 +0100" stop="20230410080000 +0100" channel="ELEVEN 4">
-    <title lang="pt">Sem Emissão</title>
+  <programme start="20230416223000 +0100" stop="20230416230000 +0100" channel="ELEVEN 3">
+    <title lang="pt">Premier League - The Big Interview</title>
   </programme>
-  <programme start="20230410080000 +0100" stop="20230410100000 +0100" channel="ELEVEN 4">
-    <title lang="pt">Sem Emissão</title>
+  <programme start="20230416230000 +0100" stop="20230417010000 +0100" channel="ELEVEN 3">
+    <title lang="pt">Atl. Madrid x Almería - Laliga Santander</title>
   </programme>
-  <programme start="20230410100000 +0100" stop="20230410120000 +0100" channel="ELEVEN 4">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20230410120000 +0100" stop="20230410140000 +0100" channel="ELEVEN 4">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20230410140000 +0100" stop="20230410160000 +0100" channel="ELEVEN 4">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20230410160000 +0100" stop="20230410180000 +0100" channel="ELEVEN 4">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20230410180000 +0100" stop="20230410200000 +0100" channel="ELEVEN 4">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20230410200000 +0100" stop="20230410220000 +0100" channel="ELEVEN 4">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20230410220000 +0100" stop="20230411000000 +0100" channel="ELEVEN 4">
+  <programme start="20230417010000 +0100" stop="20230417020000 +0100" channel="ELEVEN 3">
     <title lang="pt">Sem Emissão</title>
   </programme>
   <programme start="20230411000000 +0100" stop="20230411020000 +0100" channel="ELEVEN 4">
@@ -2107,22 +1981,22 @@
   <programme start="20230416160500 +0100" stop="20230416180000 +0100" channel="ELEVEN 4">
     <title lang="pt">Monaco x Lorient - Ligue 1 Uber Eats (Direto)</title>
   </programme>
-  <programme start="20230410000000 +0100" stop="20230410050000 +0100" channel="ELEVEN 5">
+  <programme start="20230416180000 +0100" stop="20230416200000 +0100" channel="ELEVEN 4">
+    <title lang="pt">Strasbourg x Ajaccio - Ligue 1 Uber Eats</title>
+  </programme>
+  <programme start="20230416200000 +0100" stop="20230416220000 +0100" channel="ELEVEN 4">
+    <title lang="pt">Tenerife x Baskonia - Liga Endesa</title>
+  </programme>
+  <programme start="20230416220000 +0100" stop="20230417000000 +0100" channel="ELEVEN 4">
     <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20230410050000 +0100" stop="20230410090000 +0100" channel="ELEVEN 5">
+  <programme start="20230417000000 +0100" stop="20230417020000 +0100" channel="ELEVEN 4">
     <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20230410090000 +0100" stop="20230410130000 +0100" channel="ELEVEN 5">
+  <programme start="20230417020000 +0100" stop="20230417040000 +0100" channel="ELEVEN 4">
     <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20230410130000 +0100" stop="20230410170000 +0100" channel="ELEVEN 5">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20230410170000 +0100" stop="20230410210000 +0100" channel="ELEVEN 5">
-    <title lang="pt">Sem Emissão</title>
-  </programme>
-  <programme start="20230410210000 +0100" stop="20230411000000 +0100" channel="ELEVEN 5">
+  <programme start="20230417040000 +0100" stop="20230417050000 +0100" channel="ELEVEN 4">
     <title lang="pt">Sem Emissão</title>
   </programme>
   <programme start="20230411000000 +0100" stop="20230411050000 +0100" channel="ELEVEN 5">
@@ -2260,23 +2134,56 @@
   <programme start="20230416160000 +0100" stop="20230416170000 +0100" channel="ELEVEN 5">
     <title lang="pt">1-To-11, Louis Saha</title>
   </programme>
-  <programme start="20230410000000 +0100" stop="20230410050000 +0100" channel="ELEVEN 6">
+  <programme start="20230416170000 +0100" stop="20230416173000 +0100" channel="ELEVEN 5">
+    <title lang="pt">Laliga Nations</title>
+  </programme>
+  <programme start="20230416173000 +0100" stop="20230416193000 +0100" channel="ELEVEN 5">
+    <title lang="pt">Barça x Real Madrid - Liga ACB</title>
+  </programme>
+  <programme start="20230416193000 +0100" stop="20230416200000 +0100" channel="ELEVEN 5">
+    <title lang="pt">UCL Magazine</title>
+  </programme>
+  <programme start="20230416200000 +0100" stop="20230416220000 +0100" channel="ELEVEN 5">
+    <title lang="pt">Monaco x Lorient - Ligue 1</title>
+  </programme>
+  <programme start="20230416220000 +0100" stop="20230417000000 +0100" channel="ELEVEN 5">
     <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20230410050000 +0100" stop="20230410100000 +0100" channel="ELEVEN 6">
-    <title lang="pt">Sem Emissão</title>
+  <programme start="20230417000000 +0100" stop="20230417020000 +0100" channel="ELEVEN 5">
+    <title lang="pt">Eleven 5</title>
   </programme>
-  <programme start="20230410100000 +0100" stop="20230410140000 +0100" channel="ELEVEN 6">
-    <title lang="pt">Sem Emissão</title>
+  <programme start="20230417020000 +0100" stop="20230417040000 +0100" channel="ELEVEN 5">
+    <title lang="pt">Eleven 5</title>
   </programme>
-  <programme start="20230410140000 +0100" stop="20230410180000 +0100" channel="ELEVEN 6">
-    <title lang="pt">Sem Emissão</title>
+  <programme start="20230417040000 +0100" stop="20230417060000 +0100" channel="ELEVEN 5">
+    <title lang="pt">Eleven 5</title>
   </programme>
-  <programme start="20230410180000 +0100" stop="20230410220000 +0100" channel="ELEVEN 6">
-    <title lang="pt">Sem Emissão</title>
+  <programme start="20230417060000 +0100" stop="20230417080000 +0100" channel="ELEVEN 5">
+    <title lang="pt">Eleven 5</title>
   </programme>
-  <programme start="20230410220000 +0100" stop="20230411020000 +0100" channel="ELEVEN 6">
-    <title lang="pt">Sem Emissão</title>
+  <programme start="20230417080000 +0100" stop="20230417100000 +0100" channel="ELEVEN 5">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20230417100000 +0100" stop="20230417120000 +0100" channel="ELEVEN 5">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20230417120000 +0100" stop="20230417140000 +0100" channel="ELEVEN 5">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20230417140000 +0100" stop="20230417160000 +0100" channel="ELEVEN 5">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20230417160000 +0100" stop="20230417180000 +0100" channel="ELEVEN 5">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20230417180000 +0100" stop="20230417200000 +0100" channel="ELEVEN 5">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20230417200000 +0100" stop="20230417220000 +0100" channel="ELEVEN 5">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20230417220000 +0100" stop="20230418000000 +0100" channel="ELEVEN 5">
+    <title lang="pt">Eleven 5</title>
   </programme>
   <programme start="20230411020000 +0100" stop="20230411050000 +0100" channel="ELEVEN 6">
     <title lang="pt">Sem Emissão</title>
@@ -2425,56 +2332,32 @@
   <programme start="20230416160000 +0100" stop="20230416180000 +0100" channel="ELEVEN 6">
     <title lang="pt">Lille x Montpellier - Ligue 1</title>
   </programme>
-  <programme start="20230410004000 +0100" stop="20230410011000 +0100" channel="SPORT.TV1">
-    <title lang="pt">Palmeiras x Água Santa - Camp. Paulista</title>
+  <programme start="20230416180000 +0100" stop="20230416200000 +0100" channel="ELEVEN 6">
+    <title lang="pt">Girona x Elche - La Liga</title>
   </programme>
-  <programme start="20230410011000 +0100" stop="20230410013000 +0100" channel="SPORT.TV1">
-    <title lang="pt">Liga Eredivisie: Golos Da 28ª Jornada</title>
+  <programme start="20230416200000 +0100" stop="20230416220000 +0100" channel="ELEVEN 6">
+    <title lang="pt">Bremen x Freiburg - Bundesliga</title>
   </programme>
-  <programme start="20230410013000 +0100" stop="20230410033000 +0100" channel="SPORT.TV1">
-    <title lang="pt">Boca Juniors x Colón - Camp. Argentino (Direto)</title>
+  <programme start="20230416220000 +0100" stop="20230417020000 +0100" channel="ELEVEN 6">
+    <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20230410033000 +0100" stop="20230410053000 +0100" channel="SPORT.TV1">
-    <title lang="pt">Al Feiha x Al-Nassr - Liga Arábia Saudita</title>
+  <programme start="20230417020000 +0100" stop="20230417050000 +0100" channel="ELEVEN 6">
+    <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20230410053000 +0100" stop="20230410060000 +0100" channel="SPORT.TV1">
-    <title lang="pt">Fluminense x Flamengo - Camp. Carioca</title>
+  <programme start="20230417050000 +0100" stop="20230417100000 +0100" channel="ELEVEN 6">
+    <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20230410060000 +0100" stop="20230410082000 +0100" channel="SPORT.TV1">
-    <title lang="pt">NBA: Phoenix Suns x LA Clippers</title>
+  <programme start="20230417100000 +0100" stop="20230417120000 +0100" channel="ELEVEN 6">
+    <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20230410082000 +0100" stop="20230410101500 +0100" channel="SPORT.TV1">
-    <title lang="pt">Feyenoord x RKC Waalwijk - Eredivisie</title>
+  <programme start="20230417120000 +0100" stop="20230417160000 +0100" channel="ELEVEN 6">
+    <title lang="pt">ELEVEN 6</title>
   </programme>
-  <programme start="20230410101500 +0100" stop="20230410122500 +0100" channel="SPORT.TV1">
-    <title lang="pt">Casa Pia AC x Sporting - Primeira Liga</title>
+  <programme start="20230417160000 +0100" stop="20230417200000 +0100" channel="ELEVEN 6">
+    <title lang="pt">ELEVEN 6</title>
   </programme>
-  <programme start="20230410122500 +0100" stop="20230410125500 +0100" channel="SPORT.TV1">
-    <title lang="pt">Primeira Liga: Resumo Da Jornada 27</title>
-  </programme>
-  <programme start="20230410125500 +0100" stop="20230410132500 +0100" channel="SPORT.TV1">
-    <title lang="pt">Liga Italiana: Resumo Da Jornada 29</title>
-  </programme>
-  <programme start="20230410132500 +0100" stop="20230410133500 +0100" channel="SPORT.TV1">
-    <title lang="pt">Liga Eredivisie: Golos Da 28ª Jornada</title>
-  </programme>
-  <programme start="20230410133500 +0100" stop="20230410153500 +0100" channel="SPORT.TV1">
-    <title lang="pt">Fluminense x Flamengo - Camp. Carioca</title>
-  </programme>
-  <programme start="20230410153500 +0100" stop="20230410173000 +0100" channel="SPORT.TV1">
-    <title lang="pt">Palmeiras x Água Santa - Camp. Paulista</title>
-  </programme>
-  <programme start="20230410173000 +0100" stop="20230410193000 +0100" channel="SPORT.TV1">
-    <title lang="pt">Al Feiha x Al-Nassr - Liga Arábia Saudita</title>
-  </programme>
-  <programme start="20230410193000 +0100" stop="20230410201500 +0100" channel="SPORT.TV1">
-    <title lang="pt">Casa Pia AC x Sporting - Primeira Liga</title>
-  </programme>
-  <programme start="20230410201500 +0100" stop="20230410223000 +0100" channel="SPORT.TV1">
-    <title lang="pt">Gil Vicente FC x GD Chaves - Primeira Liga (Direto)</title>
-  </programme>
-  <programme start="20230410223000 +0100" stop="20230411002500 +0100" channel="SPORT.TV1">
-    <title lang="pt">Karagumruk x Fenerbahçe - Superliga Turca</title>
+  <programme start="20230417200000 +0100" stop="20230418000000 +0100" channel="ELEVEN 6">
+    <title lang="pt">ELEVEN 6</title>
   </programme>
   <programme start="20230411002500 +0100" stop="20230411012000 +0100" channel="SPORT.TV1">
     <title lang="pt">Liga Europa: Magazine</title>
@@ -2497,31 +2380,31 @@
   <programme start="20230411043000 +0100" stop="20230411050000 +0100" channel="SPORT.TV1">
     <title lang="pt">NBA - Magazine</title>
   </programme>
-  <programme start="20230411050000 +0100" stop="20230411060000 +0100" channel="SPORT.TV1">
+  <programme start="20230411050000 +0100" stop="20230411071000 +0100" channel="SPORT.TV1">
     <title lang="pt">NBA: Phoenix Suns x LA Clippers</title>
   </programme>
-  <programme start="20230411060000 +0100" stop="20230411071000 +0100" channel="SPORT.TV1">
-    <title lang="pt">NBA: Phoenix Suns x LA Clippers</title>
-  </programme>
-  <programme start="20230411071000 +0100" stop="20230411093000 +0100" channel="SPORT.TV1">
+  <programme start="20230411071000 +0100" stop="20230411090000 +0100" channel="SPORT.TV1">
     <title lang="pt">Rugby: Leinster Rugby x Leicester Tigers - Taça Dos Campeões</title>
+  </programme>
+  <programme start="20230411090000 +0100" stop="20230411093000 +0100" channel="SPORT.TV1">
+    <title lang="pt">Ténis: ATP World Tour Uncovered - Magazine</title>
   </programme>
   <programme start="20230411093000 +0100" stop="20230411114000 +0100" channel="SPORT.TV1">
     <title lang="pt">Gil Vicente FC x GD Chaves - Primeira Liga</title>
   </programme>
-  <programme start="20230411114000 +0100" stop="20230411133000 +0100" channel="SPORT.TV1">
+  <programme start="20230411114000 +0100" stop="20230411133500 +0100" channel="SPORT.TV1">
     <title lang="pt">Karagumruk x Fenerbahçe - Superliga Turca</title>
   </programme>
-  <programme start="20230411133000 +0100" stop="20230411153000 +0100" channel="SPORT.TV1">
+  <programme start="20230411133500 +0100" stop="20230411153000 +0100" channel="SPORT.TV1">
     <title lang="pt">Salernitana x Inter Milão - Liga Italiana</title>
   </programme>
-  <programme start="20230411153000 +0100" stop="20230411160000 +0100" channel="SPORT.TV1">
+  <programme start="20230411153000 +0100" stop="20230411155500 +0100" channel="SPORT.TV1">
     <title lang="pt">Liga Italiana: Resumo Da Jornada 29</title>
   </programme>
-  <programme start="20230411160000 +0100" stop="20230411163000 +0100" channel="SPORT.TV1">
+  <programme start="20230411155500 +0100" stop="20230411162000 +0100" channel="SPORT.TV1">
     <title lang="pt">Eredivisie: Resumo Da Jornada 28</title>
   </programme>
-  <programme start="20230411163000 +0100" stop="20230411170000 +0100" channel="SPORT.TV1">
+  <programme start="20230411162000 +0100" stop="20230411170000 +0100" channel="SPORT.TV1">
     <title lang="pt">Primeira Liga: Resumo Da Jornada 27</title>
   </programme>
   <programme start="20230411170000 +0100" stop="20230411190000 +0100" channel="SPORT.TV1">
@@ -2533,32 +2416,35 @@
   <programme start="20230411201000 +0100" stop="20230411221000 +0100" channel="SPORT.TV1">
     <title lang="pt">Futebol Fem.: França x Canadá - Jogo de Preparação (Direto)</title>
   </programme>
-  <programme start="20230411221000 +0100" stop="20230411224000 +0100" channel="SPORT.TV1">
+  <programme start="20230411221000 +0100" stop="20230411223000 +0100" channel="SPORT.TV1">
     <title lang="pt">Primeria Liga: Golos Da Jornada 27</title>
   </programme>
-  <programme start="20230411224000 +0100" stop="20230411230000 +0100" channel="SPORT.TV1">
+  <programme start="20230411223000 +0100" stop="20230411225000 +0100" channel="SPORT.TV1">
     <title lang="pt">Liga Escocesa: Resumo Da Jornada 31</title>
   </programme>
-  <programme start="20230411230000 +0100" stop="20230411233000 +0100" channel="SPORT.TV1">
+  <programme start="20230411225000 +0100" stop="20230411232500 +0100" channel="SPORT.TV1">
     <title lang="pt">Superliga Turca: Resumo Da Jornada 28</title>
   </programme>
-  <programme start="20230411233000 +0100" stop="20230412000000 +0100" channel="SPORT.TV1">
+  <programme start="20230411232500 +0100" stop="20230412000000 +0100" channel="SPORT.TV1">
     <title lang="pt">Eredivisie: Resumo Da Jornada 28</title>
   </programme>
-  <programme start="20230412000000 +0100" stop="20230412023000 +0100" channel="SPORT.TV1">
-    <title lang="pt">NBA: Play-In (Direto)</title>
+  <programme start="20230412000000 +0100" stop="20230412003000 +0100" channel="SPORT.TV1">
+    <title lang="pt">NBA Action - Magazine</title>
   </programme>
-  <programme start="20230412023000 +0100" stop="20230412050000 +0100" channel="SPORT.TV1">
-    <title lang="pt">NBA: Play-In (Direto)</title>
+  <programme start="20230412003000 +0100" stop="20230412030000 +0100" channel="SPORT.TV1">
+    <title lang="pt">NBA: Miami x Atlanta - Play-In (Direto)</title>
   </programme>
-  <programme start="20230412050000 +0100" stop="20230412060000 +0100" channel="SPORT.TV1">
+  <programme start="20230412030000 +0100" stop="20230412053000 +0100" channel="SPORT.TV1">
+    <title lang="pt">NBA: La Lakers x Minnesota - Play-In (Direto)</title>
+  </programme>
+  <programme start="20230412053000 +0100" stop="20230412060000 +0100" channel="SPORT.TV1">
     <title lang="pt">Rugby: Stade Rochelais x Saracens - Taça Dos Campeões</title>
   </programme>
   <programme start="20230412060000 +0100" stop="20230412070000 +0100" channel="SPORT.TV1">
-    <title lang="pt">Rugby: Taça Dos Campeões</title>
+    <title lang="pt">Rugby: Stade Rochelais x Saracens - Taça Dos Campeões</title>
   </programme>
   <programme start="20230412070000 +0100" stop="20230412073000 +0100" channel="SPORT.TV1">
-    <title lang="pt">NBA - Magazine</title>
+    <title lang="pt">NBA Action - Magazine</title>
   </programme>
   <programme start="20230412073000 +0100" stop="20230412082000 +0100" channel="SPORT.TV1">
     <title lang="pt">Taça Libertadores: Resumo Da 1ª Jornada</title>
@@ -2569,38 +2455,38 @@
   <programme start="20230412101000 +0100" stop="20230412120000 +0100" channel="SPORT.TV1">
     <title lang="pt">AC Milan x Empoli - Liga Italiana</title>
   </programme>
-  <programme start="20230412120000 +0100" stop="20230412140000 +0100" channel="SPORT.TV1">
+  <programme start="20230412120000 +0100" stop="20230412135500 +0100" channel="SPORT.TV1">
     <title lang="pt">Lecce x Nápoles - Liga Italiana</title>
   </programme>
-  <programme start="20230412140000 +0100" stop="20230412143000 +0100" channel="SPORT.TV1">
+  <programme start="20230412135500 +0100" stop="20230412141500 +0100" channel="SPORT.TV1">
     <title lang="pt">Primeria Liga: Golos Da Jornada 27</title>
   </programme>
-  <programme start="20230412143000 +0100" stop="20230412145000 +0100" channel="SPORT.TV1">
+  <programme start="20230412141500 +0100" stop="20230412143000 +0100" channel="SPORT.TV1">
     <title lang="pt">Liga Escocesa: Resumo Da Jornada 31</title>
   </programme>
-  <programme start="20230412145000 +0100" stop="20230412152000 +0100" channel="SPORT.TV1">
-    <title lang="pt">Superliga Turca: Resumo Da Jornada 27</title>
+  <programme start="20230412143000 +0100" stop="20230412150000 +0100" channel="SPORT.TV1">
+    <title lang="pt">Superliga Turca: Resumo Da Jornada 28</title>
   </programme>
-  <programme start="20230412152000 +0100" stop="20230412172000 +0100" channel="SPORT.TV1">
+  <programme start="20230412150000 +0100" stop="20230412171000 +0100" channel="SPORT.TV1">
     <title lang="pt">Fluminense x Flamengo - Camp. Carioca</title>
   </programme>
-  <programme start="20230412172000 +0100" stop="20230412193000 +0100" channel="SPORT.TV1">
+  <programme start="20230412171000 +0100" stop="20230412193000 +0100" channel="SPORT.TV1">
     <title lang="pt">Palmeiras x Água Santa - Camp. Paulista</title>
   </programme>
   <programme start="20230412193000 +0100" stop="20230412214000 +0100" channel="SPORT.TV1">
     <title lang="pt">Nacional x SC Braga - Taça de Portugal (Direto)</title>
   </programme>
-  <programme start="20230412214000 +0100" stop="20230412221000 +0100" channel="SPORT.TV1">
-    <title lang="pt">Segunda Liga: Magazine</title>
+  <programme start="20230412214000 +0100" stop="20230412220500 +0100" channel="SPORT.TV1">
+    <title lang="pt">Segunda Liga: Magazine Da Jornada</title>
   </programme>
-  <programme start="20230412221000 +0100" stop="20230413000000 +0100" channel="SPORT.TV1">
+  <programme start="20230412220500 +0100" stop="20230413000000 +0100" channel="SPORT.TV1">
     <title lang="pt">Lazio x Juventus - Liga Italiana</title>
   </programme>
   <programme start="20230413000000 +0100" stop="20230413023000 +0100" channel="SPORT.TV1">
-    <title lang="pt">NBA: Play-In (Direto)</title>
+    <title lang="pt">NBA: Toronto x Chicago - Play-In (Direto)</title>
   </programme>
   <programme start="20230413023000 +0100" stop="20230413050000 +0100" channel="SPORT.TV1">
-    <title lang="pt">NBA: Play-In (Direto)</title>
+    <title lang="pt">NBA: New Orleans x Oklahoma City - Play-In (Direto)</title>
   </programme>
   <programme start="20230413050000 +0100" stop="20230413060000 +0100" channel="SPORT.TV1">
     <title lang="pt">Basquetebol: UCAM Murcia x Unicaja - Liga dos Campeões</title>
@@ -2785,50 +2671,68 @@
   <programme start="20230416153000 +0100" stop="20230416180000 +0100" channel="SPORT.TV1">
     <title lang="pt">Rio Ave FC x Casa Pia AC - Primeira Liga (Direto)</title>
   </programme>
-  <programme start="20230410000000 +0100" stop="20230410020000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Ténis: ATP World Tour 250 - Houston (Direto)</title>
+  <programme start="20230416180000 +0100" stop="20230416203000 +0100" channel="SPORT.TV1">
+    <title lang="pt">SC Braga x Gil Vicente FC - Primeira Liga (Direto)</title>
   </programme>
-  <programme start="20230410020000 +0100" stop="20230410041000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Palmeiras x Água Santa - Camp. Paulista</title>
+  <programme start="20230416203000 +0100" stop="20230416230000 +0100" channel="SPORT.TV1">
+    <title lang="pt">Sporting x FC Arouca - Primeira Liga (Direto)</title>
   </programme>
-  <programme start="20230410041000 +0100" stop="20230410060000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Dundee United x Hibernian - Liga Escocesa</title>
+  <programme start="20230416230000 +0100" stop="20230417005000 +0100" channel="SPORT.TV1">
+    <title lang="pt">Sassuolo x Juventus - Liga Italiana</title>
   </programme>
-  <programme start="20230410060000 +0100" stop="20230410072000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Ibercup: Final Masculina - 2009</title>
+  <programme start="20230417005000 +0100" stop="20230417025000 +0100" channel="SPORT.TV1">
+    <title lang="pt">AS Roma x Udinese - Liga Italiana</title>
   </programme>
-  <programme start="20230410072000 +0100" stop="20230410084000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Ibercup: Final Masculina - 2007</title>
+  <programme start="20230417025000 +0100" stop="20230417032000 +0100" channel="SPORT.TV1">
+    <title lang="pt">Primeira Liga: Resumo Da Jornada 28</title>
   </programme>
-  <programme start="20230410084000 +0100" stop="20230410100000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Ibercup: Final Masculina - 2008</title>
+  <programme start="20230417032000 +0100" stop="20230417035000 +0100" channel="SPORT.TV1">
+    <title lang="pt">Liga Italiana: Resumo Da Jornada 30</title>
   </programme>
-  <programme start="20230410100000 +0100" stop="20230410112000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Ibercup: Final Feminina - 2007</title>
+  <programme start="20230417035000 +0100" stop="20230417040000 +0100" channel="SPORT.TV1">
+    <title lang="pt">Liga Eredivisie: Golos Da 29ª Jornada</title>
   </programme>
-  <programme start="20230410112000 +0100" stop="20230410124000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Torneio Internacional Infantil: 3º e 4º Lugares</title>
+  <programme start="20230417040000 +0100" stop="20230417060000 +0100" channel="SPORT.TV1">
+    <title lang="pt">NBA: Play-Offs</title>
   </programme>
-  <programme start="20230410124000 +0100" stop="20230410140500 +0100" channel="SPORT.TV2">
-    <title lang="pt">Torneio Internacional Infantil - Final</title>
+  <programme start="20230417060000 +0100" stop="20230417061000 +0100" channel="SPORT.TV1">
+    <title lang="pt">NBA: Play-Offs</title>
   </programme>
-  <programme start="20230410140500 +0100" stop="20230410160000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Besiktas x Giresunspor - Superliga Turca</title>
+  <programme start="20230417061000 +0100" stop="20230417081000 +0100" channel="SPORT.TV1">
+    <title lang="pt">CD Feirense x FC Porto B - Segunda Liga</title>
   </programme>
-  <programme start="20230410160000 +0100" stop="20230410175500 +0100" channel="SPORT.TV2">
-    <title lang="pt">Feyenoord x RKC Waalwijk - Eredivisie</title>
+  <programme start="20230417081000 +0100" stop="20230417102000 +0100" channel="SPORT.TV1">
+    <title lang="pt">Rio Ave FC x Casa Pia AC - Primeira Liga</title>
   </programme>
-  <programme start="20230410175500 +0100" stop="20230410195000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Ajax x Fortuna Sittard - Eredivisie</title>
+  <programme start="20230417102000 +0100" stop="20230417123000 +0100" channel="SPORT.TV1">
+    <title lang="pt">SC Braga x Gil Vicente FC - Primeira Liga</title>
   </programme>
-  <programme start="20230410195000 +0100" stop="20230410214500 +0100" channel="SPORT.TV2">
-    <title lang="pt">Fluminense x Flamengo - Camp. Carioca</title>
+  <programme start="20230417123000 +0100" stop="20230417144000 +0100" channel="SPORT.TV1">
+    <title lang="pt">Sporting x FC Arouca - Primeira Liga</title>
   </programme>
-  <programme start="20230410214500 +0100" stop="20230410234000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Palmeiras x Água Santa - Camp. Paulista</title>
+  <programme start="20230417144000 +0100" stop="20230417151000 +0100" channel="SPORT.TV1">
+    <title lang="pt">Primeira Liga: Resumo Da Jornada 28</title>
   </programme>
-  <programme start="20230410234000 +0100" stop="20230411013500 +0100" channel="SPORT.TV2">
-    <title lang="pt">Salernitana x Inter Milão - Liga Italiana</title>
+  <programme start="20230417151000 +0100" stop="20230417154000 +0100" channel="SPORT.TV1">
+    <title lang="pt">Liga Italiana: Resumo Da Jornada 30</title>
+  </programme>
+  <programme start="20230417154000 +0100" stop="20230417155000 +0100" channel="SPORT.TV1">
+    <title lang="pt">Liga Eredivisie: Golos Da 29ª Jornada</title>
+  </programme>
+  <programme start="20230417155000 +0100" stop="20230417180000 +0100" channel="SPORT.TV1">
+    <title lang="pt">FC Porto x Santa Clara - Primeira Liga</title>
+  </programme>
+  <programme start="20230417180000 +0100" stop="20230417201500 +0100" channel="SPORT.TV1">
+    <title lang="pt">GD Chaves x Benfica - Primeira Liga</title>
+  </programme>
+  <programme start="20230417201500 +0100" stop="20230417223000 +0100" channel="SPORT.TV1">
+    <title lang="pt">FC Vizela x Boavista FC - Primeira Liga (Direto)</title>
+  </programme>
+  <programme start="20230417223000 +0100" stop="20230417233000 +0100" channel="SPORT.TV1">
+    <title lang="pt">Liga Europa: Magazine</title>
+  </programme>
+  <programme start="20230417233000 +0100" stop="20230418000000 +0100" channel="SPORT.TV1">
+    <title lang="pt">Primeira Liga: Resumo Da Jornada 28</title>
   </programme>
   <programme start="20230411013500 +0100" stop="20230411033000 +0100" channel="SPORT.TV2">
     <title lang="pt">Ténis: ATP World Tour 1000 - Monte-Carlo</title>
@@ -2836,7 +2740,10 @@
   <programme start="20230411033000 +0100" stop="20230411052000 +0100" channel="SPORT.TV2">
     <title lang="pt">Ténis: ATP World Tour 1000 - Monte-Carlo</title>
   </programme>
-  <programme start="20230411052000 +0100" stop="20230411071000 +0100" channel="SPORT.TV2">
+  <programme start="20230411052000 +0100" stop="20230411060000 +0100" channel="SPORT.TV2">
+    <title lang="pt">Ténis: ATP World Tour 1000 - Monte-Carlo</title>
+  </programme>
+  <programme start="20230411060000 +0100" stop="20230411071000 +0100" channel="SPORT.TV2">
     <title lang="pt">Ténis: ATP World Tour 1000 - Monte-Carlo</title>
   </programme>
   <programme start="20230411071000 +0100" stop="20230411080500 +0100" channel="SPORT.TV2">
@@ -2851,10 +2758,10 @@
   <programme start="20230411115500 +0100" stop="20230411135000 +0100" channel="SPORT.TV2">
     <title lang="pt">Lazio x Juventus - Liga Italiana</title>
   </programme>
-  <programme start="20230411135000 +0100" stop="20230411155000 +0100" channel="SPORT.TV2">
+  <programme start="20230411135000 +0100" stop="20230411155500 +0100" channel="SPORT.TV2">
     <title lang="pt">Al Feiha x Al-Nassr - Liga Arábia Saudita</title>
   </programme>
-  <programme start="20230411155000 +0100" stop="20230411174000 +0100" channel="SPORT.TV2">
+  <programme start="20230411155500 +0100" stop="20230411174000 +0100" channel="SPORT.TV2">
     <title lang="pt">Celtic x Rangers - Liga Escocesa</title>
   </programme>
   <programme start="20230411174000 +0100" stop="20230411194500 +0100" channel="SPORT.TV2">
@@ -2881,37 +2788,40 @@
   <programme start="20230412073000 +0100" stop="20230412093000 +0100" channel="SPORT.TV2">
     <title lang="pt">Futebol Fem.: França x Canadá - Jogo de Preparação</title>
   </programme>
-  <programme start="20230412093000 +0100" stop="20230412133000 +0100" channel="SPORT.TV2">
+  <programme start="20230412093000 +0100" stop="20230412113000 +0100" channel="SPORT.TV2">
     <title lang="pt">Fem.: Inglaterra x Austrália - Jogo de Preparação</title>
+  </programme>
+  <programme start="20230412113000 +0100" stop="20230412133000 +0100" channel="SPORT.TV2">
+    <title lang="pt">Fem.: Alemanha x Brasil - Jogo de Preparação</title>
   </programme>
   <programme start="20230412133000 +0100" stop="20230412170000 +0100" channel="SPORT.TV2">
     <title lang="pt">Golfe: Masters 2023 - 4º Dia</title>
   </programme>
-  <programme start="20230412170000 +0100" stop="20230412190000 +0100" channel="SPORT.TV2">
+  <programme start="20230412170000 +0100" stop="20230412185500 +0100" channel="SPORT.TV2">
     <title lang="pt">Basquetebol: Lietkabelis x Paris Basketball - Eurocup (Direto)</title>
   </programme>
-  <programme start="20230412190000 +0100" stop="20230412193000 +0100" channel="SPORT.TV2">
+  <programme start="20230412185500 +0100" stop="20230412192500 +0100" channel="SPORT.TV2">
     <title lang="pt">NBA - Magazine</title>
   </programme>
-  <programme start="20230412193000 +0100" stop="20230412200000 +0100" channel="SPORT.TV2">
+  <programme start="20230412192500 +0100" stop="20230412195500 +0100" channel="SPORT.TV2">
     <title lang="pt">Fluminense x Flamengo - Camp. Carioca</title>
   </programme>
-  <programme start="20230412200000 +0100" stop="20230412203000 +0100" channel="SPORT.TV2">
+  <programme start="20230412195500 +0100" stop="20230412203000 +0100" channel="SPORT.TV2">
     <title lang="pt">Palmeiras x Água Santa - Camp. Paulista</title>
   </programme>
-  <programme start="20230412203000 +0100" stop="20230412223000 +0100" channel="SPORT.TV2">
+  <programme start="20230412203000 +0100" stop="20230412222500 +0100" channel="SPORT.TV2">
     <title lang="pt">San Lorenzo x Boca Juniors - Camp. Argentino (Direto)</title>
   </programme>
-  <programme start="20230412223000 +0100" stop="20230412230000 +0100" channel="SPORT.TV2">
+  <programme start="20230412222500 +0100" stop="20230412230000 +0100" channel="SPORT.TV2">
     <title lang="pt">Liga Italiana: Série A Full Impact</title>
   </programme>
   <programme start="20230412230000 +0100" stop="20230413010000 +0100" channel="SPORT.TV2">
     <title lang="pt">Racing x Newell´s - Camp. Argentino (Direto)</title>
   </programme>
-  <programme start="20230413010000 +0100" stop="20230413020000 +0100" channel="SPORT.TV2">
+  <programme start="20230413010000 +0100" stop="20230413015500 +0100" channel="SPORT.TV2">
     <title lang="pt">Liga Europa: Magazine</title>
   </programme>
-  <programme start="20230413020000 +0100" stop="20230413040000 +0100" channel="SPORT.TV2">
+  <programme start="20230413015500 +0100" stop="20230413040000 +0100" channel="SPORT.TV2">
     <title lang="pt">Ténis: ATP World Tour 1000 - Monte-Carlo</title>
   </programme>
   <programme start="20230413040000 +0100" stop="20230413060000 +0100" channel="SPORT.TV2">
@@ -3049,35 +2959,41 @@
   <programme start="20230416160000 +0100" stop="20230416163000 +0100" channel="SPORT.TV2">
     <title lang="pt">Inter Milão x Monza - Liga Italiana</title>
   </programme>
-  <programme start="20230410001000 +0100" stop="20230410010000 +0100" channel="SPORT.TV3">
-    <title lang="pt">UFC: Pereira x Adesanya 2</title>
+  <programme start="20230416163000 +0100" stop="20230416170000 +0100" channel="SPORT.TV2">
+    <title lang="pt">Nápoles x Hellas Verona - Liga Italiana</title>
   </programme>
-  <programme start="20230410010000 +0100" stop="20230410030000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Ténis: ATP World Tour 250 - Marrakech - Final</title>
+  <programme start="20230416170000 +0100" stop="20230416190000 +0100" channel="SPORT.TV2">
+    <title lang="pt">Sassuolo x Juventus - Liga Italiana (Direto)</title>
   </programme>
-  <programme start="20230410030000 +0100" stop="20230410051000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Ténis: ATP World Tour 250 - Houston - Final</title>
+  <programme start="20230416190000 +0100" stop="20230416193000 +0100" channel="SPORT.TV2">
+    <title lang="pt">Bolonha x AC Milan - Liga Italiana</title>
   </programme>
-  <programme start="20230410051000 +0100" stop="20230410130000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+  <programme start="20230416193000 +0100" stop="20230416194500 +0100" channel="SPORT.TV2">
+    <title lang="pt">Roma x Udinese - Liga Italiana (Direto)</title>
   </programme>
-  <programme start="20230410130000 +0100" stop="20230410151000 +0100" channel="SPORT.TV3">
-    <title lang="pt">NBA: Phoenix Suns x LA Clippers</title>
+  <programme start="20230416194500 +0100" stop="20230416234000 +0100" channel="SPORT.TV2">
+    <title lang="pt">AS Roma x Udinese - Liga Italiana (Direto)</title>
   </programme>
-  <programme start="20230410151000 +0100" stop="20230410152000 +0100" channel="SPORT.TV3">
-    <title lang="pt">2º Torneio Circuito FPG - Ribagolfe Lakes</title>
+  <programme start="20230416234000 +0100" stop="20230417013000 +0100" channel="SPORT.TV2">
+    <title lang="pt">Ajax x FC Emmen - Eredivisie</title>
   </programme>
-  <programme start="20230410152000 +0100" stop="20230410183000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Golfe: Masters 2023 - 4º Dia</title>
+  <programme start="20230417013000 +0100" stop="20230417034000 +0100" channel="SPORT.TV2">
+    <title lang="pt">Sporting x FC Arouca - Primeira Liga</title>
   </programme>
-  <programme start="20230410183000 +0100" stop="20230410203000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Karagumruk x Fenerbahçe - Superliga Turca (Direto)</title>
+  <programme start="20230417034000 +0100" stop="20230417053000 +0100" channel="SPORT.TV2">
+    <title lang="pt">Lecce x Sampdoria - Liga Italiana</title>
   </programme>
-  <programme start="20230410203000 +0100" stop="20230410230000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Ténis: ATP World Tour 1000 - Monte Carlo</title>
+  <programme start="20230417053000 +0100" stop="20230417110000 +0100" channel="SPORT.TV2">
+    <title lang="pt">SPORTTV 2</title>
   </programme>
-  <programme start="20230410230000 +0100" stop="20230411000000 +0100" channel="SPORT.TV3">
-    <title lang="pt">UFC: Pereira x Adesanya 2</title>
+  <programme start="20230417110000 +0100" stop="20230417170000 +0100" channel="SPORT.TV2">
+    <title lang="pt">SPORTTV 2</title>
+  </programme>
+  <programme start="20230417170000 +0100" stop="20230417220000 +0100" channel="SPORT.TV2">
+    <title lang="pt">SPORTTV 2</title>
+  </programme>
+  <programme start="20230417220000 +0100" stop="20230418000000 +0100" channel="SPORT.TV2">
+    <title lang="pt">SPORTTV 2</title>
   </programme>
   <programme start="20230411000000 +0100" stop="20230411130000 +0100" channel="SPORT.TV3">
     <title lang="pt">Liga Arena Championship De MMA - Programa 1</title>
@@ -3107,10 +3023,10 @@
     <title lang="pt">MMA: Magazine - One Championship</title>
   </programme>
   <programme start="20230412130000 +0100" stop="20230412151000 +0100" channel="SPORT.TV3">
-    <title lang="pt">NBA: Play-In</title>
+    <title lang="pt">NBA: Miami x Atlanta - Play-In</title>
   </programme>
   <programme start="20230412151000 +0100" stop="20230412172000 +0100" channel="SPORT.TV3">
-    <title lang="pt">NBA: Play-In</title>
+    <title lang="pt">NBA: LA Lakers x Minnesota - Play-In</title>
   </programme>
   <programme start="20230412172000 +0100" stop="20230412193000 +0100" channel="SPORT.TV3">
     <title lang="pt">NHL: Tampa Bay x Toronto</title>
@@ -3125,16 +3041,16 @@
     <title lang="pt">Golfe: Lotte Championship - 1º Dia (Direto)</title>
   </programme>
   <programme start="20230413130000 +0100" stop="20230413151000 +0100" channel="SPORT.TV3">
-    <title lang="pt">NBA: Play-In</title>
+    <title lang="pt">NBA: Toronto x Chicago - Play-In</title>
   </programme>
   <programme start="20230413151000 +0100" stop="20230413173000 +0100" channel="SPORT.TV3">
-    <title lang="pt">NBA: Play-In</title>
+    <title lang="pt">NBA: New Orleans x Oklahoma City - Play-In</title>
   </programme>
   <programme start="20230413173000 +0100" stop="20230413192000 +0100" channel="SPORT.TV3">
     <title lang="pt">NHL: NY Islanders x Montreal</title>
   </programme>
   <programme start="20230413192000 +0100" stop="20230413200000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Ténis: Magazine</title>
+    <title lang="pt">Ténis: ATP World Tour Uncovered</title>
   </programme>
   <programme start="20230413200000 +0100" stop="20230413220000 +0100" channel="SPORT.TV3">
     <title lang="pt">B. Leverkusen x Saint Gilloise - Liga Europa (Direto)</title>
@@ -3170,7 +3086,7 @@
     <title lang="pt">Golfe: Lotte Championship - 3º Dia (Direto)</title>
   </programme>
   <programme start="20230415080000 +0100" stop="20230415083000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Ténis: Magazine</title>
+    <title lang="pt">Ténis: ATP World Tour Uncovered</title>
   </programme>
   <programme start="20230415083000 +0100" stop="20230415103000 +0100" channel="SPORT.TV3">
     <title lang="pt">Ténis: Cazaquistão x Polónia - Billie Jean King Cup (Direto)</title>
@@ -3217,35 +3133,41 @@
   <programme start="20230416154500 +0100" stop="20230416190000 +0100" channel="SPORT.TV3">
     <title lang="pt">Cambuur x Feyenoord - Eredivisie</title>
   </programme>
-  <programme start="20230410000000 +0100" stop="20230410050000 +0100" channel="SPORT.TV4">
-    <title lang="pt">NASCAR Cup Series: Food City Dirt Race - Bristol (Direto)</title>
+  <programme start="20230416190000 +0100" stop="20230416210000 +0100" channel="SPORT.TV3">
+    <title lang="pt">Ajax x FC Emmen - Eredivisie (Direto)</title>
   </programme>
-  <programme start="20230410050000 +0100" stop="20230410130000 +0100" channel="SPORT.TV4">
-    <title lang="pt">Fora d'Horas</title>
+  <programme start="20230416210000 +0100" stop="20230416220000 +0100" channel="SPORT.TV3">
+    <title lang="pt">NBA: Play-Offs (Direto)</title>
   </programme>
-  <programme start="20230410130000 +0100" stop="20230410133000 +0100" channel="SPORT.TV4">
-    <title lang="pt">Automobilismo: Autogear</title>
+  <programme start="20230416220000 +0100" stop="20230416233000 +0100" channel="SPORT.TV3">
+    <title lang="pt">NBA - Síntese</title>
   </programme>
-  <programme start="20230410133000 +0100" stop="20230410140000 +0100" channel="SPORT.TV4">
-    <title lang="pt">Formula 1: Reportagem MSI - Instituto De Desporto Automóvel De Madrid</title>
+  <programme start="20230416233000 +0100" stop="20230417013000 +0100" channel="SPORT.TV3">
+    <title lang="pt">Ténis: ATP World Tour 1000 Final - Monte-Carlo</title>
   </programme>
-  <programme start="20230410140000 +0100" stop="20230410183000 +0100" channel="SPORT.TV4">
-    <title lang="pt">NASCAR Cup Series: Food City Dirt Race - Bristol</title>
+  <programme start="20230417013000 +0100" stop="20230417130000 +0100" channel="SPORT.TV3">
+    <title lang="pt">UFC: Holloway x Allen - Kansas City, EUA</title>
   </programme>
-  <programme start="20230410183000 +0100" stop="20230410210000 +0100" channel="SPORT.TV4">
-    <title lang="pt">NASCAR Truck Series: Weather Guard Truck Race On Dirt - Bristol</title>
+  <programme start="20230417130000 +0100" stop="20230417151000 +0100" channel="SPORT.TV3">
+    <title lang="pt">NBA: Play-Offs - NBA</title>
   </programme>
-  <programme start="20230410210000 +0100" stop="20230410215500 +0100" channel="SPORT.TV4">
-    <title lang="pt">Automobilismo: Supercars Champ. - Melbourne 400 I (Resumo)</title>
+  <programme start="20230417151000 +0100" stop="20230417154000 +0100" channel="SPORT.TV3">
+    <title lang="pt">NBA - Magazine</title>
   </programme>
-  <programme start="20230410215500 +0100" stop="20230410225000 +0100" channel="SPORT.TV4">
-    <title lang="pt">Automobilismo: Supercars Champ. - Melbourne 400 II (Resumo)</title>
+  <programme start="20230417154000 +0100" stop="20230417174000 +0100" channel="SPORT.TV3">
+    <title lang="pt">Sassuolo x Juventus - Liga Italiana</title>
   </programme>
-  <programme start="20230410225000 +0100" stop="20230410234500 +0100" channel="SPORT.TV4">
-    <title lang="pt">Automobilismo: Hankook 24H Series - Mugello</title>
+  <programme start="20230417174000 +0100" stop="20230417194500 +0100" channel="SPORT.TV3">
+    <title lang="pt">AS Roma x Udinese - Liga Italiana</title>
   </programme>
-  <programme start="20230410234500 +0100" stop="20230411004000 +0100" channel="SPORT.TV4">
-    <title lang="pt">IndyCar Series: Texas (Resumo)</title>
+  <programme start="20230417194500 +0100" stop="20230417214000 +0100" channel="SPORT.TV3">
+    <title lang="pt">Fiorentina x Atalanta - Liga Italiana (Direto)</title>
+  </programme>
+  <programme start="20230417214000 +0100" stop="20230417233000 +0100" channel="SPORT.TV3">
+    <title lang="pt">Ténis: ATP World Tour 500 - Barcelona - Melhor Jogo Do Dia</title>
+  </programme>
+  <programme start="20230417233000 +0100" stop="20230418003000 +0100" channel="SPORT.TV3">
+    <title lang="pt">UFC: Holloway x Allen - Kansas City, EUA</title>
   </programme>
   <programme start="20230411004000 +0100" stop="20230411030000 +0100" channel="SPORT.TV4">
     <title lang="pt">Motociclismo: Magazine Motorcycle Sports</title>
@@ -3253,37 +3175,37 @@
   <programme start="20230411030000 +0100" stop="20230411130000 +0100" channel="SPORT.TV4">
     <title lang="pt">Fora d'Horas</title>
   </programme>
-  <programme start="20230411130000 +0100" stop="20230411133000 +0100" channel="SPORT.TV4">
+  <programme start="20230411130000 +0100" stop="20230411132500 +0100" channel="SPORT.TV4">
     <title lang="pt">Motociclismo: Magazine Motorcycle Sports</title>
   </programme>
-  <programme start="20230411133000 +0100" stop="20230411143000 +0100" channel="SPORT.TV4">
+  <programme start="20230411132500 +0100" stop="20230411142000 +0100" channel="SPORT.TV4">
     <title lang="pt">Automobilismo: Supercars Champ. - Melbourne 400 I (Resumo)</title>
   </programme>
-  <programme start="20230411143000 +0100" stop="20230411153000 +0100" channel="SPORT.TV4">
+  <programme start="20230411142000 +0100" stop="20230411151500 +0100" channel="SPORT.TV4">
     <title lang="pt">Automobilismo: Supercars Champ. - Melbourne 400 II (Resumo)</title>
   </programme>
-  <programme start="20230411153000 +0100" stop="20230411163000 +0100" channel="SPORT.TV4">
+  <programme start="20230411151500 +0100" stop="20230411161500 +0100" channel="SPORT.TV4">
     <title lang="pt">Automobilismo: Hankook 24H Series - Mugello</title>
   </programme>
-  <programme start="20230411163000 +0100" stop="20230411190000 +0100" channel="SPORT.TV4">
+  <programme start="20230411161500 +0100" stop="20230411185000 +0100" channel="SPORT.TV4">
     <title lang="pt">NASCAR Truck Series: Weather Guard Truck Race On Dirt - Bristol</title>
   </programme>
-  <programme start="20230411190000 +0100" stop="20230411200000 +0100" channel="SPORT.TV4">
+  <programme start="20230411185000 +0100" stop="20230411195000 +0100" channel="SPORT.TV4">
     <title lang="pt">IndyCar Series: Texas (Resumo)</title>
   </programme>
-  <programme start="20230411200000 +0100" stop="20230411203000 +0100" channel="SPORT.TV4">
+  <programme start="20230411195000 +0100" stop="20230411202000 +0100" channel="SPORT.TV4">
     <title lang="pt">Automobilismo: Autogear</title>
   </programme>
-  <programme start="20230411203000 +0100" stop="20230411210000 +0100" channel="SPORT.TV4">
+  <programme start="20230411202000 +0100" stop="20230411205000 +0100" channel="SPORT.TV4">
     <title lang="pt">Automobilismo: África Race - Documentário - Rally Jameel</title>
   </programme>
-  <programme start="20230411210000 +0100" stop="20230411213000 +0100" channel="SPORT.TV4">
+  <programme start="20230411205000 +0100" stop="20230411212000 +0100" channel="SPORT.TV4">
     <title lang="pt">Campeonato Portugal Ralicross - Montalegre</title>
   </programme>
-  <programme start="20230411213000 +0100" stop="20230411223000 +0100" channel="SPORT.TV4">
+  <programme start="20230411212000 +0100" stop="20230411222000 +0100" channel="SPORT.TV4">
     <title lang="pt">Grelha De Partida</title>
   </programme>
-  <programme start="20230411223000 +0100" stop="20230412040000 +0100" channel="SPORT.TV4">
+  <programme start="20230411222000 +0100" stop="20230412040000 +0100" channel="SPORT.TV4">
     <title lang="pt">NASCAR Cup Series: Food City Dirt Race - Bristol</title>
   </programme>
   <programme start="20230412040000 +0100" stop="20230412130000 +0100" channel="SPORT.TV4">
@@ -3295,16 +3217,16 @@
   <programme start="20230412140000 +0100" stop="20230412143000 +0100" channel="SPORT.TV4">
     <title lang="pt">Automobilismo: África Race - Documentário - Rally Jameel</title>
   </programme>
-  <programme start="20230412143000 +0100" stop="20230412150000 +0100" channel="SPORT.TV4">
+  <programme start="20230412143000 +0100" stop="20230412151000 +0100" channel="SPORT.TV4">
     <title lang="pt">Campeonato Portugal Ralicross - Montalegre</title>
   </programme>
-  <programme start="20230412150000 +0100" stop="20230412171000 +0100" channel="SPORT.TV4">
+  <programme start="20230412151000 +0100" stop="20230412171500 +0100" channel="SPORT.TV4">
     <title lang="pt">Fórmula 1: GP Bahrain 2023 - Corrida</title>
   </programme>
-  <programme start="20230412171000 +0100" stop="20230412191000 +0100" channel="SPORT.TV4">
+  <programme start="20230412171500 +0100" stop="20230412190500 +0100" channel="SPORT.TV4">
     <title lang="pt">Fórmula 1: GP Arábia Saudita 2023 - Corrida</title>
   </programme>
-  <programme start="20230412191000 +0100" stop="20230412211000 +0100" channel="SPORT.TV4">
+  <programme start="20230412190500 +0100" stop="20230412211000 +0100" channel="SPORT.TV4">
     <title lang="pt">Fórmula 1: GP Austrália 2023 - Corrida</title>
   </programme>
   <programme start="20230412211000 +0100" stop="20230412214000 +0100" channel="SPORT.TV4">
@@ -3317,7 +3239,7 @@
     <title lang="pt">Karting: Camp. Portugal - Rotax Cup - Circuito De Braga</title>
   </programme>
   <programme start="20230412224000 +0100" stop="20230412235000 +0100" channel="SPORT.TV4">
-    <title lang="pt">MotoGP: GP Américas - Corrida</title>
+    <title lang="pt">MotoGP: GP Portugal - Corrida</title>
   </programme>
   <programme start="20230412235000 +0100" stop="20230413040000 +0100" channel="SPORT.TV4">
     <title lang="pt">MotoGP: Corrida - GP Argentina</title>
@@ -3508,26 +3430,29 @@
   <programme start="20230416161000 +0100" stop="20230416170000 +0100" channel="SPORT.TV4">
     <title lang="pt">Motociclismo: Magazine Motorcycle Sports</title>
   </programme>
-  <programme start="20230410010000 +0100" stop="20230410060000 +0100" channel="SPORT.TV5">
-    <title lang="pt">Fora de Horas - Sem Transmissão</title>
+  <programme start="20230416170000 +0100" stop="20230416181500 +0100" channel="SPORT.TV4">
+    <title lang="pt">MotoGP: Moto3 - Corrida - GP Américas (Direto)</title>
   </programme>
-  <programme start="20230410060000 +0100" stop="20230410100000 +0100" channel="SPORT.TV5">
-    <title lang="pt">Fora de Horas - Sem Transmissão</title>
+  <programme start="20230416181500 +0100" stop="20230416192000 +0100" channel="SPORT.TV4">
+    <title lang="pt">MotoGP: Moto2 - Corrida - GP Américas (Direto)</title>
   </programme>
-  <programme start="20230410100000 +0100" stop="20230410120000 +0100" channel="SPORT.TV5">
-    <title lang="pt">Ténis: ATP World Tour 1000 - Monte-Carlo (Direto)</title>
+  <programme start="20230416192000 +0100" stop="20230416200000 +0100" channel="SPORT.TV4">
+    <title lang="pt">MotoGP: Antevisão GP Américas (Direto)</title>
   </programme>
-  <programme start="20230410120000 +0100" stop="20230410140000 +0100" channel="SPORT.TV5">
-    <title lang="pt">Ténis: ATP World Tour 1000 - Monte-Carlo (Direto)</title>
+  <programme start="20230416200000 +0100" stop="20230416210000 +0100" channel="SPORT.TV4">
+    <title lang="pt">MotoGP: Corrida - GP Américas (Direto)</title>
   </programme>
-  <programme start="20230410140000 +0100" stop="20230410160000 +0100" channel="SPORT.TV5">
-    <title lang="pt">Ténis: ATP World Tour 1000 - Monte-Carlo (Direto)</title>
+  <programme start="20230416210000 +0100" stop="20230416230000 +0100" channel="SPORT.TV4">
+    <title lang="pt">NASCAR Cup Series: Martinsville Speedway (Direto)</title>
   </programme>
-  <programme start="20230410160000 +0100" stop="20230410190000 +0100" channel="SPORT.TV5">
-    <title lang="pt">Ténis: ATP World Tour 1000 - Monte-Carlo (Direto)</title>
+  <programme start="20230416230000 +0100" stop="20230417000500 +0100" channel="SPORT.TV4">
+    <title lang="pt">MotoGP: Moto3 - Corrida - GP Américas</title>
   </programme>
-  <programme start="20230410190000 +0100" stop="20230411000000 +0100" channel="SPORT.TV5">
-    <title lang="pt">Fora de Horas - Sem Transmissão</title>
+  <programme start="20230417000500 +0100" stop="20230417011000 +0100" channel="SPORT.TV4">
+    <title lang="pt">MotoGP: Moto2 - Corrida - GP Américas</title>
+  </programme>
+  <programme start="20230417011000 +0100" stop="20230417021000 +0100" channel="SPORT.TV4">
+    <title lang="pt">MotoGP: Corrida - GP Américas</title>
   </programme>
   <programme start="20230411000000 +0100" stop="20230411060000 +0100" channel="SPORT.TV5">
     <title lang="pt">Fora de Horas - Sem Transmissão</title>
@@ -3628,10 +3553,10 @@
   <programme start="20230414190000 +0100" stop="20230414194500 +0100" channel="SPORT.TV5">
     <title lang="pt">Fora de Horas - Sem Transmissão</title>
   </programme>
-  <programme start="20230414194500 +0100" stop="20230414220000 +0100" channel="SPORT.TV5">
+  <programme start="20230414194500 +0100" stop="20230414215000 +0100" channel="SPORT.TV5">
     <title lang="pt">Ross County x Aberdeen - Liga Escocesa (Direto)</title>
   </programme>
-  <programme start="20230414220000 +0100" stop="20230415060000 +0100" channel="SPORT.TV5">
+  <programme start="20230414215000 +0100" stop="20230415060000 +0100" channel="SPORT.TV5">
     <title lang="pt">Fora de Horas - Sem Transmissão</title>
   </programme>
   <programme start="20230415060000 +0100" stop="20230415123000 +0100" channel="SPORT.TV5">
@@ -3667,38 +3592,32 @@
   <programme start="20230416160000 +0100" stop="20230416200000 +0100" channel="SPORT.TV5">
     <title lang="pt">Fora de Horas - Sem Transmissão</title>
   </programme>
-  <programme start="20230410020000 +0100" stop="20230410060000 +0100" channel="SPORT.TV6">
-    <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
+  <programme start="20230416200000 +0100" stop="20230416203000 +0100" channel="SPORT.TV5">
+    <title lang="pt">Automobilismo: Martinsville Speedway (Direto)</title>
   </programme>
-  <programme start="20230410060000 +0100" stop="20230410090000 +0100" channel="SPORT.TV6">
-    <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
+  <programme start="20230416203000 +0100" stop="20230416230000 +0100" channel="SPORT.TV5">
+    <title lang="pt">Indy Car Series: Long Beach (Direto)</title>
   </programme>
-  <programme start="20230410090000 +0100" stop="20230410100000 +0100" channel="SPORT.TV6">
-    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+  <programme start="20230416230000 +0100" stop="20230417060000 +0100" channel="SPORT.TV5">
+    <title lang="pt">Fora de Horas - Sem Transmissão</title>
   </programme>
-  <programme start="20230410100000 +0100" stop="20230410120000 +0100" channel="SPORT.TV6">
-    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+  <programme start="20230417060000 +0100" stop="20230417100000 +0100" channel="SPORT.TV5">
+    <title lang="pt">Fora de Horas - Sem Transmissão</title>
   </programme>
-  <programme start="20230410120000 +0100" stop="20230410140000 +0100" channel="SPORT.TV6">
-    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+  <programme start="20230417100000 +0100" stop="20230417120000 +0100" channel="SPORT.TV5">
+    <title lang="pt">Ténis: ATP World Tour 250 - Munique (Direto)</title>
   </programme>
-  <programme start="20230410140000 +0100" stop="20230410160000 +0100" channel="SPORT.TV6">
-    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+  <programme start="20230417120000 +0100" stop="20230417133000 +0100" channel="SPORT.TV5">
+    <title lang="pt">Ténis: ATP World Tour 250 - Munique (Direto)</title>
   </programme>
-  <programme start="20230410160000 +0100" stop="20230410180000 +0100" channel="SPORT.TV6">
-    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+  <programme start="20230417133000 +0100" stop="20230417150000 +0100" channel="SPORT.TV5">
+    <title lang="pt">Ténis: ATP World Tour 250 - Munique (Direto)</title>
   </programme>
-  <programme start="20230410180000 +0100" stop="20230410200000 +0100" channel="SPORT.TV6">
-    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+  <programme start="20230417150000 +0100" stop="20230417170000 +0100" channel="SPORT.TV5">
+    <title lang="pt">Ténis: ATP World Tour 250 - Munique (Direto)</title>
   </programme>
-  <programme start="20230410200000 +0100" stop="20230410220000 +0100" channel="SPORT.TV6">
-    <title lang="pt">Fora De Horas - Sem Transmissão</title>
-  </programme>
-  <programme start="20230410220000 +0100" stop="20230410223000 +0100" channel="SPORT.TV6">
-    <title lang="pt">Fora De Horas - Sem Transmissão</title>
-  </programme>
-  <programme start="20230410223000 +0100" stop="20230411000000 +0100" channel="SPORT.TV6">
-    <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
+  <programme start="20230417170000 +0100" stop="20230418000000 +0100" channel="SPORT.TV5">
+    <title lang="pt">Fora de Horas - Sem Transmissão</title>
   </programme>
   <programme start="20230411000000 +0100" stop="20230411020000 +0100" channel="SPORT.TV6">
     <title lang="pt">Surf: Rip Curl Pro Bells Beach - WSL</title>
@@ -3844,10 +3763,10 @@
   <programme start="20230414180000 +0100" stop="20230414193000 +0100" channel="SPORT.TV6">
     <title lang="pt">Fora De Horas - Sem Transmissão</title>
   </programme>
-  <programme start="20230414193000 +0100" stop="20230414220000 +0100" channel="SPORT.TV6">
+  <programme start="20230414193000 +0100" stop="20230414213000 +0100" channel="SPORT.TV6">
     <title lang="pt">Basquetebol: Barcelona x Valência - Euroliga (Direto)</title>
   </programme>
-  <programme start="20230414220000 +0100" stop="20230415000000 +0100" channel="SPORT.TV6">
+  <programme start="20230414213000 +0100" stop="20230415000000 +0100" channel="SPORT.TV6">
     <title lang="pt">Fora De Horas - Sem Transmissão</title>
   </programme>
   <programme start="20230415000000 +0100" stop="20230415020000 +0100" channel="SPORT.TV6">
@@ -3913,95 +3832,26 @@
   <programme start="20230416153000 +0100" stop="20230416174000 +0100" channel="SPORT.TV6">
     <title lang="pt">Penafiel x Nacional - Segunda Liga (Direto)</title>
   </programme>
-  <programme start="20230410003000 +0100" stop="20230410023000 +0100" channel="SPORT TV +">
-    <title lang="pt">Casa Pia AC x Sporting - Primeira Liga</title>
+  <programme start="20230416174000 +0100" stop="20230416183000 +0100" channel="SPORT.TV6">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
   </programme>
-  <programme start="20230410023000 +0100" stop="20230410030000 +0100" channel="SPORT TV +">
-    <title lang="pt">Fluminense x Flamengo - Camp. Carioca</title>
+  <programme start="20230416183000 +0100" stop="20230416203000 +0100" channel="SPORT.TV6">
+    <title lang="pt">Trabzonspor x Besiktas - Superliga Turca (Direto)</title>
   </programme>
-  <programme start="20230410030000 +0100" stop="20230410033000 +0100" channel="SPORT TV +">
-    <title lang="pt">Palmeiras x Água Santa - Camp. Paulista</title>
+  <programme start="20230416203000 +0100" stop="20230416223000 +0100" channel="SPORT.TV6">
+    <title lang="pt">Newell's Old Boys x River Plate - Camp. Argentino (Direto)</title>
   </programme>
-  <programme start="20230410033000 +0100" stop="20230410040000 +0100" channel="SPORT TV +">
-    <title lang="pt">Al Feiha x Al-Nassr - Liga Arábia Saudita</title>
+  <programme start="20230416223000 +0100" stop="20230417000000 +0100" channel="SPORT.TV6">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
   </programme>
-  <programme start="20230410040000 +0100" stop="20230410050000 +0100" channel="SPORT TV +">
-    <title lang="pt">UFC: Pereira x Adesanya 2</title>
+  <programme start="20230417000000 +0100" stop="20230417020000 +0100" channel="SPORT.TV6">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
   </programme>
-  <programme start="20230410050000 +0100" stop="20230410053000 +0100" channel="SPORT TV +">
-    <title lang="pt">Primeira Liga: Resumo Da Jornada 27</title>
+  <programme start="20230417020000 +0100" stop="20230417040000 +0100" channel="SPORT.TV6">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
   </programme>
-  <programme start="20230410053000 +0100" stop="20230410062500 +0100" channel="SPORT TV +">
-    <title lang="pt">Liga Italiana: Resumo Da Jornada 29</title>
-  </programme>
-  <programme start="20230410062500 +0100" stop="20230410065000 +0100" channel="SPORT TV +">
-    <title lang="pt">Ajax x Fortuna Sittard - Eredivisie</title>
-  </programme>
-  <programme start="20230410065000 +0100" stop="20230410085500 +0100" channel="SPORT TV +">
-    <title lang="pt">Casa Pia AC x Sporting - Primeira Liga</title>
-  </programme>
-  <programme start="20230410085500 +0100" stop="20230410105500 +0100" channel="SPORT TV +">
-    <title lang="pt">Manhã Informativa</title>
-  </programme>
-  <programme start="20230410105500 +0100" stop="20230410113000 +0100" channel="SPORT TV +">
-    <title lang="pt">Casa Pia AC x Sporting - Primeira Liga</title>
-  </programme>
-  <programme start="20230410113000 +0100" stop="20230410115500 +0100" channel="SPORT TV +">
-    <title lang="pt">Al Feiha x Al-Nassr - Liga Arábia Saudita</title>
-  </programme>
-  <programme start="20230410115500 +0100" stop="20230410125500 +0100" channel="SPORT TV +">
-    <title lang="pt">Grande Jornal</title>
-  </programme>
-  <programme start="20230410125500 +0100" stop="20230410133000 +0100" channel="SPORT TV +">
-    <title lang="pt">Fluminense x Flamengo - Camp. Carioca</title>
-  </programme>
-  <programme start="20230410133000 +0100" stop="20230410135500 +0100" channel="SPORT TV +">
-    <title lang="pt">Palmeiras x Água Santa - Camp. Paulista</title>
-  </programme>
-  <programme start="20230410135500 +0100" stop="20230410142000 +0100" channel="SPORT TV +">
-    <title lang="pt">Notícias</title>
-  </programme>
-  <programme start="20230410142000 +0100" stop="20230410150000 +0100" channel="SPORT TV +">
-    <title lang="pt">Liga Italiana: Resumo Da Jornada 29</title>
-  </programme>
-  <programme start="20230410150000 +0100" stop="20230410152000 +0100" channel="SPORT TV +">
-    <title lang="pt">Primeira Liga: Resumo Da Jornada 27</title>
-  </programme>
-  <programme start="20230410152000 +0100" stop="20230410155500 +0100" channel="SPORT TV +">
-    <title lang="pt">Futebolarte Com Bosingwa</title>
-  </programme>
-  <programme start="20230410155500 +0100" stop="20230410163000 +0100" channel="SPORT TV +">
-    <title lang="pt">Central +</title>
-  </programme>
-  <programme start="20230410163000 +0100" stop="20230410170000 +0100" channel="SPORT TV +">
-    <title lang="pt">Casa Pia AC x Sporting - Primeira Liga</title>
-  </programme>
-  <programme start="20230410170000 +0100" stop="20230410180000 +0100" channel="SPORT TV +">
-    <title lang="pt">Fan Zone</title>
-  </programme>
-  <programme start="20230410180000 +0100" stop="20230410185500 +0100" channel="SPORT TV +">
-    <title lang="pt">Taça Libertadores: Resumo Da 1ª Jornada</title>
-  </programme>
-  <programme start="20230410185500 +0100" stop="20230410192500 +0100" channel="SPORT TV +">
-    <title lang="pt">Central +</title>
-  </programme>
-  <programme start="20230410192500 +0100" stop="20230410200000 +0100" channel="SPORT TV +">
-    <title lang="pt">Notícias</title>
-  </programme>
-  <programme start="20230410200000 +0100" stop="20230410210000 +0100" channel="SPORT TV +">
-    <title lang="pt">Liga Europa: Magazine</title>
-  </programme>
-  <programme start="20230410210000 +0100" stop="20230410223000 +0100" channel="SPORT TV +">
-    <title lang="pt">Titulares</title>
-  </programme>
-  <programme start="20230410223000 +0100" stop="20230410230000 +0100" channel="SPORT TV +">
-    <title lang="pt">Central +</title>
-  </programme>
-  <programme start="20230410230000 +0100" stop="20230410233000 +0100" channel="SPORT TV +">
-    <title lang="pt">Karagumruk x Fenerbahçe - Superliga Turca</title>
-  </programme>
-  <programme start="20230410233000 +0100" stop="20230411003000 +0100" channel="SPORT TV +">
-    <title lang="pt">Últimas Notícias (Direto)</title>
+  <programme start="20230417040000 +0100" stop="20230417050000 +0100" channel="SPORT.TV6">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
   </programme>
   <programme start="20230411003000 +0100" stop="20230411010000 +0100" channel="SPORT TV +">
     <title lang="pt">Eredivisie: Resumo Da Jornada 28</title>
@@ -4033,31 +3883,31 @@
   <programme start="20230411070000 +0100" stop="20230411085500 +0100" channel="SPORT TV +">
     <title lang="pt">Karagumruk x Fenerbahçe - Superliga Turca</title>
   </programme>
-  <programme start="20230411085500 +0100" stop="20230411110000 +0100" channel="SPORT TV +">
+  <programme start="20230411085500 +0100" stop="20230411105500 +0100" channel="SPORT TV +">
     <title lang="pt">Manhã Informativa</title>
   </programme>
-  <programme start="20230411110000 +0100" stop="20230411113000 +0100" channel="SPORT TV +">
+  <programme start="20230411105500 +0100" stop="20230411112500 +0100" channel="SPORT TV +">
     <title lang="pt">Primeira Liga: Resumo Da Jornada 27</title>
   </programme>
-  <programme start="20230411113000 +0100" stop="20230411115500 +0100" channel="SPORT TV +">
+  <programme start="20230411112500 +0100" stop="20230411115500 +0100" channel="SPORT TV +">
     <title lang="pt">Liga Italiana: Resumo Da Jornada 29</title>
   </programme>
-  <programme start="20230411115500 +0100" stop="20230411130000 +0100" channel="SPORT TV +">
+  <programme start="20230411115500 +0100" stop="20230411125500 +0100" channel="SPORT TV +">
     <title lang="pt">Grande Jornal</title>
   </programme>
-  <programme start="20230411130000 +0100" stop="20230411133000 +0100" channel="SPORT TV +">
+  <programme start="20230411125500 +0100" stop="20230411132500 +0100" channel="SPORT TV +">
     <title lang="pt">Karagumruk x Fenerbahçe - Superliga Turca</title>
   </programme>
-  <programme start="20230411133000 +0100" stop="20230411135500 +0100" channel="SPORT TV +">
+  <programme start="20230411132500 +0100" stop="20230411135500 +0100" channel="SPORT TV +">
     <title lang="pt">Eredivisie: Resumo Da Jornada 28</title>
   </programme>
   <programme start="20230411135500 +0100" stop="20230411143000 +0100" channel="SPORT TV +">
     <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20230411143000 +0100" stop="20230411152000 +0100" channel="SPORT TV +">
+  <programme start="20230411143000 +0100" stop="20230411152500 +0100" channel="SPORT TV +">
     <title lang="pt">Taça Libertadores: Resumo Da 1ª Jornada</title>
   </programme>
-  <programme start="20230411152000 +0100" stop="20230411155500 +0100" channel="SPORT TV +">
+  <programme start="20230411152500 +0100" stop="20230411155500 +0100" channel="SPORT TV +">
     <title lang="pt">Liga Italiana: Resumo Da Jornada 29</title>
   </programme>
   <programme start="20230411155500 +0100" stop="20230411163000 +0100" channel="SPORT TV +">
@@ -4075,10 +3925,10 @@
   <programme start="20230411185500 +0100" stop="20230411192500 +0100" channel="SPORT TV +">
     <title lang="pt">Central +</title>
   </programme>
-  <programme start="20230411192500 +0100" stop="20230411200000 +0100" channel="SPORT TV +">
+  <programme start="20230411192500 +0100" stop="20230411200500 +0100" channel="SPORT TV +">
     <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20230411200000 +0100" stop="20230411202000 +0100" channel="SPORT TV +">
+  <programme start="20230411200500 +0100" stop="20230411202000 +0100" channel="SPORT TV +">
     <title lang="pt">Liga Escocesa: Resumo Da Jornada 31</title>
   </programme>
   <programme start="20230411202000 +0100" stop="20230411211500 +0100" channel="SPORT TV +">
@@ -4099,10 +3949,10 @@
   <programme start="20230412003000 +0100" stop="20230412010000 +0100" channel="SPORT TV +">
     <title lang="pt">Futebol Fem.: Alemanha x Brasil- Jogo de Preparação</title>
   </programme>
-  <programme start="20230412010000 +0100" stop="20230412013000 +0100" channel="SPORT TV +">
+  <programme start="20230412010000 +0100" stop="20230412012500 +0100" channel="SPORT TV +">
     <title lang="pt">Primeria Liga: Golos Da Jornada 27</title>
   </programme>
-  <programme start="20230412013000 +0100" stop="20230412020000 +0100" channel="SPORT TV +">
+  <programme start="20230412012500 +0100" stop="20230412020000 +0100" channel="SPORT TV +">
     <title lang="pt">Superliga Turca: Resumo Da Jornada 27</title>
   </programme>
   <programme start="20230412020000 +0100" stop="20230412030000 +0100" channel="SPORT TV +">
@@ -4138,11 +3988,11 @@
   <programme start="20230412085500 +0100" stop="20230412110000 +0100" channel="SPORT TV +">
     <title lang="pt">Manhã Informativa</title>
   </programme>
-  <programme start="20230412110000 +0100" stop="20230412113000 +0100" channel="SPORT TV +">
-    <title lang="pt">Superliga Turca: Resumo Da Jornada 27</title>
+  <programme start="20230412110000 +0100" stop="20230412112500 +0100" channel="SPORT TV +">
+    <title lang="pt">Superliga Turca: Resumo Da Jornada 28</title>
   </programme>
-  <programme start="20230412113000 +0100" stop="20230412115500 +0100" channel="SPORT TV +">
-    <title lang="pt">Liga Escocesa: Resumo Da Jornada 31</title>
+  <programme start="20230412112500 +0100" stop="20230412115500 +0100" channel="SPORT TV +">
+    <title lang="pt">Futebol Fem.: Alemanha x Brasil- Jogo de Preparação</title>
   </programme>
   <programme start="20230412115500 +0100" stop="20230412130000 +0100" channel="SPORT TV +">
     <title lang="pt">Grande Jornal</title>
@@ -4150,13 +4000,13 @@
   <programme start="20230412130000 +0100" stop="20230412135500 +0100" channel="SPORT TV +">
     <title lang="pt">Taça Libertadores: Resumo Da 1ª Jornada</title>
   </programme>
-  <programme start="20230412135500 +0100" stop="20230412143000 +0100" channel="SPORT TV +">
+  <programme start="20230412135500 +0100" stop="20230412144000 +0100" channel="SPORT TV +">
     <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20230412143000 +0100" stop="20230412152000 +0100" channel="SPORT TV +">
+  <programme start="20230412144000 +0100" stop="20230412153500 +0100" channel="SPORT TV +">
     <title lang="pt">Copa Sul-Americana: Resumo Da 1ª Jornada</title>
   </programme>
-  <programme start="20230412152000 +0100" stop="20230412155500 +0100" channel="SPORT TV +">
+  <programme start="20230412153500 +0100" stop="20230412155500 +0100" channel="SPORT TV +">
     <title lang="pt">Primeria Liga: Golos Da Jornada 27</title>
   </programme>
   <programme start="20230412155500 +0100" stop="20230412163000 +0100" channel="SPORT TV +">
@@ -4168,17 +4018,20 @@
   <programme start="20230412170000 +0100" stop="20230412180000 +0100" channel="SPORT TV +">
     <title lang="pt">Fan Zone</title>
   </programme>
-  <programme start="20230412180000 +0100" stop="20230412183000 +0100" channel="SPORT TV +">
-    <title lang="pt">Magazine: Meu Clube Minha Cidade</title>
-  </programme>
-  <programme start="20230412183000 +0100" stop="20230412185500 +0100" channel="SPORT TV +">
+  <programme start="20230412180000 +0100" stop="20230412183500 +0100" channel="SPORT TV +">
     <title lang="pt">Liga Italiana: Resumo Da Jornada 29</title>
+  </programme>
+  <programme start="20230412183500 +0100" stop="20230412185500 +0100" channel="SPORT TV +">
+    <title lang="pt">Liga Escocesa: Resumo Da Jornada 31</title>
   </programme>
   <programme start="20230412185500 +0100" stop="20230412192500 +0100" channel="SPORT TV +">
     <title lang="pt">Central +</title>
   </programme>
-  <programme start="20230412192500 +0100" stop="20230412203000 +0100" channel="SPORT TV +">
+  <programme start="20230412192500 +0100" stop="20230412200000 +0100" channel="SPORT TV +">
     <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20230412200000 +0100" stop="20230412203000 +0100" channel="SPORT TV +">
+    <title lang="pt">Magazine: Meu Clube Minha Cidade</title>
   </programme>
   <programme start="20230412203000 +0100" stop="20230412205000 +0100" channel="SPORT TV +">
     <title lang="pt">Liga Escocesa: Resumo Da Jornada 31</title>
@@ -4193,7 +4046,7 @@
     <title lang="pt">Central +</title>
   </programme>
   <programme start="20230412230000 +0100" stop="20230412233000 +0100" channel="SPORT TV +">
-    <title lang="pt">Reportv 2023</title>
+    <title lang="pt">Reportv: Beto, O Gladiador</title>
   </programme>
   <programme start="20230412233000 +0100" stop="20230413003000 +0100" channel="SPORT TV +">
     <title lang="pt">Últimas Notícias (Direto)</title>
@@ -4201,7 +4054,10 @@
   <programme start="20230413003000 +0100" stop="20230413010000 +0100" channel="SPORT TV +">
     <title lang="pt">Nacional x SC Braga - Taça de Portugal</title>
   </programme>
-  <programme start="20230413010000 +0100" stop="20230413020000 +0100" channel="SPORT TV +">
+  <programme start="20230413010000 +0100" stop="20230413013000 +0100" channel="SPORT TV +">
+    <title lang="pt">San Lorenzo x Boca Juniors - Camp. Argentino</title>
+  </programme>
+  <programme start="20230413013000 +0100" stop="20230413020000 +0100" channel="SPORT TV +">
     <title lang="pt">Liga Italiana: Série A Full Impact</title>
   </programme>
   <programme start="20230413020000 +0100" stop="20230413023000 +0100" channel="SPORT TV +">
@@ -4222,14 +4078,11 @@
   <programme start="20230413053000 +0100" stop="20230413060000 +0100" channel="SPORT TV +">
     <title lang="pt">Ténis: Magazine</title>
   </programme>
-  <programme start="20230413060000 +0100" stop="20230413070000 +0100" channel="SPORT TV +">
-    <title lang="pt">NASCAR Cup Series: Food City Dirt Race - Bristol (Resumo)</title>
-  </programme>
-  <programme start="20230413070000 +0100" stop="20230413080000 +0100" channel="SPORT TV +">
-    <title lang="pt">NASCAR Truck Series: Weather Guard Truck Race On Dirt - Bristol (Resumo)</title>
-  </programme>
-  <programme start="20230413080000 +0100" stop="20230413085500 +0100" channel="SPORT TV +">
+  <programme start="20230413060000 +0100" stop="20230413065000 +0100" channel="SPORT TV +">
     <title lang="pt">Fórmula 1: F1 Exhibition</title>
+  </programme>
+  <programme start="20230413065000 +0100" stop="20230413085500 +0100" channel="SPORT TV +">
+    <title lang="pt">San Lorenzo x Boca Juniors - Camp. Argentino</title>
   </programme>
   <programme start="20230413085500 +0100" stop="20230413110000 +0100" channel="SPORT TV +">
     <title lang="pt">Manhã Informativa</title>
@@ -4240,8 +4093,11 @@
   <programme start="20230413113000 +0100" stop="20230413115500 +0100" channel="SPORT TV +">
     <title lang="pt">Segunda Liga: Magazine</title>
   </programme>
-  <programme start="20230413115500 +0100" stop="20230413133000 +0100" channel="SPORT TV +">
+  <programme start="20230413115500 +0100" stop="20230413130000 +0100" channel="SPORT TV +">
     <title lang="pt">Grande Jornal</title>
+  </programme>
+  <programme start="20230413130000 +0100" stop="20230413133000 +0100" channel="SPORT TV +">
+    <title lang="pt">San Lorenzo x Boca Juniors - Camp. Argentino</title>
   </programme>
   <programme start="20230413133000 +0100" stop="20230413135500 +0100" channel="SPORT TV +">
     <title lang="pt">Liga Italiana: Série A Full Impact</title>
@@ -4264,8 +4120,11 @@
   <programme start="20230413170000 +0100" stop="20230413180000 +0100" channel="SPORT TV +">
     <title lang="pt">Fan Zone</title>
   </programme>
-  <programme start="20230413180000 +0100" stop="20230413185500 +0100" channel="SPORT TV +">
-    <title lang="pt">Reportv 2023</title>
+  <programme start="20230413180000 +0100" stop="20230413183000 +0100" channel="SPORT TV +">
+    <title lang="pt">Reportv: Beto, O Gladiador</title>
+  </programme>
+  <programme start="20230413183000 +0100" stop="20230413185500 +0100" channel="SPORT TV +">
+    <title lang="pt">San Lorenzo x Boca Juniors - Camp. Argentino</title>
   </programme>
   <programme start="20230413185500 +0100" stop="20230413192500 +0100" channel="SPORT TV +">
     <title lang="pt">Central +</title>
@@ -4285,7 +4144,10 @@
   <programme start="20230413215000 +0100" stop="20230413233000 +0100" channel="SPORT TV +">
     <title lang="pt">O Futebol É Momento (Direto)</title>
   </programme>
-  <programme start="20230413233000 +0100" stop="20230414003000 +0100" channel="SPORT TV +">
+  <programme start="20230413233000 +0100" stop="20230414000000 +0100" channel="SPORT TV +">
+    <title lang="pt">Informação: Liga Europa (Direto)</title>
+  </programme>
+  <programme start="20230414000000 +0100" stop="20230414003000 +0100" channel="SPORT TV +">
     <title lang="pt">Últimas Notícias (Direto)</title>
   </programme>
   <programme start="20230414003000 +0100" stop="20230414010000 +0100" channel="SPORT TV +">
@@ -4420,8 +4282,11 @@
   <programme start="20230416070000 +0100" stop="20230416090000 +0100" channel="SPORT TV +">
     <title lang="pt">FC Porto x Santa Clara - Primeira Liga</title>
   </programme>
-  <programme start="20230416090000 +0100" stop="20230416100000 +0100" channel="SPORT TV +">
+  <programme start="20230416090000 +0100" stop="20230416093000 +0100" channel="SPORT TV +">
     <title lang="pt">GD Chaves x Benfica - Primeira Liga</title>
+  </programme>
+  <programme start="20230416093000 +0100" stop="20230416100000 +0100" channel="SPORT TV +">
+    <title lang="pt">MotoGP: Red Bull Grand Prix Of The Americas (Resumo)</title>
   </programme>
   <programme start="20230416100000 +0100" stop="20230416103000 +0100" channel="SPORT TV +">
     <title lang="pt">WRC: Autogear</title>
@@ -4453,92 +4318,50 @@
   <programme start="20230416161000 +0100" stop="20230416193000 +0100" channel="SPORT TV +">
     <title lang="pt">Grande Jornada</title>
   </programme>
-  <programme start="20230410002600 +0100" stop="20230410021100 +0100" channel="BTV">
-    <title lang="pt">Benfica x FC Famalicão - Juniores</title>
+  <programme start="20230416193000 +0100" stop="20230416202000 +0100" channel="SPORT TV +">
+    <title lang="pt">Antevisão: Sporting x FC Arouca - Primeira Liga</title>
   </programme>
-  <programme start="20230410021100 +0100" stop="20230410033700 +0100" channel="BTV">
-    <title lang="pt">Futsal Fem.: Benfica x Futsal Arneiros</title>
+  <programme start="20230416202000 +0100" stop="20230416230000 +0100" channel="SPORT TV +">
+    <title lang="pt">Grande Jornada: Sporting x FC Arouca - Primeira Liga</title>
   </programme>
-  <programme start="20230410033700 +0100" stop="20230410040100 +0100" channel="BTV">
-    <title lang="pt">Benfica 24 Horas</title>
+  <programme start="20230416230000 +0100" stop="20230417001000 +0100" channel="SPORT TV +">
+    <title lang="pt">Só Golos</title>
   </programme>
-  <programme start="20230410040100 +0100" stop="20230410054700 +0100" channel="BTV">
-    <title lang="pt">Benfica B x UD Oliveirense - Segunda Liga</title>
+  <programme start="20230417001000 +0100" stop="20230417010000 +0100" channel="SPORT TV +">
+    <title lang="pt">Últimas Notícias (Direto)</title>
   </programme>
-  <programme start="20230410054700 +0100" stop="20230410070900 +0100" channel="BTV">
-    <title lang="pt">Basquetebol: Benfica x Imortal Bc - Femininos</title>
+  <programme start="20230417010000 +0100" stop="20230417030000 +0100" channel="SPORT TV +">
+    <title lang="pt">Sporting x FC Arouca - Primeira Liga</title>
   </programme>
-  <programme start="20230410070900 +0100" stop="20230410073600 +0100" channel="BTV">
-    <title lang="pt">Corporate Club</title>
+  <programme start="20230417030000 +0100" stop="20230417033000 +0100" channel="SPORT TV +">
+    <title lang="pt">AS Roma x Udinese - Liga Italiana</title>
   </programme>
-  <programme start="20230410073600 +0100" stop="20230410080100 +0100" channel="BTV">
-    <title lang="pt">Benfica 24 Horas</title>
+  <programme start="20230417033000 +0100" stop="20230417040000 +0100" channel="SPORT TV +">
+    <title lang="pt">MotoGP: Red Bull Grand Prix Of The Americas (Resumo)</title>
   </programme>
-  <programme start="20230410080100 +0100" stop="20230410081300 +0100" channel="BTV">
-    <title lang="pt">Reta Da Meta</title>
+  <programme start="20230417040000 +0100" stop="20230417060000 +0100" channel="SPORT TV +">
+    <title lang="pt">Boxe: Joe Joyce x Zhilei Zhang</title>
   </programme>
-  <programme start="20230410081300 +0100" stop="20230410095900 +0100" channel="BTV">
-    <title lang="pt">Benfica x FC Famalicão - Juniores</title>
+  <programme start="20230417060000 +0100" stop="20230417062000 +0100" channel="SPORT TV +">
+    <title lang="pt">Motociclismo: Magazine Motorcycle Sports</title>
   </programme>
-  <programme start="20230410095900 +0100" stop="20230410113400 +0100" channel="BTV">
-    <title lang="pt">Benfica 10H</title>
+  <programme start="20230417062000 +0100" stop="20230417065000 +0100" channel="SPORT TV +">
+    <title lang="pt">MotoGP: GP Américas (Resumo)</title>
   </programme>
-  <programme start="20230410113400 +0100" stop="20230410120100 +0100" channel="BTV">
-    <title lang="pt">Corporate Club</title>
+  <programme start="20230417065000 +0100" stop="20230417085500 +0100" channel="SPORT TV +">
+    <title lang="pt">Sporting x Arouca - Primeira Liga</title>
   </programme>
-  <programme start="20230410120100 +0100" stop="20230410123000 +0100" channel="BTV">
-    <title lang="pt">Cine BTV</title>
+  <programme start="20230417085500 +0100" stop="20230417110000 +0100" channel="SPORT TV +">
+    <title lang="pt">Manhã Informativa</title>
   </programme>
-  <programme start="20230410123000 +0100" stop="20230410132900 +0100" channel="BTV">
-    <title lang="pt">Notícias</title>
+  <programme start="20230417110000 +0100" stop="20230417113000 +0100" channel="SPORT TV +">
+    <title lang="pt">AS Roma x Udinese - Liga Italiana</title>
   </programme>
-  <programme start="20230410132900 +0100" stop="20230410135900 +0100" channel="BTV">
-    <title lang="pt">A Carrinha Do Bento</title>
+  <programme start="20230417113000 +0100" stop="20230417115500 +0100" channel="SPORT TV +">
+    <title lang="pt">Sporting x Arouca - Primeira Liga</title>
   </programme>
-  <programme start="20230410135900 +0100" stop="20230410143200 +0100" channel="BTV">
-    <title lang="pt">Benfica 14 Horas</title>
-  </programme>
-  <programme start="20230410143200 +0100" stop="20230410160000 +0100" channel="BTV">
-    <title lang="pt">Basquetebol: Benfica x Imortal Bc - Femininos</title>
-  </programme>
-  <programme start="20230410160000 +0100" stop="20230410162500 +0100" channel="BTV">
-    <title lang="pt">Notícias</title>
-  </programme>
-  <programme start="20230410162500 +0100" stop="20230410165500 +0100" channel="BTV">
-    <title lang="pt">Os Momentos</title>
-  </programme>
-  <programme start="20230410165500 +0100" stop="20230410172700 +0100" channel="BTV">
-    <title lang="pt">Sob A Lei</title>
-  </programme>
-  <programme start="20230410172700 +0100" stop="20230410180000 +0100" channel="BTV">
-    <title lang="pt">Car Online TV</title>
-  </programme>
-  <programme start="20230410180000 +0100" stop="20230410193300 +0100" channel="BTV">
-    <title lang="pt">Segunda Bola BTV</title>
-  </programme>
-  <programme start="20230410193300 +0100" stop="20230410195800 +0100" channel="BTV">
-    <title lang="pt">Relatório AR BTV</title>
-  </programme>
-  <programme start="20230410195800 +0100" stop="20230410202800 +0100" channel="BTV">
-    <title lang="pt">Vou A Jogo Com 11</title>
-  </programme>
-  <programme start="20230410202800 +0100" stop="20230410205900 +0100" channel="BTV">
-    <title lang="pt">Vermelho Claro</title>
-  </programme>
-  <programme start="20230410205900 +0100" stop="20230410213000 +0100" channel="BTV">
-    <title lang="pt">Benfica 21 Horas</title>
-  </programme>
-  <programme start="20230410213000 +0100" stop="20230410223200 +0100" channel="BTV">
-    <title lang="pt">Três Quatro Três</title>
-  </programme>
-  <programme start="20230410223200 +0100" stop="20230411000400 +0100" channel="BTV">
-    <title lang="pt">Segunda Bola BTV</title>
-  </programme>
-  <programme start="20230411000400 +0100" stop="20230411003000 +0100" channel="BTV">
-    <title lang="pt">Benfica 24 Horas</title>
-  </programme>
-  <programme start="20230411003000 +0100" stop="20230411005600 +0100" channel="BTV">
-    <title lang="pt">Relatório AR BTV</title>
+  <programme start="20230417115500 +0100" stop="20230417125500 +0100" channel="SPORT TV +">
+    <title lang="pt">Grande Jornal</title>
   </programme>
   <programme start="20230411005600 +0100" stop="20230411012700 +0100" channel="BTV">
     <title lang="pt">Sob A Lei</title>
@@ -4549,76 +4372,79 @@
   <programme start="20230411015700 +0100" stop="20230411025900 +0100" channel="BTV">
     <title lang="pt">Três Quatro Três</title>
   </programme>
-  <programme start="20230411025900 +0100" stop="20230411030000 +0100" channel="BTV">
+  <programme start="20230411025900 +0100" stop="20230411043000 +0100" channel="BTV">
     <title lang="pt">Segunda Bola BTV</title>
   </programme>
-  <programme start="20230411030000 +0100" stop="20230411043000 +0100" channel="BTV">
-    <title lang="pt">Benfica 21 Horas</title>
-  </programme>
-  <programme start="20230411043000 +0100" stop="20230411053000 +0100" channel="BTV">
+  <programme start="20230411043000 +0100" stop="20230411045600 +0100" channel="BTV">
     <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20230411053000 +0100" stop="20230411054500 +0100" channel="BTV">
+  <programme start="20230411045600 +0100" stop="20230411052300 +0100" channel="BTV">
     <title lang="pt">Relatório AR BTV</title>
   </programme>
-  <programme start="20230411054500 +0100" stop="20230411060000 +0100" channel="BTV">
+  <programme start="20230411052300 +0100" stop="20230411053200 +0100" channel="BTV">
+    <title lang="pt">Fundação Benfica</title>
+  </programme>
+  <programme start="20230411053200 +0100" stop="20230411060300 +0100" channel="BTV">
     <title lang="pt">Sob A Lei</title>
   </programme>
-  <programme start="20230411060000 +0100" stop="20230411063000 +0100" channel="BTV">
-    <title lang="pt">Reta Da Meta</title>
+  <programme start="20230411060300 +0100" stop="20230411063500 +0100" channel="BTV">
+    <title lang="pt">Off Road Magazine</title>
   </programme>
-  <programme start="20230411063000 +0100" stop="20230411070000 +0100" channel="BTV">
+  <programme start="20230411063500 +0100" stop="20230411070500 +0100" channel="BTV">
     <title lang="pt">Car Online TV</title>
   </programme>
-  <programme start="20230411070000 +0100" stop="20230411073000 +0100" channel="BTV">
+  <programme start="20230411070500 +0100" stop="20230411073000 +0100" channel="BTV">
     <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20230411073000 +0100" stop="20230411090000 +0100" channel="BTV">
-    <title lang="pt">Hóquei: HC Turquel x Benfica - Femininos</title>
+  <programme start="20230411073000 +0100" stop="20230411085800 +0100" channel="BTV">
+    <title lang="pt">Basquetebol: Benfica B x Académica - Camp. Nacional</title>
   </programme>
-  <programme start="20230411090000 +0100" stop="20230411100000 +0100" channel="BTV">
+  <programme start="20230411085800 +0100" stop="20230411095900 +0100" channel="BTV">
     <title lang="pt">Três Quatro Três</title>
   </programme>
-  <programme start="20230411100000 +0100" stop="20230411110000 +0100" channel="BTV">
+  <programme start="20230411095900 +0100" stop="20230411105600 +0100" channel="BTV">
     <title lang="pt">Benfica 10H</title>
   </programme>
-  <programme start="20230411110000 +0100" stop="20230411113000 +0100" channel="BTV">
+  <programme start="20230411105600 +0100" stop="20230411112700 +0100" channel="BTV">
     <title lang="pt">Sob A Lei</title>
   </programme>
-  <programme start="20230411113000 +0100" stop="20230411130000 +0100" channel="BTV">
+  <programme start="20230411112700 +0100" stop="20230411125900 +0100" channel="BTV">
     <title lang="pt">Segunda Bola BTV</title>
   </programme>
-  <programme start="20230411130000 +0100" stop="20230411133000 +0100" channel="BTV">
+  <programme start="20230411125900 +0100" stop="20230411132700 +0100" channel="BTV">
     <title lang="pt">Relatório AR BTV</title>
   </programme>
-  <programme start="20230411133000 +0100" stop="20230411140000 +0100" channel="BTV">
+  <programme start="20230411132700 +0100" stop="20230411135900 +0100" channel="BTV">
     <title lang="pt">Leonor Pinhão</title>
   </programme>
-  <programme start="20230411140000 +0100" stop="20230411150000 +0100" channel="BTV">
+  <programme start="20230411135900 +0100" stop="20230411151100 +0100" channel="BTV">
     <title lang="pt">Benfica 14 Horas</title>
   </programme>
-  <programme start="20230411150000 +0100" stop="20230411170000 +0100" channel="BTV">
+  <programme start="20230411151100 +0100" stop="20230411170000 +0100" channel="BTV">
     <title lang="pt">Benfica x Club Brugge - Liga dos Campeões</title>
   </programme>
-  <programme start="20230411170000 +0100" stop="20230411233000 +0100" channel="BTV">
-    <title lang="pt">Emissão Especial</title>
+  <programme start="20230411170000 +0100" stop="20230411195500 +0100" channel="BTV">
+    <title lang="pt">Benfica x Inter De Milão - Liga dos Campeões (Antevisão)</title>
   </programme>
-  <programme start="20230411233000 +0100" stop="20230412000000 +0100" channel="BTV">
+  <programme start="20230411195500 +0100" stop="20230411215200 +0100" channel="BTV">
+    <title lang="pt">Benfica x Inter De Milão - Liga dos Campeões (Relato)</title>
+  </programme>
+  <programme start="20230411215200 +0100" stop="20230411233000 +0100" channel="BTV">
+    <title lang="pt">Benfica x Inter De Milão - Liga dos Campeões (Pós-Jogo)</title>
+  </programme>
+  <programme start="20230411233000 +0100" stop="20230412014200 +0100" channel="BTV">
     <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20230412000000 +0100" stop="20230412020000 +0100" channel="BTV">
-    <title lang="pt">Benfica x Inter De Milão - Liga dos Campeões</title>
-  </programme>
-  <programme start="20230412020000 +0100" stop="20230412040000 +0100" channel="BTV">
+  <programme start="20230412014200 +0100" stop="20230412033300 +0100" channel="BTV">
     <title lang="pt">Benfica x FC Famalicão - Juniores</title>
   </programme>
-  <programme start="20230412040000 +0100" stop="20230412043000 +0100" channel="BTV">
+  <programme start="20230412033300 +0100" stop="20230412040100 +0100" channel="BTV">
     <title lang="pt">A Carrinha Do Bento</title>
   </programme>
-  <programme start="20230412043000 +0100" stop="20230412050000 +0100" channel="BTV">
+  <programme start="20230412040100 +0100" stop="20230412043000 +0100" channel="BTV">
     <title lang="pt">Vou A Jogo Com 11</title>
   </programme>
-  <programme start="20230412050000 +0100" stop="20230412053000 +0100" channel="BTV">
+  <programme start="20230412043000 +0100" stop="20230412053000 +0100" channel="BTV">
     <title lang="pt">Benfica 24 Horas</title>
   </programme>
   <programme start="20230412053000 +0100" stop="20230412054500 +0100" channel="BTV">
@@ -5002,101 +4828,32 @@
   <programme start="20230416160000 +0100" stop="20230416163000 +0100" channel="BTV">
     <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20230410013500 +0100" stop="20230410015000 +0100" channel="SPORTING TV">
-    <title lang="pt">Sporting Notícias</title>
+  <programme start="20230416163000 +0100" stop="20230416180000 +0100" channel="BTV">
+    <title lang="pt">Programação a Designar</title>
   </programme>
-  <programme start="20230410015000 +0100" stop="20230410022000 +0100" channel="SPORTING TV">
-    <title lang="pt">12.º Jogador</title>
+  <programme start="20230416180000 +0100" stop="20230416183000 +0100" channel="BTV">
+    <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20230410022000 +0100" stop="20230410025000 +0100" channel="SPORTING TV">
-    <title lang="pt">Magazine Kombat Press</title>
+  <programme start="20230416183000 +0100" stop="20230416210000 +0100" channel="BTV">
+    <title lang="pt">Programação a Designar</title>
   </programme>
-  <programme start="20230410025000 +0100" stop="20230410035000 +0100" channel="SPORTING TV">
-    <title lang="pt">Sporting Grande Jornal</title>
+  <programme start="20230416210000 +0100" stop="20230416213000 +0100" channel="BTV">
+    <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20230410035000 +0100" stop="20230410040500 +0100" channel="SPORTING TV">
-    <title lang="pt">Antecâmara Sporting TV</title>
+  <programme start="20230416213000 +0100" stop="20230417000000 +0100" channel="BTV">
+    <title lang="pt">Programação a Designar</title>
   </programme>
-  <programme start="20230410040500 +0100" stop="20230410060000 +0100" channel="SPORTING TV">
-    <title lang="pt">Basquetebol: Sporting CP x UD Oliveirense - Camp. Nac.</title>
+  <programme start="20230417000000 +0100" stop="20230417003000 +0100" channel="BTV">
+    <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20230410060000 +0100" stop="20230410063000 +0100" channel="SPORTING TV">
-    <title lang="pt">Eu Lembro-me De Ti!</title>
+  <programme start="20230417003000 +0100" stop="20230417020000 +0100" channel="BTV">
+    <title lang="pt">Programação a Designar</title>
   </programme>
-  <programme start="20230410063000 +0100" stop="20230410064500 +0100" channel="SPORTING TV">
-    <title lang="pt">Sporting Notícias</title>
+  <programme start="20230417020000 +0100" stop="20230417023000 +0100" channel="BTV">
+    <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20230410064500 +0100" stop="20230410071500 +0100" channel="SPORTING TV">
-    <title lang="pt">Porta 10 A</title>
-  </programme>
-  <programme start="20230410071500 +0100" stop="20230410073000 +0100" channel="SPORTING TV">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20230410073000 +0100" stop="20230410080000 +0100" channel="SPORTING TV">
-    <title lang="pt">Magazine Kombat Press</title>
-  </programme>
-  <programme start="20230410080000 +0100" stop="20230410083000 +0100" channel="SPORTING TV">
-    <title lang="pt">Ginástica Em Casa</title>
-  </programme>
-  <programme start="20230410083000 +0100" stop="20230410084000 +0100" channel="SPORTING TV">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20230410084000 +0100" stop="20230410101500 +0100" channel="SPORTING TV">
-    <title lang="pt">Futsal: Sporting CP x Eléctrico FC - Camp. Nac.</title>
-  </programme>
-  <programme start="20230410101500 +0100" stop="20230410102500 +0100" channel="SPORTING TV">
-    <title lang="pt">Passaporte Sporting</title>
-  </programme>
-  <programme start="20230410102500 +0100" stop="20230410103000 +0100" channel="SPORTING TV">
-    <title lang="pt">Memória Do Dia</title>
-  </programme>
-  <programme start="20230410103000 +0100" stop="20230410104500 +0100" channel="SPORTING TV">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20230410104500 +0100" stop="20230410124500 +0100" channel="SPORTING TV">
-    <title lang="pt">Basquetebol: Sporting CP x SC Lusitânia - Camp. Nac.</title>
-  </programme>
-  <programme start="20230410124500 +0100" stop="20230410130000 +0100" channel="SPORTING TV">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20230410130000 +0100" stop="20230410144000 +0100" channel="SPORTING TV">
-    <title lang="pt">Andebol: Sporting CP x BM Granollers - EHF European League</title>
-  </programme>
-  <programme start="20230410144000 +0100" stop="20230410144500 +0100" channel="SPORTING TV">
-    <title lang="pt">Memória Fotográfica</title>
-  </programme>
-  <programme start="20230410144500 +0100" stop="20230410150000 +0100" channel="SPORTING TV">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20230410150000 +0100" stop="20230410170000 +0100" channel="SPORTING TV">
-    <title lang="pt">Sporting CP x CD Santa Clara - Primeira Liga</title>
-  </programme>
-  <programme start="20230410170000 +0100" stop="20230410180000 +0100" channel="SPORTING TV">
-    <title lang="pt">Boa Tarde Sporting</title>
-  </programme>
-  <programme start="20230410180000 +0100" stop="20230410184000 +0100" channel="SPORTING TV">
-    <title lang="pt">Núcleo Duro</title>
-  </programme>
-  <programme start="20230410184000 +0100" stop="20230410190000 +0100" channel="SPORTING TV">
-    <title lang="pt">Paddock</title>
-  </programme>
-  <programme start="20230410190000 +0100" stop="20230410190500 +0100" channel="SPORTING TV">
-    <title lang="pt">60 Segundos Sporting</title>
-  </programme>
-  <programme start="20230410190500 +0100" stop="20230410193000 +0100" channel="SPORTING TV">
-    <title lang="pt">19:06</title>
-  </programme>
-  <programme start="20230410193000 +0100" stop="20230410223000 +0100" channel="SPORTING TV">
-    <title lang="pt">Futsal: Sporting CP x ADCR Caxinas - Camp. Nac. (Direto)</title>
-  </programme>
-  <programme start="20230410223000 +0100" stop="20230410223500 +0100" channel="SPORTING TV">
-    <title lang="pt">Memória Do Dia</title>
-  </programme>
-  <programme start="20230410223500 +0100" stop="20230410231500 +0100" channel="SPORTING TV">
-    <title lang="pt">Núcleo Duro</title>
-  </programme>
-  <programme start="20230410231500 +0100" stop="20230411020000 +0100" channel="SPORTING TV">
-    <title lang="pt">Arsenal FC x Sporting CP - Liga Europa</title>
+  <programme start="20230417023000 +0100" stop="20230417033000 +0100" channel="BTV">
+    <title lang="pt">Programação a Designar</title>
   </programme>
   <programme start="20230411020000 +0100" stop="20230411021500 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Notícias</title>
@@ -5110,8 +4867,11 @@
   <programme start="20230411025000 +0100" stop="20230411042000 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Grande Jornal</title>
   </programme>
-  <programme start="20230411042000 +0100" stop="20230411061000 +0100" channel="SPORTING TV">
-    <title lang="pt">Andebol: Sporting CP x Ada Maia - Camp. Andebol 1</title>
+  <programme start="20230411042000 +0100" stop="20230411060000 +0100" channel="SPORTING TV">
+    <title lang="pt">Andebol: Sporting CP x ADA Maia - Camp. Andebol 1</title>
+  </programme>
+  <programme start="20230411060000 +0100" stop="20230411061000 +0100" channel="SPORTING TV">
+    <title lang="pt">Andebol: Sporting CP x ADA Maia - Camp. Andebol 1</title>
   </programme>
   <programme start="20230411061000 +0100" stop="20230411062500 +0100" channel="SPORTING TV">
     <title lang="pt">Antecâmara Sporting TV</title>
@@ -5125,8 +4885,14 @@
   <programme start="20230411064500 +0100" stop="20230411071500 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Reportagem</title>
   </programme>
-  <programme start="20230411071500 +0100" stop="20230411083000 +0100" channel="SPORTING TV">
+  <programme start="20230411071500 +0100" stop="20230411073000 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Notícias</title>
+  </programme>
+  <programme start="20230411073000 +0100" stop="20230411080000 +0100" channel="SPORTING TV">
+    <title lang="pt">Eu Lembro-me De Ti!</title>
+  </programme>
+  <programme start="20230411080000 +0100" stop="20230411083000 +0100" channel="SPORTING TV">
+    <title lang="pt">Ginástica Em Casa</title>
   </programme>
   <programme start="20230411083000 +0100" stop="20230411084000 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Notícias</title>
@@ -5219,7 +4985,7 @@
     <title lang="pt">Magazine Modalidades</title>
   </programme>
   <programme start="20230412042000 +0100" stop="20230412054500 +0100" channel="SPORTING TV">
-    <title lang="pt">Futsal: Sporting CP x FC Azeméis - Camp. Na.</title>
+    <title lang="pt">Futsal: Sporting CP x FC Azeméis - Camp. Nac.</title>
   </programme>
   <programme start="20230412054500 +0100" stop="20230412060000 +0100" channel="SPORTING TV">
     <title lang="pt">Passaporte Sporting</title>
@@ -5248,8 +5014,11 @@
   <programme start="20230412103000 +0100" stop="20230412104000 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Notícias</title>
   </programme>
-  <programme start="20230412104000 +0100" stop="20230412110000 +0100" channel="SPORTING TV">
+  <programme start="20230412104000 +0100" stop="20230412104500 +0100" channel="SPORTING TV">
     <title lang="pt">Backstage Sporting</title>
+  </programme>
+  <programme start="20230412104500 +0100" stop="20230412110000 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Notícias</title>
   </programme>
   <programme start="20230412110000 +0100" stop="20230412111500 +0100" channel="SPORTING TV">
     <title lang="pt">Backstage Sporting</title>
@@ -5266,23 +5035,23 @@
   <programme start="20230412120000 +0100" stop="20230412144500 +0100" channel="SPORTING TV">
     <title lang="pt">Arsenal FC x Sporting CP - Liga Europa</title>
   </programme>
-  <programme start="20230412144500 +0100" stop="20230412145500 +0100" channel="SPORTING TV">
+  <programme start="20230412144500 +0100" stop="20230412150000 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Notícias</title>
   </programme>
-  <programme start="20230412145500 +0100" stop="20230412170000 +0100" channel="SPORTING TV">
-    <title lang="pt">Sporting CP B x Vitória FC - Liga 3 (Direto)</title>
-  </programme>
-  <programme start="20230412170000 +0100" stop="20230412180000 +0100" channel="SPORTING TV">
-    <title lang="pt">Boa Tarde Sporting</title>
-  </programme>
-  <programme start="20230412180000 +0100" stop="20230412183000 +0100" channel="SPORTING TV">
-    <title lang="pt">Lado B</title>
-  </programme>
-  <programme start="20230412183000 +0100" stop="20230412184500 +0100" channel="SPORTING TV">
+  <programme start="20230412150000 +0100" stop="20230412151500 +0100" channel="SPORTING TV">
     <title lang="pt">Antecâmara Sporting TV</title>
   </programme>
-  <programme start="20230412184500 +0100" stop="20230412190000 +0100" channel="SPORTING TV">
+  <programme start="20230412151500 +0100" stop="20230412153000 +0100" channel="SPORTING TV">
     <title lang="pt">Esports &amp; Gaming</title>
+  </programme>
+  <programme start="20230412153000 +0100" stop="20230412160000 +0100" channel="SPORTING TV">
+    <title lang="pt">Lado B</title>
+  </programme>
+  <programme start="20230412160000 +0100" stop="20230412165500 +0100" channel="SPORTING TV">
+    <title lang="pt">Boa Tarde Sporting</title>
+  </programme>
+  <programme start="20230412165500 +0100" stop="20230412190000 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting CP B x Vitória FC - Liga 3 (Direto)</title>
   </programme>
   <programme start="20230412190000 +0100" stop="20230412190500 +0100" channel="SPORTING TV">
     <title lang="pt">60 Segundos Sporting</title>
@@ -5303,7 +5072,7 @@
     <title lang="pt">Multidesportivo</title>
   </programme>
   <programme start="20230412233500 +0100" stop="20230412235500 +0100" channel="SPORTING TV">
-    <title lang="pt">Antevisão</title>
+    <title lang="pt">Antevisão Liga</title>
   </programme>
   <programme start="20230412235500 +0100" stop="20230413001000 +0100" channel="SPORTING TV">
     <title lang="pt">Antecâmara Sporting TV</title>
@@ -5341,8 +5110,11 @@
   <programme start="20230413064500 +0100" stop="20230413070000 +0100" channel="SPORTING TV">
     <title lang="pt">Antecâmara Sporting TV</title>
   </programme>
-  <programme start="20230413070000 +0100" stop="20230413073000 +0100" channel="SPORTING TV">
+  <programme start="20230413070000 +0100" stop="20230413071500 +0100" channel="SPORTING TV">
     <title lang="pt">Esports &amp; Gaming</title>
+  </programme>
+  <programme start="20230413071500 +0100" stop="20230413073000 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Notícias</title>
   </programme>
   <programme start="20230413073000 +0100" stop="20230413080000 +0100" channel="SPORTING TV">
     <title lang="pt">Magazine Futebol</title>
@@ -5452,8 +5224,14 @@
   <programme start="20230414080000 +0100" stop="20230414083000 +0100" channel="SPORTING TV">
     <title lang="pt">Ginástica Em Casa</title>
   </programme>
-  <programme start="20230414083000 +0100" stop="20230414102500 +0100" channel="SPORTING TV">
+  <programme start="20230414083000 +0100" stop="20230414084000 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Notícias</title>
+  </programme>
+  <programme start="20230414084000 +0100" stop="20230414101500 +0100" channel="SPORTING TV">
+    <title lang="pt">Futsal: Sporting CP x AD Fundão - Camp. Nac.</title>
+  </programme>
+  <programme start="20230414101500 +0100" stop="20230414102500 +0100" channel="SPORTING TV">
+    <title lang="pt">Passaporte Sporting</title>
   </programme>
   <programme start="20230414102500 +0100" stop="20230414103000 +0100" channel="SPORTING TV">
     <title lang="pt">Memória Do Dia</title>
@@ -5569,8 +5347,11 @@
   <programme start="20230415084000 +0100" stop="20230415091000 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Corporate</title>
   </programme>
-  <programme start="20230415091000 +0100" stop="20230415102500 +0100" channel="SPORTING TV">
+  <programme start="20230415091000 +0100" stop="20230415101000 +0100" channel="SPORTING TV">
     <title lang="pt">Multidesportivo</title>
+  </programme>
+  <programme start="20230415101000 +0100" stop="20230415102500 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Notícias</title>
   </programme>
   <programme start="20230415102500 +0100" stop="20230415104000 +0100" channel="SPORTING TV">
     <title lang="pt">Antevisão Modalidades</title>
@@ -5618,7 +5399,7 @@
     <title lang="pt">Sporting Notícias</title>
   </programme>
   <programme start="20230415145500 +0100" stop="20230415170000 +0100" channel="SPORTING TV">
-    <title lang="pt">Basquetebol: Sporting CP x FC Porto - Camp. Nac. (Direto)</title>
+    <title lang="pt">Basquetebol: Sporting CP x FC Porto - Camp. Nac.(Direto)</title>
   </programme>
   <programme start="20230415170000 +0100" stop="20230415173500 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Notícias</title>
@@ -5677,8 +5458,11 @@
   <programme start="20230416065500 +0100" stop="20230416071500 +0100" channel="SPORTING TV">
     <title lang="pt">Jornal Sporting</title>
   </programme>
-  <programme start="20230416071500 +0100" stop="20230416080000 +0100" channel="SPORTING TV">
+  <programme start="20230416071500 +0100" stop="20230416073000 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Notícias</title>
+  </programme>
+  <programme start="20230416073000 +0100" stop="20230416080000 +0100" channel="SPORTING TV">
+    <title lang="pt">Magazine Kombat Press</title>
   </programme>
   <programme start="20230416080000 +0100" stop="20230416083000 +0100" channel="SPORTING TV">
     <title lang="pt">Ginástica Em Casa</title>
@@ -5707,128 +5491,65 @@
   <programme start="20230416145500 +0100" stop="20230416164500 +0100" channel="SPORTING TV">
     <title lang="pt">Hóquei: Sporting CP x SC Tomar - Camp. Nacional (Direto)</title>
   </programme>
-  <programme start="20230410003000 +0100" stop="20230410010000 +0100" channel="A BOLA TV">
-    <title lang="pt">A Grelha</title>
+  <programme start="20230416164500 +0100" stop="20230416170000 +0100" channel="SPORTING TV">
+    <title lang="pt">Antecâmara Sporting TV</title>
   </programme>
-  <programme start="20230410010000 +0100" stop="20230410013000 +0100" channel="A BOLA TV">
-    <title lang="pt">Remate Final</title>
+  <programme start="20230416170000 +0100" stop="20230416173000 +0100" channel="SPORTING TV">
+    <title lang="pt">Dia De Sporting</title>
   </programme>
-  <programme start="20230410013000 +0100" stop="20230410013500 +0100" channel="A BOLA TV">
-    <title lang="pt">Off</title>
+  <programme start="20230416173000 +0100" stop="20230416175000 +0100" channel="SPORTING TV">
+    <title lang="pt">Jornal Sporting</title>
   </programme>
-  <programme start="20230410013500 +0100" stop="20230410033500 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola De Domingo</title>
+  <programme start="20230416175000 +0100" stop="20230416180500 +0100" channel="SPORTING TV">
+    <title lang="pt">Esports &amp; Gaming</title>
   </programme>
-  <programme start="20230410033500 +0100" stop="20230410040500 +0100" channel="A BOLA TV">
-    <title lang="pt">Remate Final</title>
+  <programme start="20230416180500 +0100" stop="20230416181500 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Entrevista</title>
   </programme>
-  <programme start="20230410040500 +0100" stop="20230410043500 +0100" channel="A BOLA TV">
-    <title lang="pt">Diamantes Na Areia</title>
+  <programme start="20230416181500 +0100" stop="20230416183000 +0100" channel="SPORTING TV">
+    <title lang="pt">Antevisão Rúben Amorim</title>
   </programme>
-  <programme start="20230410043500 +0100" stop="20230410050500 +0100" channel="A BOLA TV">
-    <title lang="pt">Remo: CN Indoor</title>
+  <programme start="20230416183000 +0100" stop="20230416202500 +0100" channel="SPORTING TV">
+    <title lang="pt">Dia De Sporting</title>
   </programme>
-  <programme start="20230410050500 +0100" stop="20230410053500 +0100" channel="A BOLA TV">
-    <title lang="pt">Magazine TT</title>
+  <programme start="20230416202500 +0100" stop="20230416223000 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting CP x FC Arouca - Primeira Liga (Relato)</title>
   </programme>
-  <programme start="20230410053500 +0100" stop="20230410060500 +0100" channel="A BOLA TV">
-    <title lang="pt">Isto É Futebol</title>
+  <programme start="20230416223000 +0100" stop="20230416234500 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Grande Jornal</title>
   </programme>
-  <programme start="20230410060500 +0100" stop="20230410063000 +0100" channel="A BOLA TV">
-    <title lang="pt">Lendas Dos Mundiais</title>
+  <programme start="20230416234500 +0100" stop="20230417013500 +0100" channel="SPORTING TV">
+    <title lang="pt">Hóquei: Sporting CP x SC Tomar - Camp. Nacional</title>
   </programme>
-  <programme start="20230410063000 +0100" stop="20230410070000 +0100" channel="A BOLA TV">
-    <title lang="pt">Motores</title>
+  <programme start="20230417013500 +0100" stop="20230417015000 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Notícias</title>
   </programme>
-  <programme start="20230410070000 +0100" stop="20230410073000 +0100" channel="A BOLA TV">
-    <title lang="pt">Remate Final</title>
+  <programme start="20230417015000 +0100" stop="20230417022000 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Corporate</title>
   </programme>
-  <programme start="20230410073000 +0100" stop="20230410080000 +0100" channel="A BOLA TV">
-    <title lang="pt">Jogar Em Casa: Jorge Braz</title>
+  <programme start="20230417022000 +0100" stop="20230417025000 +0100" channel="SPORTING TV">
+    <title lang="pt">Magazine Kombat Press</title>
   </programme>
-  <programme start="20230410080000 +0100" stop="20230410083000 +0100" channel="A BOLA TV">
-    <title lang="pt">Remate Final</title>
+  <programme start="20230417025000 +0100" stop="20230417040500 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Grande Jornal</title>
   </programme>
-  <programme start="20230410083000 +0100" stop="20230410090000 +0100" channel="A BOLA TV">
-    <title lang="pt">Desporto Motorizado</title>
+  <programme start="20230417040500 +0100" stop="20230417042000 +0100" channel="SPORTING TV">
+    <title lang="pt">Esports &amp; Gaming</title>
   </programme>
-  <programme start="20230410090000 +0100" stop="20230410091500 +0100" channel="A BOLA TV">
-    <title lang="pt">Flag</title>
+  <programme start="20230417042000 +0100" stop="20230417060000 +0100" channel="SPORTING TV">
+    <title lang="pt">Hóquei: Sporting CP x FC Porto - Camp. Nacional</title>
   </programme>
-  <programme start="20230410091500 +0100" stop="20230410093000 +0100" channel="A BOLA TV">
-    <title lang="pt">Magazine FMP</title>
+  <programme start="20230417060000 +0100" stop="20230417120000 +0100" channel="SPORTING TV">
+    <title lang="pt">SPORTING CP TV</title>
   </programme>
-  <programme start="20230410093000 +0100" stop="20230410100000 +0100" channel="A BOLA TV">
-    <title lang="pt">Ride</title>
+  <programme start="20230417120000 +0100" stop="20230417180000 +0100" channel="SPORTING TV">
+    <title lang="pt">SPORTING CP TV</title>
   </programme>
-  <programme start="20230410100000 +0100" stop="20230410103000 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Das 10</title>
+  <programme start="20230417180000 +0100" stop="20230417220000 +0100" channel="SPORTING TV">
+    <title lang="pt">SPORTING CP TV</title>
   </programme>
-  <programme start="20230410103000 +0100" stop="20230410110000 +0100" channel="A BOLA TV">
-    <title lang="pt">Máquina Do Tempo</title>
-  </programme>
-  <programme start="20230410110000 +0100" stop="20230410113000 +0100" channel="A BOLA TV">
-    <title lang="pt">Isto É Futebol</title>
-  </programme>
-  <programme start="20230410113000 +0100" stop="20230410120000 +0100" channel="A BOLA TV">
-    <title lang="pt">Compacto Desportivo</title>
-  </programme>
-  <programme start="20230410120000 +0100" stop="20230410123000 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Do Meio Dia</title>
-  </programme>
-  <programme start="20230410123000 +0100" stop="20230410130000 +0100" channel="A BOLA TV">
-    <title lang="pt">Deixa Rolar: Marco Costa</title>
-  </programme>
-  <programme start="20230410130000 +0100" stop="20230410133000 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Da Uma</title>
-  </programme>
-  <programme start="20230410133000 +0100" stop="20230410135500 +0100" channel="A BOLA TV">
-    <title lang="pt">Black Power</title>
-  </programme>
-  <programme start="20230410135500 +0100" stop="20230410140000 +0100" channel="A BOLA TV">
-    <title lang="pt">Off</title>
-  </programme>
-  <programme start="20230410140000 +0100" stop="20230410143000 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Das 2</title>
-  </programme>
-  <programme start="20230410143000 +0100" stop="20230410162000 +0100" channel="A BOLA TV">
-    <title lang="pt">Anadia x Canelas - Liga 3 Manutenção</title>
-  </programme>
-  <programme start="20230410162000 +0100" stop="20230410165000 +0100" channel="A BOLA TV">
-    <title lang="pt">Compacto Desportivo</title>
-  </programme>
-  <programme start="20230410165000 +0100" stop="20230410170000 +0100" channel="A BOLA TV">
-    <title lang="pt">Automóveis Com História</title>
-  </programme>
-  <programme start="20230410170000 +0100" stop="20230410173000 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Da Tarde</title>
-  </programme>
-  <programme start="20230410173000 +0100" stop="20230410180000 +0100" channel="A BOLA TV">
-    <title lang="pt">Revista De Imprensa Internacional</title>
-  </programme>
-  <programme start="20230410180000 +0100" stop="20230410183000 +0100" channel="A BOLA TV">
-    <title lang="pt">Lendas Dos Mundiais</title>
-  </programme>
-  <programme start="20230410183000 +0100" stop="20230410190000 +0100" channel="A BOLA TV">
-    <title lang="pt">Jogar Em Casa: Jorge Braz</title>
-  </programme>
-  <programme start="20230410190000 +0100" stop="20230410200000 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Das 7</title>
-  </programme>
-  <programme start="20230410200000 +0100" stop="20230410210000 +0100" channel="A BOLA TV">
-    <title lang="pt">Conversas Com...: Nuno Laurentino</title>
-  </programme>
-  <programme start="20230410210000 +0100" stop="20230410213000 +0100" channel="A BOLA TV">
-    <title lang="pt">Revista De Imprensa Internacional</title>
-  </programme>
-  <programme start="20230410213000 +0100" stop="20230410220000 +0100" channel="A BOLA TV">
-    <title lang="pt">Heróis Da Nossa Vida</title>
-  </programme>
-  <programme start="20230410220000 +0100" stop="20230411001500 +0100" channel="A BOLA TV">
-    <title lang="pt">A Bola Da Noite</title>
-  </programme>
-  <programme start="20230411001500 +0100" stop="20230411004500 +0100" channel="A BOLA TV">
-    <title lang="pt">Isto É Futebol</title>
+  <programme start="20230417220000 +0100" stop="20230418020000 +0100" channel="SPORTING TV">
+    <title lang="pt">SPORTING CP TV</title>
   </programme>
   <programme start="20230411004500 +0100" stop="20230411011500 +0100" channel="A BOLA TV">
     <title lang="pt">Lendas Dos Mundiais</title>
@@ -6496,80 +6217,80 @@
   <programme start="20230416161000 +0100" stop="20230416163000 +0100" channel="A BOLA TV">
     <title lang="pt">X-Acto: Felix Baumgartner</title>
   </programme>
-  <programme start="20230410000000 +0100" stop="20230410010000 +0100" channel="Canal 11">
-    <title lang="pt">Super Mister Quiz</title>
+  <programme start="20230416163000 +0100" stop="20230416170000 +0100" channel="A BOLA TV">
+    <title lang="pt">Jogar Em Casa: Tarantini</title>
   </programme>
-  <programme start="20230410010000 +0100" stop="20230410020000 +0100" channel="Canal 11">
-    <title lang="pt">11 Na Hora</title>
+  <programme start="20230416170000 +0100" stop="20230416173000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Da Tarde</title>
   </programme>
-  <programme start="20230410020000 +0100" stop="20230410040000 +0100" channel="Canal 11">
-    <title lang="pt">Felgueiras x Alverca - Liga 3 Fase De Subida</title>
+  <programme start="20230416173000 +0100" stop="20230416180000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Grelha</title>
   </programme>
-  <programme start="20230410040000 +0100" stop="20230410050000 +0100" channel="Canal 11">
-    <title lang="pt">Super Mister Quiz</title>
+  <programme start="20230416180000 +0100" stop="20230416183000 +0100" channel="A BOLA TV">
+    <title lang="pt">Ride</title>
   </programme>
-  <programme start="20230410050000 +0100" stop="20230410070000 +0100" channel="Canal 11">
-    <title lang="pt">Braga B x Leiria - Liga 3 Fase De Subida</title>
+  <programme start="20230416183000 +0100" stop="20230416190000 +0100" channel="A BOLA TV">
+    <title lang="pt">Motores</title>
   </programme>
-  <programme start="20230410070000 +0100" stop="20230410075500 +0100" channel="Canal 11">
-    <title lang="pt">Sagrado Balneário - Melhores Momentos - 1ª Parte</title>
+  <programme start="20230416190000 +0100" stop="20230416195500 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Das 7</title>
   </programme>
-  <programme start="20230410075500 +0100" stop="20230410081500 +0100" channel="Canal 11">
-    <title lang="pt">O Meu Clube - ADC Proença-A-Nova</title>
+  <programme start="20230416195500 +0100" stop="20230416203000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Das 8</title>
   </programme>
-  <programme start="20230410081500 +0100" stop="20230410091500 +0100" channel="Canal 11">
-    <title lang="pt">Super Mister Quiz</title>
+  <programme start="20230416203000 +0100" stop="20230416203500 +0100" channel="A BOLA TV">
+    <title lang="pt">Off</title>
   </programme>
-  <programme start="20230410091500 +0100" stop="20230410094500 +0100" channel="Canal 11">
-    <title lang="pt">Portugal No Mundo</title>
+  <programme start="20230416203500 +0100" stop="20230416210000 +0100" channel="A BOLA TV">
+    <title lang="pt">Isto É Futebol</title>
   </programme>
-  <programme start="20230410094500 +0100" stop="20230410101500 +0100" channel="Canal 11">
-    <title lang="pt">Primeira Linha</title>
+  <programme start="20230416210000 +0100" stop="20230416213000 +0100" channel="A BOLA TV">
+    <title lang="pt">Máquina Do Tempo</title>
   </programme>
-  <programme start="20230410101500 +0100" stop="20230410121000 +0100" channel="Canal 11">
-    <title lang="pt">Belenenses x Amora - Liga 3</title>
+  <programme start="20230416213000 +0100" stop="20230416220000 +0100" channel="A BOLA TV">
+    <title lang="pt">Lendas Dos Mundiais</title>
   </programme>
-  <programme start="20230410121000 +0100" stop="20230410125000 +0100" channel="Canal 11">
-    <title lang="pt">Original 11 - 58 Dias</title>
+  <programme start="20230416220000 +0100" stop="20230417000000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola De Domingo</title>
   </programme>
-  <programme start="20230410125000 +0100" stop="20230410132000 +0100" channel="Canal 11">
-    <title lang="pt">Cândido On Tour - Lar Doce Lar</title>
+  <programme start="20230417000000 +0100" stop="20230417003000 +0100" channel="A BOLA TV">
+    <title lang="pt">Black Power</title>
   </programme>
-  <programme start="20230410132000 +0100" stop="20230410141500 +0100" channel="Canal 11">
-    <title lang="pt">Super Mister Quiz</title>
+  <programme start="20230417003000 +0100" stop="20230417010000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Grelha</title>
   </programme>
-  <programme start="20230410141500 +0100" stop="20230410143000 +0100" channel="Canal 11">
-    <title lang="pt">O Meu Clube - ADC Proença-A-Nova</title>
+  <programme start="20230417010000 +0100" stop="20230417013000 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
   </programme>
-  <programme start="20230410143000 +0100" stop="20230410155500 +0100" channel="Canal 11">
-    <title lang="pt">Futsal: Futsal Azeméis x Portimonense - Camp. Nacional</title>
+  <programme start="20230417013000 +0100" stop="20230417013500 +0100" channel="A BOLA TV">
+    <title lang="pt">Off</title>
   </programme>
-  <programme start="20230410155500 +0100" stop="20230410165000 +0100" channel="Canal 11">
-    <title lang="pt">Futebol Fem.: Portugal x Suécia - Sub-23 (Direto)</title>
+  <programme start="20230417013500 +0100" stop="20230417033500 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola De Domingo</title>
   </programme>
-  <programme start="20230410165000 +0100" stop="20230410170500 +0100" channel="Canal 11">
-    <title lang="pt">11 Na Hora</title>
+  <programme start="20230417033500 +0100" stop="20230417040500 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
   </programme>
-  <programme start="20230410170500 +0100" stop="20230410180000 +0100" channel="Canal 11">
-    <title lang="pt">Futebol Fem.: Portugal x Suécia - Sub-23 (Direto)</title>
+  <programme start="20230417040500 +0100" stop="20230417043500 +0100" channel="A BOLA TV">
+    <title lang="pt">Diamantes Na Areia</title>
   </programme>
-  <programme start="20230410180000 +0100" stop="20230410190000 +0100" channel="Canal 11">
-    <title lang="pt">Puro Magazine</title>
+  <programme start="20230417043500 +0100" stop="20230417050500 +0100" channel="A BOLA TV">
+    <title lang="pt">Ténis De Mesa: Portugal x Dinamarca - Ap. Camp. Europa</title>
   </programme>
-  <programme start="20230410190000 +0100" stop="20230410200000 +0100" channel="Canal 11">
-    <title lang="pt">Tempo Útil</title>
+  <programme start="20230417050500 +0100" stop="20230417053500 +0100" channel="A BOLA TV">
+    <title lang="pt">Magazine TT</title>
   </programme>
-  <programme start="20230410200000 +0100" stop="20230410203000 +0100" channel="Canal 11">
-    <title lang="pt">Cândido On Tour - Lar Doce Lar</title>
+  <programme start="20230417053500 +0100" stop="20230417060500 +0100" channel="A BOLA TV">
+    <title lang="pt">Isto É Futebol</title>
   </programme>
-  <programme start="20230410203000 +0100" stop="20230410220000 +0100" channel="Canal 11">
-    <title lang="pt">Futsal: Candoso x Quinta Dos Lombos - Camp. Nacional</title>
+  <programme start="20230417060500 +0100" stop="20230417063000 +0100" channel="A BOLA TV">
+    <title lang="pt">Lendas Dos Mundiais</title>
   </programme>
-  <programme start="20230410220000 +0100" stop="20230411003000 +0100" channel="Canal 11">
-    <title lang="pt">Futebol Total</title>
+  <programme start="20230417063000 +0100" stop="20230417073000 +0100" channel="A BOLA TV">
+    <title lang="pt">Motores</title>
   </programme>
   <programme start="20230411003000 +0100" stop="20230411010000 +0100" channel="Canal 11">
-    <title lang="pt">Liga BWIN - Compactos</title>
+    <title lang="pt">Compactos - Primeira Liga</title>
   </programme>
   <programme start="20230411010000 +0100" stop="20230411011500 +0100" channel="Canal 11">
     <title lang="pt">O Meu Clube - ADC Proença-A-Nova</title>
@@ -6581,13 +6302,13 @@
     <title lang="pt">Futebol Total</title>
   </programme>
   <programme start="20230411043500 +0100" stop="20230411045000 +0100" channel="Canal 11">
-    <title lang="pt">Liga Placard - Compacto - 20ª Jornada</title>
+    <title lang="pt">Compacto - 20ª Jornada</title>
   </programme>
   <programme start="20230411045000 +0100" stop="20230411050500 +0100" channel="Canal 11">
-    <title lang="pt">Liga 3 - Compacto - 2ª Jornada Fase De Subida</title>
+    <title lang="pt">Compacto - 2ª Jornada Fase De Subida - Liga 3</title>
   </programme>
   <programme start="20230411050500 +0100" stop="20230411052000 +0100" channel="Canal 11">
-    <title lang="pt">Liga 3 - Compacto - 2ª Jornada Fase Manutenção</title>
+    <title lang="pt">Compacto - 2ª Jornada Fase Manutenção Liga 3</title>
   </programme>
   <programme start="20230411052000 +0100" stop="20230411062000 +0100" channel="Canal 11">
     <title lang="pt">Tempo Útil</title>
@@ -6937,59 +6658,59 @@
   <programme start="20230416145500 +0100" stop="20230416170000 +0100" channel="Canal 11">
     <title lang="pt">Futebol Fem.: Braga x Benfica - Camp. Nacional (Direto)</title>
   </programme>
-  <programme start="20230410003000 +0100" stop="20230410020000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo: Paris - Roubaix</title>
+  <programme start="20230416170000 +0100" stop="20230416175500 +0100" channel="Canal 11">
+    <title lang="pt">11 Na Hora</title>
   </programme>
-  <programme start="20230410020000 +0100" stop="20230410040000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: UK Championship</title>
+  <programme start="20230416175500 +0100" stop="20230416195500 +0100" channel="Canal 11">
+    <title lang="pt">Leiria x Felgueiras - Liga 3 (Direto)</title>
   </programme>
-  <programme start="20230410040000 +0100" stop="20230410060000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo: Paris - Roubaix</title>
+  <programme start="20230416195500 +0100" stop="20230416213000 +0100" channel="Canal 11">
+    <title lang="pt">Futsal: Portugal x Itália - Jogo Prep. (Direto)</title>
   </programme>
-  <programme start="20230410060000 +0100" stop="20230410073000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Triatlo: Super League Arena Games</title>
+  <programme start="20230416213000 +0100" stop="20230416220000 +0100" channel="Canal 11">
+    <title lang="pt">11 Na Hora</title>
   </programme>
-  <programme start="20230410073000 +0100" stop="20230410090000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: UK Championship</title>
+  <programme start="20230416220000 +0100" stop="20230417000000 +0100" channel="Canal 11">
+    <title lang="pt">Flamengo x Coritiba - Brasileirão</title>
   </programme>
-  <programme start="20230410090000 +0100" stop="20230410103000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo: Paris - Roubaix</title>
+  <programme start="20230417000000 +0100" stop="20230417003000 +0100" channel="Canal 11">
+    <title lang="pt">11 Na Hora</title>
   </programme>
-  <programme start="20230410103000 +0100" stop="20230410120000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Triatlo: Super League Arena Games</title>
+  <programme start="20230417003000 +0100" stop="20230417013000 +0100" channel="Canal 11">
+    <title lang="pt">Super Mister Quiz</title>
   </programme>
-  <programme start="20230410120000 +0100" stop="20230410130000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo: Volta ao País Basco, Etapa 5</title>
+  <programme start="20230417013000 +0100" stop="20230417030500 +0100" channel="Canal 11">
+    <title lang="pt">Futsal: Portugal x Itália - Jogo Prep.</title>
   </programme>
-  <programme start="20230410130000 +0100" stop="20230410141500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo: Volta ao País Basco, Etapa 6</title>
+  <programme start="20230417030500 +0100" stop="20230417033500 +0100" channel="Canal 11">
+    <title lang="pt">11 Na Hora</title>
   </programme>
-  <programme start="20230410141500 +0100" stop="20230410161500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo: Volta a Mouscron (Direto)</title>
+  <programme start="20230417033500 +0100" stop="20230417043500 +0100" channel="Canal 11">
+    <title lang="pt">Super Mister Quiz</title>
   </programme>
-  <programme start="20230410161500 +0100" stop="20230410170000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo: Paris - Roubaix</title>
+  <programme start="20230417043500 +0100" stop="20230417064000 +0100" channel="Canal 11">
+    <title lang="pt">Futebol Fem.: Braga x Benfica - Camp. Nacional</title>
   </programme>
-  <programme start="20230410170000 +0100" stop="20230410175500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Curling: Camp. Mundo, Ottawa</title>
+  <programme start="20230417064000 +0100" stop="20230417070000 +0100" channel="Canal 11">
+    <title lang="pt">Amor A Camisola - O Futuro É Este</title>
   </programme>
-  <programme start="20230410175500 +0100" stop="20230410180000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Vinheta: The Minute</title>
+  <programme start="20230417070000 +0100" stop="20230417090000 +0100" channel="Canal 11">
+    <title lang="pt">CANAL 11</title>
   </programme>
-  <programme start="20230410180000 +0100" stop="20230410190000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Judo: Judo Show</title>
+  <programme start="20230417090000 +0100" stop="20230417120000 +0100" channel="Canal 11">
+    <title lang="pt">CANAL 11</title>
   </programme>
-  <programme start="20230410190000 +0100" stop="20230410200000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Triatlo: Super League Arena Games</title>
+  <programme start="20230417120000 +0100" stop="20230417150000 +0100" channel="Canal 11">
+    <title lang="pt">CANAL 11</title>
   </programme>
-  <programme start="20230410200000 +0100" stop="20230410213000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo: Paris - Roubaix</title>
+  <programme start="20230417150000 +0100" stop="20230417180000 +0100" channel="Canal 11">
+    <title lang="pt">CANAL 11</title>
   </programme>
-  <programme start="20230410213000 +0100" stop="20230410233000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Curling: Camp. Mundo, Ottawa</title>
+  <programme start="20230417180000 +0100" stop="20230417220000 +0100" channel="Canal 11">
+    <title lang="pt">CANAL 11</title>
   </programme>
-  <programme start="20230410233000 +0100" stop="20230411003000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Surf: World League Championship Tour</title>
+  <programme start="20230417220000 +0100" stop="20230418020000 +0100" channel="Canal 11">
+    <title lang="pt">CANAL 11</title>
   </programme>
   <programme start="20230411003000 +0100" stop="20230411020000 +0100" channel="EUROSPORT 1">
     <title lang="pt">Ciclismo: Paris - Roubaix</title>
@@ -7291,62 +7012,26 @@
   <programme start="20230416161500 +0100" stop="20230416173000 +0100" channel="EUROSPORT 1">
     <title lang="pt">Snooker: Camp. Mundo, Sheffield (Direto)</title>
   </programme>
-  <programme start="20230410003000 +0100" stop="20230410020000 +0100" channel="EUROSPORT 2">
-    <title lang="pt">Snooker: Home Nations Series, Open País Gales</title>
+  <programme start="20230416173000 +0100" stop="20230416180000 +0100" channel="EUROSPORT 1">
+    <title lang="pt">Ciclismo: Amstel Gold Race</title>
   </programme>
-  <programme start="20230410020000 +0100" stop="20230410040000 +0100" channel="EUROSPORT 2">
-    <title lang="pt">Ciclismo: Paris - Roubaix</title>
+  <programme start="20230416180000 +0100" stop="20230416184500 +0100" channel="EUROSPORT 1">
+    <title lang="pt">Ciclismo: Amstel Gold Race</title>
   </programme>
-  <programme start="20230410040000 +0100" stop="20230410053000 +0100" channel="EUROSPORT 2">
-    <title lang="pt">Triatlo: Super League Arena Games</title>
+  <programme start="20230416184500 +0100" stop="20230416220000 +0100" channel="EUROSPORT 1">
+    <title lang="pt">Snooker: Camp. Mundo, Sheffield (Direto)</title>
   </programme>
-  <programme start="20230410053000 +0100" stop="20230410073000 +0100" channel="EUROSPORT 2">
-    <title lang="pt">Snooker: UK Championship</title>
+  <programme start="20230416220000 +0100" stop="20230416220500 +0100" channel="EUROSPORT 1">
+    <title lang="pt">Vinheta: The Minute</title>
   </programme>
-  <programme start="20230410073000 +0100" stop="20230410090000 +0100" channel="EUROSPORT 2">
-    <title lang="pt">Ciclismo: Paris - Roubaix</title>
+  <programme start="20230416220500 +0100" stop="20230416233000 +0100" channel="EUROSPORT 1">
+    <title lang="pt">Automobilismo: Camp. Mundo, 6 Horas Portimão</title>
   </programme>
-  <programme start="20230410090000 +0100" stop="20230410093000 +0100" channel="EUROSPORT 2">
-    <title lang="pt">Unlock the Power of Sport</title>
+  <programme start="20230416233000 +0100" stop="20230417003000 +0100" channel="EUROSPORT 1">
+    <title lang="pt">Motociclismo: Camp. Mundo</title>
   </programme>
-  <programme start="20230410093000 +0100" stop="20230410120000 +0100" channel="EUROSPORT 2">
-    <title lang="pt">Curling: Camp. Mundo, Ottawa</title>
-  </programme>
-  <programme start="20230410120000 +0100" stop="20230410130000 +0100" channel="EUROSPORT 2">
-    <title lang="pt">Motocross: Camp. Mundo, MX2 (Direto)</title>
-  </programme>
-  <programme start="20230410130000 +0100" stop="20230410140000 +0100" channel="EUROSPORT 2">
-    <title lang="pt">Motocross: Camp. Mundo, MXGP (Direto)</title>
-  </programme>
-  <programme start="20230410140000 +0100" stop="20230410150000 +0100" channel="EUROSPORT 2">
-    <title lang="pt">Motociclismo: Camp. Mundo, Bol d'Or</title>
-  </programme>
-  <programme start="20230410150000 +0100" stop="20230410160000 +0100" channel="EUROSPORT 2">
-    <title lang="pt">Motocross: Camp. Mundo, MX2 (Direto)</title>
-  </programme>
-  <programme start="20230410160000 +0100" stop="20230410170000 +0100" channel="EUROSPORT 2">
-    <title lang="pt">Motocross: Camp. Mundo, MXGP (Direto)</title>
-  </programme>
-  <programme start="20230410170000 +0100" stop="20230410190000 +0100" channel="EUROSPORT 2">
-    <title lang="pt">Ciclismo: Paris - Roubaix</title>
-  </programme>
-  <programme start="20230410190000 +0100" stop="20230410200000 +0100" channel="EUROSPORT 2">
-    <title lang="pt">Surf: World League Championship Tour</title>
-  </programme>
-  <programme start="20230410200000 +0100" stop="20230410203000 +0100" channel="EUROSPORT 2">
-    <title lang="pt">Unlock the Power of Sport</title>
-  </programme>
-  <programme start="20230410203000 +0100" stop="20230410213000 +0100" channel="EUROSPORT 2">
-    <title lang="pt">Judo: Judo Show</title>
-  </programme>
-  <programme start="20230410213000 +0100" stop="20230410223000 +0100" channel="EUROSPORT 2">
-    <title lang="pt">Ciclismo: Volta a Mouscron</title>
-  </programme>
-  <programme start="20230410223000 +0100" stop="20230410233000 +0100" channel="EUROSPORT 2">
-    <title lang="pt">Ciclismo: Paris - Roubaix</title>
-  </programme>
-  <programme start="20230410233000 +0100" stop="20230411020000 +0100" channel="EUROSPORT 2">
-    <title lang="pt">Curling: Camp. Mundo, Ottawa</title>
+  <programme start="20230417003000 +0100" stop="20230417013000 +0100" channel="EUROSPORT 1">
+    <title lang="pt">Ciclismo: Amstel Gold Race</title>
   </programme>
   <programme start="20230411020000 +0100" stop="20230411033000 +0100" channel="EUROSPORT 2">
     <title lang="pt">Ciclismo: Paris - Roubaix</title>
@@ -7596,5 +7281,14 @@
   </programme>
   <programme start="20230416143000 +0100" stop="20230416183000 +0100" channel="EUROSPORT 2">
     <title lang="pt">Automobilismo: Camp. Mundo, 6 Horas Portimão (Direto)</title>
+  </programme>
+  <programme start="20230416183000 +0100" stop="20230416230000 +0100" channel="EUROSPORT 2">
+    <title lang="pt">Golfe: PGA TOUR, RBC Heritage (Direto)</title>
+  </programme>
+  <programme start="20230416230000 +0100" stop="20230417003000 +0100" channel="EUROSPORT 2">
+    <title lang="pt">Ciclismo: Amstel Gold Race</title>
+  </programme>
+  <programme start="20230417003000 +0100" stop="20230417013000 +0100" channel="EUROSPORT 2">
+    <title lang="pt">Snooker: Camp. Mundo, Sheffield</title>
   </programme>
 </tv>
