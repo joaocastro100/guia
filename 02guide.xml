@@ -760,6 +760,27 @@
   <programme start="20230621153000 +0100" stop="20230621163000 +0100" channel="RECORD TV HD">
     <title lang="pt">Reis</title>
   </programme>
+  <programme start="20230621163000 +0100" stop="20230621173000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Os Dez Mandamentos</title>
+  </programme>
+  <programme start="20230621173000 +0100" stop="20230621181500 +0100" channel="RECORD TV HD">
+    <title lang="pt">Quando Me Apaixono</title>
+  </programme>
+  <programme start="20230621181500 +0100" stop="20230621191500 +0100" channel="RECORD TV HD">
+    <title lang="pt">Jesus</title>
+  </programme>
+  <programme start="20230621191500 +0100" stop="20230621200000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Fala Portugal</title>
+  </programme>
+  <programme start="20230621200000 +0100" stop="20230621210000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Reis</title>
+  </programme>
+  <programme start="20230621210000 +0100" stop="20230621220000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Os Dez Mandamentos</title>
+  </programme>
+  <programme start="20230621220000 +0100" stop="20230622000000 +0100" channel="RECORD TV HD">
+    <title lang="pt">Cidade Alerta - SP</title>
+  </programme>
   <programme start="20230615003000 +0100" stop="20230615023000 +0100" channel="ELEVEN 1">
     <title lang="pt">Gent x Antwerp - Jupiler Pro League</title>
   </programme>
@@ -1297,13 +1318,13 @@
   <programme start="20230615120000 +0100" stop="20230615140000 +0100" channel="ELEVEN 3">
     <title lang="pt">Fürth x St. Pauli - Bundesliga 2</title>
   </programme>
-  <programme start="20230615140000 +0100" stop="20230615160000 +0100" channel="ELEVEN 3">
+  <programme start="20230615140000 +0100" stop="20230615155000 +0100" channel="ELEVEN 3">
     <title lang="pt">Marseille x Lille - Ligue 1 Uber Eats</title>
   </programme>
-  <programme start="20230615160000 +0100" stop="20230615180000 +0100" channel="ELEVEN 3">
+  <programme start="20230615155000 +0100" stop="20230615174500 +0100" channel="ELEVEN 3">
     <title lang="pt">Granada x Mirandés - Laliga Smartbank</title>
   </programme>
-  <programme start="20230615180000 +0100" stop="20230615190000 +0100" channel="ELEVEN 3">
+  <programme start="20230615174500 +0100" stop="20230615190000 +0100" channel="ELEVEN 3">
     <title lang="pt">Laliga - Pós-Temporada 2022/23</title>
   </programme>
   <programme start="20230615190000 +0100" stop="20230615204500 +0100" channel="ELEVEN 3">
@@ -1768,6 +1789,15 @@
   <programme start="20230621160000 +0100" stop="20230621180000 +0100" channel="ELEVEN 5">
     <title lang="pt">Eleven 5</title>
   </programme>
+  <programme start="20230621180000 +0100" stop="20230621200000 +0100" channel="ELEVEN 5">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20230621200000 +0100" stop="20230621220000 +0100" channel="ELEVEN 5">
+    <title lang="pt">Eleven 5</title>
+  </programme>
+  <programme start="20230621220000 +0100" stop="20230622000000 +0100" channel="ELEVEN 5">
+    <title lang="pt">Eleven 5</title>
+  </programme>
   <programme start="20230615000000 +0100" stop="20230615040000 +0100" channel="ELEVEN 6">
     <title lang="pt">ELEVEN 6</title>
   </programme>
@@ -2122,6 +2152,30 @@
   <programme start="20230621160000 +0100" stop="20230621165900 +0100" channel="ELEVEN 6">
     <title lang="pt">ELEVEN 6</title>
   </programme>
+  <programme start="20230621165900 +0100" stop="20230621180000 +0100" channel="ELEVEN 6">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20230621180000 +0100" stop="20230621182900 +0100" channel="ELEVEN 6">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20230621182900 +0100" stop="20230621193000 +0100" channel="ELEVEN 6">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20230621193000 +0100" stop="20230621195900 +0100" channel="ELEVEN 6">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20230621195900 +0100" stop="20230621220000 +0100" channel="ELEVEN 6">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20230621220000 +0100" stop="20230621225900 +0100" channel="ELEVEN 6">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20230621225900 +0100" stop="20230621233000 +0100" channel="ELEVEN 6">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
+  <programme start="20230621233000 +0100" stop="20230622000000 +0100" channel="ELEVEN 6">
+    <title lang="pt">ELEVEN 6</title>
+  </programme>
   <programme start="20230615004000 +0100" stop="20230615024000 +0100" channel="SPORT.TV1">
     <title lang="pt">Países Baixos x Croácia - Liga das Nações</title>
   </programme>
@@ -2188,25 +2242,22 @@
   <programme start="20230616051500 +0100" stop="20230616060000 +0100" channel="SPORT.TV1">
     <title lang="pt">MMA: One Friday Fight - One Championship</title>
   </programme>
-  <programme start="20230616060000 +0100" stop="20230616063000 +0100" channel="SPORT.TV1">
-    <title lang="pt">MMA: Magazine - One Championship</title>
+  <programme start="20230616060000 +0100" stop="20230616075000 +0100" channel="SPORT.TV1">
+    <title lang="pt">NHL: Stanley Cup - Vegas x Florida</title>
   </programme>
-  <programme start="20230616063000 +0100" stop="20230616081000 +0100" channel="SPORT.TV1">
-    <title lang="pt">NHL</title>
+  <programme start="20230616075000 +0100" stop="20230616103000 +0100" channel="SPORT.TV1">
+    <title lang="pt">NBA: Denver x Miami</title>
   </programme>
-  <programme start="20230616081000 +0100" stop="20230616102000 +0100" channel="SPORT.TV1">
-    <title lang="pt">NBA</title>
-  </programme>
-  <programme start="20230616102000 +0100" stop="20230616122000 +0100" channel="SPORT.TV1">
+  <programme start="20230616103000 +0100" stop="20230616123000 +0100" channel="SPORT.TV1">
     <title lang="pt">Panamá x Canadá - Liga Das Nações</title>
   </programme>
-  <programme start="20230616122000 +0100" stop="20230616142000 +0100" channel="SPORT.TV1">
+  <programme start="20230616123000 +0100" stop="20230616142500 +0100" channel="SPORT.TV1">
     <title lang="pt">E. Unidos x México - Liga Das Nações</title>
   </programme>
-  <programme start="20230616142000 +0100" stop="20230616162000 +0100" channel="SPORT.TV1">
+  <programme start="20230616142500 +0100" stop="20230616162500 +0100" channel="SPORT.TV1">
     <title lang="pt">Espanha x Itália - Liga das Nações</title>
   </programme>
-  <programme start="20230616162000 +0100" stop="20230616170000 +0100" channel="SPORT.TV1">
+  <programme start="20230616162500 +0100" stop="20230616170000 +0100" channel="SPORT.TV1">
     <title lang="pt">Antevisão 3ª E 4ª Jornadas - Qualif. Euro 2024</title>
   </programme>
   <programme start="20230616170000 +0100" stop="20230616190000 +0100" channel="SPORT.TV1">
@@ -2354,13 +2405,13 @@
     <title lang="pt">Atletismo: Oslo - Noruega - Diamond League (Direto)</title>
   </programme>
   <programme start="20230615210000 +0100" stop="20230615225000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Ténis: ATP World Tour 250 - A Definir</title>
+    <title lang="pt">Ténis: ATP World Tour 250 - Melhor Jodo Do Dia</title>
   </programme>
   <programme start="20230615225000 +0100" stop="20230616005000 +0100" channel="SPORT.TV2">
     <title lang="pt">Espanha x Itália - Liga das Nações</title>
   </programme>
   <programme start="20230616005000 +0100" stop="20230616023000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Ténis: ATP World Tour 250 - A Definir</title>
+    <title lang="pt">Ténis: ATP World Tour 250 - Melhor Jodo Do Dia</title>
   </programme>
   <programme start="20230616023000 +0100" stop="20230616040000 +0100" channel="SPORT.TV2">
     <title lang="pt">Ténis: ATP World Tour 250 - A Definir</title>
@@ -2386,19 +2437,19 @@
   <programme start="20230616133000 +0100" stop="20230616153000 +0100" channel="SPORT.TV2">
     <title lang="pt">Ténis: ATP World Tour 250: S´Hertogenbosch 2023 (Direto)</title>
   </programme>
-  <programme start="20230616153000 +0100" stop="20230616172000 +0100" channel="SPORT.TV2">
+  <programme start="20230616153000 +0100" stop="20230616172500 +0100" channel="SPORT.TV2">
     <title lang="pt">Ténis: ATP World Tour 250: S´Hertogenbosch 2023 (Direto)</title>
   </programme>
-  <programme start="20230616172000 +0100" stop="20230616175000 +0100" channel="SPORT.TV2">
+  <programme start="20230616172500 +0100" stop="20230616175500 +0100" channel="SPORT.TV2">
     <title lang="pt">Atletismo: Golden Trail Series - Chasing The Dream - Trail</title>
   </programme>
-  <programme start="20230616175000 +0100" stop="20230616182000 +0100" channel="SPORT.TV2">
+  <programme start="20230616175500 +0100" stop="20230616182500 +0100" channel="SPORT.TV2">
     <title lang="pt">Vela: Racing On The Edge - Sail GP</title>
   </programme>
-  <programme start="20230616182000 +0100" stop="20230616192000 +0100" channel="SPORT.TV2">
+  <programme start="20230616182500 +0100" stop="20230616192500 +0100" channel="SPORT.TV2">
     <title lang="pt">Rugby: Vancouver - Circuito Mundial Sevens (Resumo)</title>
   </programme>
-  <programme start="20230616192000 +0100" stop="20230616194500 +0100" channel="SPORT.TV2">
+  <programme start="20230616192500 +0100" stop="20230616194500 +0100" channel="SPORT.TV2">
     <title lang="pt">Golfe: Campeonato Da Europa - Algarve Sevens</title>
   </programme>
   <programme start="20230616194500 +0100" stop="20230616214000 +0100" channel="SPORT.TV2">
@@ -2413,10 +2464,10 @@
   <programme start="20230617001000 +0100" stop="20230617020000 +0100" channel="SPORT.TV2">
     <title lang="pt">Ténis: ATP World Tour 250 - Melhor Jodo do Dia</title>
   </programme>
-  <programme start="20230617020000 +0100" stop="20230617033000 +0100" channel="SPORT.TV2">
+  <programme start="20230617020000 +0100" stop="20230617040000 +0100" channel="SPORT.TV2">
     <title lang="pt">Ténis: ATP World Tour 250 - A Definir</title>
   </programme>
-  <programme start="20230617033000 +0100" stop="20230617060000 +0100" channel="SPORT.TV2">
+  <programme start="20230617040000 +0100" stop="20230617060000 +0100" channel="SPORT.TV2">
     <title lang="pt">Ténis: ATP World Tour 250 - A Definir</title>
   </programme>
   <programme start="20230617060000 +0100" stop="20230617075000 +0100" channel="SPORT.TV2">
@@ -2431,10 +2482,10 @@
   <programme start="20230617122000 +0100" stop="20230617140000 +0100" channel="SPORT.TV2">
     <title lang="pt">Vela: Chicago - Dia 1 - Sail GP</title>
   </programme>
-  <programme start="20230617140000 +0100" stop="20230617160000 +0100" channel="SPORT.TV2">
+  <programme start="20230617140000 +0100" stop="20230617155500 +0100" channel="SPORT.TV2">
     <title lang="pt">Luxemburgo x Liechtenstein - Qualif. Euro 2024 (Direto)</title>
   </programme>
-  <programme start="20230617160000 +0100" stop="20230617170000 +0100" channel="SPORT.TV2">
+  <programme start="20230617155500 +0100" stop="20230617170000 +0100" channel="SPORT.TV2">
     <title lang="pt">Rugby: Vancouver - Circuito Mundial Sevens (Resumo)</title>
   </programme>
   <programme start="20230617170000 +0100" stop="20230617190000 +0100" channel="SPORT.TV2">
@@ -2453,15 +2504,12 @@
     <title lang="pt">Portugal x Bósnia e Herzegovina - Qualif. Euro 2024</title>
   </programme>
   <programme start="20230618013000 +0100" stop="20230618033000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Ténis: ATP World Tour 250 - A Definir</title>
+    <title lang="pt">Ténis: ATP World Tour 250 - Melhor Jodo do Dia</title>
   </programme>
   <programme start="20230618033000 +0100" stop="20230618053000 +0100" channel="SPORT.TV2">
     <title lang="pt">Ténis: ATP World Tour 250 - A Definir</title>
   </programme>
-  <programme start="20230618053000 +0100" stop="20230618060000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Ténis: ATP World Tour 250 - A Definir</title>
-  </programme>
-  <programme start="20230618060000 +0100" stop="20230618073000 +0100" channel="SPORT.TV2">
+  <programme start="20230618053000 +0100" stop="20230618073000 +0100" channel="SPORT.TV2">
     <title lang="pt">Ténis: ATP World Tour 250 - A Definir</title>
   </programme>
   <programme start="20230618073000 +0100" stop="20230618090000 +0100" channel="SPORT.TV2">
@@ -2605,6 +2653,18 @@
   <programme start="20230621150000 +0100" stop="20230621170000 +0100" channel="SPORT.TV2">
     <title lang="pt">Ténis: ATP World Tour 500: Halle - Alemanha (Direto)</title>
   </programme>
+  <programme start="20230621170000 +0100" stop="20230621190000 +0100" channel="SPORT.TV2">
+    <title lang="pt">Ténis: ATP World Tour 500: Halle - Alemanha (Direto)</title>
+  </programme>
+  <programme start="20230621190000 +0100" stop="20230621211000 +0100" channel="SPORT.TV2">
+    <title lang="pt">NBA: Jogo Decisivo</title>
+  </programme>
+  <programme start="20230621211000 +0100" stop="20230621231000 +0100" channel="SPORT.TV2">
+    <title lang="pt">Andebol: Final4 - Final - Liga dos Camp.</title>
+  </programme>
+  <programme start="20230621231000 +0100" stop="20230622013000 +0100" channel="SPORT.TV2">
+    <title lang="pt">Ténis: ATP World Tour 500 - Melhor Jogo Do Dia</title>
+  </programme>
   <programme start="20230615003500 +0100" stop="20230615040000 +0100" channel="SPORT.TV3">
     <title lang="pt">MMA: Margem Sul Championship 2 - Programa 1</title>
   </programme>
@@ -2617,29 +2677,29 @@
   <programme start="20230615130000 +0100" stop="20230615144000 +0100" channel="SPORT.TV3">
     <title lang="pt">Voleibol: Portugal x Ilhas Faroé - Silver League</title>
   </programme>
-  <programme start="20230615144000 +0100" stop="20230615151000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Atletismo: Golden Trail Series - Chasing The Dream</title>
-  </programme>
-  <programme start="20230615151000 +0100" stop="20230615172000 +0100" channel="SPORT.TV3">
+  <programme start="20230615144000 +0100" stop="20230615172500 +0100" channel="SPORT.TV3">
     <title lang="pt">NBA: Denver x Miami</title>
   </programme>
-  <programme start="20230615172000 +0100" stop="20230615182000 +0100" channel="SPORT.TV3">
+  <programme start="20230615172500 +0100" stop="20230615182000 +0100" channel="SPORT.TV3">
     <title lang="pt">Rugby: Vancouver - Circuito Mundial Sevens (Resumo)</title>
   </programme>
   <programme start="20230615182000 +0100" stop="20230615183000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Golfe: Campeonato Da Europa - Algarve Sevens</title>
+    <title lang="pt">Rugby: Campeonato Da Europa - Algarve Sevens</title>
   </programme>
   <programme start="20230615183000 +0100" stop="20230615190000 +0100" channel="SPORT.TV3">
     <title lang="pt">Vela: Racing On The Edge - Sail GP</title>
   </programme>
-  <programme start="20230615190000 +0100" stop="20230615200000 +0100" channel="SPORT.TV3">
+  <programme start="20230615190000 +0100" stop="20230615193000 +0100" channel="SPORT.TV3">
     <title lang="pt">Golfe: Scandinavian Mixed - DP World Tour (Resumo)</title>
+  </programme>
+  <programme start="20230615193000 +0100" stop="20230615200000 +0100" channel="SPORT.TV3">
+    <title lang="pt">Golfe: Challenge De Cadiz - Challenge Series</title>
   </programme>
   <programme start="20230615200000 +0100" stop="20230616000000 +0100" channel="SPORT.TV3">
     <title lang="pt">Golfe: US Open Los Angeles - Dia 1 (Direto)</title>
   </programme>
   <programme start="20230616000000 +0100" stop="20230616040000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+    <title lang="pt">Golfe: US Open Los Angeles - Dia 1 (Direto)</title>
   </programme>
   <programme start="20230616040000 +0100" stop="20230616120000 +0100" channel="SPORT.TV3">
     <title lang="pt">Fora De Horas - Sem Transmissão</title>
@@ -2653,10 +2713,10 @@
   <programme start="20230616152000 +0100" stop="20230616153000 +0100" channel="SPORT.TV3">
     <title lang="pt">Rugby: Campeonato Da Europa - Algarve Sevens</title>
   </programme>
-  <programme start="20230616153000 +0100" stop="20230616173000 +0100" channel="SPORT.TV3">
+  <programme start="20230616153000 +0100" stop="20230616172500 +0100" channel="SPORT.TV3">
     <title lang="pt">Atletismo: Oslo - Noruega - Diamond League</title>
   </programme>
-  <programme start="20230616173000 +0100" stop="20230616180000 +0100" channel="SPORT.TV3">
+  <programme start="20230616172500 +0100" stop="20230616180000 +0100" channel="SPORT.TV3">
     <title lang="pt">Golfe: Challenge De Cadiz - Challenge Series</title>
   </programme>
   <programme start="20230616180000 +0100" stop="20230616200000 +0100" channel="SPORT.TV3">
@@ -2666,13 +2726,22 @@
     <title lang="pt">Golfe: US Open Los Angeles - Dia 2 (Direto)</title>
   </programme>
   <programme start="20230617000000 +0100" stop="20230617040000 +0100" channel="SPORT.TV3">
+    <title lang="pt">Golfe: US Open Los Angeles - Dia 2 (Direto)</title>
+  </programme>
+  <programme start="20230617040000 +0100" stop="20230617080000 +0100" channel="SPORT.TV3">
     <title lang="pt">Fora De Horas - Sem Transmissão</title>
   </programme>
-  <programme start="20230617040000 +0100" stop="20230617103000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+  <programme start="20230617080000 +0100" stop="20230617103000 +0100" channel="SPORT.TV3">
+    <title lang="pt">NHL</title>
   </programme>
-  <programme start="20230617103000 +0100" stop="20230617133000 +0100" channel="SPORT.TV3">
+  <programme start="20230617103000 +0100" stop="20230617123000 +0100" channel="SPORT.TV3">
     <title lang="pt">Ténis: ATP World Tour 250 Estugarda (Direto)</title>
+  </programme>
+  <programme start="20230617123000 +0100" stop="20230617130000 +0100" channel="SPORT.TV3">
+    <title lang="pt">NBA Action</title>
+  </programme>
+  <programme start="20230617130000 +0100" stop="20230617133000 +0100" channel="SPORT.TV3">
+    <title lang="pt">Ténis: Magazine - ATP World Tour Uncovered</title>
   </programme>
   <programme start="20230617133000 +0100" stop="20230617153000 +0100" channel="SPORT.TV3">
     <title lang="pt">Ténis: ATP World Tour 250 S'Hertogenbosch - Meia Final (Direto)</title>
@@ -2680,13 +2749,13 @@
   <programme start="20230617153000 +0100" stop="20230617173000 +0100" channel="SPORT.TV3">
     <title lang="pt">Ténis: ATP World Tour 250 S'Hertogenbosch - Meia Final (Direto)</title>
   </programme>
-  <programme start="20230617173000 +0100" stop="20230617200000 +0100" channel="SPORT.TV3">
+  <programme start="20230617173000 +0100" stop="20230617193000 +0100" channel="SPORT.TV3">
     <title lang="pt">Ténis: ATP World Tour 250 Estugarda</title>
   </programme>
-  <programme start="20230617200000 +0100" stop="20230617213000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Vela: Chicago - Dia 2 Sail GP (Direto)</title>
+  <programme start="20230617193000 +0100" stop="20230617200000 +0100" channel="SPORT.TV3">
+    <title lang="pt">Vela: Racing On The Edge - Sail GP</title>
   </programme>
-  <programme start="20230617213000 +0100" stop="20230618000000 +0100" channel="SPORT.TV3">
+  <programme start="20230617200000 +0100" stop="20230618000000 +0100" channel="SPORT.TV3">
     <title lang="pt">Golfe: US Open Los Angeles - Dia 3 (Direto)</title>
   </programme>
   <programme start="20230618000000 +0100" stop="20230618040000 +0100" channel="SPORT.TV3">
@@ -2779,13 +2848,13 @@
   <programme start="20230616151000 +0100" stop="20230616161000 +0100" channel="SPORT.TV4">
     <title lang="pt">NASCAR Cup Series: Toyota Save Mart 350 - Sonoma (Resumo)</title>
   </programme>
-  <programme start="20230616161000 +0100" stop="20230616172000 +0100" channel="SPORT.TV4">
+  <programme start="20230616161000 +0100" stop="20230616171500 +0100" channel="SPORT.TV4">
     <title lang="pt">Automobilismo: Doordash 250 - Sonoma Raceway (Resumo)</title>
   </programme>
-  <programme start="20230616172000 +0100" stop="20230616175000 +0100" channel="SPORT.TV4">
+  <programme start="20230616171500 +0100" stop="20230616174500 +0100" channel="SPORT.TV4">
     <title lang="pt">Automobilismo: GP Magazine</title>
   </programme>
-  <programme start="20230616175000 +0100" stop="20230616183000 +0100" channel="SPORT.TV4">
+  <programme start="20230616174500 +0100" stop="20230616183000 +0100" channel="SPORT.TV4">
     <title lang="pt">Automobilismo: GP Confidential</title>
   </programme>
   <programme start="20230616183000 +0100" stop="20230616194500 +0100" channel="SPORT.TV4">
@@ -2797,10 +2866,10 @@
   <programme start="20230616220000 +0100" stop="20230616231000 +0100" channel="SPORT.TV4">
     <title lang="pt">Fórmula 1: Treinos Livres 2 - GP Canadá 2023 (Direto)</title>
   </programme>
-  <programme start="20230616231000 +0100" stop="20230617000000 +0100" channel="SPORT.TV4">
+  <programme start="20230616231000 +0100" stop="20230617001500 +0100" channel="SPORT.TV4">
     <title lang="pt">MotoGP: Treinos Livres 1 - GP Alemanha</title>
   </programme>
-  <programme start="20230617000000 +0100" stop="20230617030000 +0100" channel="SPORT.TV4">
+  <programme start="20230617001500 +0100" stop="20230617030000 +0100" channel="SPORT.TV4">
     <title lang="pt">MotoGP: Treinos Livres 2 - GP Alemanha</title>
   </programme>
   <programme start="20230617030000 +0100" stop="20230617074000 +0100" channel="SPORT.TV4">
@@ -3115,6 +3184,9 @@
   <programme start="20230621060000 +0100" stop="20230621170000 +0100" channel="SPORT.TV5">
     <title lang="pt">Fora de Horas - Sem Transmissão</title>
   </programme>
+  <programme start="20230621170000 +0100" stop="20230622000000 +0100" channel="SPORT.TV5">
+    <title lang="pt">Fora de Horas - Sem Transmissão</title>
+  </programme>
   <programme start="20230615000000 +0100" stop="20230615010000 +0100" channel="SPORT.TV6">
     <title lang="pt">Surf: Surf City El Salvador Pro - WSL (Direto)</title>
   </programme>
@@ -3382,6 +3454,15 @@
   <programme start="20230621160000 +0100" stop="20230621180000 +0100" channel="SPORT.TV6">
     <title lang="pt">Ténis: ATP World Tour 500 - Queens - Londres (Direto)</title>
   </programme>
+  <programme start="20230621180000 +0100" stop="20230621200000 +0100" channel="SPORT.TV6">
+    <title lang="pt">Ténis: ATP World Tour 500 - Queens - Londres (Direto)</title>
+  </programme>
+  <programme start="20230621200000 +0100" stop="20230621220000 +0100" channel="SPORT.TV6">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+  </programme>
+  <programme start="20230621220000 +0100" stop="20230622000000 +0100" channel="SPORT.TV6">
+    <title lang="pt">Fora De Horas - Sem Transmissão</title>
+  </programme>
   <programme start="20230615003000 +0100" stop="20230615023000 +0100" channel="SPORT TV +">
     <title lang="pt">Paises Baixos x Croácia - Liga das Nações</title>
   </programme>
@@ -3398,7 +3479,7 @@
     <title lang="pt">Motocrosse: Camp. Mundo - Magazine MXGP</title>
   </programme>
   <programme start="20230615042500 +0100" stop="20230615045500 +0100" channel="SPORT TV +">
-    <title lang="pt">Países Baixos x Croácia - Liga das Nações</title>
+    <title lang="pt">Paises Baixos x Croácia - Liga das Nações</title>
   </programme>
   <programme start="20230615045500 +0100" stop="20230615060000 +0100" channel="SPORT TV +">
     <title lang="pt">UFC: 289 - Nunes x Aldana - Vancouver, Canadá</title>
@@ -3416,7 +3497,7 @@
     <title lang="pt">Manhã Informativa</title>
   </programme>
   <programme start="20230615110000 +0100" stop="20230615112500 +0100" channel="SPORT TV +">
-    <title lang="pt">Países Baixos x Croácia - Liga das Nações</title>
+    <title lang="pt">Paises Baixos x Croácia - Liga das Nações</title>
   </programme>
   <programme start="20230615112500 +0100" stop="20230615115500 +0100" channel="SPORT TV +">
     <title lang="pt">Campeonato Argentino: Resumo Da Jornada</title>
@@ -3434,13 +3515,13 @@
     <title lang="pt">European Qualifiers: Resumo da 2ª Jornada</title>
   </programme>
   <programme start="20230615152500 +0100" stop="20230615155500 +0100" channel="SPORT TV +">
-    <title lang="pt">Países Baixos x Croácia - Liga das Nações</title>
+    <title lang="pt">Paises Baixos x Croácia - Liga das Nações</title>
   </programme>
   <programme start="20230615155500 +0100" stop="20230615163000 +0100" channel="SPORT TV +">
     <title lang="pt">Mercado De Verão</title>
   </programme>
   <programme start="20230615163000 +0100" stop="20230615170000 +0100" channel="SPORT TV +">
-    <title lang="pt">Antevisão 3ª E 4ª Jornadas - Qualificação Euro 2024</title>
+    <title lang="pt">Antevisão 3ª E 4ª Jornadas - UEFA European Qualif.</title>
   </programme>
   <programme start="20230615170000 +0100" stop="20230615175500 +0100" channel="SPORT TV +">
     <title lang="pt">Fan Zone</title>
@@ -3449,15 +3530,15 @@
     <title lang="pt">Magazine Play-Offs Segunda Liga</title>
   </programme>
   <programme start="20230615182500 +0100" stop="20230615185500 +0100" channel="SPORT TV +">
-    <title lang="pt">Países Baixos x Croácia - Liga das Nações</title>
+    <title lang="pt">Paises Baixos x Croácia - Liga das Nações</title>
   </programme>
   <programme start="20230615185500 +0100" stop="20230615192500 +0100" channel="SPORT TV +">
     <title lang="pt">Mercado De Verão</title>
   </programme>
-  <programme start="20230615192500 +0100" stop="20230615195500 +0100" channel="SPORT TV +">
+  <programme start="20230615192500 +0100" stop="20230615195000 +0100" channel="SPORT TV +">
     <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20230615195500 +0100" stop="20230615203000 +0100" channel="SPORT TV +">
+  <programme start="20230615195000 +0100" stop="20230615203000 +0100" channel="SPORT TV +">
     <title lang="pt">Futebolarte: Pote</title>
   </programme>
   <programme start="20230615203000 +0100" stop="20230615213000 +0100" channel="SPORT TV +">
@@ -3473,7 +3554,7 @@
     <title lang="pt">Espanha x Itália - Liga das Nações</title>
   </programme>
   <programme start="20230615233000 +0100" stop="20230616003000 +0100" channel="SPORT TV +">
-    <title lang="pt">Últimas Notícias</title>
+    <title lang="pt">Últimas Notícias (Direto)</title>
   </programme>
   <programme start="20230616003000 +0100" stop="20230616023000 +0100" channel="SPORT TV +">
     <title lang="pt">Espanha x Itália - Liga das Nações</title>
@@ -3497,15 +3578,15 @@
     <title lang="pt">Espanha x Itália - Liga das Nações</title>
   </programme>
   <programme start="20230616083000 +0100" stop="20230616085500 +0100" channel="SPORT TV +">
-    <title lang="pt">Antevisão 3ª E 4ª Jornadas - Qualificação Euro 2024</title>
+    <title lang="pt">Antevisão 3ª E 4ª Jornadas - UEFA European Qualif.</title>
   </programme>
   <programme start="20230616085500 +0100" stop="20230616110000 +0100" channel="SPORT TV +">
     <title lang="pt">Manhã Informativa</title>
   </programme>
-  <programme start="20230616110000 +0100" stop="20230616113000 +0100" channel="SPORT TV +">
+  <programme start="20230616110000 +0100" stop="20230616112500 +0100" channel="SPORT TV +">
     <title lang="pt">E. Unidos x México - Liga Das Nações</title>
   </programme>
-  <programme start="20230616113000 +0100" stop="20230616115500 +0100" channel="SPORT TV +">
+  <programme start="20230616112500 +0100" stop="20230616115500 +0100" channel="SPORT TV +">
     <title lang="pt">Espanha x Itália - Liga das Nações</title>
   </programme>
   <programme start="20230616115500 +0100" stop="20230616130000 +0100" channel="SPORT TV +">
@@ -3518,12 +3599,12 @@
     <title lang="pt">Notícias</title>
   </programme>
   <programme start="20230616143000 +0100" stop="20230616150000 +0100" channel="SPORT TV +">
-    <title lang="pt">Antevisão 3ª E 4ª Jornadas - Qualificação Euro 2024</title>
+    <title lang="pt">Antevisão 3ª E 4ª Jornadas - UEFA European Qualif.</title>
   </programme>
-  <programme start="20230616150000 +0100" stop="20230616153000 +0100" channel="SPORT TV +">
+  <programme start="20230616150000 +0100" stop="20230616152500 +0100" channel="SPORT TV +">
     <title lang="pt">Paises Baixos x Croácia - Liga das Nações</title>
   </programme>
-  <programme start="20230616153000 +0100" stop="20230616155500 +0100" channel="SPORT TV +">
+  <programme start="20230616152500 +0100" stop="20230616155500 +0100" channel="SPORT TV +">
     <title lang="pt">Espanha x Itália - Liga das Nações</title>
   </programme>
   <programme start="20230616155500 +0100" stop="20230616163000 +0100" channel="SPORT TV +">
@@ -3532,38 +3613,38 @@
   <programme start="20230616163000 +0100" stop="20230616170000 +0100" channel="SPORT TV +">
     <title lang="pt">E. Unidos x México - Liga Das Nações</title>
   </programme>
-  <programme start="20230616170000 +0100" stop="20230616180000 +0100" channel="SPORT TV +">
+  <programme start="20230616170000 +0100" stop="20230616174500 +0100" channel="SPORT TV +">
     <title lang="pt">Fan Zone</title>
   </programme>
-  <programme start="20230616180000 +0100" stop="20230616183000 +0100" channel="SPORT TV +">
-    <title lang="pt">Futebolarte</title>
+  <programme start="20230616174500 +0100" stop="20230616182500 +0100" channel="SPORT TV +">
+    <title lang="pt">Futebolarte: Pote</title>
   </programme>
-  <programme start="20230616183000 +0100" stop="20230616185500 +0100" channel="SPORT TV +">
+  <programme start="20230616182500 +0100" stop="20230616185500 +0100" channel="SPORT TV +">
     <title lang="pt">Espanha x Itália - Liga das Nações</title>
   </programme>
   <programme start="20230616185500 +0100" stop="20230616192500 +0100" channel="SPORT TV +">
     <title lang="pt">Mercado De Verão</title>
   </programme>
-  <programme start="20230616192500 +0100" stop="20230616195500 +0100" channel="SPORT TV +">
+  <programme start="20230616192500 +0100" stop="20230616195000 +0100" channel="SPORT TV +">
     <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20230616195500 +0100" stop="20230616202500 +0100" channel="SPORT TV +">
+  <programme start="20230616195000 +0100" stop="20230616202000 +0100" channel="SPORT TV +">
     <title lang="pt">MotoGP: GP Alemanha (Resumo)</title>
   </programme>
-  <programme start="20230616202500 +0100" stop="20230616211500 +0100" channel="SPORT TV +">
-    <title lang="pt">Resumo Do Ano - Europa Conference League</title>
+  <programme start="20230616202000 +0100" stop="20230616211500 +0100" channel="SPORT TV +">
+    <title lang="pt">Resumo Do Ano - Europa Confence League (Resumo)</title>
   </programme>
   <programme start="20230616211500 +0100" stop="20230616222500 +0100" channel="SPORT TV +">
     <title lang="pt">Noite Informativa</title>
   </programme>
   <programme start="20230616222500 +0100" stop="20230616230000 +0100" channel="SPORT TV +">
-    <title lang="pt">Qualificação Euro 2024</title>
+    <title lang="pt">Qualificação Mundial 2024</title>
   </programme>
   <programme start="20230616230000 +0100" stop="20230616233000 +0100" channel="SPORT TV +">
     <title lang="pt">Malta x Inglaterra - Qualif. Euro 2024</title>
   </programme>
   <programme start="20230616233000 +0100" stop="20230617003000 +0100" channel="SPORT TV +">
-    <title lang="pt">Últimas Notícias</title>
+    <title lang="pt">Últimas Notícias (Direto)</title>
   </programme>
   <programme start="20230617003000 +0100" stop="20230617010000 +0100" channel="SPORT TV +">
     <title lang="pt">Gibraltar x França - Qualif. Euro 2024</title>
@@ -3578,16 +3659,13 @@
     <title lang="pt">MotoGP: GP Alemanha (Resumo)</title>
   </programme>
   <programme start="20230617040000 +0100" stop="20230617050000 +0100" channel="SPORT TV +">
-    <title lang="pt">Nascar Xfinity Series: Doordash 250 Sonoma Raceway</title>
+    <title lang="pt">Nascar Xfinity Series: Doordash 250 Sonoma Raceway (Resumo)</title>
   </programme>
   <programme start="20230617050000 +0100" stop="20230617053000 +0100" channel="SPORT TV +">
     <title lang="pt">NBA Action</title>
   </programme>
-  <programme start="20230617053000 +0100" stop="20230617060000 +0100" channel="SPORT TV +">
+  <programme start="20230617053000 +0100" stop="20230617063000 +0100" channel="SPORT TV +">
     <title lang="pt">Vela: Racing On The Edge - Sail GP</title>
-  </programme>
-  <programme start="20230617060000 +0100" stop="20230617063000 +0100" channel="SPORT TV +">
-    <title lang="pt">E. Unidos x México - Liga Das Nações</title>
   </programme>
   <programme start="20230617063000 +0100" stop="20230617070000 +0100" channel="SPORT TV +">
     <title lang="pt">Gibraltar x França - Qualif. Euro 2024</title>
@@ -3806,7 +3884,280 @@
     <title lang="pt">UFC: Vettori x Cannonier - Las Vegas</title>
   </programme>
   <programme start="20230619050000 +0100" stop="20230619060000 +0100" channel="SPORT TV +">
-    <title lang="pt">Artes Marciais Mistas: One Friday Fight - One Championship</title>
+    <title lang="pt">AMM: One Friday Fight - One Championship</title>
+  </programme>
+  <programme start="20230619060000 +0100" stop="20230619062000 +0100" channel="SPORT TV +">
+    <title lang="pt">Magazine</title>
+  </programme>
+  <programme start="20230619062000 +0100" stop="20230619065000 +0100" channel="SPORT TV +">
+    <title lang="pt">Fórmula 1: Corrida - GP Canadá 2023</title>
+  </programme>
+  <programme start="20230619065000 +0100" stop="20230619085500 +0100" channel="SPORT TV +">
+    <title lang="pt">Antevisão - Final Liga Das Nações</title>
+  </programme>
+  <programme start="20230619085500 +0100" stop="20230619110000 +0100" channel="SPORT TV +">
+    <title lang="pt">Manhã Informativa</title>
+  </programme>
+  <programme start="20230619110000 +0100" stop="20230619113000 +0100" channel="SPORT TV +">
+    <title lang="pt">Concacaf Nations League - Final</title>
+  </programme>
+  <programme start="20230619113000 +0100" stop="20230619115500 +0100" channel="SPORT TV +">
+    <title lang="pt">Antevisão - Final Liga Das Nações</title>
+  </programme>
+  <programme start="20230619115500 +0100" stop="20230619130000 +0100" channel="SPORT TV +">
+    <title lang="pt">Grande Jornal</title>
+  </programme>
+  <programme start="20230619130000 +0100" stop="20230619133000 +0100" channel="SPORT TV +">
+    <title lang="pt">Futebolarte</title>
+  </programme>
+  <programme start="20230619133000 +0100" stop="20230619135500 +0100" channel="SPORT TV +">
+    <title lang="pt">Portugal x Bósnia e Herzegovina - Qualif. Euro 2024</title>
+  </programme>
+  <programme start="20230619135500 +0100" stop="20230619143000 +0100" channel="SPORT TV +">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20230619143000 +0100" stop="20230619150000 +0100" channel="SPORT TV +">
+    <title lang="pt">Fórmula 1: Corrida - GP Canadá 2023</title>
+  </programme>
+  <programme start="20230619150000 +0100" stop="20230619153000 +0100" channel="SPORT TV +">
+    <title lang="pt">MotoGP: GP Alemanha (Resumo) (Resumo)</title>
+  </programme>
+  <programme start="20230619153000 +0100" stop="20230619155500 +0100" channel="SPORT TV +">
+    <title lang="pt">Automobilismo: Rali Letónia - ERC (Resumo)</title>
+  </programme>
+  <programme start="20230619155500 +0100" stop="20230619163000 +0100" channel="SPORT TV +">
+    <title lang="pt">Mercado De Verão</title>
+  </programme>
+  <programme start="20230619163000 +0100" stop="20230619170000 +0100" channel="SPORT TV +">
+    <title lang="pt">Concacaf Nations League - Final</title>
+  </programme>
+  <programme start="20230619170000 +0100" stop="20230619180000 +0100" channel="SPORT TV +">
+    <title lang="pt">Fan Zone</title>
+  </programme>
+  <programme start="20230619180000 +0100" stop="20230619183000 +0100" channel="SPORT TV +">
+    <title lang="pt">3º e 4º Lugares - Final Liga Das Nações</title>
+  </programme>
+  <programme start="20230619183000 +0100" stop="20230619185500 +0100" channel="SPORT TV +">
+    <title lang="pt">Antevisão - Final Liga Das Nações</title>
+  </programme>
+  <programme start="20230619185500 +0100" stop="20230619192500 +0100" channel="SPORT TV +">
+    <title lang="pt">Mercado De Verão</title>
+  </programme>
+  <programme start="20230619192500 +0100" stop="20230619201000 +0100" channel="SPORT TV +">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20230619201000 +0100" stop="20230619204000 +0100" channel="SPORT TV +">
+    <title lang="pt">Futebolarte</title>
+  </programme>
+  <programme start="20230619204000 +0100" stop="20230619211500 +0100" channel="SPORT TV +">
+    <title lang="pt">Concacaf Nations League - Final</title>
+  </programme>
+  <programme start="20230619211500 +0100" stop="20230619222500 +0100" channel="SPORT TV +">
+    <title lang="pt">Noite Informativa</title>
+  </programme>
+  <programme start="20230619222500 +0100" stop="20230619230000 +0100" channel="SPORT TV +">
+    <title lang="pt">Qualificação Mundial 2024</title>
+  </programme>
+  <programme start="20230619230000 +0100" stop="20230619233000 +0100" channel="SPORT TV +">
+    <title lang="pt">França x Grécia - Qualif. Euro 2024</title>
+  </programme>
+  <programme start="20230619233000 +0100" stop="20230620003000 +0100" channel="SPORT TV +">
+    <title lang="pt">Últimas Notícias (Direto)</title>
+  </programme>
+  <programme start="20230620003000 +0100" stop="20230620023000 +0100" channel="SPORT TV +">
+    <title lang="pt">Inglaterra x Macedónia - Qualif. Euro 2024</title>
+  </programme>
+  <programme start="20230620023000 +0100" stop="20230620030000 +0100" channel="SPORT TV +">
+    <title lang="pt">França x Grécia - Qualif. Euro 2024</title>
+  </programme>
+  <programme start="20230620030000 +0100" stop="20230620033000 +0100" channel="SPORT TV +">
+    <title lang="pt">WRC: Antevisão: Rali Quénia</title>
+  </programme>
+  <programme start="20230620033000 +0100" stop="20230620040000 +0100" channel="SPORT TV +">
+    <title lang="pt">MotoGP: GP Alemanha (Resumo) (Resumo)</title>
+  </programme>
+  <programme start="20230620040000 +0100" stop="20230620043000 +0100" channel="SPORT TV +">
+    <title lang="pt">Autogear Magazine</title>
+  </programme>
+  <programme start="20230620043000 +0100" stop="20230620053000 +0100" channel="SPORT TV +">
+    <title lang="pt">UFC: Vettori x Cannonier - Las Vegas</title>
+  </programme>
+  <programme start="20230620053000 +0100" stop="20230620060000 +0100" channel="SPORT TV +">
+    <title lang="pt">NBA Action</title>
+  </programme>
+  <programme start="20230620060000 +0100" stop="20230620063000 +0100" channel="SPORT TV +">
+    <title lang="pt">WRC: Antevisão: Rali Quénia</title>
+  </programme>
+  <programme start="20230620063000 +0100" stop="20230620070000 +0100" channel="SPORT TV +">
+    <title lang="pt">Inglaterra x Macedónia - Qualif. Euro 2024</title>
+  </programme>
+  <programme start="20230620070000 +0100" stop="20230620085500 +0100" channel="SPORT TV +">
+    <title lang="pt">França x Grécia - Qualif. Euro 2024</title>
+  </programme>
+  <programme start="20230620085500 +0100" stop="20230620110000 +0100" channel="SPORT TV +">
+    <title lang="pt">Manhã Informativa</title>
+  </programme>
+  <programme start="20230620110000 +0100" stop="20230620113000 +0100" channel="SPORT TV +">
+    <title lang="pt">Inglaterra x Macedónia - Qualif. Euro 2024</title>
+  </programme>
+  <programme start="20230620113000 +0100" stop="20230620115500 +0100" channel="SPORT TV +">
+    <title lang="pt">França x Grécia - Qualif. Euro 2024</title>
+  </programme>
+  <programme start="20230620115500 +0100" stop="20230620130000 +0100" channel="SPORT TV +">
+    <title lang="pt">Grande Jornal</title>
+  </programme>
+  <programme start="20230620130000 +0100" stop="20230620133000 +0100" channel="SPORT TV +">
+    <title lang="pt">Concacaf Nations League - Final</title>
+  </programme>
+  <programme start="20230620133000 +0100" stop="20230620135500 +0100" channel="SPORT TV +">
+    <title lang="pt">Fórmula 1: Corrida - GP Canadá 2023</title>
+  </programme>
+  <programme start="20230620135500 +0100" stop="20230620143000 +0100" channel="SPORT TV +">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20230620143000 +0100" stop="20230620150000 +0100" channel="SPORT TV +">
+    <title lang="pt">WRC: Antevisão: Rali Quénia</title>
+  </programme>
+  <programme start="20230620150000 +0100" stop="20230620152500 +0100" channel="SPORT TV +">
+    <title lang="pt">Motociclismo: Camp. Mundo Supermoto - GP Alemanha</title>
+  </programme>
+  <programme start="20230620152500 +0100" stop="20230620155500 +0100" channel="SPORT TV +">
+    <title lang="pt">Futebolarte</title>
+  </programme>
+  <programme start="20230620155500 +0100" stop="20230620163000 +0100" channel="SPORT TV +">
+    <title lang="pt">Mercado De Verão</title>
+  </programme>
+  <programme start="20230620163000 +0100" stop="20230620170000 +0100" channel="SPORT TV +">
+    <title lang="pt">Portugal x Bósnia e Herzegovina - Qualif. Euro 2024</title>
+  </programme>
+  <programme start="20230620170000 +0100" stop="20230620180000 +0100" channel="SPORT TV +">
+    <title lang="pt">Fan Zone</title>
+  </programme>
+  <programme start="20230620180000 +0100" stop="20230620183000 +0100" channel="SPORT TV +">
+    <title lang="pt">Inglaterra x Macedónia - Qualif. Euro 2024</title>
+  </programme>
+  <programme start="20230620183000 +0100" stop="20230620185500 +0100" channel="SPORT TV +">
+    <title lang="pt">França x Grécia - Qualif. Euro 2024</title>
+  </programme>
+  <programme start="20230620185500 +0100" stop="20230620192500 +0100" channel="SPORT TV +">
+    <title lang="pt">Mercado De Verão</title>
+  </programme>
+  <programme start="20230620192500 +0100" stop="20230620200000 +0100" channel="SPORT TV +">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20230620200000 +0100" stop="20230620203000 +0100" channel="SPORT TV +">
+    <title lang="pt">Concacaf Nations League - Final</title>
+  </programme>
+  <programme start="20230620203000 +0100" stop="20230620204000 +0100" channel="SPORT TV +">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20230620204000 +0100" stop="20230620211000 +0100" channel="SPORT TV +">
+    <title lang="pt">Inglaterra x Macedónia - Qualif. Euro 2024</title>
+  </programme>
+  <programme start="20230620211000 +0100" stop="20230620214000 +0100" channel="SPORT TV +">
+    <title lang="pt">França x Grécia - Qualif. Euro 2024</title>
+  </programme>
+  <programme start="20230620214000 +0100" stop="20230620223000 +0100" channel="SPORT TV +">
+    <title lang="pt">Qualificação Mundial 2024</title>
+  </programme>
+  <programme start="20230620223000 +0100" stop="20230620230000 +0100" channel="SPORT TV +">
+    <title lang="pt">Mercado De Verão</title>
+  </programme>
+  <programme start="20230620230000 +0100" stop="20230620233000 +0100" channel="SPORT TV +">
+    <title lang="pt">Islândia x Portugal - Qualif. Euro 2024</title>
+  </programme>
+  <programme start="20230620233000 +0100" stop="20230621003000 +0100" channel="SPORT TV +">
+    <title lang="pt">Últimas Notícias (Direto)</title>
+  </programme>
+  <programme start="20230621003000 +0100" stop="20230621010000 +0100" channel="SPORT TV +">
+    <title lang="pt">Alemanha x Colômbia - Jogo de Preparação</title>
+  </programme>
+  <programme start="20230621010000 +0100" stop="20230621030000 +0100" channel="SPORT TV +">
+    <title lang="pt">Islândia x Portugal - Qualif. Euro 2024</title>
+  </programme>
+  <programme start="20230621030000 +0100" stop="20230621040000 +0100" channel="SPORT TV +">
+    <title lang="pt">AMM: One Friday Fight - One Championship</title>
+  </programme>
+  <programme start="20230621040000 +0100" stop="20230621043000 +0100" channel="SPORT TV +">
+    <title lang="pt">Artes Marciais Mistas: Magazine - One Championship</title>
+  </programme>
+  <programme start="20230621043000 +0100" stop="20230621053000 +0100" channel="SPORT TV +">
+    <title lang="pt">Golfe: US Open Los Angeles (Resumo)</title>
+  </programme>
+  <programme start="20230621053000 +0100" stop="20230621060000 +0100" channel="SPORT TV +">
+    <title lang="pt">Automobilismo: Rampa Santa Marta</title>
+  </programme>
+  <programme start="20230621060000 +0100" stop="20230621063000 +0100" channel="SPORT TV +">
+    <title lang="pt">Motociclismo: Challenge TT - Oliveira De Frades - Camp. Nacional Todo Terreno</title>
+  </programme>
+  <programme start="20230621063000 +0100" stop="20230621070000 +0100" channel="SPORT TV +">
+    <title lang="pt">Alemanha x Colômbia - Jogo de Preparação</title>
+  </programme>
+  <programme start="20230621070000 +0100" stop="20230621085500 +0100" channel="SPORT TV +">
+    <title lang="pt">Islândia x Portugal - Qualif. Euro 2024</title>
+  </programme>
+  <programme start="20230621085500 +0100" stop="20230621110000 +0100" channel="SPORT TV +">
+    <title lang="pt">Manhã Informativa</title>
+  </programme>
+  <programme start="20230621110000 +0100" stop="20230621113000 +0100" channel="SPORT TV +">
+    <title lang="pt">Islândia x Portugal - Qualif. Euro 2024</title>
+  </programme>
+  <programme start="20230621113000 +0100" stop="20230621115500 +0100" channel="SPORT TV +">
+    <title lang="pt">Alemanha x Colômbia - Jogo de Preparação</title>
+  </programme>
+  <programme start="20230621115500 +0100" stop="20230621130000 +0100" channel="SPORT TV +">
+    <title lang="pt">Grande Jornal</title>
+  </programme>
+  <programme start="20230621130000 +0100" stop="20230621133000 +0100" channel="SPORT TV +">
+    <title lang="pt">Paises Baixos x Croácia - Liga das Nações</title>
+  </programme>
+  <programme start="20230621133000 +0100" stop="20230621135500 +0100" channel="SPORT TV +">
+    <title lang="pt">Espanha x Itália - Liga das Nações</title>
+  </programme>
+  <programme start="20230621135500 +0100" stop="20230621143000 +0100" channel="SPORT TV +">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20230621143000 +0100" stop="20230621150000 +0100" channel="SPORT TV +">
+    <title lang="pt">3º E 4º Lugares - Final Liga Das Nações</title>
+  </programme>
+  <programme start="20230621150000 +0100" stop="20230621153000 +0100" channel="SPORT TV +">
+    <title lang="pt">Antevisão - Final Liga Das Nações</title>
+  </programme>
+  <programme start="20230621153000 +0100" stop="20230621155500 +0100" channel="SPORT TV +">
+    <title lang="pt">Alemanha x Colômbia - Jogo de Preparação</title>
+  </programme>
+  <programme start="20230621155500 +0100" stop="20230621163000 +0100" channel="SPORT TV +">
+    <title lang="pt">Mercado De Verão</title>
+  </programme>
+  <programme start="20230621163000 +0100" stop="20230621170000 +0100" channel="SPORT TV +">
+    <title lang="pt">Islândia x Portugal - Qualif. Euro 2024</title>
+  </programme>
+  <programme start="20230621170000 +0100" stop="20230621180000 +0100" channel="SPORT TV +">
+    <title lang="pt">Fan Zone</title>
+  </programme>
+  <programme start="20230621180000 +0100" stop="20230621185500 +0100" channel="SPORT TV +">
+    <title lang="pt">Automobilismo: FIA Rallycross - RX Noruega (Resumo)</title>
+  </programme>
+  <programme start="20230621185500 +0100" stop="20230621192500 +0100" channel="SPORT TV +">
+    <title lang="pt">Mercado De Verão</title>
+  </programme>
+  <programme start="20230621192500 +0100" stop="20230621200000 +0100" channel="SPORT TV +">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20230621200000 +0100" stop="20230621203000 +0100" channel="SPORT TV +">
+    <title lang="pt">Islândia x Portugal - Qualif. Euro 2024</title>
+  </programme>
+  <programme start="20230621203000 +0100" stop="20230621222500 +0100" channel="SPORT TV +">
+    <title lang="pt">Alemanha x Colômbia - Jogo de Preparação</title>
+  </programme>
+  <programme start="20230621222500 +0100" stop="20230621230000 +0100" channel="SPORT TV +">
+    <title lang="pt">Mercado De Verão</title>
+  </programme>
+  <programme start="20230621230000 +0100" stop="20230621233000 +0100" channel="SPORT TV +">
+    <title lang="pt">Reportv 2023</title>
+  </programme>
+  <programme start="20230621233000 +0100" stop="20230622003000 +0100" channel="SPORT TV +">
+    <title lang="pt">Últimas Notícias (Direto)</title>
   </programme>
   <programme start="20230615003000 +0100" stop="20230615022400 +0100" channel="BTV">
     <title lang="pt">Benfica x Fc Vizela - Primeira Liga</title>
@@ -3823,40 +4174,40 @@
   <programme start="20230615035200 +0100" stop="20230615042400 +0100" channel="BTV">
     <title lang="pt">Contas Feitas, Dúvidas Desfeitas</title>
   </programme>
-  <programme start="20230615042400 +0100" stop="20230615045500 +0100" channel="BTV">
+  <programme start="20230615042400 +0100" stop="20230615045400 +0100" channel="BTV">
     <title lang="pt">Car Online TV</title>
   </programme>
-  <programme start="20230615045500 +0100" stop="20230615062300 +0100" channel="BTV">
+  <programme start="20230615045400 +0100" stop="20230615062200 +0100" channel="BTV">
     <title lang="pt">As Lanças Apontadas</title>
   </programme>
-  <programme start="20230615062300 +0100" stop="20230615075600 +0100" channel="BTV">
+  <programme start="20230615062200 +0100" stop="20230615075500 +0100" channel="BTV">
     <title lang="pt">Futsal: Benfica x Sporting - Camp. Nacional</title>
   </programme>
-  <programme start="20230615075600 +0100" stop="20230615085500 +0100" channel="BTV">
+  <programme start="20230615075500 +0100" stop="20230615085600 +0100" channel="BTV">
     <title lang="pt">A Época Em Revista Na BTV</title>
   </programme>
-  <programme start="20230615085500 +0100" stop="20230615092500 +0100" channel="BTV">
+  <programme start="20230615085600 +0100" stop="20230615092600 +0100" channel="BTV">
     <title lang="pt">Cine BTV</title>
   </programme>
-  <programme start="20230615092500 +0100" stop="20230615100000 +0100" channel="BTV">
+  <programme start="20230615092600 +0100" stop="20230615095900 +0100" channel="BTV">
     <title lang="pt">Contas Feitas, Dúvidas Desfeitas</title>
   </programme>
-  <programme start="20230615100000 +0100" stop="20230615105800 +0100" channel="BTV">
+  <programme start="20230615095900 +0100" stop="20230615105800 +0100" channel="BTV">
     <title lang="pt">Benfica 10H</title>
   </programme>
-  <programme start="20230615105800 +0100" stop="20230615113000 +0100" channel="BTV">
+  <programme start="20230615105800 +0100" stop="20230615113100 +0100" channel="BTV">
     <title lang="pt">Protagonista</title>
   </programme>
-  <programme start="20230615113000 +0100" stop="20230615120000 +0100" channel="BTV">
+  <programme start="20230615113100 +0100" stop="20230615120000 +0100" channel="BTV">
     <title lang="pt">Mais Vantagens</title>
   </programme>
-  <programme start="20230615120000 +0100" stop="20230615122900 +0100" channel="BTV">
+  <programme start="20230615120000 +0100" stop="20230615123000 +0100" channel="BTV">
     <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20230615122900 +0100" stop="20230615140000 +0100" channel="BTV">
+  <programme start="20230615123000 +0100" stop="20230615135900 +0100" channel="BTV">
     <title lang="pt">As Lanças Apontadas</title>
   </programme>
-  <programme start="20230615140000 +0100" stop="20230615143200 +0100" channel="BTV">
+  <programme start="20230615135900 +0100" stop="20230615143200 +0100" channel="BTV">
     <title lang="pt">Benfica 14 Horas</title>
   </programme>
   <programme start="20230615143200 +0100" stop="20230615161600 +0100" channel="BTV">
@@ -3871,13 +4222,13 @@
   <programme start="20230615173800 +0100" stop="20230615180000 +0100" channel="BTV">
     <title lang="pt">Magazine Jogo Da Jornada BTV</title>
   </programme>
-  <programme start="20230615180000 +0100" stop="20230615182800 +0100" channel="BTV">
+  <programme start="20230615180000 +0100" stop="20230615183000 +0100" channel="BTV">
     <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20230615182800 +0100" stop="20230615190000 +0100" channel="BTV">
+  <programme start="20230615183000 +0100" stop="20230615190300 +0100" channel="BTV">
     <title lang="pt">Reportagem Especial</title>
   </programme>
-  <programme start="20230615190000 +0100" stop="20230615192900 +0100" channel="BTV">
+  <programme start="20230615190300 +0100" stop="20230615192900 +0100" channel="BTV">
     <title lang="pt">Vermelho Claro</title>
   </programme>
   <programme start="20230615192900 +0100" stop="20230615195800 +0100" channel="BTV">
@@ -3895,155 +4246,152 @@
   <programme start="20230615213200 +0100" stop="20230615231600 +0100" channel="BTV">
     <title lang="pt">Benfica x Marítimo - Primeira Liga</title>
   </programme>
-  <programme start="20230615231600 +0100" stop="20230615234600 +0100" channel="BTV">
+  <programme start="20230615231600 +0100" stop="20230615234700 +0100" channel="BTV">
     <title lang="pt">A Carrinha Do Bento</title>
   </programme>
-  <programme start="20230615234600 +0100" stop="20230616000000 +0100" channel="BTV">
+  <programme start="20230615234700 +0100" stop="20230615235900 +0100" channel="BTV">
     <title lang="pt">Reta Da Meta</title>
   </programme>
-  <programme start="20230616000000 +0100" stop="20230616002400 +0100" channel="BTV">
+  <programme start="20230615235900 +0100" stop="20230616002400 +0100" channel="BTV">
     <title lang="pt">Benfica 24 Horas</title>
   </programme>
   <programme start="20230616002400 +0100" stop="20230616005300 +0100" channel="BTV">
     <title lang="pt">Pelas Casas do Benfica</title>
   </programme>
-  <programme start="20230616005300 +0100" stop="20230616012500 +0100" channel="BTV">
+  <programme start="20230616005300 +0100" stop="20230616012600 +0100" channel="BTV">
     <title lang="pt">Reportagem Especial</title>
   </programme>
-  <programme start="20230616012500 +0100" stop="20230616015400 +0100" channel="BTV">
+  <programme start="20230616012600 +0100" stop="20230616015300 +0100" channel="BTV">
     <title lang="pt">Vermelho Claro</title>
   </programme>
-  <programme start="20230616015400 +0100" stop="20230616025500 +0100" channel="BTV">
+  <programme start="20230616015300 +0100" stop="20230616025400 +0100" channel="BTV">
     <title lang="pt">A Época Em Revista Na BTV</title>
   </programme>
-  <programme start="20230616025500 +0100" stop="20230616042300 +0100" channel="BTV">
+  <programme start="20230616025400 +0100" stop="20230616042300 +0100" channel="BTV">
     <title lang="pt">Hóquei: Benfica x Sporting - Camp. Nacional</title>
   </programme>
-  <programme start="20230616042300 +0100" stop="20230616050000 +0100" channel="BTV">
+  <programme start="20230616042300 +0100" stop="20230616045500 +0100" channel="BTV">
     <title lang="pt">Pelas Casas do Benfica</title>
   </programme>
-  <programme start="20230616050000 +0100" stop="20230616053000 +0100" channel="BTV">
-    <title lang="pt">Benfica 24 Horas</title>
-  </programme>
-  <programme start="20230616053000 +0100" stop="20230616054500 +0100" channel="BTV">
+  <programme start="20230616045500 +0100" stop="20230616052700 +0100" channel="BTV">
     <title lang="pt">A Carrinha Do Bento</title>
   </programme>
-  <programme start="20230616054500 +0100" stop="20230616060000 +0100" channel="BTV">
+  <programme start="20230616052700 +0100" stop="20230616055400 +0100" channel="BTV">
     <title lang="pt">Vermelho Claro</title>
   </programme>
-  <programme start="20230616060000 +0100" stop="20230616063000 +0100" channel="BTV">
+  <programme start="20230616055400 +0100" stop="20230616062700 +0100" channel="BTV">
     <title lang="pt">Protagonista</title>
   </programme>
-  <programme start="20230616063000 +0100" stop="20230616070000 +0100" channel="BTV">
-    <title lang="pt">Programação a Designar</title>
+  <programme start="20230616062700 +0100" stop="20230616065600 +0100" channel="BTV">
+    <title lang="pt">Benfica Fan Zone</title>
   </programme>
-  <programme start="20230616070000 +0100" stop="20230616073000 +0100" channel="BTV">
-    <title lang="pt">Benfica 24 Horas</title>
-  </programme>
-  <programme start="20230616073000 +0100" stop="20230616080000 +0100" channel="BTV">
+  <programme start="20230616065600 +0100" stop="20230616073000 +0100" channel="BTV">
     <title lang="pt">Reportagem Especial</title>
   </programme>
-  <programme start="20230616080000 +0100" stop="20230616093000 +0100" channel="BTV">
-    <title lang="pt">Programação a Designar</title>
+  <programme start="20230616073000 +0100" stop="20230616093200 +0100" channel="BTV">
+    <title lang="pt">Basquetebol: Sporting x Benfica - Camp. Nacional</title>
   </programme>
-  <programme start="20230616093000 +0100" stop="20230616100000 +0100" channel="BTV">
+  <programme start="20230616093200 +0100" stop="20230616095900 +0100" channel="BTV">
     <title lang="pt">Vermelho Claro</title>
   </programme>
-  <programme start="20230616100000 +0100" stop="20230616110000 +0100" channel="BTV">
+  <programme start="20230616095900 +0100" stop="20230616105400 +0100" channel="BTV">
     <title lang="pt">Benfica 10H</title>
   </programme>
-  <programme start="20230616110000 +0100" stop="20230616113000 +0100" channel="BTV">
+  <programme start="20230616105400 +0100" stop="20230616112500 +0100" channel="BTV">
     <title lang="pt">A Carrinha Do Bento</title>
   </programme>
-  <programme start="20230616113000 +0100" stop="20230616124500 +0100" channel="BTV">
-    <title lang="pt">Programação a Designar</title>
+  <programme start="20230616112500 +0100" stop="20230616125000 +0100" channel="BTV">
+    <title lang="pt">Hóquei: Benfica x Sporting - Camp. Nacional</title>
   </programme>
-  <programme start="20230616124500 +0100" stop="20230616130000 +0100" channel="BTV">
+  <programme start="20230616125000 +0100" stop="20230616125800 +0100" channel="BTV">
     <title lang="pt">News BTV</title>
   </programme>
-  <programme start="20230616130000 +0100" stop="20230616133000 +0100" channel="BTV">
+  <programme start="20230616125800 +0100" stop="20230616133100 +0100" channel="BTV">
     <title lang="pt">Reportagem Especial</title>
   </programme>
-  <programme start="20230616133000 +0100" stop="20230616140000 +0100" channel="BTV">
-    <title lang="pt">Vou A Jogo Com 11</title>
+  <programme start="20230616133100 +0100" stop="20230616135900 +0100" channel="BTV">
+    <title lang="pt">Pelas Casas do Benfica</title>
   </programme>
-  <programme start="20230616140000 +0100" stop="20230616143000 +0100" channel="BTV">
+  <programme start="20230616135900 +0100" stop="20230616143000 +0100" channel="BTV">
     <title lang="pt">Benfica 14 Horas</title>
   </programme>
-  <programme start="20230616143000 +0100" stop="20230616161500 +0100" channel="BTV">
+  <programme start="20230616143000 +0100" stop="20230616161300 +0100" channel="BTV">
     <title lang="pt">Benfica x Rio Ave Fc - Primeira Liga</title>
   </programme>
-  <programme start="20230616161500 +0100" stop="20230616163000 +0100" channel="BTV">
-    <title lang="pt">News BTV</title>
-  </programme>
-  <programme start="20230616163000 +0100" stop="20230616173000 +0100" channel="BTV">
-    <title lang="pt">Programação a Designar</title>
-  </programme>
-  <programme start="20230616173000 +0100" stop="20230616180000 +0100" channel="BTV">
-    <title lang="pt">A Carrinha Do Bento</title>
-  </programme>
-  <programme start="20230616180000 +0100" stop="20230616190000 +0100" channel="BTV">
-    <title lang="pt">Sport Lisboa e Modalidades</title>
-  </programme>
-  <programme start="20230616190000 +0100" stop="20230616191500 +0100" channel="BTV">
+  <programme start="20230616161300 +0100" stop="20230616162000 +0100" channel="BTV">
     <title lang="pt">Fundação Benfica</title>
   </programme>
-  <programme start="20230616191500 +0100" stop="20230616203000 +0100" channel="BTV">
-    <title lang="pt">Programação a Designar</title>
+  <programme start="20230616162000 +0100" stop="20230616162800 +0100" channel="BTV">
+    <title lang="pt">News BTV</title>
   </programme>
-  <programme start="20230616203000 +0100" stop="20230616210000 +0100" channel="BTV">
-    <title lang="pt">Carlos Manuel</title>
+  <programme start="20230616162800 +0100" stop="20230616170000 +0100" channel="BTV">
+    <title lang="pt">A Carrinha Do Bento</title>
   </programme>
-  <programme start="20230616210000 +0100" stop="20230616213000 +0100" channel="BTV">
-    <title lang="pt">Benfica 21 Horas</title>
+  <programme start="20230616170000 +0100" stop="20230616180300 +0100" channel="BTV">
+    <title lang="pt">A Época Em Revista Na BTV</title>
   </programme>
-  <programme start="20230616213000 +0100" stop="20230616220000 +0100" channel="BTV">
-    <title lang="pt">Carlos Manuel</title>
-  </programme>
-  <programme start="20230616220000 +0100" stop="20230616230000 +0100" channel="BTV">
-    <title lang="pt">Uma Semana do Melhor</title>
-  </programme>
-  <programme start="20230616230000 +0100" stop="20230616233000 +0100" channel="BTV">
-    <title lang="pt">Benfica 24 Horas</title>
-  </programme>
-  <programme start="20230616233000 +0100" stop="20230617013000 +0100" channel="BTV">
-    <title lang="pt">Benfica x Marítimo - Primeira Liga</title>
-  </programme>
-  <programme start="20230617013000 +0100" stop="20230617023000 +0100" channel="BTV">
-    <title lang="pt">Programação a Designar</title>
-  </programme>
-  <programme start="20230617023000 +0100" stop="20230617030000 +0100" channel="BTV">
-    <title lang="pt">Vou A Jogo Com 11</title>
-  </programme>
-  <programme start="20230617030000 +0100" stop="20230617033000 +0100" channel="BTV">
-    <title lang="pt">Programação a Designar</title>
-  </programme>
-  <programme start="20230617033000 +0100" stop="20230617040000 +0100" channel="BTV">
-    <title lang="pt">Carlos Manuel</title>
-  </programme>
-  <programme start="20230617040000 +0100" stop="20230617050000 +0100" channel="BTV">
-    <title lang="pt">Uma Semana do Melhor</title>
-  </programme>
-  <programme start="20230617050000 +0100" stop="20230617053000 +0100" channel="BTV">
-    <title lang="pt">Benfica 24 Horas</title>
-  </programme>
-  <programme start="20230617053000 +0100" stop="20230617070000 +0100" channel="BTV">
-    <title lang="pt">Programação a Designar</title>
-  </programme>
-  <programme start="20230617070000 +0100" stop="20230617073000 +0100" channel="BTV">
-    <title lang="pt">Benfica 24 Horas</title>
-  </programme>
-  <programme start="20230617073000 +0100" stop="20230617083000 +0100" channel="BTV">
+  <programme start="20230616180300 +0100" stop="20230616190200 +0100" channel="BTV">
     <title lang="pt">Sport Lisboa e Modalidades</title>
   </programme>
-  <programme start="20230617083000 +0100" stop="20230617084500 +0100" channel="BTV">
+  <programme start="20230616190200 +0100" stop="20230616193000 +0100" channel="BTV">
+    <title lang="pt">Benfica Fan Zone</title>
+  </programme>
+  <programme start="20230616193000 +0100" stop="20230616200000 +0100" channel="BTV">
+    <title lang="pt">Vou A Jogo Com 11</title>
+  </programme>
+  <programme start="20230616200000 +0100" stop="20230616203000 +0100" channel="BTV">
+    <title lang="pt">Mais Vantagens</title>
+  </programme>
+  <programme start="20230616203000 +0100" stop="20230616205900 +0100" channel="BTV">
+    <title lang="pt">Carlos Manuel</title>
+  </programme>
+  <programme start="20230616205900 +0100" stop="20230616212900 +0100" channel="BTV">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20230616212900 +0100" stop="20230616220200 +0100" channel="BTV">
+    <title lang="pt">Carlos Manuel</title>
+  </programme>
+  <programme start="20230616220200 +0100" stop="20230616230100 +0100" channel="BTV">
+    <title lang="pt">Uma Semana do Melhor</title>
+  </programme>
+  <programme start="20230616230100 +0100" stop="20230617000300 +0100" channel="BTV">
+    <title lang="pt">A Época Em Revista Na BTV</title>
+  </programme>
+  <programme start="20230617000300 +0100" stop="20230617002800 +0100" channel="BTV">
+    <title lang="pt">Benfica 24 Horas</title>
+  </programme>
+  <programme start="20230617002800 +0100" stop="20230617021200 +0100" channel="BTV">
+    <title lang="pt">Benfica x Marítimo - Primeira Liga</title>
+  </programme>
+  <programme start="20230617021200 +0100" stop="20230617024400 +0100" channel="BTV">
+    <title lang="pt">Carlos Manuel</title>
+  </programme>
+  <programme start="20230617024400 +0100" stop="20230617031400 +0100" channel="BTV">
+    <title lang="pt">Vou A Jogo Com 11</title>
+  </programme>
+  <programme start="20230617031400 +0100" stop="20230617034200 +0100" channel="BTV">
+    <title lang="pt">Benfica Fan Zone</title>
+  </programme>
+  <programme start="20230617034200 +0100" stop="20230617050000 +0100" channel="BTV">
+    <title lang="pt">Uma Semana do Melhor</title>
+  </programme>
+  <programme start="20230617050000 +0100" stop="20230617070000 +0100" channel="BTV">
+    <title lang="pt">Benfica x Rio Ave Fc - Primeira Liga</title>
+  </programme>
+  <programme start="20230617070000 +0100" stop="20230617073000 +0100" channel="BTV">
+    <title lang="pt">A Carrinha Do Bento</title>
+  </programme>
+  <programme start="20230617073000 +0100" stop="20230617081500 +0100" channel="BTV">
+    <title lang="pt">Sport Lisboa e Modalidades</title>
+  </programme>
+  <programme start="20230617081500 +0100" stop="20230617083000 +0100" channel="BTV">
     <title lang="pt">Reta Da Meta</title>
   </programme>
-  <programme start="20230617084500 +0100" stop="20230617090000 +0100" channel="BTV">
+  <programme start="20230617083000 +0100" stop="20230617084500 +0100" channel="BTV">
     <title lang="pt">5 Dias na TV</title>
   </programme>
-  <programme start="20230617090000 +0100" stop="20230617093000 +0100" channel="BTV">
-    <title lang="pt">Programação a Designar</title>
+  <programme start="20230617084500 +0100" stop="20230617093000 +0100" channel="BTV">
+    <title lang="pt">A Época Em Revista Na BTV</title>
   </programme>
   <programme start="20230617093000 +0100" stop="20230617100000 +0100" channel="BTV">
     <title lang="pt">Carlos Manuel</title>
@@ -4055,7 +4403,7 @@
     <title lang="pt">Uma Semana do Melhor</title>
   </programme>
   <programme start="20230617113000 +0100" stop="20230617120000 +0100" channel="BTV">
-    <title lang="pt">Programação a Designar</title>
+    <title lang="pt">Benfica Fan Zone</title>
   </programme>
   <programme start="20230617120000 +0100" stop="20230617123000 +0100" channel="BTV">
     <title lang="pt">Notícias</title>
@@ -4072,92 +4420,374 @@
   <programme start="20230617140000 +0100" stop="20230617143000 +0100" channel="BTV">
     <title lang="pt">Benfica 14 Horas</title>
   </programme>
-  <programme start="20230617143000 +0100" stop="20230617160000 +0100" channel="BTV">
+  <programme start="20230617143000 +0100" stop="20230617150000 +0100" channel="BTV">
+    <title lang="pt">Vou A Jogo Com 11</title>
+  </programme>
+  <programme start="20230617150000 +0100" stop="20230617163000 +0100" channel="BTV">
     <title lang="pt">Programação a Designar</title>
   </programme>
-  <programme start="20230617160000 +0100" stop="20230617163000 +0100" channel="BTV">
+  <programme start="20230617163000 +0100" stop="20230617173000 +0100" channel="BTV">
+    <title lang="pt">Uma Semana do Melhor</title>
+  </programme>
+  <programme start="20230617173000 +0100" stop="20230617180000 +0100" channel="BTV">
     <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20230617163000 +0100" stop="20230617180000 +0100" channel="BTV">
-    <title lang="pt">Programação a Designar</title>
+  <programme start="20230617180000 +0100" stop="20230617200000 +0100" channel="BTV">
+    <title lang="pt">Futsal: Sporting x Benfica - Camp. Nacional</title>
   </programme>
-  <programme start="20230617180000 +0100" stop="20230617183000 +0100" channel="BTV">
-    <title lang="pt">Notícias</title>
+  <programme start="20230617200000 +0100" stop="20230617213000 +0100" channel="BTV">
+    <title lang="pt">Hóquei: Benfica x Os Tigres - Juvenis (Direto)</title>
   </programme>
-  <programme start="20230617183000 +0100" stop="20230617203000 +0100" channel="BTV">
-    <title lang="pt">Programação a Designar</title>
-  </programme>
-  <programme start="20230617203000 +0100" stop="20230617210000 +0100" channel="BTV">
-    <title lang="pt">Reportagem Especial</title>
-  </programme>
-  <programme start="20230617210000 +0100" stop="20230617213000 +0100" channel="BTV">
+  <programme start="20230617213000 +0100" stop="20230617220000 +0100" channel="BTV">
     <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20230617213000 +0100" stop="20230617233000 +0100" channel="BTV">
+  <programme start="20230617220000 +0100" stop="20230618000000 +0100" channel="BTV">
     <title lang="pt">Benfica x Rio Ave Fc - Primeira Liga</title>
-  </programme>
-  <programme start="20230617233000 +0100" stop="20230618000000 +0100" channel="BTV">
-    <title lang="pt">Programação a Designar</title>
   </programme>
   <programme start="20230618000000 +0100" stop="20230618003000 +0100" channel="BTV">
     <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20230618003000 +0100" stop="20230618050000 +0100" channel="BTV">
+  <programme start="20230618003000 +0100" stop="20230618010000 +0100" channel="BTV">
+    <title lang="pt">Vou A Jogo Com 11</title>
+  </programme>
+  <programme start="20230618010000 +0100" stop="20230618023000 +0100" channel="BTV">
+    <title lang="pt">Polo Aquatico Fem.: Cascais WP x Benfica - Taça De Portugal</title>
+  </programme>
+  <programme start="20230618023000 +0100" stop="20230618050000 +0100" channel="BTV">
     <title lang="pt">Programação a Designar</title>
   </programme>
-  <programme start="20230618050000 +0100" stop="20230618093000 +0100" channel="BTV">
+  <programme start="20230618050000 +0100" stop="20230618070000 +0100" channel="BTV">
     <title lang="pt">Programação a Designar</title>
+  </programme>
+  <programme start="20230618070000 +0100" stop="20230618073000 +0100" channel="BTV">
+    <title lang="pt">Benfica 24 Horas</title>
+  </programme>
+  <programme start="20230618073000 +0100" stop="20230618080000 +0100" channel="BTV">
+    <title lang="pt">Benfica Fan Zone</title>
+  </programme>
+  <programme start="20230618080000 +0100" stop="20230618093000 +0100" channel="BTV">
+    <title lang="pt">Polo Aquatico Fem.: Cascais WP x Benfica - Taça De Portugal</title>
   </programme>
   <programme start="20230618093000 +0100" stop="20230618100000 +0100" channel="BTV">
     <title lang="pt">A Carrinha Do Bento</title>
   </programme>
-  <programme start="20230618100000 +0100" stop="20230618103000 +0100" channel="BTV">
+  <programme start="20230618100000 +0100" stop="20230618110000 +0100" channel="BTV">
     <title lang="pt">Benfica 10H</title>
   </programme>
-  <programme start="20230618103000 +0100" stop="20230618120000 +0100" channel="BTV">
-    <title lang="pt">Programação a Designar</title>
+  <programme start="20230618110000 +0100" stop="20230618124500 +0100" channel="BTV">
+    <title lang="pt">Benfica x Taboeira - Juvenis (Direto)</title>
   </programme>
-  <programme start="20230618120000 +0100" stop="20230618123000 +0100" channel="BTV">
-    <title lang="pt">Notícias</title>
-  </programme>
-  <programme start="20230618123000 +0100" stop="20230618130000 +0100" channel="BTV">
-    <title lang="pt">Off Road Magazine</title>
+  <programme start="20230618124500 +0100" stop="20230618130000 +0100" channel="BTV">
+    <title lang="pt">News BTV</title>
   </programme>
   <programme start="20230618130000 +0100" stop="20230618133000 +0100" channel="BTV">
-    <title lang="pt">Car Online TV</title>
+    <title lang="pt">Os Momentos</title>
   </programme>
   <programme start="20230618133000 +0100" stop="20230618140000 +0100" channel="BTV">
-    <title lang="pt">Os Momentos</title>
+    <title lang="pt">Off Road Magazine</title>
   </programme>
   <programme start="20230618140000 +0100" stop="20230618143000 +0100" channel="BTV">
     <title lang="pt">Benfica 14 Horas</title>
   </programme>
-  <programme start="20230618143000 +0100" stop="20230618160000 +0100" channel="BTV">
-    <title lang="pt">Programação a Designar</title>
+  <programme start="20230618143000 +0100" stop="20230618153000 +0100" channel="BTV">
+    <title lang="pt">Uma Semana do Melhor</title>
   </programme>
-  <programme start="20230618160000 +0100" stop="20230618163000 +0100" channel="BTV">
+  <programme start="20230618153000 +0100" stop="20230618160000 +0100" channel="BTV">
     <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20230618163000 +0100" stop="20230618180000 +0100" channel="BTV">
-    <title lang="pt">Programação a Designar</title>
+  <programme start="20230618160000 +0100" stop="20230618180000 +0100" channel="BTV">
+    <title lang="pt">Hóquei: Sporting x Benfica - Camp. Nacional (Direto)</title>
   </programme>
   <programme start="20230618180000 +0100" stop="20230618183000 +0100" channel="BTV">
     <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20230618183000 +0100" stop="20230618210000 +0100" channel="BTV">
-    <title lang="pt">Programação a Designar</title>
+  <programme start="20230618183000 +0100" stop="20230618190000 +0100" channel="BTV">
+    <title lang="pt">Carlos Manuel</title>
+  </programme>
+  <programme start="20230618190000 +0100" stop="20230618203000 +0100" channel="BTV">
+    <title lang="pt">Polo Aquatico Fem.: Cascais WP x Benfica - Taça De Portugal</title>
+  </programme>
+  <programme start="20230618203000 +0100" stop="20230618210000 +0100" channel="BTV">
+    <title lang="pt">Reportagem Especial</title>
   </programme>
   <programme start="20230618210000 +0100" stop="20230618213000 +0100" channel="BTV">
     <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20230618213000 +0100" stop="20230619000000 +0100" channel="BTV">
-    <title lang="pt">Programação a Designar</title>
+  <programme start="20230618213000 +0100" stop="20230618233000 +0100" channel="BTV">
+    <title lang="pt">Benfica x Taboeira - Juvenis</title>
+  </programme>
+  <programme start="20230618233000 +0100" stop="20230619000000 +0100" channel="BTV">
+    <title lang="pt">Benfica Fan Zone</title>
   </programme>
   <programme start="20230619000000 +0100" stop="20230619003000 +0100" channel="BTV">
     <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20230619003000 +0100" stop="20230619013000 +0100" channel="BTV">
+  <programme start="20230619003000 +0100" stop="20230619023000 +0100" channel="BTV">
+    <title lang="pt">Benfica x Rio Ave Fc - Primeira Liga</title>
+  </programme>
+  <programme start="20230619023000 +0100" stop="20230619053000 +0100" channel="BTV">
     <title lang="pt">Programação a Designar</title>
+  </programme>
+  <programme start="20230619053000 +0100" stop="20230619070000 +0100" channel="BTV">
+    <title lang="pt">Polo Aquatico Fem.: Cascais WP x Benfica - Taça De Portugal</title>
+  </programme>
+  <programme start="20230619070000 +0100" stop="20230619073000 +0100" channel="BTV">
+    <title lang="pt">Benfica 24 Horas</title>
+  </programme>
+  <programme start="20230619073000 +0100" stop="20230619093000 +0100" channel="BTV">
+    <title lang="pt">Benfica x Taboeira - Juvenis</title>
+  </programme>
+  <programme start="20230619093000 +0100" stop="20230619100000 +0100" channel="BTV">
+    <title lang="pt">Benfica Fan Zone</title>
+  </programme>
+  <programme start="20230619100000 +0100" stop="20230619110000 +0100" channel="BTV">
+    <title lang="pt">Benfica 10H</title>
+  </programme>
+  <programme start="20230619110000 +0100" stop="20230619123000 +0100" channel="BTV">
+    <title lang="pt">Andebol: Benfica x Colégio De Gaia - Femininos</title>
+  </programme>
+  <programme start="20230619123000 +0100" stop="20230619130000 +0100" channel="BTV">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20230619130000 +0100" stop="20230619133000 +0100" channel="BTV">
+    <title lang="pt">Carlos Manuel</title>
+  </programme>
+  <programme start="20230619133000 +0100" stop="20230619140000 +0100" channel="BTV">
+    <title lang="pt">A Carrinha Do Bento</title>
+  </programme>
+  <programme start="20230619140000 +0100" stop="20230619143000 +0100" channel="BTV">
+    <title lang="pt">Benfica 14 Horas</title>
+  </programme>
+  <programme start="20230619143000 +0100" stop="20230619161500 +0100" channel="BTV">
+    <title lang="pt">Benfica x Gd Chaves - Primeira Liga</title>
+  </programme>
+  <programme start="20230619161500 +0100" stop="20230619163000 +0100" channel="BTV">
+    <title lang="pt">News BTV</title>
+  </programme>
+  <programme start="20230619163000 +0100" stop="20230619170000 +0100" channel="BTV">
+    <title lang="pt">Protagonista</title>
+  </programme>
+  <programme start="20230619170000 +0100" stop="20230619173000 +0100" channel="BTV">
+    <title lang="pt">Sob A Lei</title>
+  </programme>
+  <programme start="20230619173000 +0100" stop="20230619180000 +0100" channel="BTV">
+    <title lang="pt">Car Online TV</title>
+  </programme>
+  <programme start="20230619180000 +0100" stop="20230619183000 +0100" channel="BTV">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20230619183000 +0100" stop="20230619193000 +0100" channel="BTV">
+    <title lang="pt">Segunda Bola BTV</title>
+  </programme>
+  <programme start="20230619193000 +0100" stop="20230619200000 +0100" channel="BTV">
+    <title lang="pt">Corporate Club</title>
+  </programme>
+  <programme start="20230619200000 +0100" stop="20230619203000 +0100" channel="BTV">
+    <title lang="pt">Off Road Magazine</title>
+  </programme>
+  <programme start="20230619203000 +0100" stop="20230619210000 +0100" channel="BTV">
+    <title lang="pt">Os Momentos</title>
+  </programme>
+  <programme start="20230619210000 +0100" stop="20230619213000 +0100" channel="BTV">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20230619213000 +0100" stop="20230619223000 +0100" channel="BTV">
+    <title lang="pt">Segunda Bola BTV</title>
+  </programme>
+  <programme start="20230619223000 +0100" stop="20230620003000 +0100" channel="BTV">
+    <title lang="pt">Benfica x Gd Chaves - Primeira Liga</title>
+  </programme>
+  <programme start="20230620003000 +0100" stop="20230620010000 +0100" channel="BTV">
+    <title lang="pt">Benfica 24 Horas</title>
+  </programme>
+  <programme start="20230620010000 +0100" stop="20230620013000 +0100" channel="BTV">
+    <title lang="pt">Sob A Lei</title>
+  </programme>
+  <programme start="20230620013000 +0100" stop="20230620020000 +0100" channel="BTV">
+    <title lang="pt">A Carrinha Do Bento</title>
+  </programme>
+  <programme start="20230620020000 +0100" stop="20230620023000 +0100" channel="BTV">
+    <title lang="pt">Os Momentos</title>
+  </programme>
+  <programme start="20230620023000 +0100" stop="20230620030000 +0100" channel="BTV">
+    <title lang="pt">Car Online TV</title>
+  </programme>
+  <programme start="20230620030000 +0100" stop="20230620033000 +0100" channel="BTV">
+    <title lang="pt">Off Road Magazine</title>
+  </programme>
+  <programme start="20230620033000 +0100" stop="20230620043000 +0100" channel="BTV">
+    <title lang="pt">Segunda Bola BTV</title>
+  </programme>
+  <programme start="20230620043000 +0100" stop="20230620050000 +0100" channel="BTV">
+    <title lang="pt">Benfica Fan Zone</title>
+  </programme>
+  <programme start="20230620050000 +0100" stop="20230620051500 +0100" channel="BTV">
+    <title lang="pt">Benfica 24 Horas</title>
+  </programme>
+  <programme start="20230620051500 +0100" stop="20230620053000 +0100" channel="BTV">
+    <title lang="pt">Sob A Lei</title>
+  </programme>
+  <programme start="20230620053000 +0100" stop="20230620060000 +0100" channel="BTV">
+    <title lang="pt">Carlos Manuel</title>
+  </programme>
+  <programme start="20230620060000 +0100" stop="20230620063000 +0100" channel="BTV">
+    <title lang="pt">Off Road Magazine</title>
+  </programme>
+  <programme start="20230620063000 +0100" stop="20230620070000 +0100" channel="BTV">
+    <title lang="pt">Car Online TV</title>
+  </programme>
+  <programme start="20230620070000 +0100" stop="20230620073000 +0100" channel="BTV">
+    <title lang="pt">Benfica 24 Horas</title>
+  </programme>
+  <programme start="20230620073000 +0100" stop="20230620080000 +0100" channel="BTV">
+    <title lang="pt">Os Momentos</title>
+  </programme>
+  <programme start="20230620080000 +0100" stop="20230620093000 +0100" channel="BTV">
+    <title lang="pt">Andebol: Benfica x Colégio De Gaia - Femininos</title>
+  </programme>
+  <programme start="20230620093000 +0100" stop="20230620100000 +0100" channel="BTV">
+    <title lang="pt">Sob A Lei</title>
+  </programme>
+  <programme start="20230620100000 +0100" stop="20230620110000 +0100" channel="BTV">
+    <title lang="pt">Benfica 10H</title>
+  </programme>
+  <programme start="20230620110000 +0100" stop="20230620120000 +0100" channel="BTV">
+    <title lang="pt">Segunda Bola BTV</title>
+  </programme>
+  <programme start="20230620120000 +0100" stop="20230620123000 +0100" channel="BTV">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20230620123000 +0100" stop="20230620140000 +0100" channel="BTV">
+    <title lang="pt">Andebol: Benfica x Cde Gil Eanes - Femininos</title>
+  </programme>
+  <programme start="20230620140000 +0100" stop="20230620143000 +0100" channel="BTV">
+    <title lang="pt">Benfica 14 Horas</title>
+  </programme>
+  <programme start="20230620143000 +0100" stop="20230620161500 +0100" channel="BTV">
+    <title lang="pt">Benfica x Gil Vicente Fc - Primeira Liga</title>
+  </programme>
+  <programme start="20230620161500 +0100" stop="20230620163000 +0100" channel="BTV">
+    <title lang="pt">News BTV</title>
+  </programme>
+  <programme start="20230620163000 +0100" stop="20230620170000 +0100" channel="BTV">
+    <title lang="pt">Reportagem Especial</title>
+  </programme>
+  <programme start="20230620170000 +0100" stop="20230620180000 +0100" channel="BTV">
+    <title lang="pt">A Época Em Revista Na BTV</title>
+  </programme>
+  <programme start="20230620180000 +0100" stop="20230620183000 +0100" channel="BTV">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20230620183000 +0100" stop="20230620193000 +0100" channel="BTV">
+    <title lang="pt">Sport Lisboa e Modalidades</title>
+  </programme>
+  <programme start="20230620193000 +0100" stop="20230620203000 +0100" channel="BTV">
+    <title lang="pt">Segunda Bola BTV</title>
+  </programme>
+  <programme start="20230620203000 +0100" stop="20230620210000 +0100" channel="BTV">
+    <title lang="pt">Benfica Fan Zone</title>
+  </programme>
+  <programme start="20230620210000 +0100" stop="20230620213000 +0100" channel="BTV">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20230620213000 +0100" stop="20230620233000 +0100" channel="BTV">
+    <title lang="pt">Benfica x Gil Vicente Fc - Primeira Liga</title>
+  </programme>
+  <programme start="20230620233000 +0100" stop="20230621000000 +0100" channel="BTV">
+    <title lang="pt">Corporate Club</title>
+  </programme>
+  <programme start="20230621000000 +0100" stop="20230621003000 +0100" channel="BTV">
+    <title lang="pt">Benfica 24 Horas</title>
+  </programme>
+  <programme start="20230621003000 +0100" stop="20230621013000 +0100" channel="BTV">
+    <title lang="pt">A Época Em Revista Na BTV</title>
+  </programme>
+  <programme start="20230621013000 +0100" stop="20230621023000 +0100" channel="BTV">
+    <title lang="pt">Sport Lisboa e Modalidades</title>
+  </programme>
+  <programme start="20230621023000 +0100" stop="20230621030000 +0100" channel="BTV">
+    <title lang="pt">Programação a Designar</title>
+  </programme>
+  <programme start="20230621030000 +0100" stop="20230621033000 +0100" channel="BTV">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20230621033000 +0100" stop="20230621050000 +0100" channel="BTV">
+    <title lang="pt">Andebol: Benfica x Cde Gil Eanes - Femininos</title>
+  </programme>
+  <programme start="20230621050000 +0100" stop="20230621053000 +0100" channel="BTV">
+    <title lang="pt">Benfica 24 Horas</title>
+  </programme>
+  <programme start="20230621053000 +0100" stop="20230621063000 +0100" channel="BTV">
+    <title lang="pt">Andebol: Benfica x Aa São Pedro Do Sul - Femininos</title>
+  </programme>
+  <programme start="20230621063000 +0100" stop="20230621073000 +0100" channel="BTV">
+    <title lang="pt">Sport Lisboa e Modalidades</title>
+  </programme>
+  <programme start="20230621073000 +0100" stop="20230621080000 +0100" channel="BTV">
+    <title lang="pt">Vou A Jogo Com 11</title>
+  </programme>
+  <programme start="20230621080000 +0100" stop="20230621083000 +0100" channel="BTV">
+    <title lang="pt">Benfica 24 Horas</title>
+  </programme>
+  <programme start="20230621083000 +0100" stop="20230621100000 +0100" channel="BTV">
+    <title lang="pt">Andebol: Benfica x Cde Gil Eanes - Femininos</title>
+  </programme>
+  <programme start="20230621100000 +0100" stop="20230621103000 +0100" channel="BTV">
+    <title lang="pt">Benfica 10H</title>
+  </programme>
+  <programme start="20230621103000 +0100" stop="20230621113000 +0100" channel="BTV">
+    <title lang="pt">A Época Em Revista Na BTV</title>
+  </programme>
+  <programme start="20230621113000 +0100" stop="20230621124500 +0100" channel="BTV">
+    <title lang="pt">Andebol: Benfica x Aa São Pedro Do Sul - Femininos</title>
+  </programme>
+  <programme start="20230621124500 +0100" stop="20230621130000 +0100" channel="BTV">
+    <title lang="pt">News BTV</title>
+  </programme>
+  <programme start="20230621130000 +0100" stop="20230621140000 +0100" channel="BTV">
+    <title lang="pt">Sport Lisboa e Modalidades</title>
+  </programme>
+  <programme start="20230621140000 +0100" stop="20230621143000 +0100" channel="BTV">
+    <title lang="pt">Benfica 14 Horas</title>
+  </programme>
+  <programme start="20230621143000 +0100" stop="20230621161500 +0100" channel="BTV">
+    <title lang="pt">Benfica x Portimonense - Primeira Liga</title>
+  </programme>
+  <programme start="20230621161500 +0100" stop="20230621163000 +0100" channel="BTV">
+    <title lang="pt">News BTV</title>
+  </programme>
+  <programme start="20230621163000 +0100" stop="20230621170000 +0100" channel="BTV">
+    <title lang="pt">Mais Vantagens</title>
+  </programme>
+  <programme start="20230621170000 +0100" stop="20230621173000 +0100" channel="BTV">
+    <title lang="pt">Cine BTV</title>
+  </programme>
+  <programme start="20230621173000 +0100" stop="20230621180000 +0100" channel="BTV">
+    <title lang="pt">Contas Feitas, Dúvidas Desfeitas</title>
+  </programme>
+  <programme start="20230621180000 +0100" stop="20230621183000 +0100" channel="BTV">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20230621183000 +0100" stop="20230621190000 +0100" channel="BTV">
+    <title lang="pt">Protagonista</title>
+  </programme>
+  <programme start="20230621190000 +0100" stop="20230621203000 +0100" channel="BTV">
+    <title lang="pt">Andebol: Benfica x UHC Stockerau - Femininos</title>
+  </programme>
+  <programme start="20230621203000 +0100" stop="20230621210000 +0100" channel="BTV">
+    <title lang="pt">Sob A Lei</title>
+  </programme>
+  <programme start="20230621210000 +0100" stop="20230621213000 +0100" channel="BTV">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20230621213000 +0100" stop="20230621230000 +0100" channel="BTV">
+    <title lang="pt">As Lanças Apontadas</title>
+  </programme>
+  <programme start="20230621230000 +0100" stop="20230621233000 +0100" channel="BTV">
+    <title lang="pt">Protagonista</title>
+  </programme>
+  <programme start="20230621233000 +0100" stop="20230622000000 +0100" channel="BTV">
+    <title lang="pt">Mais Vantagens</title>
   </programme>
   <programme start="20230615010500 +0100" stop="20230615013500 +0100" channel="SPORTING TV">
     <title lang="pt">Magazine Kombat Press</title>
@@ -4181,7 +4811,7 @@
     <title lang="pt">Basquetebol: Sporting CP x SC Lusitânia - Campeonato Nacional</title>
   </programme>
   <programme start="20230615062000 +0100" stop="20230615062500 +0100" channel="SPORTING TV">
-    <title lang="pt">MEMÓRIA Fotográfica</title>
+    <title lang="pt">Memória Fotográfica</title>
   </programme>
   <programme start="20230615062500 +0100" stop="20230615063000 +0100" channel="SPORTING TV">
     <title lang="pt">Memória Do Dia</title>
@@ -4225,20 +4855,17 @@
   <programme start="20230615130000 +0100" stop="20230615144500 +0100" channel="SPORTING TV">
     <title lang="pt">Estamos Em Casa</title>
   </programme>
-  <programme start="20230615144500 +0100" stop="20230615150000 +0100" channel="SPORTING TV">
+  <programme start="20230615144500 +0100" stop="20230615145500 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Notícias</title>
   </programme>
-  <programme start="20230615150000 +0100" stop="20230615170000 +0100" channel="SPORTING TV">
-    <title lang="pt">Estamos Em Casa</title>
+  <programme start="20230615145500 +0100" stop="20230615170000 +0100" channel="SPORTING TV">
+    <title lang="pt">Andebol: Sporting CP x FC Porto - Taça De Portugal</title>
   </programme>
   <programme start="20230615170000 +0100" stop="20230615180000 +0100" channel="SPORTING TV">
     <title lang="pt">Boa Tarde Sporting</title>
   </programme>
-  <programme start="20230615180000 +0100" stop="20230615183000 +0100" channel="SPORTING TV">
-    <title lang="pt">Porta 10 A</title>
-  </programme>
-  <programme start="20230615183000 +0100" stop="20230615183500 +0100" channel="SPORTING TV">
-    <title lang="pt">O Museu Conta</title>
+  <programme start="20230615180000 +0100" stop="20230615183500 +0100" channel="SPORTING TV">
+    <title lang="pt">ADN De Leão</title>
   </programme>
   <programme start="20230615183500 +0100" stop="20230615184000 +0100" channel="SPORTING TV">
     <title lang="pt">Memória Fotográfica</title>
@@ -4249,26 +4876,41 @@
   <programme start="20230615190000 +0100" stop="20230615190500 +0100" channel="SPORTING TV">
     <title lang="pt">60 Segundos Sporting</title>
   </programme>
-  <programme start="20230615190500 +0100" stop="20230615193000 +0100" channel="SPORTING TV">
+  <programme start="20230615190500 +0100" stop="20230615193500 +0100" channel="SPORTING TV">
     <title lang="pt">19:06</title>
   </programme>
-  <programme start="20230615193000 +0100" stop="20230615213000 +0100" channel="SPORTING TV">
-    <title lang="pt">Estamos Em Casa</title>
+  <programme start="20230615193500 +0100" stop="20230615202500 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Especial</title>
   </programme>
-  <programme start="20230615213000 +0100" stop="20230615223000 +0100" channel="SPORTING TV">
+  <programme start="20230615202500 +0100" stop="20230615210000 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Entrevista</title>
+  </programme>
+  <programme start="20230615210000 +0100" stop="20230615214000 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Entrevista</title>
+  </programme>
+  <programme start="20230615214000 +0100" stop="20230615224000 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Grande Jornal</title>
   </programme>
-  <programme start="20230615223000 +0100" stop="20230615223500 +0100" channel="SPORTING TV">
+  <programme start="20230615224000 +0100" stop="20230615224500 +0100" channel="SPORTING TV">
     <title lang="pt">Memória Do Dia</title>
   </programme>
-  <programme start="20230615223500 +0100" stop="20230615225500 +0100" channel="SPORTING TV">
+  <programme start="20230615224500 +0100" stop="20230615230500 +0100" channel="SPORTING TV">
     <title lang="pt">Jornal Sporting</title>
   </programme>
-  <programme start="20230615225500 +0100" stop="20230616015000 +0100" channel="SPORTING TV">
-    <title lang="pt">Estamos Em Casa Sporting Notícias</title>
+  <programme start="20230615230500 +0100" stop="20230615234500 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Entrevista</title>
   </programme>
-  <programme start="20230616015000 +0100" stop="20230616022000 +0100" channel="SPORTING TV">
-    <title lang="pt">Porta 10 A</title>
+  <programme start="20230615234500 +0100" stop="20230616014500 +0100" channel="SPORTING TV">
+    <title lang="pt">Andebol: Sporting CP x CS Marítimo - Taça De Portugal</title>
+  </programme>
+  <programme start="20230616014500 +0100" stop="20230616015500 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Entrevista</title>
+  </programme>
+  <programme start="20230616015500 +0100" stop="20230616021500 +0100" channel="SPORTING TV">
+    <title lang="pt">Paddock</title>
+  </programme>
+  <programme start="20230616021500 +0100" stop="20230616022000 +0100" channel="SPORTING TV">
+    <title lang="pt">Memória Do Dia</title>
   </programme>
   <programme start="20230616022000 +0100" stop="20230616022500 +0100" channel="SPORTING TV">
     <title lang="pt">O Museu Conta</title>
@@ -4283,7 +4925,7 @@
     <title lang="pt">Sporting Grande Jornal</title>
   </programme>
   <programme start="20230616035000 +0100" stop="20230616042000 +0100" channel="SPORTING TV">
-    <title lang="pt">Estamos Em Casa</title>
+    <title lang="pt">Sporting Corporate</title>
   </programme>
   <programme start="20230616042000 +0100" stop="20230616064500 +0100" channel="SPORTING TV">
     <title lang="pt">Basquetebol: Sporting CP x CAB Madeira - Camp. Nacional</title>
@@ -4292,7 +4934,7 @@
     <title lang="pt">Green Quest</title>
   </programme>
   <programme start="20230616071000 +0100" stop="20230616071500 +0100" channel="SPORTING TV">
-    <title lang="pt">MEMÓRIA Fotográfica</title>
+    <title lang="pt">Memória Fotográfica</title>
   </programme>
   <programme start="20230616071500 +0100" stop="20230616073000 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Notícias</title>
@@ -4318,35 +4960,35 @@
   <programme start="20230616103000 +0100" stop="20230616104500 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Notícias</title>
   </programme>
-  <programme start="20230616104500 +0100" stop="20230616124500 +0100" channel="SPORTING TV">
-    <title lang="pt">Estamos Em Casa</title>
+  <programme start="20230616104500 +0100" stop="20230616125000 +0100" channel="SPORTING TV">
+    <title lang="pt">Andebol: Sporting CP x FC Porto - Taça De Portugal</title>
   </programme>
-  <programme start="20230616124500 +0100" stop="20230616130000 +0100" channel="SPORTING TV">
+  <programme start="20230616125000 +0100" stop="20230616130000 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Notícias</title>
   </programme>
-  <programme start="20230616130000 +0100" stop="20230616144500 +0100" channel="SPORTING TV">
-    <title lang="pt">Estamos Em Casa</title>
+  <programme start="20230616130000 +0100" stop="20230616144000 +0100" channel="SPORTING TV">
+    <title lang="pt">Futsal: Sporting CP x Benfica - Campeonato Nacional</title>
   </programme>
-  <programme start="20230616144500 +0100" stop="20230616150000 +0100" channel="SPORTING TV">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20230616150000 +0100" stop="20230616152000 +0100" channel="SPORTING TV">
-    <title lang="pt">Jornal Sporting</title>
-  </programme>
-  <programme start="20230616152000 +0100" stop="20230616152500 +0100" channel="SPORTING TV">
-    <title lang="pt">Memória Fotográfica</title>
-  </programme>
-  <programme start="20230616152500 +0100" stop="20230616153000 +0100" channel="SPORTING TV">
+  <programme start="20230616144000 +0100" stop="20230616144500 +0100" channel="SPORTING TV">
     <title lang="pt">O Museu Conta</title>
+  </programme>
+  <programme start="20230616144500 +0100" stop="20230616145500 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Notícias</title>
+  </programme>
+  <programme start="20230616145500 +0100" stop="20230616153000 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Entrevista</title>
   </programme>
   <programme start="20230616153000 +0100" stop="20230616160000 +0100" channel="SPORTING TV">
     <title lang="pt">Magazine Kombat Press</title>
   </programme>
-  <programme start="20230616160000 +0100" stop="20230616161500 +0100" channel="SPORTING TV">
-    <title lang="pt">Esports &amp; Gaming</title>
+  <programme start="20230616160000 +0100" stop="20230616164000 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Entrevista</title>
   </programme>
-  <programme start="20230616161500 +0100" stop="20230616165000 +0100" channel="SPORTING TV">
-    <title lang="pt">ADN De Leão</title>
+  <programme start="20230616164000 +0100" stop="20230616164500 +0100" channel="SPORTING TV">
+    <title lang="pt">O Museu Conta</title>
+  </programme>
+  <programme start="20230616164500 +0100" stop="20230616165000 +0100" channel="SPORTING TV">
+    <title lang="pt">PT In 150 Seconds</title>
   </programme>
   <programme start="20230616165000 +0100" stop="20230616170000 +0100" channel="SPORTING TV">
     <title lang="pt">Duelos De Leão</title>
@@ -4387,10 +5029,19 @@
   <programme start="20230616235000 +0100" stop="20230617000500 +0100" channel="SPORTING TV">
     <title lang="pt">Antevisão Modalidades</title>
   </programme>
-  <programme start="20230617000500 +0100" stop="20230617013500 +0100" channel="SPORTING TV">
-    <title lang="pt">Estamos Em Casa</title>
+  <programme start="20230617000500 +0100" stop="20230617004500 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Entrevista</title>
   </programme>
-  <programme start="20230617013500 +0100" stop="20230617015000 +0100" channel="SPORTING TV">
+  <programme start="20230617004500 +0100" stop="20230617005000 +0100" channel="SPORTING TV">
+    <title lang="pt">PT In 150 Seconds</title>
+  </programme>
+  <programme start="20230617005000 +0100" stop="20230617012000 +0100" channel="SPORTING TV">
+    <title lang="pt">Lado B</title>
+  </programme>
+  <programme start="20230617012000 +0100" stop="20230617014000 +0100" channel="SPORTING TV">
+    <title lang="pt">Jornal Sporting</title>
+  </programme>
+  <programme start="20230617014000 +0100" stop="20230617015000 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Notícias</title>
   </programme>
   <programme start="20230617015000 +0100" stop="20230617025000 +0100" channel="SPORTING TV">
@@ -4429,14 +5080,11 @@
   <programme start="20230617080000 +0100" stop="20230617083000 +0100" channel="SPORTING TV">
     <title lang="pt">Ginástica Em Casa</title>
   </programme>
-  <programme start="20230617083000 +0100" stop="20230617084000 +0100" channel="SPORTING TV">
+  <programme start="20230617083000 +0100" stop="20230617084500 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Notícias</title>
   </programme>
-  <programme start="20230617084000 +0100" stop="20230617101000 +0100" channel="SPORTING TV">
-    <title lang="pt">Estamos Em Casa</title>
-  </programme>
-  <programme start="20230617101000 +0100" stop="20230617102500 +0100" channel="SPORTING TV">
-    <title lang="pt">Sporting Notícias</title>
+  <programme start="20230617084500 +0100" stop="20230617102500 +0100" channel="SPORTING TV">
+    <title lang="pt">Futsal: Sporting CP x Benfica - Campeonato Nacional</title>
   </programme>
   <programme start="20230617102500 +0100" stop="20230617104000 +0100" channel="SPORTING TV">
     <title lang="pt">Antevisão Modalidades</title>
@@ -4444,19 +5092,28 @@
   <programme start="20230617104000 +0100" stop="20230617105500 +0100" channel="SPORTING TV">
     <title lang="pt">Antevisão Formação</title>
   </programme>
-  <programme start="20230617105500 +0100" stop="20230617120000 +0100" channel="SPORTING TV">
-    <title lang="pt">Estamos Em Casa</title>
+  <programme start="20230617105500 +0100" stop="20230617110000 +0100" channel="SPORTING TV">
+    <title lang="pt">Memória Do Dia</title>
   </programme>
-  <programme start="20230617120000 +0100" stop="20230617121000 +0100" channel="SPORTING TV">
-    <title lang="pt">Sporting Notícias</title>
+  <programme start="20230617110000 +0100" stop="20230617120000 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Especial</title>
   </programme>
-  <programme start="20230617121000 +0100" stop="20230617145000 +0100" channel="SPORTING TV">
-    <title lang="pt">Estamos Em Casa</title>
+  <programme start="20230617120000 +0100" stop="20230617123000 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Corporate</title>
   </programme>
-  <programme start="20230617145000 +0100" stop="20230617150000 +0100" channel="SPORTING TV">
+  <programme start="20230617123000 +0100" stop="20230617130500 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Entrevista</title>
+  </programme>
+  <programme start="20230617130500 +0100" stop="20230617131500 +0100" channel="SPORTING TV">
     <title lang="pt">Duelos De Leão</title>
   </programme>
-  <programme start="20230617150000 +0100" stop="20230617155500 +0100" channel="SPORTING TV">
+  <programme start="20230617131500 +0100" stop="20230617133000 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Notícias</title>
+  </programme>
+  <programme start="20230617133000 +0100" stop="20230617151500 +0100" channel="SPORTING TV">
+    <title lang="pt">Futsal: Sporting CP x Benfica - Campeonato Nacional</title>
+  </programme>
+  <programme start="20230617151500 +0100" stop="20230617155500 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Notícias</title>
   </programme>
   <programme start="20230617155500 +0100" stop="20230617174500 +0100" channel="SPORTING TV">
@@ -4465,40 +5122,37 @@
   <programme start="20230617174500 +0100" stop="20230617181500 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Notícias</title>
   </programme>
-  <programme start="20230617181500 +0100" stop="20230617183000 +0100" channel="SPORTING TV">
+  <programme start="20230617181500 +0100" stop="20230617183500 +0100" channel="SPORTING TV">
+    <title lang="pt">Jornal Sporting</title>
+  </programme>
+  <programme start="20230617183500 +0100" stop="20230617185000 +0100" channel="SPORTING TV">
     <title lang="pt">Esports &amp; Gaming</title>
   </programme>
-  <programme start="20230617183000 +0100" stop="20230617191000 +0100" channel="SPORTING TV">
-    <title lang="pt">Núcleo Duro</title>
+  <programme start="20230617185000 +0100" stop="20230617185500 +0100" channel="SPORTING TV">
+    <title lang="pt">Memória Fotográfica</title>
   </programme>
-  <programme start="20230617191000 +0100" stop="20230617194000 +0100" channel="SPORTING TV">
-    <title lang="pt">Sporting Corporate</title>
+  <programme start="20230617185500 +0100" stop="20230617203000 +0100" channel="SPORTING TV">
+    <title lang="pt">Futsal: Sporting CP x Benfica - Sub 15 Camp. Nac. (Direto)</title>
   </programme>
-  <programme start="20230617194000 +0100" stop="20230617201000 +0100" channel="SPORTING TV">
+  <programme start="20230617203000 +0100" stop="20230617210000 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Notícias</title>
   </programme>
-  <programme start="20230617201000 +0100" stop="20230617204500 +0100" channel="SPORTING TV">
-    <title lang="pt">ADN De Leão</title>
-  </programme>
-  <programme start="20230617204500 +0100" stop="20230617212000 +0100" channel="SPORTING TV">
-    <title lang="pt">ADN De Leão</title>
-  </programme>
-  <programme start="20230617212000 +0100" stop="20230617212500 +0100" channel="SPORTING TV">
-    <title lang="pt">O Museu Conta</title>
-  </programme>
-  <programme start="20230617212500 +0100" stop="20230617213000 +0100" channel="SPORTING TV">
+  <programme start="20230617210000 +0100" stop="20230617210500 +0100" channel="SPORTING TV">
     <title lang="pt">PT In 150 Seconds</title>
   </programme>
-  <programme start="20230617213000 +0100" stop="20230617223000 +0100" channel="SPORTING TV">
+  <programme start="20230617210500 +0100" stop="20230617211000 +0100" channel="SPORTING TV">
+    <title lang="pt">O Museu Conta</title>
+  </programme>
+  <programme start="20230617211000 +0100" stop="20230617212500 +0100" channel="SPORTING TV">
+    <title lang="pt">Antecâmara Sporting TV</title>
+  </programme>
+  <programme start="20230617212500 +0100" stop="20230617230000 +0100" channel="SPORTING TV">
+    <title lang="pt">Futsal: Sporting CP x Benfica - Sub 17 Camp. Nac. (Direto)</title>
+  </programme>
+  <programme start="20230617230000 +0100" stop="20230618000000 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Grande Jornal</title>
   </programme>
-  <programme start="20230617223000 +0100" stop="20230617223500 +0100" channel="SPORTING TV">
-    <title lang="pt">Memória Do Dia</title>
-  </programme>
-  <programme start="20230617223500 +0100" stop="20230618004000 +0100" channel="SPORTING TV">
-    <title lang="pt">Estamos Em Casa</title>
-  </programme>
-  <programme start="20230618004000 +0100" stop="20230618013500 +0100" channel="SPORTING TV">
+  <programme start="20230618000000 +0100" stop="20230618013500 +0100" channel="SPORTING TV">
     <title lang="pt">Estamos Em Casa</title>
   </programme>
   <programme start="20230618013500 +0100" stop="20230618015000 +0100" channel="SPORTING TV">
@@ -4516,8 +5170,14 @@
   <programme start="20230618025000 +0100" stop="20230618035000 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Grande Jornal</title>
   </programme>
-  <programme start="20230618035000 +0100" stop="20230618042000 +0100" channel="SPORTING TV">
-    <title lang="pt">Estamos Em Casa</title>
+  <programme start="20230618035000 +0100" stop="20230618041000 +0100" channel="SPORTING TV">
+    <title lang="pt">Paddock</title>
+  </programme>
+  <programme start="20230618041000 +0100" stop="20230618041500 +0100" channel="SPORTING TV">
+    <title lang="pt">O Museu Conta</title>
+  </programme>
+  <programme start="20230618041500 +0100" stop="20230618042000 +0100" channel="SPORTING TV">
+    <title lang="pt">Memória Fotográfica</title>
   </programme>
   <programme start="20230618042000 +0100" stop="20230618061000 +0100" channel="SPORTING TV">
     <title lang="pt">Basquetebol: Sporting CP x CP Esgueira - Campeonato Nacional</title>
@@ -4564,20 +5224,44 @@
   <programme start="20230618130000 +0100" stop="20230618131500 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Notícias</title>
   </programme>
-  <programme start="20230618131500 +0100" stop="20230618153000 +0100" channel="SPORTING TV">
+  <programme start="20230618131500 +0100" stop="20230618151500 +0100" channel="SPORTING TV">
     <title lang="pt">Estamos Em Casa</title>
   </programme>
-  <programme start="20230618153000 +0100" stop="20230618170000 +0100" channel="SPORTING TV">
-    <title lang="pt">Estamos Em Casa</title>
-  </programme>
-  <programme start="20230618170000 +0100" stop="20230618173000 +0100" channel="SPORTING TV">
+  <programme start="20230618151500 +0100" stop="20230618155500 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Notícias</title>
   </programme>
-  <programme start="20230618173000 +0100" stop="20230618193000 +0100" channel="SPORTING TV">
-    <title lang="pt">Estamos Em Casa</title>
+  <programme start="20230618155500 +0100" stop="20230618174500 +0100" channel="SPORTING TV">
+    <title lang="pt">Hóquei: Sporting CP x Benfica - Campeonato Nacional (Direto)</title>
   </programme>
-  <programme start="20230618193000 +0100" stop="20230618213000 +0100" channel="SPORTING TV">
-    <title lang="pt">Estamos Em Casa</title>
+  <programme start="20230618174500 +0100" stop="20230618181500 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Notícias</title>
+  </programme>
+  <programme start="20230618181500 +0100" stop="20230618182000 +0100" channel="SPORTING TV">
+    <title lang="pt">Memória Fotográfica</title>
+  </programme>
+  <programme start="20230618182000 +0100" stop="20230618182500 +0100" channel="SPORTING TV">
+    <title lang="pt">O Museu Conta</title>
+  </programme>
+  <programme start="20230618182500 +0100" stop="20230618185500 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Corporate</title>
+  </programme>
+  <programme start="20230618185500 +0100" stop="20230618193000 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Entrevista</title>
+  </programme>
+  <programme start="20230618193000 +0100" stop="20230618200000 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Notícias</title>
+  </programme>
+  <programme start="20230618200000 +0100" stop="20230618201500 +0100" channel="SPORTING TV">
+    <title lang="pt">Antecâmara Sporting TV</title>
+  </programme>
+  <programme start="20230618201500 +0100" stop="20230618203000 +0100" channel="SPORTING TV">
+    <title lang="pt">Esports &amp; Gaming</title>
+  </programme>
+  <programme start="20230618203000 +0100" stop="20230618212000 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Especial</title>
+  </programme>
+  <programme start="20230618212000 +0100" stop="20230618213000 +0100" channel="SPORTING TV">
+    <title lang="pt">Sporting Especial</title>
   </programme>
   <programme start="20230618213000 +0100" stop="20230618223000 +0100" channel="SPORTING TV">
     <title lang="pt">Sporting Grande Jornal</title>
@@ -4646,6 +5330,12 @@
     <title lang="pt">SPORTING CP TV</title>
   </programme>
   <programme start="20230621120000 +0100" stop="20230621180000 +0100" channel="SPORTING TV">
+    <title lang="pt">SPORTING CP TV</title>
+  </programme>
+  <programme start="20230621180000 +0100" stop="20230621220000 +0100" channel="SPORTING TV">
+    <title lang="pt">SPORTING CP TV</title>
+  </programme>
+  <programme start="20230621220000 +0100" stop="20230622020000 +0100" channel="SPORTING TV">
     <title lang="pt">SPORTING CP TV</title>
   </programme>
   <programme start="20230615000000 +0100" stop="20230615014500 +0100" channel="A BOLA TV">
@@ -5149,8 +5839,320 @@
   <programme start="20230619060500 +0100" stop="20230619063000 +0100" channel="A BOLA TV">
     <title lang="pt">Lendas Dos Mundiais</title>
   </programme>
-  <programme start="20230619063000 +0100" stop="20230619073000 +0100" channel="A BOLA TV">
+  <programme start="20230619063000 +0100" stop="20230619070000 +0100" channel="A BOLA TV">
     <title lang="pt">Motores</title>
+  </programme>
+  <programme start="20230619070000 +0100" stop="20230619073000 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
+  </programme>
+  <programme start="20230619073000 +0100" stop="20230619080000 +0100" channel="A BOLA TV">
+    <title lang="pt">Jogar Em Casa: Eduardo Borges</title>
+  </programme>
+  <programme start="20230619080000 +0100" stop="20230619083000 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
+  </programme>
+  <programme start="20230619083000 +0100" stop="20230619090000 +0100" channel="A BOLA TV">
+    <title lang="pt">Desporto Motorizado</title>
+  </programme>
+  <programme start="20230619090000 +0100" stop="20230619091500 +0100" channel="A BOLA TV">
+    <title lang="pt">Flag</title>
+  </programme>
+  <programme start="20230619091500 +0100" stop="20230619093000 +0100" channel="A BOLA TV">
+    <title lang="pt">Magazine FMP</title>
+  </programme>
+  <programme start="20230619093000 +0100" stop="20230619100000 +0100" channel="A BOLA TV">
+    <title lang="pt">Ride</title>
+  </programme>
+  <programme start="20230619100000 +0100" stop="20230619103000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Das 10</title>
+  </programme>
+  <programme start="20230619103000 +0100" stop="20230619110000 +0100" channel="A BOLA TV">
+    <title lang="pt">Máquina Do Tempo</title>
+  </programme>
+  <programme start="20230619110000 +0100" stop="20230619113000 +0100" channel="A BOLA TV">
+    <title lang="pt">Isto É Futebol</title>
+  </programme>
+  <programme start="20230619113000 +0100" stop="20230619120000 +0100" channel="A BOLA TV">
+    <title lang="pt">Triatlo De Albufeira</title>
+  </programme>
+  <programme start="20230619120000 +0100" stop="20230619123000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Do Meio Dia</title>
+  </programme>
+  <programme start="20230619123000 +0100" stop="20230619130000 +0100" channel="A BOLA TV">
+    <title lang="pt">Deixa Rolar: Madjer</title>
+  </programme>
+  <programme start="20230619130000 +0100" stop="20230619133000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Da Uma</title>
+  </programme>
+  <programme start="20230619133000 +0100" stop="20230619135500 +0100" channel="A BOLA TV">
+    <title lang="pt">Black Power</title>
+  </programme>
+  <programme start="20230619135500 +0100" stop="20230619140000 +0100" channel="A BOLA TV">
+    <title lang="pt">Off</title>
+  </programme>
+  <programme start="20230619140000 +0100" stop="20230619143000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Das 2</title>
+  </programme>
+  <programme start="20230619143000 +0100" stop="20230619161500 +0100" channel="A BOLA TV">
+    <title lang="pt">Hóquei: Sporting x Benfica - Campeonato Nacional</title>
+  </programme>
+  <programme start="20230619161500 +0100" stop="20230619164500 +0100" channel="A BOLA TV">
+    <title lang="pt">Triatlo De Albufeira</title>
+  </programme>
+  <programme start="20230619164500 +0100" stop="20230619170000 +0100" channel="A BOLA TV">
+    <title lang="pt">Custom Series</title>
+  </programme>
+  <programme start="20230619170000 +0100" stop="20230619173000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Da Tarde</title>
+  </programme>
+  <programme start="20230619173000 +0100" stop="20230619180000 +0100" channel="A BOLA TV">
+    <title lang="pt">Revista De Imprensa Internacional</title>
+  </programme>
+  <programme start="20230619180000 +0100" stop="20230619183000 +0100" channel="A BOLA TV">
+    <title lang="pt">Lendas Dos Mundiais</title>
+  </programme>
+  <programme start="20230619183000 +0100" stop="20230619190000 +0100" channel="A BOLA TV">
+    <title lang="pt">Entrevista: António Silva</title>
+  </programme>
+  <programme start="20230619190000 +0100" stop="20230619200000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Das 7</title>
+  </programme>
+  <programme start="20230619200000 +0100" stop="20230619210000 +0100" channel="A BOLA TV">
+    <title lang="pt">Conversas Com...: Fernando Emílio</title>
+  </programme>
+  <programme start="20230619210000 +0100" stop="20230619213000 +0100" channel="A BOLA TV">
+    <title lang="pt">Revista De Imprensa Internacional</title>
+  </programme>
+  <programme start="20230619213000 +0100" stop="20230619220000 +0100" channel="A BOLA TV">
+    <title lang="pt">Heróis Da Nossa Vida</title>
+  </programme>
+  <programme start="20230619220000 +0100" stop="20230620001500 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Da Noite</title>
+  </programme>
+  <programme start="20230620001500 +0100" stop="20230620004500 +0100" channel="A BOLA TV">
+    <title lang="pt">Isto É Futebol</title>
+  </programme>
+  <programme start="20230620004500 +0100" stop="20230620011500 +0100" channel="A BOLA TV">
+    <title lang="pt">Lendas Dos Mundiais</title>
+  </programme>
+  <programme start="20230620011500 +0100" stop="20230620014500 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
+  </programme>
+  <programme start="20230620014500 +0100" stop="20230620015000 +0100" channel="A BOLA TV">
+    <title lang="pt">Off</title>
+  </programme>
+  <programme start="20230620015000 +0100" stop="20230620025000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Da Noite</title>
+  </programme>
+  <programme start="20230620025000 +0100" stop="20230620040500 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Da Noite</title>
+  </programme>
+  <programme start="20230620040500 +0100" stop="20230620043500 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
+  </programme>
+  <programme start="20230620043500 +0100" stop="20230620050500 +0100" channel="A BOLA TV">
+    <title lang="pt">Magazine TT</title>
+  </programme>
+  <programme start="20230620050500 +0100" stop="20230620053000 +0100" channel="A BOLA TV">
+    <title lang="pt">Ride</title>
+  </programme>
+  <programme start="20230620053000 +0100" stop="20230620060000 +0100" channel="A BOLA TV">
+    <title lang="pt">Deixa Rolar: Madjer</title>
+  </programme>
+  <programme start="20230620060000 +0100" stop="20230620063000 +0100" channel="A BOLA TV">
+    <title lang="pt">Motores</title>
+  </programme>
+  <programme start="20230620063000 +0100" stop="20230620070000 +0100" channel="A BOLA TV">
+    <title lang="pt">Jogar Em Casa: Eduardo Borges</title>
+  </programme>
+  <programme start="20230620070000 +0100" stop="20230620073000 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
+  </programme>
+  <programme start="20230620073000 +0100" stop="20230620080000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Grelha</title>
+  </programme>
+  <programme start="20230620080000 +0100" stop="20230620083000 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
+  </programme>
+  <programme start="20230620083000 +0100" stop="20230620090000 +0100" channel="A BOLA TV">
+    <title lang="pt">Triatlo De Albufeira</title>
+  </programme>
+  <programme start="20230620090000 +0100" stop="20230620091500 +0100" channel="A BOLA TV">
+    <title lang="pt">Fairplay</title>
+  </programme>
+  <programme start="20230620091500 +0100" stop="20230620093000 +0100" channel="A BOLA TV">
+    <title lang="pt">Magazine BTT-TV</title>
+  </programme>
+  <programme start="20230620093000 +0100" stop="20230620100000 +0100" channel="A BOLA TV">
+    <title lang="pt">Memórias: Fernando Vaz Parte II</title>
+  </programme>
+  <programme start="20230620100000 +0100" stop="20230620103000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Das 10</title>
+  </programme>
+  <programme start="20230620103000 +0100" stop="20230620110000 +0100" channel="A BOLA TV">
+    <title lang="pt">Motores</title>
+  </programme>
+  <programme start="20230620110000 +0100" stop="20230620113000 +0100" channel="A BOLA TV">
+    <title lang="pt">Lendas Dos Mundiais</title>
+  </programme>
+  <programme start="20230620113000 +0100" stop="20230620120000 +0100" channel="A BOLA TV">
+    <title lang="pt">Black Power</title>
+  </programme>
+  <programme start="20230620120000 +0100" stop="20230620123000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Do Meio Dia</title>
+  </programme>
+  <programme start="20230620123000 +0100" stop="20230620130000 +0100" channel="A BOLA TV">
+    <title lang="pt">Jogar Em Casa: Eduardo Borges</title>
+  </programme>
+  <programme start="20230620130000 +0100" stop="20230620133000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Da Uma</title>
+  </programme>
+  <programme start="20230620133000 +0100" stop="20230620140000 +0100" channel="A BOLA TV">
+    <title lang="pt">Máquina Do Tempo</title>
+  </programme>
+  <programme start="20230620140000 +0100" stop="20230620143000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Das 2</title>
+  </programme>
+  <programme start="20230620143000 +0100" stop="20230620164500 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Da Noite</title>
+  </programme>
+  <programme start="20230620164500 +0100" stop="20230620170000 +0100" channel="A BOLA TV">
+    <title lang="pt">Desporto Motorizado</title>
+  </programme>
+  <programme start="20230620170000 +0100" stop="20230620173000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Da Tarde</title>
+  </programme>
+  <programme start="20230620173000 +0100" stop="20230620180000 +0100" channel="A BOLA TV">
+    <title lang="pt">Revista De Imprensa Internacional</title>
+  </programme>
+  <programme start="20230620180000 +0100" stop="20230620183000 +0100" channel="A BOLA TV">
+    <title lang="pt">Motores</title>
+  </programme>
+  <programme start="20230620183000 +0100" stop="20230620190000 +0100" channel="A BOLA TV">
+    <title lang="pt">Heróis Da Nossa Vida</title>
+  </programme>
+  <programme start="20230620190000 +0100" stop="20230620200000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Das 7</title>
+  </programme>
+  <programme start="20230620200000 +0100" stop="20230620203000 +0100" channel="A BOLA TV">
+    <title lang="pt">Lendas Dos Mundiais</title>
+  </programme>
+  <programme start="20230620203000 +0100" stop="20230620210000 +0100" channel="A BOLA TV">
+    <title lang="pt">Revista De Imprensa Internacional</title>
+  </programme>
+  <programme start="20230620210000 +0100" stop="20230620213000 +0100" channel="A BOLA TV">
+    <title lang="pt">Black Power</title>
+  </programme>
+  <programme start="20230620213000 +0100" stop="20230621000000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Da Noite</title>
+  </programme>
+  <programme start="20230621000000 +0100" stop="20230621005000 +0100" channel="A BOLA TV">
+    <title lang="pt">Momento ESPN: Kournikova - O Valor Da Imagem</title>
+  </programme>
+  <programme start="20230621005000 +0100" stop="20230621012000 +0100" channel="A BOLA TV">
+    <title lang="pt">Deixa Rolar: Madjer</title>
+  </programme>
+  <programme start="20230621012000 +0100" stop="20230621015000 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
+  </programme>
+  <programme start="20230621015000 +0100" stop="20230621015500 +0100" channel="A BOLA TV">
+    <title lang="pt">Off</title>
+  </programme>
+  <programme start="20230621015500 +0100" stop="20230621042500 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Da Noite</title>
+  </programme>
+  <programme start="20230621042500 +0100" stop="20230621045500 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
+  </programme>
+  <programme start="20230621045500 +0100" stop="20230621054000 +0100" channel="A BOLA TV">
+    <title lang="pt">Poquer - Aposta Mundial</title>
+  </programme>
+  <programme start="20230621054000 +0100" stop="20230621061000 +0100" channel="A BOLA TV">
+    <title lang="pt">Lendas Dos Mundiais</title>
+  </programme>
+  <programme start="20230621061000 +0100" stop="20230621063500 +0100" channel="A BOLA TV">
+    <title lang="pt">Máquina Do Tempo</title>
+  </programme>
+  <programme start="20230621063500 +0100" stop="20230621070000 +0100" channel="A BOLA TV">
+    <title lang="pt">Black Power</title>
+  </programme>
+  <programme start="20230621070000 +0100" stop="20230621073000 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
+  </programme>
+  <programme start="20230621073000 +0100" stop="20230621080000 +0100" channel="A BOLA TV">
+    <title lang="pt">Deixa Rolar: Madjer</title>
+  </programme>
+  <programme start="20230621080000 +0100" stop="20230621083000 +0100" channel="A BOLA TV">
+    <title lang="pt">Remate Final</title>
+  </programme>
+  <programme start="20230621083000 +0100" stop="20230621090000 +0100" channel="A BOLA TV">
+    <title lang="pt">Ride</title>
+  </programme>
+  <programme start="20230621090000 +0100" stop="20230621093000 +0100" channel="A BOLA TV">
+    <title lang="pt">Motores</title>
+  </programme>
+  <programme start="20230621093000 +0100" stop="20230621100000 +0100" channel="A BOLA TV">
+    <title lang="pt">Jogar Em Casa: Eduardo Borges</title>
+  </programme>
+  <programme start="20230621100000 +0100" stop="20230621103000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Das 10</title>
+  </programme>
+  <programme start="20230621103000 +0100" stop="20230621110000 +0100" channel="A BOLA TV">
+    <title lang="pt">Isto É Futebol</title>
+  </programme>
+  <programme start="20230621110000 +0100" stop="20230621110500 +0100" channel="A BOLA TV">
+    <title lang="pt">Off</title>
+  </programme>
+  <programme start="20230621110500 +0100" stop="20230621120000 +0100" channel="A BOLA TV">
+    <title lang="pt">Comboio Dos Duros</title>
+  </programme>
+  <programme start="20230621120000 +0100" stop="20230621123000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Do Meio Dia</title>
+  </programme>
+  <programme start="20230621123000 +0100" stop="20230621130000 +0100" channel="A BOLA TV">
+    <title lang="pt">Triatlo De Albufeira</title>
+  </programme>
+  <programme start="20230621130000 +0100" stop="20230621133000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Da Uma</title>
+  </programme>
+  <programme start="20230621133000 +0100" stop="20230621140000 +0100" channel="A BOLA TV">
+    <title lang="pt">Entrevista: João Mário</title>
+  </programme>
+  <programme start="20230621140000 +0100" stop="20230621163000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Da Noite</title>
+  </programme>
+  <programme start="20230621163000 +0100" stop="20230621170000 +0100" channel="A BOLA TV">
+    <title lang="pt">Black Power</title>
+  </programme>
+  <programme start="20230621170000 +0100" stop="20230621173000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Da Tarde</title>
+  </programme>
+  <programme start="20230621173000 +0100" stop="20230621180000 +0100" channel="A BOLA TV">
+    <title lang="pt">Revista De Imprensa Internacional</title>
+  </programme>
+  <programme start="20230621180000 +0100" stop="20230621183000 +0100" channel="A BOLA TV">
+    <title lang="pt">Duelo Final</title>
+  </programme>
+  <programme start="20230621183000 +0100" stop="20230621190000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Grelha</title>
+  </programme>
+  <programme start="20230621190000 +0100" stop="20230621200000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Das 7</title>
+  </programme>
+  <programme start="20230621200000 +0100" stop="20230621203000 +0100" channel="A BOLA TV">
+    <title lang="pt">Motores</title>
+  </programme>
+  <programme start="20230621203000 +0100" stop="20230621210000 +0100" channel="A BOLA TV">
+    <title lang="pt">Deixa Rolar: Madjer</title>
+  </programme>
+  <programme start="20230621210000 +0100" stop="20230621213000 +0100" channel="A BOLA TV">
+    <title lang="pt">Revista De Imprensa Internacional</title>
+  </programme>
+  <programme start="20230621213000 +0100" stop="20230621220000 +0100" channel="A BOLA TV">
+    <title lang="pt">Isto É Futebol</title>
+  </programme>
+  <programme start="20230621220000 +0100" stop="20230622000000 +0100" channel="A BOLA TV">
+    <title lang="pt">A Bola Da Noite</title>
   </programme>
   <programme start="20230615003000 +0100" stop="20230615010000 +0100" channel="Canal 11">
     <title lang="pt">Cândido On Tour - Vida Por Vida</title>
@@ -5503,6 +6505,12 @@
   <programme start="20230621150000 +0100" stop="20230621180000 +0100" channel="Canal 11">
     <title lang="pt">CANAL 11</title>
   </programme>
+  <programme start="20230621180000 +0100" stop="20230621220000 +0100" channel="Canal 11">
+    <title lang="pt">CANAL 11</title>
+  </programme>
+  <programme start="20230621220000 +0100" stop="20230622020000 +0100" channel="Canal 11">
+    <title lang="pt">CANAL 11</title>
+  </programme>
   <programme start="20230615003000 +0100" stop="20230615011500 +0100" channel="EUROSPORT 1">
     <title lang="pt">Ciclismo: Volta à Eslovénia, Etapa 1</title>
   </programme>
@@ -5602,10 +6610,10 @@
   <programme start="20230616105500 +0100" stop="20230616110000 +0100" channel="EUROSPORT 1">
     <title lang="pt">Vinheta: The Minute</title>
   </programme>
-  <programme start="20230616110000 +0100" stop="20230616115000 +0100" channel="EUROSPORT 1">
+  <programme start="20230616110000 +0100" stop="20230616120000 +0100" channel="EUROSPORT 1">
     <title lang="pt">Ciclismo: Volta à Eslovénia, Etapa 2</title>
   </programme>
-  <programme start="20230616115000 +0100" stop="20230616140000 +0100" channel="EUROSPORT 1">
+  <programme start="20230616120000 +0100" stop="20230616140000 +0100" channel="EUROSPORT 1">
     <title lang="pt">Ciclismo: Volta à Eslovénia, Etapa 3 (Direto)</title>
   </programme>
   <programme start="20230616140000 +0100" stop="20230616161500 +0100" channel="EUROSPORT 1">
@@ -5919,6 +6927,33 @@
   </programme>
   <programme start="20230621160000 +0100" stop="20230621170000 +0100" channel="EUROSPORT 1">
     <title lang="pt">Ciclismo: Volta à Bélgica, Etapa 5</title>
+  </programme>
+  <programme start="20230621170000 +0100" stop="20230621180000 +0100" channel="EUROSPORT 1">
+    <title lang="pt">Ciclismo: Volta a Itália,</title>
+  </programme>
+  <programme start="20230621180000 +0100" stop="20230621183000 +0100" channel="EUROSPORT 1">
+    <title lang="pt">Unlock the Power of Sport</title>
+  </programme>
+  <programme start="20230621183000 +0100" stop="20230621183500 +0100" channel="EUROSPORT 1">
+    <title lang="pt">Vinheta: The Minute</title>
+  </programme>
+  <programme start="20230621183500 +0100" stop="20230621200000 +0100" channel="EUROSPORT 1">
+    <title lang="pt">Escalada: Taça Mundo, Innsbruck</title>
+  </programme>
+  <programme start="20230621200000 +0100" stop="20230621203000 +0100" channel="EUROSPORT 1">
+    <title lang="pt">Vela: Grande Prémio Vela</title>
+  </programme>
+  <programme start="20230621203000 +0100" stop="20230621213000 +0100" channel="EUROSPORT 1">
+    <title lang="pt">Fórmula E: Camp. Mundo, Berlim</title>
+  </programme>
+  <programme start="20230621213000 +0100" stop="20230621220000 +0100" channel="EUROSPORT 1">
+    <title lang="pt">Carros Resistência: Porsche at Le Mans</title>
+  </programme>
+  <programme start="20230621220000 +0100" stop="20230621233000 +0100" channel="EUROSPORT 1">
+    <title lang="pt">Ténis: Torneio Grand Slam, Roland Garros</title>
+  </programme>
+  <programme start="20230621233000 +0100" stop="20230622003000 +0100" channel="EUROSPORT 1">
+    <title lang="pt">Ciclismo: Volta à Bélgica, Etapa 4</title>
   </programme>
   <programme start="20230615003000 +0100" stop="20230615020000 +0100" channel="EUROSPORT 2">
     <title lang="pt">Escalada: Taça Mundo, Brixen</title>
@@ -6270,5 +7305,32 @@
   </programme>
   <programme start="20230621160000 +0100" stop="20230621164500 +0100" channel="EUROSPORT 2">
     <title lang="pt">Motocross: Camp. Mundo, MX2</title>
+  </programme>
+  <programme start="20230621164500 +0100" stop="20230621173000 +0100" channel="EUROSPORT 2">
+    <title lang="pt">Motocross: Camp. Mundo, MXGP</title>
+  </programme>
+  <programme start="20230621173000 +0100" stop="20230621181500 +0100" channel="EUROSPORT 2">
+    <title lang="pt">Motocross: Camp. Mundo, MX2</title>
+  </programme>
+  <programme start="20230621181500 +0100" stop="20230621190000 +0100" channel="EUROSPORT 2">
+    <title lang="pt">Motocross: Camp. Mundo, MXGP</title>
+  </programme>
+  <programme start="20230621190000 +0100" stop="20230621193000 +0100" channel="EUROSPORT 2">
+    <title lang="pt">Golfe: Discovery Golf</title>
+  </programme>
+  <programme start="20230621193000 +0100" stop="20230621200000 +0100" channel="EUROSPORT 2">
+    <title lang="pt">Unlock the Power of Sport</title>
+  </programme>
+  <programme start="20230621200000 +0100" stop="20230621213000 +0100" channel="EUROSPORT 2">
+    <title lang="pt">Ténis: Torneio Grand Slam, Roland Garros</title>
+  </programme>
+  <programme start="20230621213000 +0100" stop="20230621230000 +0100" channel="EUROSPORT 2">
+    <title lang="pt">Escalada: Taça Mundo, Innsbruck</title>
+  </programme>
+  <programme start="20230621230000 +0100" stop="20230621234500 +0100" channel="EUROSPORT 2">
+    <title lang="pt">Motocross: Camp. Mundo, MX2</title>
+  </programme>
+  <programme start="20230621234500 +0100" stop="20230622003000 +0100" channel="EUROSPORT 2">
+    <title lang="pt">Motocross: Camp. Mundo, MXGP</title>
   </programme>
 </tv>
