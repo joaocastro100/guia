@@ -100,63 +100,6 @@
     <icon src="https://www.meo.pt/PublishingImages/canais/globo-hd.png" />
     <url>http://www.meo.pt</url>
   </channel>
-  <programme start="20230615002100 +0100" stop="20230615010500 +0100" channel="RTP 1">
-    <title lang="pt">Ana Bolena</title>
-  </programme>
-  <programme start="20230615010500 +0100" stop="20230615015800 +0100" channel="RTP 1">
-    <title lang="pt">Janela Indiscreta</title>
-  </programme>
-  <programme start="20230615015800 +0100" stop="20230615040800 +0100" channel="RTP 1">
-    <title lang="pt">A Nossa Tarde</title>
-  </programme>
-  <programme start="20230615040800 +0100" stop="20230615060900 +0100" channel="RTP 1">
-    <title lang="pt">Televendas</title>
-  </programme>
-  <programme start="20230615060900 +0100" stop="20230615063000 +0100" channel="RTP 1">
-    <title lang="pt">Manchetes 3</title>
-  </programme>
-  <programme start="20230615063000 +0100" stop="20230615100000 +0100" channel="RTP 1">
-    <title lang="pt">Bom Dia Portugal</title>
-  </programme>
-  <programme start="20230615100000 +0100" stop="20230615125900 +0100" channel="RTP 1">
-    <title lang="pt">Praça da Alegria</title>
-  </programme>
-  <programme start="20230615125900 +0100" stop="20230615142300 +0100" channel="RTP 1">
-    <title lang="pt">Jornal da Tarde</title>
-  </programme>
-  <programme start="20230615142300 +0100" stop="20230615150800 +0100" channel="RTP 1">
-    <title lang="pt">Os Nossos Dias</title>
-  </programme>
-  <programme start="20230615150800 +0100" stop="20230615152700 +0100" channel="RTP 1">
-    <title lang="pt">A Nossa Tarde</title>
-  </programme>
-  <programme start="20230615152700 +0100" stop="20230615173000 +0100" channel="RTP 1">
-    <title lang="pt">Fatura da Sorte</title>
-  </programme>
-  <programme start="20230615173000 +0100" stop="20230615185300 +0100" channel="RTP 1">
-    <title lang="pt">Portugal em Direto</title>
-  </programme>
-  <programme start="20230615185300 +0100" stop="20230615195400 +0100" channel="RTP 1">
-    <title lang="pt">O Preço Certo</title>
-  </programme>
-  <programme start="20230615195400 +0100" stop="20230615195900 +0100" channel="RTP 1">
-    <title lang="pt">Direito de Antena</title>
-  </programme>
-  <programme start="20230615195900 +0100" stop="20230615210100 +0100" channel="RTP 1">
-    <title lang="pt">Telejornal</title>
-  </programme>
-  <programme start="20230615210100 +0100" stop="20230615213700 +0100" channel="RTP 1">
-    <title lang="pt">Linha da Frente: A Moda Que Nos Consome</title>
-  </programme>
-  <programme start="20230615213700 +0100" stop="20230615224600 +0100" channel="RTP 1">
-    <title lang="pt">Porquinho Mealheiro</title>
-  </programme>
-  <programme start="20230615224600 +0100" stop="20230615234600 +0100" channel="RTP 1">
-    <title lang="pt">Viagem A Portugal</title>
-  </programme>
-  <programme start="20230615234600 +0100" stop="20230616014100 +0100" channel="RTP 1">
-    <title lang="pt">Fernando Tordo - A Tourada Faz 50 Anos</title>
-  </programme>
   <programme start="20230616014100 +0100" stop="20230616023900 +0100" channel="RTP 1">
     <title lang="pt">Grande Entrevista: António Costa e Silva</title>
   </programme>
@@ -445,233 +388,35 @@
   <programme start="20230621230000 +0100" stop="20230622001500 +0100" channel="RTP 1">
     <title lang="pt">Cá Por Casa com Herman José - Best Of</title>
   </programme>
-  <programme start="20230615005700 +0100" stop="20230615023300 +0100" channel="RTP 2">
-    <title lang="pt">Gala de Berlim</title>
+  <programme start="20230622001500 +0100" stop="20230622010000 +0100" channel="RTP 1">
+    <title lang="pt">Ana Bolena</title>
   </programme>
-  <programme start="20230615023300 +0100" stop="20230615030000 +0100" channel="RTP 2">
-    <title lang="pt">Entre Imagens</title>
+  <programme start="20230622010000 +0100" stop="20230622020000 +0100" channel="RTP 1">
+    <title lang="pt">Janela Indiscreta</title>
   </programme>
-  <programme start="20230615030000 +0100" stop="20230615043800 +0100" channel="RTP 2">
-    <title lang="pt">Alta Fidelidade</title>
+  <programme start="20230622020000 +0100" stop="20230622034500 +0100" channel="RTP 1">
+    <title lang="pt">A Nossa Tarde</title>
   </programme>
-  <programme start="20230615043800 +0100" stop="20230615050900 +0100" channel="RTP 2">
-    <title lang="pt">Animais Anónimos</title>
+  <programme start="20230622034500 +0100" stop="20230622060900 +0100" channel="RTP 1">
+    <title lang="pt">Televendas</title>
   </programme>
-  <programme start="20230615050900 +0100" stop="20230615055900 +0100" channel="RTP 2">
-    <title lang="pt">O Regresso das Lontras</title>
+  <programme start="20230622060900 +0100" stop="20230622063000 +0100" channel="RTP 1">
+    <title lang="pt">Manchetes 3</title>
   </programme>
-  <programme start="20230615055900 +0100" stop="20230615063200 +0100" channel="RTP 2">
-    <title lang="pt">A Fé Dos Homens</title>
+  <programme start="20230622063000 +0100" stop="20230622100000 +0100" channel="RTP 1">
+    <title lang="pt">Bom Dia Portugal</title>
   </programme>
-  <programme start="20230615063200 +0100" stop="20230615070000 +0100" channel="RTP 2">
-    <title lang="pt">Repórter África</title>
+  <programme start="20230622100000 +0100" stop="20230622125900 +0100" channel="RTP 1">
+    <title lang="pt">Praça da Alegria</title>
   </programme>
-  <programme start="20230615070000 +0100" stop="20230615070100 +0100" channel="RTP 2">
-    <title lang="pt">Zig Zag</title>
+  <programme start="20230622125900 +0100" stop="20230622141500 +0100" channel="RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
   </programme>
-  <programme start="20230615070100 +0100" stop="20230615070200 +0100" channel="RTP 2">
-    <title lang="pt">Banda Zig Zag</title>
+  <programme start="20230622141500 +0100" stop="20230622151500 +0100" channel="RTP 1">
+    <title lang="pt">Os Nossos Dias</title>
   </programme>
-  <programme start="20230615070200 +0100" stop="20230615071600 +0100" channel="RTP 2">
-    <title lang="pt">Robocar Poli</title>
-  </programme>
-  <programme start="20230615071600 +0100" stop="20230615072800 +0100" channel="RTP 2">
-    <title lang="pt">Octonautas</title>
-  </programme>
-  <programme start="20230615072800 +0100" stop="20230615073900 +0100" channel="RTP 2">
-    <title lang="pt">Cadetes</title>
-  </programme>
-  <programme start="20230615073900 +0100" stop="20230615074500 +0100" channel="RTP 2">
-    <title lang="pt">Kiri E Lou</title>
-  </programme>
-  <programme start="20230615074500 +0100" stop="20230615075000 +0100" channel="RTP 2">
-    <title lang="pt">Numberblocks</title>
-  </programme>
-  <programme start="20230615075000 +0100" stop="20230615075700 +0100" channel="RTP 2">
-    <title lang="pt">Rato Renato</title>
-  </programme>
-  <programme start="20230615075700 +0100" stop="20230615080500 +0100" channel="RTP 2">
-    <title lang="pt">Pablo</title>
-  </programme>
-  <programme start="20230615080500 +0100" stop="20230615081500 +0100" channel="RTP 2">
-    <title lang="pt">Ziggy and the Zootram</title>
-  </programme>
-  <programme start="20230615081500 +0100" stop="20230615082500 +0100" channel="RTP 2">
-    <title lang="pt">Gigantosaurus</title>
-  </programme>
-  <programme start="20230615082500 +0100" stop="20230615083000 +0100" channel="RTP 2">
-    <title lang="pt">ScienceXplosion</title>
-  </programme>
-  <programme start="20230615083000 +0100" stop="20230615083500 +0100" channel="RTP 2">
-    <title lang="pt">ScienceXplosion</title>
-  </programme>
-  <programme start="20230615083500 +0100" stop="20230615084500 +0100" channel="RTP 2">
-    <title lang="pt">Os Daltons</title>
-  </programme>
-  <programme start="20230615084500 +0100" stop="20230615085500 +0100" channel="RTP 2">
-    <title lang="pt">As Regras Da Flora</title>
-  </programme>
-  <programme start="20230615085500 +0100" stop="20230615090000 +0100" channel="RTP 2">
-    <title lang="pt">Lengalongas</title>
-  </programme>
-  <programme start="20230615090000 +0100" stop="20230615090500 +0100" channel="RTP 2">
-    <title lang="pt">A Ovelha Choné</title>
-  </programme>
-  <programme start="20230615090500 +0100" stop="20230615091500 +0100" channel="RTP 2">
-    <title lang="pt">Nefertine No Nilo</title>
-  </programme>
-  <programme start="20230615091500 +0100" stop="20230615092500 +0100" channel="RTP 2">
-    <title lang="pt">Atchoo</title>
-  </programme>
-  <programme start="20230615092500 +0100" stop="20230615093000 +0100" channel="RTP 2">
-    <title lang="pt">Lengalongas</title>
-  </programme>
-  <programme start="20230615093000 +0100" stop="20230615095400 +0100" channel="RTP 2">
-    <title lang="pt">Atchoo</title>
-  </programme>
-  <programme start="20230615095400 +0100" stop="20230615095900 +0100" channel="RTP 2">
-    <title lang="pt">DuArte: Uma Peça De Arte</title>
-  </programme>
-  <programme start="20230615095900 +0100" stop="20230615100700 +0100" channel="RTP 2">
-    <title lang="pt">16 Hudson</title>
-  </programme>
-  <programme start="20230615100700 +0100" stop="20230615101800 +0100" channel="RTP 2">
-    <title lang="pt">Dennis E Gnasher, Os Aventureiros</title>
-  </programme>
-  <programme start="20230615101800 +0100" stop="20230615103100 +0100" channel="RTP 2">
-    <title lang="pt">Dennis E Gnasher, Os Aventureiros</title>
-  </programme>
-  <programme start="20230615103100 +0100" stop="20230615105300 +0100" channel="RTP 2">
-    <title lang="pt">Tom Sawyer</title>
-  </programme>
-  <programme start="20230615105300 +0100" stop="20230615105700 +0100" channel="RTP 2">
-    <title lang="pt">Lengalongas</title>
-  </programme>
-  <programme start="20230615105700 +0100" stop="20230615112700 +0100" channel="RTP 2">
-    <title lang="pt">Saber Sabe Bem</title>
-  </programme>
-  <programme start="20230615112700 +0100" stop="20230615121300 +0100" channel="RTP 2">
-    <title lang="pt">S. João D´Arga</title>
-  </programme>
-  <programme start="20230615121300 +0100" stop="20230615130200 +0100" channel="RTP 2">
-    <title lang="pt">Assuntos Legais</title>
-  </programme>
-  <programme start="20230615130200 +0100" stop="20230615132900 +0100" channel="RTP 2">
-    <title lang="pt">Biosfera</title>
-  </programme>
-  <programme start="20230615132900 +0100" stop="20230615135300 +0100" channel="RTP 2">
-    <title lang="pt">A Verde e a Cores</title>
-  </programme>
-  <programme start="20230615135300 +0100" stop="20230615140000 +0100" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230615140000 +0100" stop="20230615150300 +0100" channel="RTP 2">
-    <title lang="pt">Sociedade Civil</title>
-  </programme>
-  <programme start="20230615150300 +0100" stop="20230615153800 +0100" channel="RTP 2">
-    <title lang="pt">A Fé Dos Homens</title>
-  </programme>
-  <programme start="20230615153800 +0100" stop="20230615161600 +0100" channel="RTP 2">
-    <title lang="pt">Impaciência Do Coração</title>
-  </programme>
-  <programme start="20230615161600 +0100" stop="20230615170800 +0100" channel="RTP 2">
-    <title lang="pt">O Mundo das Abelhas</title>
-  </programme>
-  <programme start="20230615170800 +0100" stop="20230615170900 +0100" channel="RTP 2">
-    <title lang="pt">Zig Zag</title>
-  </programme>
-  <programme start="20230615170900 +0100" stop="20230615171100 +0100" channel="RTP 2">
-    <title lang="pt">Lengalongas</title>
-  </programme>
-  <programme start="20230615171100 +0100" stop="20230615172200 +0100" channel="RTP 2">
-    <title lang="pt">Octonautas</title>
-  </programme>
-  <programme start="20230615172200 +0100" stop="20230615172800 +0100" channel="RTP 2">
-    <title lang="pt">Numberblocks</title>
-  </programme>
-  <programme start="20230615172800 +0100" stop="20230615173600 +0100" channel="RTP 2">
-    <title lang="pt">Rato Renato</title>
-  </programme>
-  <programme start="20230615173600 +0100" stop="20230615174700 +0100" channel="RTP 2">
-    <title lang="pt">Pablo</title>
-  </programme>
-  <programme start="20230615174700 +0100" stop="20230615175800 +0100" channel="RTP 2">
-    <title lang="pt">Ziggy and the Zootram</title>
-  </programme>
-  <programme start="20230615175800 +0100" stop="20230615181000 +0100" channel="RTP 2">
-    <title lang="pt">Gigantosaurus</title>
-  </programme>
-  <programme start="20230615181000 +0100" stop="20230615182200 +0100" channel="RTP 2">
-    <title lang="pt">Rocky Kwaternário</title>
-  </programme>
-  <programme start="20230615182200 +0100" stop="20230615183300 +0100" channel="RTP 2">
-    <title lang="pt">Nefertine No Nilo</title>
-  </programme>
-  <programme start="20230615183300 +0100" stop="20230615184100 +0100" channel="RTP 2">
-    <title lang="pt">Os Daltons</title>
-  </programme>
-  <programme start="20230615184100 +0100" stop="20230615184900 +0100" channel="RTP 2">
-    <title lang="pt">Os Daltons</title>
-  </programme>
-  <programme start="20230615184900 +0100" stop="20230615190000 +0100" channel="RTP 2">
-    <title lang="pt">Atchoo</title>
-  </programme>
-  <programme start="20230615190000 +0100" stop="20230615190600 +0100" channel="RTP 2">
-    <title lang="pt">DuArte: Uma Peça De Arte</title>
-  </programme>
-  <programme start="20230615190600 +0100" stop="20230615191700 +0100" channel="RTP 2">
-    <title lang="pt">Atchoo</title>
-  </programme>
-  <programme start="20230615191700 +0100" stop="20230615192800 +0100" channel="RTP 2">
-    <title lang="pt">Pensa Como Um Corvo!</title>
-  </programme>
-  <programme start="20230615192800 +0100" stop="20230615193100 +0100" channel="RTP 2">
-    <title lang="pt">ScienceXplosion</title>
-  </programme>
-  <programme start="20230615193100 +0100" stop="20230615193500 +0100" channel="RTP 2">
-    <title lang="pt">ScienceXplosion</title>
-  </programme>
-  <programme start="20230615193500 +0100" stop="20230615194600 +0100" channel="RTP 2">
-    <title lang="pt">As Regras Da Flora</title>
-  </programme>
-  <programme start="20230615194600 +0100" stop="20230615195300 +0100" channel="RTP 2">
-    <title lang="pt">A Ovelha Choné</title>
-  </programme>
-  <programme start="20230615195300 +0100" stop="20230615200100 +0100" channel="RTP 2">
-    <title lang="pt">Os Daltons</title>
-  </programme>
-  <programme start="20230615200100 +0100" stop="20230615200900 +0100" channel="RTP 2">
-    <title lang="pt">Os Daltons</title>
-  </programme>
-  <programme start="20230615200900 +0100" stop="20230615203100 +0100" channel="RTP 2">
-    <title lang="pt">Tom Sawyer</title>
-  </programme>
-  <programme start="20230615203100 +0100" stop="20230615203300 +0100" channel="RTP 2">
-    <title lang="pt">Crias</title>
-  </programme>
-  <programme start="20230615203300 +0100" stop="20230615203700 +0100" channel="RTP 2">
-    <title lang="pt">Banda Zig Zag</title>
-  </programme>
-  <programme start="20230615203700 +0100" stop="20230615213000 +0100" channel="RTP 2">
-    <title lang="pt">Uma Cidade em 2 ou 3 Dias</title>
-  </programme>
-  <programme start="20230615213000 +0100" stop="20230615220100 +0100" channel="RTP 2">
-    <title lang="pt">Jornal 2</title>
-  </programme>
-  <programme start="20230615220100 +0100" stop="20230615224500 +0100" channel="RTP 2">
-    <title lang="pt">Alice</title>
-  </programme>
-  <programme start="20230615224500 +0100" stop="20230615225300 +0100" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
-  </programme>
-  <programme start="20230615225300 +0100" stop="20230615234600 +0100" channel="RTP 2">
-    <title lang="pt">Agentes de Guerra</title>
-  </programme>
-  <programme start="20230615234600 +0100" stop="20230616004900 +0100" channel="RTP 2">
-    <title lang="pt">Cinemax</title>
-  </programme>
-  <programme start="20230616004900 +0100" stop="20230616005600 +0100" channel="RTP 2">
-    <title lang="pt">Folha de Sala</title>
+  <programme start="20230622151500 +0100" stop="20230622171500 +0100" channel="RTP 1">
+    <title lang="pt">A Nossa Tarde</title>
   </programme>
   <programme start="20230616005600 +0100" stop="20230616020000 +0100" channel="RTP 2">
     <title lang="pt">Sociedade Civil</title>
@@ -1969,56 +1714,128 @@
   <programme start="20230621230000 +0100" stop="20230622000000 +0100" channel="RTP 2">
     <title lang="pt">A Lenda da Palma de Ouro</title>
   </programme>
-  <programme start="20230615002500 +0100" stop="20230615012500 +0100" channel="SIC">
-    <title lang="pt">Pantanal</title>
+  <programme start="20230622000000 +0100" stop="20230622000500 +0100" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
   </programme>
-  <programme start="20230615012500 +0100" stop="20230615031500 +0100" channel="SIC">
-    <title lang="pt">Passadeira Vermelha</title>
+  <programme start="20230622000500 +0100" stop="20230622010500 +0100" channel="RTP 2">
+    <title lang="pt">Sociedade Civil</title>
   </programme>
-  <programme start="20230615031500 +0100" stop="20230615035500 +0100" channel="SIC">
-    <title lang="pt">Investigação Criminal: Los Angeles</title>
+  <programme start="20230622010500 +0100" stop="20230622020000 +0100" channel="RTP 2">
+    <title lang="pt">José Afonso, Traz Outro Amigo Também</title>
   </programme>
-  <programme start="20230615035500 +0100" stop="20230615043000 +0100" channel="SIC">
-    <title lang="pt">Televendas</title>
+  <programme start="20230622020000 +0100" stop="20230622032000 +0100" channel="RTP 2">
+    <title lang="pt">A Mais Longa Jornada</title>
   </programme>
-  <programme start="20230615043000 +0100" stop="20230615060000 +0100" channel="SIC">
-    <title lang="pt">Passadeira Vermelha</title>
+  <programme start="20230622032000 +0100" stop="20230622033500 +0100" channel="RTP 2">
+    <title lang="pt">Mulheres Que Contam</title>
   </programme>
-  <programme start="20230615060000 +0100" stop="20230615081500 +0100" channel="SIC">
-    <title lang="pt">Manhã SIC Notícias</title>
+  <programme start="20230622033500 +0100" stop="20230622041000 +0100" channel="RTP 2">
+    <title lang="pt">Salgueiro Maia - Rumo à Eternidade</title>
   </programme>
-  <programme start="20230615081500 +0100" stop="20230615100500 +0100" channel="SIC">
-    <title lang="pt">Alô Portugal</title>
+  <programme start="20230622041000 +0100" stop="20230622051000 +0100" channel="RTP 2">
+    <title lang="pt">Herdeiros do Bairro</title>
   </programme>
-  <programme start="20230615100500 +0100" stop="20230615130000 +0100" channel="SIC">
-    <title lang="pt">Casa Feliz</title>
+  <programme start="20230622051000 +0100" stop="20230622060000 +0100" channel="RTP 2">
+    <title lang="pt">Ninguém Como Nós Conhece o Sol</title>
   </programme>
-  <programme start="20230615130000 +0100" stop="20230615144500 +0100" channel="SIC">
-    <title lang="pt">Primeiro Jornal</title>
+  <programme start="20230622060000 +0100" stop="20230622063200 +0100" channel="RTP 2">
+    <title lang="pt">A Fé Dos Homens</title>
   </programme>
-  <programme start="20230615144500 +0100" stop="20230615160500 +0100" channel="SIC">
-    <title lang="pt">Linha Aberta</title>
+  <programme start="20230622063200 +0100" stop="20230622070000 +0100" channel="RTP 2">
+    <title lang="pt">Repórter África</title>
   </programme>
-  <programme start="20230615160500 +0100" stop="20230615181000 +0100" channel="SIC">
-    <title lang="pt">Júlia</title>
+  <programme start="20230622070000 +0100" stop="20230622070100 +0100" channel="RTP 2">
+    <title lang="pt">Zig Zag</title>
   </programme>
-  <programme start="20230615181000 +0100" stop="20230615191000 +0100" channel="SIC">
-    <title lang="pt">Flor Do Caribe</title>
+  <programme start="20230622070100 +0100" stop="20230622070200 +0100" channel="RTP 2">
+    <title lang="pt">Banda Zig Zag</title>
   </programme>
-  <programme start="20230615191000 +0100" stop="20230615195700 +0100" channel="SIC">
-    <title lang="pt">Cheias De Charme</title>
+  <programme start="20230622070200 +0100" stop="20230622071600 +0100" channel="RTP 2">
+    <title lang="pt">Robocar Poli</title>
   </programme>
-  <programme start="20230615195700 +0100" stop="20230615220500 +0100" channel="SIC">
-    <title lang="pt">Jornal Da Noite</title>
+  <programme start="20230622071600 +0100" stop="20230622072500 +0100" channel="RTP 2">
+    <title lang="pt">Octonautas</title>
   </programme>
-  <programme start="20230615220500 +0100" stop="20230615230500 +0100" channel="SIC">
-    <title lang="pt">Sangue Oculto</title>
+  <programme start="20230622072500 +0100" stop="20230622073000 +0100" channel="RTP 2">
+    <title lang="pt">Cadetes</title>
   </programme>
-  <programme start="20230615230500 +0100" stop="20230616000500 +0100" channel="SIC">
-    <title lang="pt">Flor Sem Tempo</title>
+  <programme start="20230622073000 +0100" stop="20230622073500 +0100" channel="RTP 2">
+    <title lang="pt">Kiri E Lou</title>
   </programme>
-  <programme start="20230616000500 +0100" stop="20230616002500 +0100" channel="SIC">
-    <title lang="pt">Um Lugar Ao Sol</title>
+  <programme start="20230622073500 +0100" stop="20230622074000 +0100" channel="RTP 2">
+    <title lang="pt">Numberblocks</title>
+  </programme>
+  <programme start="20230622074000 +0100" stop="20230622075000 +0100" channel="RTP 2">
+    <title lang="pt">Rato Renato</title>
+  </programme>
+  <programme start="20230622075000 +0100" stop="20230622080500 +0100" channel="RTP 2">
+    <title lang="pt">Pablo</title>
+  </programme>
+  <programme start="20230622080500 +0100" stop="20230622081500 +0100" channel="RTP 2">
+    <title lang="pt">Ziggy and the Zootram</title>
+  </programme>
+  <programme start="20230622081500 +0100" stop="20230622082500 +0100" channel="RTP 2">
+    <title lang="pt">Gigantosaurus</title>
+  </programme>
+  <programme start="20230622082500 +0100" stop="20230622083000 +0100" channel="RTP 2">
+    <title lang="pt">ScienceXplosion</title>
+  </programme>
+  <programme start="20230622083000 +0100" stop="20230622083500 +0100" channel="RTP 2">
+    <title lang="pt">ScienceXplosion</title>
+  </programme>
+  <programme start="20230622083500 +0100" stop="20230622084500 +0100" channel="RTP 2">
+    <title lang="pt">Os Daltons</title>
+  </programme>
+  <programme start="20230622084500 +0100" stop="20230622085000 +0100" channel="RTP 2">
+    <title lang="pt">Os Daltons</title>
+  </programme>
+  <programme start="20230622085000 +0100" stop="20230622090000 +0100" channel="RTP 2">
+    <title lang="pt">As Regras Da Flora</title>
+  </programme>
+  <programme start="20230622090000 +0100" stop="20230622090500 +0100" channel="RTP 2">
+    <title lang="pt">A Ovelha Choné</title>
+  </programme>
+  <programme start="20230622090500 +0100" stop="20230622091500 +0100" channel="RTP 2">
+    <title lang="pt">Nefertine No Nilo</title>
+  </programme>
+  <programme start="20230622091500 +0100" stop="20230622092500 +0100" channel="RTP 2">
+    <title lang="pt">Atchoo</title>
+  </programme>
+  <programme start="20230622092500 +0100" stop="20230622093000 +0100" channel="RTP 2">
+    <title lang="pt">Lengalongas</title>
+  </programme>
+  <programme start="20230622093000 +0100" stop="20230622093500 +0100" channel="RTP 2">
+    <title lang="pt">Atchoo</title>
+  </programme>
+  <programme start="20230622093500 +0100" stop="20230622094000 +0100" channel="RTP 2">
+    <title lang="pt">DuArte: Uma Peça De Arte</title>
+  </programme>
+  <programme start="20230622094000 +0100" stop="20230622094500 +0100" channel="RTP 2">
+    <title lang="pt">16 Hudson</title>
+  </programme>
+  <programme start="20230622094500 +0100" stop="20230622095500 +0100" channel="RTP 2">
+    <title lang="pt">Dennis E Gnasher, Os Aventureiros</title>
+  </programme>
+  <programme start="20230622095500 +0100" stop="20230622100500 +0100" channel="RTP 2">
+    <title lang="pt">Dennis E Gnasher, Os Aventureiros</title>
+  </programme>
+  <programme start="20230622100500 +0100" stop="20230622102500 +0100" channel="RTP 2">
+    <title lang="pt">Tom Sawyer</title>
+  </programme>
+  <programme start="20230622102500 +0100" stop="20230622103000 +0100" channel="RTP 2">
+    <title lang="pt">Lengalongas</title>
+  </programme>
+  <programme start="20230622103000 +0100" stop="20230622110000 +0100" channel="RTP 2">
+    <title lang="pt">Saber Sabe Bem</title>
+  </programme>
+  <programme start="20230622110000 +0100" stop="20230622120000 +0100" channel="RTP 2">
+    <title lang="pt">Portugueses do SoHo - Uma História que Mudou de Geografia</title>
+  </programme>
+  <programme start="20230622120000 +0100" stop="20230622130000 +0100" channel="RTP 2">
+    <title lang="pt">Wara</title>
+  </programme>
+  <programme start="20230622130000 +0100" stop="20230622163000 +0100" channel="RTP 2">
+    <title lang="pt">Jogos Europeus 2023 (Direto)</title>
   </programme>
   <programme start="20230616002500 +0100" stop="20230616012500 +0100" channel="SIC">
     <title lang="pt">Pantanal</title>
@@ -2308,62 +2125,35 @@
   <programme start="20230621234500 +0100" stop="20230622003000 +0100" channel="SIC">
     <title lang="pt">Um Lugar Ao Sol</title>
   </programme>
-  <programme start="20230615000000 +0100" stop="20230615014000 +0100" channel="TVI">
-    <title lang="pt">TVI Extra</title>
+  <programme start="20230622003000 +0100" stop="20230622013000 +0100" channel="SIC">
+    <title lang="pt">Pantanal</title>
   </programme>
-  <programme start="20230615014000 +0100" stop="20230615022200 +0100" channel="TVI">
-    <title lang="pt">Defesa À Medida</title>
+  <programme start="20230622013000 +0100" stop="20230622031500 +0100" channel="SIC">
+    <title lang="pt">Passadeira Vermelha</title>
   </programme>
-  <programme start="20230615022200 +0100" stop="20230615022500 +0100" channel="TVI">
-    <title lang="pt">O Princípio da Incerteza</title>
+  <programme start="20230622031500 +0100" stop="20230622050000 +0100" channel="SIC">
+    <title lang="pt">Investigação Criminal: Los Angeles</title>
   </programme>
-  <programme start="20230615022500 +0100" stop="20230615040000 +0100" channel="TVI">
-    <title lang="pt">Queridas Feras</title>
+  <programme start="20230622050000 +0100" stop="20230622060000 +0100" channel="SIC">
+    <title lang="pt">Passadeira Vermelha</title>
   </programme>
-  <programme start="20230615040000 +0100" stop="20230615053000 +0100" channel="TVI">
-    <title lang="pt">TV Shop</title>
+  <programme start="20230622060000 +0100" stop="20230622083000 +0100" channel="SIC">
+    <title lang="pt">Manhã SIC Notícias</title>
   </programme>
-  <programme start="20230615053000 +0100" stop="20230615055000 +0100" channel="TVI">
-    <title lang="pt">Os Batanetes</title>
+  <programme start="20230622083000 +0100" stop="20230622100000 +0100" channel="SIC">
+    <title lang="pt">Alô Portugal</title>
   </programme>
-  <programme start="20230615055000 +0100" stop="20230615061500 +0100" channel="TVI">
-    <title lang="pt">O Rei Juliano</title>
+  <programme start="20230622100000 +0100" stop="20230622130000 +0100" channel="SIC">
+    <title lang="pt">Casa Feliz</title>
   </programme>
-  <programme start="20230615061500 +0100" stop="20230615065900 +0100" channel="TVI">
-    <title lang="pt">Diário Da Manhã</title>
+  <programme start="20230622130000 +0100" stop="20230622144500 +0100" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
   </programme>
-  <programme start="20230615065900 +0100" stop="20230615100500 +0100" channel="TVI">
-    <title lang="pt">Esta Manhã</title>
+  <programme start="20230622144500 +0100" stop="20230622160000 +0100" channel="SIC">
+    <title lang="pt">Linha Aberta</title>
   </programme>
-  <programme start="20230615100500 +0100" stop="20230615125800 +0100" channel="TVI">
-    <title lang="pt">Dois às 10</title>
-  </programme>
-  <programme start="20230615125800 +0100" stop="20230615145000 +0100" channel="TVI">
-    <title lang="pt">TVI Jornal</title>
-  </programme>
-  <programme start="20230615145000 +0100" stop="20230615160500 +0100" channel="TVI">
-    <title lang="pt">A Herdeira</title>
-  </programme>
-  <programme start="20230615160500 +0100" stop="20230615181000 +0100" channel="TVI">
-    <title lang="pt">Goucha</title>
-  </programme>
-  <programme start="20230615181000 +0100" stop="20230615191000 +0100" channel="TVI">
-    <title lang="pt">Casamento Marcado - Diário</title>
-  </programme>
-  <programme start="20230615191000 +0100" stop="20230615195700 +0100" channel="TVI">
-    <title lang="pt">Vai Ou Racha</title>
-  </programme>
-  <programme start="20230615195700 +0100" stop="20230615215500 +0100" channel="TVI">
-    <title lang="pt">Jornal Nacional</title>
-  </programme>
-  <programme start="20230615215500 +0100" stop="20230615223000 +0100" channel="TVI">
-    <title lang="pt">Festa É Festa</title>
-  </programme>
-  <programme start="20230615223000 +0100" stop="20230615232500 +0100" channel="TVI">
-    <title lang="pt">Queridos Papás</title>
-  </programme>
-  <programme start="20230615232500 +0100" stop="20230616000000 +0100" channel="TVI">
-    <title lang="pt">Para Sempre</title>
+  <programme start="20230622160000 +0100" stop="20230622180000 +0100" channel="SIC">
+    <title lang="pt">Júlia</title>
   </programme>
   <programme start="20230616000000 +0100" stop="20230616014000 +0100" channel="TVI">
     <title lang="pt">TVI Extra</title>
@@ -2686,68 +2476,41 @@
   <programme start="20230621232300 +0100" stop="20230622000000 +0100" channel="TVI">
     <title lang="pt">Para Sempre</title>
   </programme>
-  <programme start="20230615003900 +0100" stop="20230615012700 +0100" channel="TVI FICÇÃO">
-    <title lang="pt">Santa Bárbara</title>
+  <programme start="20230622000000 +0100" stop="20230622013500 +0100" channel="TVI">
+    <title lang="pt">TVI Extra</title>
   </programme>
-  <programme start="20230615012700 +0100" stop="20230615022000 +0100" channel="TVI FICÇÃO">
-    <title lang="pt">Feitiço de Amor</title>
+  <programme start="20230622013500 +0100" stop="20230622022000 +0100" channel="TVI">
+    <title lang="pt">Defesa À Medida</title>
   </programme>
-  <programme start="20230615022000 +0100" stop="20230615024900 +0100" channel="TVI FICÇÃO">
-    <title lang="pt">Amar Demais</title>
+  <programme start="20230622022000 +0100" stop="20230622034500 +0100" channel="TVI">
+    <title lang="pt">Mundo Ao Contrário</title>
   </programme>
-  <programme start="20230615024900 +0100" stop="20230615042500 +0100" channel="TVI FICÇÃO">
+  <programme start="20230622034500 +0100" stop="20230622053000 +0100" channel="TVI">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20230622053000 +0100" stop="20230622055000 +0100" channel="TVI">
     <title lang="pt">Os Batanetes</title>
   </programme>
-  <programme start="20230615042500 +0100" stop="20230615053500 +0100" channel="TVI FICÇÃO">
-    <title lang="pt">Vasquinho e Cª</title>
+  <programme start="20230622055000 +0100" stop="20230622061500 +0100" channel="TVI">
+    <title lang="pt">O Rei Juliano</title>
   </programme>
-  <programme start="20230615053500 +0100" stop="20230615063000 +0100" channel="TVI FICÇÃO">
-    <title lang="pt">Querido, Mudei A Casa!</title>
+  <programme start="20230622061500 +0100" stop="20230622065900 +0100" channel="TVI">
+    <title lang="pt">Diário Da Manhã</title>
   </programme>
-  <programme start="20230615063000 +0100" stop="20230615075600 +0100" channel="TVI FICÇÃO">
-    <title lang="pt">O Bando Dos Quatro</title>
+  <programme start="20230622065900 +0100" stop="20230622100500 +0100" channel="TVI">
+    <title lang="pt">Esta Manhã</title>
   </programme>
-  <programme start="20230615075600 +0100" stop="20230615085000 +0100" channel="TVI FICÇÃO">
-    <title lang="pt">Inspetor Max</title>
+  <programme start="20230622100500 +0100" stop="20230622125800 +0100" channel="TVI">
+    <title lang="pt">Dois às 10</title>
   </programme>
-  <programme start="20230615085000 +0100" stop="20230615112800 +0100" channel="TVI FICÇÃO">
-    <title lang="pt">Morangos Com Açúcar</title>
+  <programme start="20230622125800 +0100" stop="20230622145000 +0100" channel="TVI">
+    <title lang="pt">TVI Jornal</title>
   </programme>
-  <programme start="20230615112800 +0100" stop="20230615115500 +0100" channel="TVI FICÇÃO">
-    <title lang="pt">Amar Demais</title>
+  <programme start="20230622145000 +0100" stop="20230622160500 +0100" channel="TVI">
+    <title lang="pt">A Herdeira</title>
   </programme>
-  <programme start="20230615115500 +0100" stop="20230615125000 +0100" channel="TVI FICÇÃO">
-    <title lang="pt">Feitiço de Amor</title>
-  </programme>
-  <programme start="20230615125000 +0100" stop="20230615134600 +0100" channel="TVI FICÇÃO">
-    <title lang="pt">Inspetor Max</title>
-  </programme>
-  <programme start="20230615134600 +0100" stop="20230615163000 +0100" channel="TVI FICÇÃO">
-    <title lang="pt">Morangos Com Açúcar</title>
-  </programme>
-  <programme start="20230615163000 +0100" stop="20230615165900 +0100" channel="TVI FICÇÃO">
-    <title lang="pt">Amar Demais</title>
-  </programme>
-  <programme start="20230615165900 +0100" stop="20230615175100 +0100" channel="TVI FICÇÃO">
-    <title lang="pt">Santa Bárbara</title>
-  </programme>
-  <programme start="20230615175100 +0100" stop="20230615184700 +0100" channel="TVI FICÇÃO">
-    <title lang="pt">Feitiço de Amor</title>
-  </programme>
-  <programme start="20230615184700 +0100" stop="20230615213700 +0100" channel="TVI FICÇÃO">
-    <title lang="pt">Morangos Com Açúcar</title>
-  </programme>
-  <programme start="20230615213700 +0100" stop="20230615222700 +0100" channel="TVI FICÇÃO">
-    <title lang="pt">Inspetor Max</title>
-  </programme>
-  <programme start="20230615222700 +0100" stop="20230615225300 +0100" channel="TVI FICÇÃO">
-    <title lang="pt">Vasquinho e Cª</title>
-  </programme>
-  <programme start="20230615225300 +0100" stop="20230615235900 +0100" channel="TVI FICÇÃO">
-    <title lang="pt">Os Batanetes</title>
-  </programme>
-  <programme start="20230615235900 +0100" stop="20230616005200 +0100" channel="TVI FICÇÃO">
-    <title lang="pt">O Prédio do Vasco</title>
+  <programme start="20230622160500 +0100" stop="20230622181000 +0100" channel="TVI">
+    <title lang="pt">Goucha</title>
   </programme>
   <programme start="20230616005200 +0100" stop="20230616014200 +0100" channel="TVI FICÇÃO">
     <title lang="pt">Santa Bárbara</title>
@@ -3100,29 +2863,50 @@
   <programme start="20230621224900 +0100" stop="20230622002200 +0100" channel="TVI FICÇÃO">
     <title lang="pt">Os Batanetes</title>
   </programme>
-  <programme start="20230615000000 +0100" stop="20230615021500 +0100" channel="TVI Reality – Big Brother">
-    <title lang="pt">O Triângulo - loop</title>
+  <programme start="20230622002200 +0100" stop="20230622011700 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">O Prédio do Vasco</title>
   </programme>
-  <programme start="20230615021500 +0100" stop="20230615030000 +0100" channel="TVI Reality – Big Brother">
-    <title lang="pt">O Triângulo - Direto</title>
+  <programme start="20230622011700 +0100" stop="20230622020600 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Santa Bárbara</title>
   </programme>
-  <programme start="20230615030000 +0100" stop="20230615060000 +0100" channel="TVI Reality – Big Brother">
-    <title lang="pt">O Triângulo - Direto</title>
+  <programme start="20230622020600 +0100" stop="20230622025000 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Feitiço de Amor</title>
   </programme>
-  <programme start="20230615060000 +0100" stop="20230615083000 +0100" channel="TVI Reality – Big Brother">
-    <title lang="pt">O Triângulo - Direto</title>
+  <programme start="20230622025000 +0100" stop="20230622033000 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Amar Demais</title>
   </programme>
-  <programme start="20230615083000 +0100" stop="20230615093000 +0100" channel="TVI Reality – Big Brother">
-    <title lang="pt">O Triângulo - Extra</title>
+  <programme start="20230622033000 +0100" stop="20230622051700 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Os Batanetes</title>
   </programme>
-  <programme start="20230615093000 +0100" stop="20230615100000 +0100" channel="TVI Reality – Big Brother">
-    <title lang="pt">O Triângulo - Ligação à casa</title>
+  <programme start="20230622051700 +0100" stop="20230622054300 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Vasquinho e Cª</title>
   </programme>
-  <programme start="20230615100000 +0100" stop="20230615190000 +0100" channel="TVI Reality – Big Brother">
-    <title lang="pt">O Triângulo - Direto</title>
+  <programme start="20230622054300 +0100" stop="20230622063000 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Querido, Mudei A Casa!</title>
   </programme>
-  <programme start="20230615190000 +0100" stop="20230616000000 +0100" channel="TVI Reality – Big Brother">
-    <title lang="pt">O Triângulo - Direto</title>
+  <programme start="20230622063000 +0100" stop="20230622075800 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">O Bando Dos Quatro</title>
+  </programme>
+  <programme start="20230622075800 +0100" stop="20230622093000 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Inspetor Max</title>
+  </programme>
+  <programme start="20230622093000 +0100" stop="20230622111500 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Morangos Com Açúcar</title>
+  </programme>
+  <programme start="20230622111500 +0100" stop="20230622121500 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Amar Demais</title>
+  </programme>
+  <programme start="20230622121500 +0100" stop="20230622131500 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Santa Bárbara</title>
+  </programme>
+  <programme start="20230622131500 +0100" stop="20230622140000 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Feitiço de Amor</title>
+  </programme>
+  <programme start="20230622140000 +0100" stop="20230622150000 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Inspetor Max</title>
+  </programme>
+  <programme start="20230622150000 +0100" stop="20230622164500 +0100" channel="TVI FICÇÃO">
+    <title lang="pt">Morangos Com Açúcar</title>
   </programme>
   <programme start="20230616000000 +0100" stop="20230616021500 +0100" channel="TVI Reality – Big Brother">
     <title lang="pt">O Triângulo - loop</title>
@@ -3292,71 +3076,26 @@
   <programme start="20230621190000 +0100" stop="20230622000000 +0100" channel="TVI Reality – Big Brother">
     <title lang="pt">O Triângulo - Direto</title>
   </programme>
-  <programme start="20230615000000 +0100" stop="20230615010000 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Jornal Da Meia Noite</title>
+  <programme start="20230622000000 +0100" stop="20230622021500 +0100" channel="TVI Reality – Big Brother">
+    <title lang="pt">O Triângulo - loop</title>
   </programme>
-  <programme start="20230615010000 +0100" stop="20230615014500 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Jornal Da Meia-Noite (2ª Hora)</title>
+  <programme start="20230622021500 +0100" stop="20230622030000 +0100" channel="TVI Reality – Big Brother">
+    <title lang="pt">O Triângulo - Direto</title>
   </programme>
-  <programme start="20230615014500 +0100" stop="20230615021000 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Primeira Página</title>
+  <programme start="20230622030000 +0100" stop="20230622060000 +0100" channel="TVI Reality – Big Brother">
+    <title lang="pt">O Triângulo - Direto</title>
   </programme>
-  <programme start="20230615021000 +0100" stop="20230615031500 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Jornal Da Meia Noite</title>
+  <programme start="20230622060000 +0100" stop="20230622083000 +0100" channel="TVI Reality – Big Brother">
+    <title lang="pt">O Triângulo - Direto</title>
   </programme>
-  <programme start="20230615031500 +0100" stop="20230615040500 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Jornal Da Meia-Noite (2ª Hora)</title>
+  <programme start="20230622083000 +0100" stop="20230622093000 +0100" channel="TVI Reality – Big Brother">
+    <title lang="pt">O Triângulo - Extra</title>
   </programme>
-  <programme start="20230615040500 +0100" stop="20230615043000 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Primeira Página</title>
+  <programme start="20230622093000 +0100" stop="20230622100000 +0100" channel="TVI Reality – Big Brother">
+    <title lang="pt">O Triângulo - Ligação à casa</title>
   </programme>
-  <programme start="20230615043000 +0100" stop="20230615043500 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Golf Report</title>
-  </programme>
-  <programme start="20230615043500 +0100" stop="20230615053500 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Panorama BBC: Bill Gates - A Entrevista</title>
-  </programme>
-  <programme start="20230615053500 +0100" stop="20230615060000 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Primeira Página</title>
-  </programme>
-  <programme start="20230615060000 +0100" stop="20230615095500 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Manhã SIC Notícias</title>
-  </programme>
-  <programme start="20230615095500 +0100" stop="20230615105500 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Jornal Das 10</title>
-  </programme>
-  <programme start="20230615105500 +0100" stop="20230615115500 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Edição Do Meio-Dia</title>
-  </programme>
-  <programme start="20230615115500 +0100" stop="20230615125500 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Jornal Das 12</title>
-  </programme>
-  <programme start="20230615125500 +0100" stop="20230615135500 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Edição Do Meio-Dia</title>
-  </programme>
-  <programme start="20230615135500 +0100" stop="20230615145500 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Jornal Das 2</title>
-  </programme>
-  <programme start="20230615145500 +0100" stop="20230615175500 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Edição Da Tarde</title>
-  </programme>
-  <programme start="20230615175500 +0100" stop="20230615192000 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Edição Da Tarde</title>
-  </programme>
-  <programme start="20230615192000 +0100" stop="20230615195700 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Jornal Das 7</title>
-  </programme>
-  <programme start="20230615195700 +0100" stop="20230615210000 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Jornal Da Noite</title>
-  </programme>
-  <programme start="20230615210000 +0100" stop="20230615230000 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Edição Da Noite</title>
-  </programme>
-  <programme start="20230615230000 +0100" stop="20230615235500 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Eixo Do Mal</title>
-  </programme>
-  <programme start="20230615235500 +0100" stop="20230616010000 +0100" channel="SIC NOTICIAS">
-    <title lang="pt">Jornal Da Meia Noite</title>
+  <programme start="20230622100000 +0100" stop="20230622190000 +0100" channel="TVI Reality – Big Brother">
+    <title lang="pt">O Triângulo - Direto</title>
   </programme>
   <programme start="20230616010000 +0100" stop="20230616014500 +0100" channel="SIC NOTICIAS">
     <title lang="pt">Jornal Da Meia-Noite (2ª Hora)</title>
@@ -3633,51 +3372,6 @@
   </programme>
   <programme start="20230619050000 +0100" stop="20230619060000 +0100" channel="SIC NOTICIAS">
     <title lang="pt">Toda A Verdade: A Ilusão Da Verdade</title>
-  </programme>
-  <programme start="20230615015800 +0100" stop="20230615021500 +0100" channel="CNN Portugal">
-    <title lang="pt">Notícias CNN</title>
-  </programme>
-  <programme start="20230615021500 +0100" stop="20230615024000 +0100" channel="CNN Portugal">
-    <title lang="pt">Repórter CNN</title>
-  </programme>
-  <programme start="20230615024000 +0100" stop="20230615025800 +0100" channel="CNN Portugal">
-    <title lang="pt">Pitch</title>
-  </programme>
-  <programme start="20230615025800 +0100" stop="20230615032300 +0100" channel="CNN Portugal">
-    <title lang="pt">Notícias CNN</title>
-  </programme>
-  <programme start="20230615032300 +0100" stop="20230615053000 +0100" channel="CNN Portugal">
-    <title lang="pt">CNN Meia Noite</title>
-  </programme>
-  <programme start="20230615053000 +0100" stop="20230615055800 +0100" channel="CNN Portugal">
-    <title lang="pt">Notícias CNN</title>
-  </programme>
-  <programme start="20230615055800 +0100" stop="20230615095600 +0100" channel="CNN Portugal">
-    <title lang="pt">Novo Dia</title>
-  </programme>
-  <programme start="20230615095600 +0100" stop="20230615115600 +0100" channel="CNN Portugal">
-    <title lang="pt">CNN Hoje</title>
-  </programme>
-  <programme start="20230615115600 +0100" stop="20230615145600 +0100" channel="CNN Portugal">
-    <title lang="pt">CNN Meio Dia</title>
-  </programme>
-  <programme start="20230615145600 +0100" stop="20230615175600 +0100" channel="CNN Portugal">
-    <title lang="pt">Agora CNN</title>
-  </programme>
-  <programme start="20230615175600 +0100" stop="20230615200500 +0100" channel="CNN Portugal">
-    <title lang="pt">CNN Fim De Tarde</title>
-  </programme>
-  <programme start="20230615200500 +0100" stop="20230615205800 +0100" channel="CNN Portugal">
-    <title lang="pt">CNN Em Jogo</title>
-  </programme>
-  <programme start="20230615205800 +0100" stop="20230615215800 +0100" channel="CNN Portugal">
-    <title lang="pt">Jornal Da CNN</title>
-  </programme>
-  <programme start="20230615215800 +0100" stop="20230615235000 +0100" channel="CNN Portugal">
-    <title lang="pt">CNN Prime Time</title>
-  </programme>
-  <programme start="20230615235000 +0100" stop="20230616015800 +0100" channel="CNN Portugal">
-    <title lang="pt">CNN Meia Noite</title>
   </programme>
   <programme start="20230616015800 +0100" stop="20230616021800 +0100" channel="CNN Portugal">
     <title lang="pt">Notícias CNN</title>
@@ -3979,92 +3673,35 @@
   <programme start="20230621235000 +0100" stop="20230622015800 +0100" channel="CNN Portugal">
     <title lang="pt">CNN Meia Noite</title>
   </programme>
-  <programme start="20230615000000 +0100" stop="20230615010000 +0100" channel="RTP 3">
-    <title lang="pt">24 Horas</title>
+  <programme start="20230622015800 +0100" stop="20230622021400 +0100" channel="CNN Portugal">
+    <title lang="pt">Notícias CNN</title>
   </programme>
-  <programme start="20230615010000 +0100" stop="20230615013000 +0100" channel="RTP 3">
-    <title lang="pt">3 À 1</title>
+  <programme start="20230622021400 +0100" stop="20230622024300 +0100" channel="CNN Portugal">
+    <title lang="pt">Repórter CNN</title>
   </programme>
-  <programme start="20230615013000 +0100" stop="20230615022500 +0100" channel="RTP 3">
-    <title lang="pt">Grande Entrevista</title>
+  <programme start="20230622024300 +0100" stop="20230622025800 +0100" channel="CNN Portugal">
+    <title lang="pt">Pitch</title>
   </programme>
-  <programme start="20230615022500 +0100" stop="20230615030500 +0100" channel="RTP 3">
-    <title lang="pt">Janela Indiscreta</title>
+  <programme start="20230622025800 +0100" stop="20230622032600 +0100" channel="CNN Portugal">
+    <title lang="pt">Notícias CNN</title>
   </programme>
-  <programme start="20230615030500 +0100" stop="20230615035000 +0100" channel="RTP 3">
-    <title lang="pt">Visita Guiada</title>
+  <programme start="20230622032600 +0100" stop="20230622053000 +0100" channel="CNN Portugal">
+    <title lang="pt">CNN Meia Noite</title>
   </programme>
-  <programme start="20230615035000 +0100" stop="20230615041000 +0100" channel="RTP 3">
-    <title lang="pt">Eixo Norte Sul</title>
+  <programme start="20230622053000 +0100" stop="20230622055800 +0100" channel="CNN Portugal">
+    <title lang="pt">Notícias CNN</title>
   </programme>
-  <programme start="20230615041000 +0100" stop="20230615043000 +0100" channel="RTP 3">
-    <title lang="pt">Manchetes 3</title>
+  <programme start="20230622055800 +0100" stop="20230622095600 +0100" channel="CNN Portugal">
+    <title lang="pt">Novo Dia</title>
   </programme>
-  <programme start="20230615043000 +0100" stop="20230615050000 +0100" channel="RTP 3">
-    <title lang="pt">Telejornal Madeira</title>
+  <programme start="20230622095600 +0100" stop="20230622115600 +0100" channel="CNN Portugal">
+    <title lang="pt">CNN Hoje</title>
   </programme>
-  <programme start="20230615050000 +0100" stop="20230615053000 +0100" channel="RTP 3">
-    <title lang="pt">Telejornal Açores</title>
+  <programme start="20230622115600 +0100" stop="20230622145600 +0100" channel="CNN Portugal">
+    <title lang="pt">CNN Meio Dia</title>
   </programme>
-  <programme start="20230615053000 +0100" stop="20230615060000 +0100" channel="RTP 3">
-    <title lang="pt">Repórter África - 2ª Edição</title>
-  </programme>
-  <programme start="20230615060000 +0100" stop="20230615061000 +0100" channel="RTP 3">
-    <title lang="pt">3 Às 6</title>
-  </programme>
-  <programme start="20230615061000 +0100" stop="20230615063000 +0100" channel="RTP 3">
-    <title lang="pt">A Essência</title>
-  </programme>
-  <programme start="20230615063000 +0100" stop="20230615083000 +0100" channel="RTP 3">
-    <title lang="pt">Bom Dia Portugal</title>
-  </programme>
-  <programme start="20230615083000 +0100" stop="20230615083500 +0100" channel="RTP 3">
-    <title lang="pt">Mundo Automóvel</title>
-  </programme>
-  <programme start="20230615083500 +0100" stop="20230615100000 +0100" channel="RTP 3">
-    <title lang="pt">Bom Dia Portugal</title>
-  </programme>
-  <programme start="20230615100000 +0100" stop="20230615110000 +0100" channel="RTP 3">
-    <title lang="pt">3 Às 10</title>
-  </programme>
-  <programme start="20230615110000 +0100" stop="20230615120000 +0100" channel="RTP 3">
-    <title lang="pt">3 Às 11</title>
-  </programme>
-  <programme start="20230615120000 +0100" stop="20230615130000 +0100" channel="RTP 3">
-    <title lang="pt">Jornal Das 12</title>
-  </programme>
-  <programme start="20230615130000 +0100" stop="20230615140000 +0100" channel="RTP 3">
-    <title lang="pt">Pesticides And Greens, An Invisible Poison Cocktail</title>
-  </programme>
-  <programme start="20230615140000 +0100" stop="20230615150000 +0100" channel="RTP 3">
-    <title lang="pt">3 Às 14</title>
-  </programme>
-  <programme start="20230615150000 +0100" stop="20230615152000 +0100" channel="RTP 3">
-    <title lang="pt">3 Às 15</title>
-  </programme>
-  <programme start="20230615152000 +0100" stop="20230615154000 +0100" channel="RTP 3">
-    <title lang="pt">Eixo Norte Sul</title>
-  </programme>
-  <programme start="20230615154000 +0100" stop="20230615160000 +0100" channel="RTP 3">
-    <title lang="pt">Zoom África</title>
-  </programme>
-  <programme start="20230615160000 +0100" stop="20230615170000 +0100" channel="RTP 3">
-    <title lang="pt">3 Às 16</title>
-  </programme>
-  <programme start="20230615170000 +0100" stop="20230615180000 +0100" channel="RTP 3">
-    <title lang="pt">3 Às 17</title>
-  </programme>
-  <programme start="20230615180000 +0100" stop="20230615200000 +0100" channel="RTP 3">
-    <title lang="pt">18/20</title>
-  </programme>
-  <programme start="20230615200000 +0100" stop="20230615210000 +0100" channel="RTP 3">
-    <title lang="pt">Tycoons</title>
-  </programme>
-  <programme start="20230615210000 +0100" stop="20230615230000 +0100" channel="RTP 3">
-    <title lang="pt">360º</title>
-  </programme>
-  <programme start="20230615230000 +0100" stop="20230616000000 +0100" channel="RTP 3">
-    <title lang="pt">Grande Área</title>
+  <programme start="20230622145600 +0100" stop="20230622175600 +0100" channel="CNN Portugal">
+    <title lang="pt">Agora CNN</title>
   </programme>
   <programme start="20230616000000 +0100" stop="20230616010000 +0100" channel="RTP 3">
     <title lang="pt">24 Horas</title>
@@ -4714,74 +4351,77 @@
   <programme start="20230621230000 +0100" stop="20230622000000 +0100" channel="RTP 3">
     <title lang="pt">Grande Entrevista</title>
   </programme>
-  <programme start="20230615004500 +0100" stop="20230615013800 +0100" channel="CMTV">
-    <title lang="pt">Noite Das Estrelas</title>
+  <programme start="20230622000000 +0100" stop="20230622010000 +0100" channel="RTP 3">
+    <title lang="pt">24 Horas</title>
   </programme>
-  <programme start="20230615013800 +0100" stop="20230615015300 +0100" channel="CMTV">
-    <title lang="pt">Jornal Da Meia-Noite</title>
+  <programme start="20230622010000 +0100" stop="20230622013000 +0100" channel="RTP 3">
+    <title lang="pt">3 À 1</title>
   </programme>
-  <programme start="20230615015300 +0100" stop="20230615023000 +0100" channel="CMTV">
-    <title lang="pt">Notícias CM</title>
+  <programme start="20230622013000 +0100" stop="20230622022500 +0100" channel="RTP 3">
+    <title lang="pt">Grande Entrevista</title>
   </programme>
-  <programme start="20230615023000 +0100" stop="20230615030000 +0100" channel="CMTV">
-    <title lang="pt">Doa a Quem Doer</title>
+  <programme start="20230622022500 +0100" stop="20230622030500 +0100" channel="RTP 3">
+    <title lang="pt">Janela Indiscreta</title>
   </programme>
-  <programme start="20230615030000 +0100" stop="20230615044500 +0100" channel="CMTV">
-    <title lang="pt">Liga D´Ouro</title>
+  <programme start="20230622030500 +0100" stop="20230622035000 +0100" channel="RTP 3">
+    <title lang="pt">Visita Guiada</title>
   </programme>
-  <programme start="20230615044500 +0100" stop="20230615050000 +0100" channel="CMTV">
-    <title lang="pt">Televendas</title>
+  <programme start="20230622035000 +0100" stop="20230622041000 +0100" channel="RTP 3">
+    <title lang="pt">Eixo Norte Sul</title>
   </programme>
-  <programme start="20230615050000 +0100" stop="20230615051500 +0100" channel="CMTV">
-    <title lang="pt">Investigação CM</title>
+  <programme start="20230622041000 +0100" stop="20230622043000 +0100" channel="RTP 3">
+    <title lang="pt">Manchetes 3</title>
   </programme>
-  <programme start="20230615051500 +0100" stop="20230615053000 +0100" channel="CMTV">
-    <title lang="pt">Falar Global</title>
+  <programme start="20230622043000 +0100" stop="20230622050000 +0100" channel="RTP 3">
+    <title lang="pt">Telejornal Madeira</title>
   </programme>
-  <programme start="20230615053000 +0100" stop="20230615054500 +0100" channel="CMTV">
-    <title lang="pt">Televendas</title>
+  <programme start="20230622050000 +0100" stop="20230622053000 +0100" channel="RTP 3">
+    <title lang="pt">Telejornal Açores</title>
   </programme>
-  <programme start="20230615054500 +0100" stop="20230615060000 +0100" channel="CMTV">
-    <title lang="pt">Notícias CM</title>
+  <programme start="20230622053000 +0100" stop="20230622060000 +0100" channel="RTP 3">
+    <title lang="pt">Repórter África - 2ª Edição</title>
   </programme>
-  <programme start="20230615060000 +0100" stop="20230615091500 +0100" channel="CMTV">
-    <title lang="pt">Notícias CM</title>
+  <programme start="20230622060000 +0100" stop="20230622061000 +0100" channel="RTP 3">
+    <title lang="pt">3 Às 6</title>
   </programme>
-  <programme start="20230615091500 +0100" stop="20230615105300 +0100" channel="CMTV">
-    <title lang="pt">Manhã CM</title>
+  <programme start="20230622061000 +0100" stop="20230622063000 +0100" channel="RTP 3">
+    <title lang="pt">A Essência</title>
   </programme>
-  <programme start="20230615105300 +0100" stop="20230615125300 +0100" channel="CMTV">
-    <title lang="pt">Jornal De Portugal</title>
+  <programme start="20230622063000 +0100" stop="20230622083000 +0100" channel="RTP 3">
+    <title lang="pt">Bom Dia Portugal</title>
   </programme>
-  <programme start="20230615125300 +0100" stop="20230615145300 +0100" channel="CMTV">
-    <title lang="pt">Grande Jornal da Tarde</title>
+  <programme start="20230622083000 +0100" stop="20230622083500 +0100" channel="RTP 3">
+    <title lang="pt">Mundo Automóvel</title>
   </programme>
-  <programme start="20230615145300 +0100" stop="20230615150800 +0100" channel="CMTV">
-    <title lang="pt">Notícias CM</title>
+  <programme start="20230622083500 +0100" stop="20230622100000 +0100" channel="RTP 3">
+    <title lang="pt">Bom Dia Portugal</title>
   </programme>
-  <programme start="20230615150800 +0100" stop="20230615155000 +0100" channel="CMTV">
-    <title lang="pt">Rua Segura</title>
+  <programme start="20230622100000 +0100" stop="20230622110000 +0100" channel="RTP 3">
+    <title lang="pt">3 Às 10</title>
   </programme>
-  <programme start="20230615155000 +0100" stop="20230615171800 +0100" channel="CMTV">
-    <title lang="pt">Direto CM</title>
+  <programme start="20230622110000 +0100" stop="20230622120000 +0100" channel="RTP 3">
+    <title lang="pt">3 Às 11</title>
   </programme>
-  <programme start="20230615171800 +0100" stop="20230615185000 +0100" channel="CMTV">
-    <title lang="pt">Mercado</title>
+  <programme start="20230622120000 +0100" stop="20230622130000 +0100" channel="RTP 3">
+    <title lang="pt">Jornal Das 12</title>
   </programme>
-  <programme start="20230615185000 +0100" stop="20230615194500 +0100" channel="CMTV">
-    <title lang="pt">Jornal Às 7</title>
+  <programme start="20230622130000 +0100" stop="20230622140000 +0100" channel="RTP 3">
+    <title lang="pt">Pesticides And Greens, An Invisible Poison Cocktail</title>
   </programme>
-  <programme start="20230615194500 +0100" stop="20230615213000 +0100" channel="CMTV">
-    <title lang="pt">Grande Jornal da Noite</title>
+  <programme start="20230622140000 +0100" stop="20230622150000 +0100" channel="RTP 3">
+    <title lang="pt">3 Às 14</title>
   </programme>
-  <programme start="20230615213000 +0100" stop="20230615215700 +0100" channel="CMTV">
-    <title lang="pt">Doa a Quem Doer</title>
+  <programme start="20230622150000 +0100" stop="20230622152000 +0100" channel="RTP 3">
+    <title lang="pt">3 Às 15</title>
   </programme>
-  <programme start="20230615215700 +0100" stop="20230616003000 +0100" channel="CMTV">
-    <title lang="pt">Liga D´Ouro</title>
+  <programme start="20230622152000 +0100" stop="20230622154000 +0100" channel="RTP 3">
+    <title lang="pt">Eixo Norte Sul</title>
   </programme>
-  <programme start="20230616003000 +0100" stop="20230616004500 +0100" channel="CMTV">
-    <title lang="pt">Jornal Da Meia-Noite</title>
+  <programme start="20230622154000 +0100" stop="20230622160000 +0100" channel="RTP 3">
+    <title lang="pt">Zoom África</title>
+  </programme>
+  <programme start="20230622160000 +0100" stop="20230622170000 +0100" channel="RTP 3">
+    <title lang="pt">3 Às 16</title>
   </programme>
   <programme start="20230616004500 +0100" stop="20230616013800 +0100" channel="CMTV">
     <title lang="pt">Noite Das Estrelas</title>
@@ -5224,110 +4864,59 @@
   <programme start="20230621215700 +0100" stop="20230622003000 +0100" channel="CMTV">
     <title lang="pt">Liga D´Ouro</title>
   </programme>
-  <programme start="20230615004300 +0100" stop="20230615012600 +0100" channel="SIC MULHER">
-    <title lang="pt">Survivor Austrália</title>
+  <programme start="20230622003000 +0100" stop="20230622004500 +0100" channel="CMTV">
+    <title lang="pt">Jornal Da Meia-Noite</title>
   </programme>
-  <programme start="20230615012600 +0100" stop="20230615020900 +0100" channel="SIC MULHER">
-    <title lang="pt">The White Slave</title>
+  <programme start="20230622004500 +0100" stop="20230622013800 +0100" channel="CMTV">
+    <title lang="pt">Noite Das Estrelas</title>
   </programme>
-  <programme start="20230615020900 +0100" stop="20230615025200 +0100" channel="SIC MULHER">
-    <title lang="pt">The White Slave</title>
+  <programme start="20230622013800 +0100" stop="20230622015300 +0100" channel="CMTV">
+    <title lang="pt">Jornal Da Meia-Noite</title>
   </programme>
-  <programme start="20230615025200 +0100" stop="20230615033100 +0100" channel="SIC MULHER">
-    <title lang="pt">What's Up? TV</title>
+  <programme start="20230622015300 +0100" stop="20230622023000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
   </programme>
-  <programme start="20230615033100 +0100" stop="20230615041200 +0100" channel="SIC MULHER">
-    <title lang="pt">What's Up? TV</title>
+  <programme start="20230622023000 +0100" stop="20230622030000 +0100" channel="CMTV">
+    <title lang="pt">Doa a Quem Doer</title>
   </programme>
-  <programme start="20230615041200 +0100" stop="20230615045000 +0100" channel="SIC MULHER">
-    <title lang="pt">Survivor Austrália</title>
+  <programme start="20230622030000 +0100" stop="20230622044500 +0100" channel="CMTV">
+    <title lang="pt">Liga D´Ouro</title>
   </programme>
-  <programme start="20230615045000 +0100" stop="20230615053500 +0100" channel="SIC MULHER">
-    <title lang="pt">Survivor Austrália</title>
+  <programme start="20230622044500 +0100" stop="20230622050000 +0100" channel="CMTV">
+    <title lang="pt">Televendas</title>
   </programme>
-  <programme start="20230615053500 +0100" stop="20230615060700 +0100" channel="SIC MULHER">
-    <title lang="pt">Médico Da Casa Com Dr. Almeida Nunes</title>
+  <programme start="20230622050000 +0100" stop="20230622051500 +0100" channel="CMTV">
+    <title lang="pt">Investigação CM</title>
   </programme>
-  <programme start="20230615060700 +0100" stop="20230615064900 +0100" channel="SIC MULHER">
-    <title lang="pt">Survivor Austrália</title>
+  <programme start="20230622051500 +0100" stop="20230622053000 +0100" channel="CMTV">
+    <title lang="pt">Falar Global</title>
   </programme>
-  <programme start="20230615064900 +0100" stop="20230615072300 +0100" channel="SIC MULHER">
-    <title lang="pt">Pets &amp; Boing</title>
+  <programme start="20230622053000 +0100" stop="20230622054500 +0100" channel="CMTV">
+    <title lang="pt">Televendas</title>
   </programme>
-  <programme start="20230615072300 +0100" stop="20230615080300 +0100" channel="SIC MULHER">
-    <title lang="pt">Dr. Phil</title>
+  <programme start="20230622054500 +0100" stop="20230622060000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
   </programme>
-  <programme start="20230615080300 +0100" stop="20230615084800 +0100" channel="SIC MULHER">
-    <title lang="pt">Dr. Phil</title>
+  <programme start="20230622060000 +0100" stop="20230622091500 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
   </programme>
-  <programme start="20230615084800 +0100" stop="20230615093000 +0100" channel="SIC MULHER">
-    <title lang="pt">Property Brothers Forever Home</title>
+  <programme start="20230622091500 +0100" stop="20230622105300 +0100" channel="CMTV">
+    <title lang="pt">Manhã CM</title>
   </programme>
-  <programme start="20230615093000 +0100" stop="20230615101400 +0100" channel="SIC MULHER">
-    <title lang="pt">Property Brothers Forever Home</title>
+  <programme start="20230622105300 +0100" stop="20230622125300 +0100" channel="CMTV">
+    <title lang="pt">Jornal De Portugal</title>
   </programme>
-  <programme start="20230615101400 +0100" stop="20230615105200 +0100" channel="SIC MULHER">
-    <title lang="pt">Masterchef Celebridades Argentina</title>
+  <programme start="20230622125300 +0100" stop="20230622145300 +0100" channel="CMTV">
+    <title lang="pt">Grande Jornal da Tarde</title>
   </programme>
-  <programme start="20230615105200 +0100" stop="20230615112600 +0100" channel="SIC MULHER">
-    <title lang="pt">Masterchef Celebridades Argentina</title>
+  <programme start="20230622145300 +0100" stop="20230622150800 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
   </programme>
-  <programme start="20230615112600 +0100" stop="20230615113900 +0100" channel="SIC MULHER">
-    <title lang="pt">Espaços E Casas</title>
+  <programme start="20230622150800 +0100" stop="20230622155000 +0100" channel="CMTV">
+    <title lang="pt">Rua Segura</title>
   </programme>
-  <programme start="20230615113900 +0100" stop="20230615121500 +0100" channel="SIC MULHER">
-    <title lang="pt">Irresistível</title>
-  </programme>
-  <programme start="20230615121500 +0100" stop="20230615131200 +0100" channel="SIC MULHER">
-    <title lang="pt">Joias TV - Televendas</title>
-  </programme>
-  <programme start="20230615131200 +0100" stop="20230615135900 +0100" channel="SIC MULHER">
-    <title lang="pt">Mother</title>
-  </programme>
-  <programme start="20230615135900 +0100" stop="20230615144700 +0100" channel="SIC MULHER">
-    <title lang="pt">Las Villamizar</title>
-  </programme>
-  <programme start="20230615144700 +0100" stop="20230615153500 +0100" channel="SIC MULHER">
-    <title lang="pt">Las Villamizar</title>
-  </programme>
-  <programme start="20230615153500 +0100" stop="20230615162500 +0100" channel="SIC MULHER">
-    <title lang="pt">Love Storm</title>
-  </programme>
-  <programme start="20230615162500 +0100" stop="20230615171500 +0100" channel="SIC MULHER">
-    <title lang="pt">Gulperi</title>
-  </programme>
-  <programme start="20230615171500 +0100" stop="20230615175600 +0100" channel="SIC MULHER">
-    <title lang="pt">Property Brothers Forever Home</title>
-  </programme>
-  <programme start="20230615175600 +0100" stop="20230615184000 +0100" channel="SIC MULHER">
-    <title lang="pt">Property Brothers Forever Home</title>
-  </programme>
-  <programme start="20230615184000 +0100" stop="20230615191300 +0100" channel="SIC MULHER">
-    <title lang="pt">Married At First Sight Austrália</title>
-  </programme>
-  <programme start="20230615191300 +0100" stop="20230615195800 +0100" channel="SIC MULHER">
-    <title lang="pt">Love Storm</title>
-  </programme>
-  <programme start="20230615195800 +0100" stop="20230615202100 +0100" channel="SIC MULHER">
-    <title lang="pt">Mother</title>
-  </programme>
-  <programme start="20230615202100 +0100" stop="20230615205600 +0100" channel="SIC MULHER">
-    <title lang="pt">Mother</title>
-  </programme>
-  <programme start="20230615205600 +0100" stop="20230615220000 +0100" channel="SIC MULHER">
-    <title lang="pt">Gulperi</title>
-  </programme>
-  <programme start="20230615220000 +0100" stop="20230615225400 +0100" channel="SIC MULHER">
-    <title lang="pt">Gulperi</title>
-  </programme>
-  <programme start="20230615225400 +0100" stop="20230615232000 +0100" channel="SIC MULHER">
-    <title lang="pt">Married At First Sight Austrália</title>
-  </programme>
-  <programme start="20230615232000 +0100" stop="20230615235800 +0100" channel="SIC MULHER">
-    <title lang="pt">American Idol</title>
-  </programme>
-  <programme start="20230615235800 +0100" stop="20230616004300 +0100" channel="SIC MULHER">
-    <title lang="pt">Survivor Austrália</title>
+  <programme start="20230622155000 +0100" stop="20230622171800 +0100" channel="CMTV">
+    <title lang="pt">Direto CM</title>
   </programme>
   <programme start="20230616004300 +0100" stop="20230616013700 +0100" channel="SIC MULHER">
     <title lang="pt">Survivor Austrália</title>
@@ -5929,98 +5518,80 @@
   <programme start="20230621233000 +0100" stop="20230622001500 +0100" channel="SIC MULHER">
     <title lang="pt">American Idol</title>
   </programme>
-  <programme start="20230615004900 +0100" stop="20230615014500 +0100" channel="SIC CARAS">
-    <title lang="pt">Barcos Com Amor</title>
+  <programme start="20230622001500 +0100" stop="20230622010000 +0100" channel="SIC MULHER">
+    <title lang="pt">Survivor Austrália</title>
   </programme>
-  <programme start="20230615014500 +0100" stop="20230615022900 +0100" channel="SIC CARAS">
-    <title lang="pt">Scott E As Casas De Férias</title>
+  <programme start="20230622010000 +0100" stop="20230622014500 +0100" channel="SIC MULHER">
+    <title lang="pt">Survivor Austrália</title>
   </programme>
-  <programme start="20230615022900 +0100" stop="20230615031500 +0100" channel="SIC CARAS">
-    <title lang="pt">Donas de Casa De Beverly Hills</title>
+  <programme start="20230622014500 +0100" stop="20230622023000 +0100" channel="SIC MULHER">
+    <title lang="pt">The White Slave</title>
   </programme>
-  <programme start="20230615031500 +0100" stop="20230615035700 +0100" channel="SIC CARAS">
-    <title lang="pt">Ellen</title>
+  <programme start="20230622023000 +0100" stop="20230622031500 +0100" channel="SIC MULHER">
+    <title lang="pt">The White Slave</title>
   </programme>
-  <programme start="20230615035700 +0100" stop="20230615043900 +0100" channel="SIC CARAS">
-    <title lang="pt">Ellen</title>
+  <programme start="20230622031500 +0100" stop="20230622040000 +0100" channel="SIC MULHER">
+    <title lang="pt">What's Up? TV</title>
   </programme>
-  <programme start="20230615043900 +0100" stop="20230615050400 +0100" channel="SIC CARAS">
-    <title lang="pt">Posso Entrar?</title>
+  <programme start="20230622040000 +0100" stop="20230622044500 +0100" channel="SIC MULHER">
+    <title lang="pt">What's Up? TV</title>
   </programme>
-  <programme start="20230615050400 +0100" stop="20230615053200 +0100" channel="SIC CARAS">
-    <title lang="pt">Posso Entrar?</title>
+  <programme start="20230622044500 +0100" stop="20230622051500 +0100" channel="SIC MULHER">
+    <title lang="pt">Survivor Austrália</title>
   </programme>
-  <programme start="20230615053200 +0100" stop="20230615070300 +0100" channel="SIC CARAS">
-    <title lang="pt">Passadeira Vermelha</title>
+  <programme start="20230622051500 +0100" stop="20230622060000 +0100" channel="SIC MULHER">
+    <title lang="pt">Survivor Austrália</title>
   </programme>
-  <programme start="20230615070300 +0100" stop="20230615083400 +0100" channel="SIC CARAS">
-    <title lang="pt">Passadeira Vermelha</title>
+  <programme start="20230622060000 +0100" stop="20230622063000 +0100" channel="SIC MULHER">
+    <title lang="pt">Médico Da Casa Com Dr. Almeida Nunes</title>
   </programme>
-  <programme start="20230615083400 +0100" stop="20230615084400 +0100" channel="SIC CARAS">
-    <title lang="pt">Boa Cama, Boa Mesa</title>
+  <programme start="20230622063000 +0100" stop="20230622071500 +0100" channel="SIC MULHER">
+    <title lang="pt">Survivor Austrália</title>
   </programme>
-  <programme start="20230615084400 +0100" stop="20230615091500 +0100" channel="SIC CARAS">
-    <title lang="pt">Look@Me</title>
+  <programme start="20230622071500 +0100" stop="20230622074500 +0100" channel="SIC MULHER">
+    <title lang="pt">Viral Rubrica</title>
   </programme>
-  <programme start="20230615091500 +0100" stop="20230615093600 +0100" channel="SIC CARAS">
-    <title lang="pt">Mansões De Luxo - Austrália</title>
+  <programme start="20230622074500 +0100" stop="20230622081500 +0100" channel="SIC MULHER">
+    <title lang="pt">Dr. Phil</title>
   </programme>
-  <programme start="20230615093600 +0100" stop="20230615095800 +0100" channel="SIC CARAS">
-    <title lang="pt">Mansões De Luxo - Austrália</title>
+  <programme start="20230622081500 +0100" stop="20230622084500 +0100" channel="SIC MULHER">
+    <title lang="pt">Dr. Phil</title>
   </programme>
-  <programme start="20230615095800 +0100" stop="20230615113200 +0100" channel="SIC CARAS">
-    <title lang="pt">Passadeira Vermelha</title>
+  <programme start="20230622084500 +0100" stop="20230622093000 +0100" channel="SIC MULHER">
+    <title lang="pt">Property Brothers Forever Home</title>
   </programme>
-  <programme start="20230615113200 +0100" stop="20230615121800 +0100" channel="SIC CARAS">
-    <title lang="pt">Donas de Casa De Beverly Hills</title>
+  <programme start="20230622093000 +0100" stop="20230622101500 +0100" channel="SIC MULHER">
+    <title lang="pt">Property Brothers Forever Home</title>
   </programme>
-  <programme start="20230615121800 +0100" stop="20230615124500 +0100" channel="SIC CARAS">
-    <title lang="pt">Posso Entrar?</title>
+  <programme start="20230622101500 +0100" stop="20230622104500 +0100" channel="SIC MULHER">
+    <title lang="pt">Masterchef Celebridades Argentina</title>
   </programme>
-  <programme start="20230615124500 +0100" stop="20230615133100 +0100" channel="SIC CARAS">
-    <title lang="pt">Amor Viciado</title>
+  <programme start="20230622104500 +0100" stop="20230622111500 +0100" channel="SIC MULHER">
+    <title lang="pt">Masterchef Celebridades Argentina</title>
   </programme>
-  <programme start="20230615133100 +0100" stop="20230615141900 +0100" channel="SIC CARAS">
-    <title lang="pt">Amor Viciado</title>
+  <programme start="20230622111500 +0100" stop="20230622113000 +0100" channel="SIC MULHER">
+    <title lang="pt">Espaços E Casas</title>
   </programme>
-  <programme start="20230615141900 +0100" stop="20230615144100 +0100" channel="SIC CARAS">
-    <title lang="pt">Mansões De Luxo - Austrália</title>
+  <programme start="20230622113000 +0100" stop="20230622121500 +0100" channel="SIC MULHER">
+    <title lang="pt">Irresistível</title>
   </programme>
-  <programme start="20230615144100 +0100" stop="20230615150300 +0100" channel="SIC CARAS">
-    <title lang="pt">Mansões De Luxo - Austrália</title>
+  <programme start="20230622121500 +0100" stop="20230622131500 +0100" channel="SIC MULHER">
+    <title lang="pt">Joias TV - Televendas</title>
   </programme>
-  <programme start="20230615150300 +0100" stop="20230615154800 +0100" channel="SIC CARAS">
-    <title lang="pt">Amor Em Paris</title>
+  <programme start="20230622131500 +0100" stop="20230622140000 +0100" channel="SIC MULHER">
+    <title lang="pt">Mother</title>
   </programme>
-  <programme start="20230615154800 +0100" stop="20230615163300 +0100" channel="SIC CARAS">
-    <title lang="pt">Barcos Com Amor</title>
+  <programme start="20230622140000 +0100" stop="20230622144500 +0100" channel="SIC MULHER">
+    <title lang="pt">Las Villamizar</title>
   </programme>
-  <programme start="20230615163300 +0100" stop="20230615171800 +0100" channel="SIC CARAS">
-    <title lang="pt">Barcos Com Amor</title>
+  <programme start="20230622144500 +0100" stop="20230622153000 +0100" channel="SIC MULHER">
+    <title lang="pt">Las Villamizar</title>
   </programme>
-  <programme start="20230615171800 +0100" stop="20230615180100 +0100" channel="SIC CARAS">
-    <title lang="pt">Amor Viciado</title>
+  <programme start="20230622153000 +0100" stop="20230622161500 +0100" channel="SIC MULHER">
+    <title lang="pt">Love Storm</title>
   </programme>
-  <programme start="20230615180100 +0100" stop="20230615193500 +0100" channel="SIC CARAS">
-    <title lang="pt">Passadeira Vermelha</title>
-  </programme>
-  <programme start="20230615193500 +0100" stop="20230615202100 +0100" channel="SIC CARAS">
-    <title lang="pt">Miúdos Ricos No Rancho</title>
-  </programme>
-  <programme start="20230615202100 +0100" stop="20230615210800 +0100" channel="SIC CARAS">
-    <title lang="pt">Donas de Casa De Beverly Hills</title>
-  </programme>
-  <programme start="20230615210800 +0100" stop="20230615215000 +0100" channel="SIC CARAS">
-    <title lang="pt">Barcos Com Amor</title>
-  </programme>
-  <programme start="20230615215000 +0100" stop="20230615223500 +0100" channel="SIC CARAS">
-    <title lang="pt">Barcos Com Amor</title>
-  </programme>
-  <programme start="20230615223500 +0100" stop="20230616000500 +0100" channel="SIC CARAS">
-    <title lang="pt">Passadeira Vermelha</title>
-  </programme>
-  <programme start="20230616000500 +0100" stop="20230616005100 +0100" channel="SIC CARAS">
-    <title lang="pt">Miúdos Ricos No Rancho</title>
+  <programme start="20230622161500 +0100" stop="20230622170000 +0100" channel="SIC MULHER">
+    <title lang="pt">Gulperi</title>
   </programme>
   <programme start="20230616005100 +0100" stop="20230616013600 +0100" channel="SIC CARAS">
     <title lang="pt">Barcos Com Amor</title>
@@ -6574,119 +6145,71 @@
   <programme start="20230621224500 +0100" stop="20230622000000 +0100" channel="SIC CARAS">
     <title lang="pt">Passadeira Vermelha</title>
   </programme>
-  <programme start="20230615005000 +0100" stop="20230615013100 +0100" channel="SIC RADICAL">
-    <title lang="pt">Cold Case Files</title>
+  <programme start="20230622000000 +0100" stop="20230622004500 +0100" channel="SIC CARAS">
+    <title lang="pt">Miúdos Ricos No Rancho</title>
   </programme>
-  <programme start="20230615013100 +0100" stop="20230615015400 +0100" channel="SIC RADICAL">
-    <title lang="pt">Pawn Stars South Africa</title>
+  <programme start="20230622004500 +0100" stop="20230622013000 +0100" channel="SIC CARAS">
+    <title lang="pt">Barcos Com Amor</title>
   </programme>
-  <programme start="20230615015400 +0100" stop="20230615023800 +0100" channel="SIC RADICAL">
-    <title lang="pt">Team Ninja Warrior</title>
+  <programme start="20230622013000 +0100" stop="20230622021500 +0100" channel="SIC CARAS">
+    <title lang="pt">Donas de Casa De Beverly Hills</title>
   </programme>
-  <programme start="20230615023800 +0100" stop="20230615033000 +0100" channel="SIC RADICAL">
-    <title lang="pt">Caixa Negra</title>
+  <programme start="20230622021500 +0100" stop="20230622031500 +0100" channel="SIC CARAS">
+    <title lang="pt">Donas de Casa De Beverly Hills</title>
   </programme>
-  <programme start="20230615033000 +0100" stop="20230615034200 +0100" channel="SIC RADICAL">
-    <title lang="pt">Go's-TV Report</title>
+  <programme start="20230622031500 +0100" stop="20230622040000 +0100" channel="SIC CARAS">
+    <title lang="pt">Ellen</title>
   </programme>
-  <programme start="20230615034200 +0100" stop="20230615035100 +0100" channel="SIC RADICAL">
-    <title lang="pt">Cinetendinha</title>
+  <programme start="20230622040000 +0100" stop="20230622044500 +0100" channel="SIC CARAS">
+    <title lang="pt">Ellen</title>
   </programme>
-  <programme start="20230615035100 +0100" stop="20230615041700 +0100" channel="SIC RADICAL">
-    <title lang="pt">Advnce Show</title>
+  <programme start="20230622044500 +0100" stop="20230622051500 +0100" channel="SIC CARAS">
+    <title lang="pt">Posso Entrar?</title>
   </programme>
-  <programme start="20230615041700 +0100" stop="20230615052000 +0100" channel="SIC RADICAL">
-    <title lang="pt">Irritações</title>
+  <programme start="20230622051500 +0100" stop="20230622060000 +0100" channel="SIC CARAS">
+    <title lang="pt">Posso Entrar?</title>
   </programme>
-  <programme start="20230615052000 +0100" stop="20230615060500 +0100" channel="SIC RADICAL">
-    <title lang="pt">Curto Circuito</title>
+  <programme start="20230622060000 +0100" stop="20230622071500 +0100" channel="SIC CARAS">
+    <title lang="pt">Passadeira Vermelha</title>
   </programme>
-  <programme start="20230615060500 +0100" stop="20230615065000 +0100" channel="SIC RADICAL">
-    <title lang="pt">Curto Circuito</title>
+  <programme start="20230622071500 +0100" stop="20230622084500 +0100" channel="SIC CARAS">
+    <title lang="pt">Passadeira Vermelha</title>
   </programme>
-  <programme start="20230615065000 +0100" stop="20230615071400 +0100" channel="SIC RADICAL">
-    <title lang="pt">Boruto</title>
+  <programme start="20230622084500 +0100" stop="20230622091500 +0100" channel="SIC CARAS">
+    <title lang="pt">Look@Me</title>
   </programme>
-  <programme start="20230615071400 +0100" stop="20230615073800 +0100" channel="SIC RADICAL">
-    <title lang="pt">Boruto</title>
+  <programme start="20230622091500 +0100" stop="20230622093800 +0100" channel="SIC CARAS">
+    <title lang="pt">Mansões De Luxo - Austrália</title>
   </programme>
-  <programme start="20230615073800 +0100" stop="20230615081700 +0100" channel="SIC RADICAL">
-    <title lang="pt">Late Late Show With James Corden</title>
+  <programme start="20230622093800 +0100" stop="20230622100000 +0100" channel="SIC CARAS">
+    <title lang="pt">Mansões De Luxo - Austrália</title>
   </programme>
-  <programme start="20230615081700 +0100" stop="20230615083200 +0100" channel="SIC RADICAL">
-    <title lang="pt">Go's-TV Report</title>
+  <programme start="20230622100000 +0100" stop="20230622113000 +0100" channel="SIC CARAS">
+    <title lang="pt">Passadeira Vermelha</title>
   </programme>
-  <programme start="20230615083200 +0100" stop="20230615091400 +0100" channel="SIC RADICAL">
-    <title lang="pt">Tonight Show With Jimmy Fallon</title>
+  <programme start="20230622113000 +0100" stop="20230622121500 +0100" channel="SIC CARAS">
+    <title lang="pt">Donas de Casa De Beverly Hills</title>
   </programme>
-  <programme start="20230615091400 +0100" stop="20230615100100 +0100" channel="SIC RADICAL">
-    <title lang="pt">Curto Circuito</title>
+  <programme start="20230622121500 +0100" stop="20230622124500 +0100" channel="SIC CARAS">
+    <title lang="pt">Posso Entrar?</title>
   </programme>
-  <programme start="20230615100100 +0100" stop="20230615103600 +0100" channel="SIC RADICAL">
-    <title lang="pt">Celebrity Treasure Island</title>
+  <programme start="20230622124500 +0100" stop="20230622133000 +0100" channel="SIC CARAS">
+    <title lang="pt">Amor Viciado</title>
   </programme>
-  <programme start="20230615103600 +0100" stop="20230615104600 +0100" channel="SIC RADICAL">
-    <title lang="pt">Love Island USA</title>
+  <programme start="20230622133000 +0100" stop="20230622141500 +0100" channel="SIC CARAS">
+    <title lang="pt">Amor Viciado</title>
   </programme>
-  <programme start="20230615104600 +0100" stop="20230615122100 +0100" channel="SIC RADICAL">
-    <title lang="pt">Celebrity Treasure Island</title>
+  <programme start="20230622141500 +0100" stop="20230622143800 +0100" channel="SIC CARAS">
+    <title lang="pt">Mansões De Luxo - Austrália</title>
   </programme>
-  <programme start="20230615122100 +0100" stop="20230615130800 +0100" channel="SIC RADICAL">
-    <title lang="pt">Love Island USA</title>
+  <programme start="20230622143800 +0100" stop="20230622150000 +0100" channel="SIC CARAS">
+    <title lang="pt">Mansões De Luxo - Austrália</title>
   </programme>
-  <programme start="20230615130800 +0100" stop="20230615135100 +0100" channel="SIC RADICAL">
-    <title lang="pt">Team Ninja Warrior</title>
+  <programme start="20230622150000 +0100" stop="20230622154500 +0100" channel="SIC CARAS">
+    <title lang="pt">Amor Em Paris</title>
   </programme>
-  <programme start="20230615135100 +0100" stop="20230615143700 +0100" channel="SIC RADICAL">
-    <title lang="pt">Team Ninja Warrior</title>
-  </programme>
-  <programme start="20230615143700 +0100" stop="20230615145900 +0100" channel="SIC RADICAL">
-    <title lang="pt">Pawn Stars South Africa</title>
-  </programme>
-  <programme start="20230615145900 +0100" stop="20230615152400 +0100" channel="SIC RADICAL">
-    <title lang="pt">Pawn Stars South Africa</title>
-  </programme>
-  <programme start="20230615152400 +0100" stop="20230615160600 +0100" channel="SIC RADICAL">
-    <title lang="pt">Cold Case Files</title>
-  </programme>
-  <programme start="20230615160600 +0100" stop="20230615164600 +0100" channel="SIC RADICAL">
-    <title lang="pt">Tonight Show With Jimmy Fallon</title>
-  </programme>
-  <programme start="20230615164600 +0100" stop="20230615173000 +0100" channel="SIC RADICAL">
-    <title lang="pt">Love Island U.K.</title>
-  </programme>
-  <programme start="20230615173000 +0100" stop="20230615181100 +0100" channel="SIC RADICAL">
-    <title lang="pt">Love Island USA</title>
-  </programme>
-  <programme start="20230615181100 +0100" stop="20230615185400 +0100" channel="SIC RADICAL">
-    <title lang="pt">Love Island USA</title>
-  </programme>
-  <programme start="20230615185400 +0100" stop="20230615194300 +0100" channel="SIC RADICAL">
-    <title lang="pt">Celebrity Treasure Island</title>
-  </programme>
-  <programme start="20230615194300 +0100" stop="20230615202600 +0100" channel="SIC RADICAL">
-    <title lang="pt">Team Ninja Warrior</title>
-  </programme>
-  <programme start="20230615202600 +0100" stop="20230615211000 +0100" channel="SIC RADICAL">
-    <title lang="pt">Team Ninja Warrior</title>
-  </programme>
-  <programme start="20230615211000 +0100" stop="20230615215100 +0100" channel="SIC RADICAL">
-    <title lang="pt">Cold Case Files</title>
-  </programme>
-  <programme start="20230615215100 +0100" stop="20230615221400 +0100" channel="SIC RADICAL">
-    <title lang="pt">Pawn Stars South Africa</title>
-  </programme>
-  <programme start="20230615221400 +0100" stop="20230615223700 +0100" channel="SIC RADICAL">
-    <title lang="pt">Pawn Stars South Africa</title>
-  </programme>
-  <programme start="20230615223700 +0100" stop="20230615232300 +0100" channel="SIC RADICAL">
-    <title lang="pt">Celebrity Treasure Island</title>
-  </programme>
-  <programme start="20230615232300 +0100" stop="20230616001400 +0100" channel="SIC RADICAL">
-    <title lang="pt">Celebrity Treasure Island</title>
-  </programme>
-  <programme start="20230616001400 +0100" stop="20230616005500 +0100" channel="SIC RADICAL">
-    <title lang="pt">Cold Case Files</title>
+  <programme start="20230622154500 +0100" stop="20230622163000 +0100" channel="SIC CARAS">
+    <title lang="pt">Barcos Com Amor</title>
   </programme>
   <programme start="20230616005500 +0100" stop="20230616013800 +0100" channel="SIC RADICAL">
     <title lang="pt">Cold Case Files</title>
@@ -7423,137 +6946,92 @@
   <programme start="20230621231500 +0100" stop="20230622000000 +0100" channel="SIC RADICAL">
     <title lang="pt">SAS: Who Dares Wins U.K.</title>
   </programme>
-  <programme start="20230615004700 +0100" stop="20230615011200 +0100" channel="Q HD">
-    <title lang="pt">Filho Da Mãe</title>
+  <programme start="20230622000000 +0100" stop="20230622003000 +0100" channel="SIC RADICAL">
+    <title lang="pt">Cold Case Files</title>
   </programme>
-  <programme start="20230615011200 +0100" stop="20230615014000 +0100" channel="Q HD">
-    <title lang="pt">Conta-Me Tudo</title>
+  <programme start="20230622003000 +0100" stop="20230622011500 +0100" channel="SIC RADICAL">
+    <title lang="pt">Cold Case Files</title>
   </programme>
-  <programme start="20230615014000 +0100" stop="20230615020600 +0100" channel="Q HD">
-    <title lang="pt">Pão De Law</title>
+  <programme start="20230622011500 +0100" stop="20230622013800 +0100" channel="SIC RADICAL">
+    <title lang="pt">Pawn Stars South Africa</title>
   </programme>
-  <programme start="20230615020600 +0100" stop="20230615024700 +0100" channel="Q HD">
-    <title lang="pt">Querem Drama?</title>
+  <programme start="20230622013800 +0100" stop="20230622020000 +0100" channel="SIC RADICAL">
+    <title lang="pt">Pawn Stars South Africa</title>
   </programme>
-  <programme start="20230615024700 +0100" stop="20230615035200 +0100" channel="Q HD">
-    <title lang="pt">Quem Desdenha</title>
+  <programme start="20230622020000 +0100" stop="20230622024500 +0100" channel="SIC RADICAL">
+    <title lang="pt">Team Ninja Warrior</title>
   </programme>
-  <programme start="20230615035200 +0100" stop="20230615041400 +0100" channel="Q HD">
-    <title lang="pt">Sexo Com Sentido</title>
+  <programme start="20230622024500 +0100" stop="20230622033000 +0100" channel="SIC RADICAL">
+    <title lang="pt">Team Ninja Warrior</title>
   </programme>
-  <programme start="20230615041400 +0100" stop="20230615044100 +0100" channel="Q HD">
-    <title lang="pt">Submersos</title>
+  <programme start="20230622033000 +0100" stop="20230622040000 +0100" channel="SIC RADICAL">
+    <title lang="pt">Caixa Negra</title>
   </programme>
-  <programme start="20230615044100 +0100" stop="20230615052800 +0100" channel="Q HD">
-    <title lang="pt">Sexo Com Sentido</title>
+  <programme start="20230622040000 +0100" stop="20230622041500 +0100" channel="SIC RADICAL">
+    <title lang="pt">Go's-TV Report</title>
   </programme>
-  <programme start="20230615052800 +0100" stop="20230615053800 +0100" channel="Q HD">
-    <title lang="pt">Pão De Law</title>
+  <programme start="20230622041500 +0100" stop="20230622043000 +0100" channel="SIC RADICAL">
+    <title lang="pt">Cinetendinha</title>
   </programme>
-  <programme start="20230615053800 +0100" stop="20230615061300 +0100" channel="Q HD">
-    <title lang="pt">A Rede</title>
+  <programme start="20230622043000 +0100" stop="20230622044500 +0100" channel="SIC RADICAL">
+    <title lang="pt">Advnce Show</title>
   </programme>
-  <programme start="20230615061300 +0100" stop="20230615065800 +0100" channel="Q HD">
-    <title lang="pt">O Outro Lado Dos Antípodas</title>
+  <programme start="20230622044500 +0100" stop="20230622053000 +0100" channel="SIC RADICAL">
+    <title lang="pt">Irritações</title>
   </programme>
-  <programme start="20230615065800 +0100" stop="20230615081100 +0100" channel="Q HD">
-    <title lang="pt">Agora A Sério</title>
+  <programme start="20230622053000 +0100" stop="20230622060000 +0100" channel="SIC RADICAL">
+    <title lang="pt">Curto Circuito</title>
   </programme>
-  <programme start="20230615081100 +0100" stop="20230615083200 +0100" channel="Q HD">
-    <title lang="pt">Vem Ao Quê?</title>
+  <programme start="20230622060000 +0100" stop="20230622064500 +0100" channel="SIC RADICAL">
+    <title lang="pt">Curto Circuito</title>
   </programme>
-  <programme start="20230615083200 +0100" stop="20230615092500 +0100" channel="Q HD">
-    <title lang="pt">Baseado Numa História Verídica</title>
+  <programme start="20230622064500 +0100" stop="20230622070000 +0100" channel="SIC RADICAL">
+    <title lang="pt">Boruto</title>
   </programme>
-  <programme start="20230615092500 +0100" stop="20230615094200 +0100" channel="Q HD">
-    <title lang="pt">O Outro Lado Dos Antípodas</title>
+  <programme start="20230622070000 +0100" stop="20230622071500 +0100" channel="SIC RADICAL">
+    <title lang="pt">Boruto</title>
   </programme>
-  <programme start="20230615094200 +0100" stop="20230615095000 +0100" channel="Q HD">
-    <title lang="pt">No Palco</title>
+  <programme start="20230622071500 +0100" stop="20230622080000 +0100" channel="SIC RADICAL">
+    <title lang="pt">Late Late Show With James Corden</title>
   </programme>
-  <programme start="20230615095000 +0100" stop="20230615102100 +0100" channel="Q HD">
-    <title lang="pt">A Rede</title>
+  <programme start="20230622080000 +0100" stop="20230622081500 +0100" channel="SIC RADICAL">
+    <title lang="pt">Go's-TV Report</title>
   </programme>
-  <programme start="20230615102100 +0100" stop="20230615110000 +0100" channel="Q HD">
-    <title lang="pt">Inmusic Portugal</title>
+  <programme start="20230622081500 +0100" stop="20230622090000 +0100" channel="SIC RADICAL">
+    <title lang="pt">Tonight Show With Jimmy Fallon</title>
   </programme>
-  <programme start="20230615110000 +0100" stop="20230615114200 +0100" channel="Q HD">
-    <title lang="pt">Querem Drama?</title>
+  <programme start="20230622090000 +0100" stop="20230622094500 +0100" channel="SIC RADICAL">
+    <title lang="pt">Curto Circuito</title>
   </programme>
-  <programme start="20230615114200 +0100" stop="20230615121800 +0100" channel="Q HD">
-    <title lang="pt">Quem Desdenha</title>
+  <programme start="20230622094500 +0100" stop="20230622101500 +0100" channel="SIC RADICAL">
+    <title lang="pt">SAS: Who Dares Wins U.K.</title>
   </programme>
-  <programme start="20230615121800 +0100" stop="20230615122900 +0100" channel="Q HD">
-    <title lang="pt">Temperos De Amor</title>
+  <programme start="20230622101500 +0100" stop="20230622104500 +0100" channel="SIC RADICAL">
+    <title lang="pt">SAS: Who Dares Wins U.K.</title>
   </programme>
-  <programme start="20230615122900 +0100" stop="20230615124000 +0100" channel="Q HD">
-    <title lang="pt">Car Online</title>
+  <programme start="20230622104500 +0100" stop="20230622114500 +0100" channel="SIC RADICAL">
+    <title lang="pt">Love Island USA</title>
   </programme>
-  <programme start="20230615124000 +0100" stop="20230615132200 +0100" channel="Q HD">
-    <title lang="pt">Quem Desdenha</title>
+  <programme start="20230622114500 +0100" stop="20230622123000 +0100" channel="SIC RADICAL">
+    <title lang="pt">Love Island USA</title>
   </programme>
-  <programme start="20230615132200 +0100" stop="20230615142100 +0100" channel="Q HD">
-    <title lang="pt">Baseado Numa História Verídica</title>
+  <programme start="20230622123000 +0100" stop="20230622131500 +0100" channel="SIC RADICAL">
+    <title lang="pt">Team Ninja Warrior</title>
   </programme>
-  <programme start="20230615142100 +0100" stop="20230615144600 +0100" channel="Q HD">
-    <title lang="pt">Conta-Me Tudo</title>
+  <programme start="20230622131500 +0100" stop="20230622140000 +0100" channel="SIC RADICAL">
+    <title lang="pt">Team Ninja Warrior</title>
   </programme>
-  <programme start="20230615144600 +0100" stop="20230615145500 +0100" channel="Q HD">
-    <title lang="pt">V Séries</title>
+  <programme start="20230622140000 +0100" stop="20230622143000 +0100" channel="SIC RADICAL">
+    <title lang="pt">Pawn Stars South Africa</title>
   </programme>
-  <programme start="20230615145500 +0100" stop="20230615153800 +0100" channel="Q HD">
-    <title lang="pt">Querem Drama?</title>
+  <programme start="20230622143000 +0100" stop="20230622150000 +0100" channel="SIC RADICAL">
+    <title lang="pt">Pawn Stars South Africa</title>
   </programme>
-  <programme start="20230615153800 +0100" stop="20230615161600 +0100" channel="Q HD">
-    <title lang="pt">Car Online</title>
+  <programme start="20230622150000 +0100" stop="20230622154500 +0100" channel="SIC RADICAL">
+    <title lang="pt">Cold Case Files</title>
   </programme>
-  <programme start="20230615161600 +0100" stop="20230615163900 +0100" channel="Q HD">
-    <title lang="pt">Temperos De Amor</title>
-  </programme>
-  <programme start="20230615163900 +0100" stop="20230615173000 +0100" channel="Q HD">
-    <title lang="pt">Bitalk</title>
-  </programme>
-  <programme start="20230615173000 +0100" stop="20230615175300 +0100" channel="Q HD">
-    <title lang="pt">No Palco - Especial Fénix</title>
-  </programme>
-  <programme start="20230615175300 +0100" stop="20230615183400 +0100" channel="Q HD">
-    <title lang="pt">Querem Drama?</title>
-  </programme>
-  <programme start="20230615183400 +0100" stop="20230615191500 +0100" channel="Q HD">
-    <title lang="pt">Querem Drama?</title>
-  </programme>
-  <programme start="20230615191500 +0100" stop="20230615195500 +0100" channel="Q HD">
-    <title lang="pt">Quem Desdenha</title>
-  </programme>
-  <programme start="20230615195500 +0100" stop="20230615195800 +0100" channel="Q HD">
-    <title lang="pt">Pão De Law</title>
-  </programme>
-  <programme start="20230615195800 +0100" stop="20230615201500 +0100" channel="Q HD">
-    <title lang="pt">No Palco - Especial Fénix</title>
-  </programme>
-  <programme start="20230615201500 +0100" stop="20230615205400 +0100" channel="Q HD">
-    <title lang="pt">Lendas Vivas</title>
-  </programme>
-  <programme start="20230615205400 +0100" stop="20230615210700 +0100" channel="Q HD">
-    <title lang="pt">No Palco - Especial Fénix</title>
-  </programme>
-  <programme start="20230615210700 +0100" stop="20230615215500 +0100" channel="Q HD">
-    <title lang="pt">Princesas E Doentes</title>
-  </programme>
-  <programme start="20230615215500 +0100" stop="20230615224000 +0100" channel="Q HD">
-    <title lang="pt">Bitalk</title>
-  </programme>
-  <programme start="20230615224000 +0100" stop="20230615231300 +0100" channel="Q HD">
-    <title lang="pt">Camada De Nervos</title>
-  </programme>
-  <programme start="20230615231300 +0100" stop="20230615234100 +0100" channel="Q HD">
-    <title lang="pt">Inmusic Portugal</title>
-  </programme>
-  <programme start="20230615234100 +0100" stop="20230616001600 +0100" channel="Q HD">
-    <title lang="pt">Quem Desdenha</title>
-  </programme>
-  <programme start="20230616001600 +0100" stop="20230616004700 +0100" channel="Q HD">
-    <title lang="pt">Quem Desdenha</title>
+  <programme start="20230622154500 +0100" stop="20230622163000 +0100" channel="SIC RADICAL">
+    <title lang="pt">Tonight Show With Jimmy Fallon</title>
   </programme>
   <programme start="20230616004700 +0100" stop="20230616011100 +0100" channel="Q HD">
     <title lang="pt">Sexo Com Sentido</title>
@@ -8296,71 +7774,95 @@
   <programme start="20230621234500 +0100" stop="20230622001500 +0100" channel="Q HD">
     <title lang="pt">Caça Ao Cómico</title>
   </programme>
-  <programme start="20230615004500 +0100" stop="20230615040000 +0100" channel="PORTO CANAL">
-    <title lang="pt">Noite Desportiva</title>
+  <programme start="20230622001500 +0100" stop="20230622003000 +0100" channel="Q HD">
+    <title lang="pt">Car Online</title>
   </programme>
-  <programme start="20230615040000 +0100" stop="20230615043000 +0100" channel="PORTO CANAL">
-    <title lang="pt">Glitter Late Night</title>
+  <programme start="20230622003000 +0100" stop="20230622005500 +0100" channel="Q HD">
+    <title lang="pt">Filho Da Mãe</title>
   </programme>
-  <programme start="20230615043000 +0100" stop="20230615073000 +0100" channel="PORTO CANAL">
-    <title lang="pt">Viver Aqui</title>
+  <programme start="20230622005500 +0100" stop="20230622012000 +0100" channel="Q HD">
+    <title lang="pt">Conta-Me Tudo</title>
   </programme>
-  <programme start="20230615073000 +0100" stop="20230615080000 +0100" channel="PORTO CANAL">
-    <title lang="pt">Caminhos da História</title>
+  <programme start="20230622012000 +0100" stop="20230622013500 +0100" channel="Q HD">
+    <title lang="pt">Pão De Law</title>
   </programme>
-  <programme start="20230615080000 +0100" stop="20230615100000 +0100" channel="PORTO CANAL">
-    <title lang="pt">Manhã Informativa</title>
+  <programme start="20230622013500 +0100" stop="20230622021500 +0100" channel="Q HD">
+    <title lang="pt">Querem Drama?</title>
   </programme>
-  <programme start="20230615100000 +0100" stop="20230615103000 +0100" channel="PORTO CANAL">
-    <title lang="pt">Cinema Batalha</title>
+  <programme start="20230622021500 +0100" stop="20230622025500 +0100" channel="Q HD">
+    <title lang="pt">Quem Desdenha</title>
   </programme>
-  <programme start="20230615103000 +0100" stop="20230615104500 +0100" channel="PORTO CANAL">
-    <title lang="pt">Entre Nós</title>
+  <programme start="20230622025500 +0100" stop="20230622032500 +0100" channel="Q HD">
+    <title lang="pt">Sexo Com Sentido</title>
   </programme>
-  <programme start="20230615104500 +0100" stop="20230615110000 +0100" channel="PORTO CANAL">
-    <title lang="pt">Finanças A Contar</title>
+  <programme start="20230622032500 +0100" stop="20230622040000 +0100" channel="Q HD">
+    <title lang="pt">Submersos</title>
   </programme>
-  <programme start="20230615110000 +0100" stop="20230615113000 +0100" channel="PORTO CANAL">
-    <title lang="pt">Ver O Norte</title>
+  <programme start="20230622040000 +0100" stop="20230622044000 +0100" channel="Q HD">
+    <title lang="pt">Sexo Com Sentido</title>
   </programme>
-  <programme start="20230615113000 +0100" stop="20230615120000 +0100" channel="PORTO CANAL">
-    <title lang="pt">Planeta Verde</title>
+  <programme start="20230622044000 +0100" stop="20230622050000 +0100" channel="Q HD">
+    <title lang="pt">Pão De Law</title>
   </programme>
-  <programme start="20230615120000 +0100" stop="20230615130000 +0100" channel="PORTO CANAL">
-    <title lang="pt">Hoje</title>
+  <programme start="20230622050000 +0100" stop="20230622060000 +0100" channel="Q HD">
+    <title lang="pt">A Rede</title>
   </programme>
-  <programme start="20230615130000 +0100" stop="20230615140000 +0100" channel="PORTO CANAL">
-    <title lang="pt">Vencedores Como Sempre</title>
+  <programme start="20230622060000 +0100" stop="20230622063000 +0100" channel="Q HD">
+    <title lang="pt">O Outro Lado Dos Antípodas</title>
   </programme>
-  <programme start="20230615140000 +0100" stop="20230615153000 +0100" channel="PORTO CANAL">
-    <title lang="pt">Consultório</title>
+  <programme start="20230622063000 +0100" stop="20230622073000 +0100" channel="Q HD">
+    <title lang="pt">Agora A Sério</title>
   </programme>
-  <programme start="20230615153000 +0100" stop="20230615183000 +0100" channel="PORTO CANAL">
-    <title lang="pt">Viver Aqui</title>
+  <programme start="20230622073000 +0100" stop="20230622074000 +0100" channel="Q HD">
+    <title lang="pt">Vem Ao Quê?</title>
   </programme>
-  <programme start="20230615183000 +0100" stop="20230615194500 +0100" channel="PORTO CANAL">
-    <title lang="pt">Tarde Informativa</title>
+  <programme start="20230622074000 +0100" stop="20230622084000 +0100" channel="Q HD">
+    <title lang="pt">Baseado Numa História Verídica</title>
   </programme>
-  <programme start="20230615194500 +0100" stop="20230615200000 +0100" channel="PORTO CANAL">
-    <title lang="pt">Flash Porto</title>
+  <programme start="20230622084000 +0100" stop="20230622091000 +0100" channel="Q HD">
+    <title lang="pt">O Outro Lado Dos Antípodas</title>
   </programme>
-  <programme start="20230615200000 +0100" stop="20230615203000 +0100" channel="PORTO CANAL">
-    <title lang="pt">Veterinários Todo O Terreno</title>
+  <programme start="20230622091000 +0100" stop="20230622092000 +0100" channel="Q HD">
+    <title lang="pt">No Palco</title>
   </programme>
-  <programme start="20230615203000 +0100" stop="20230615210000 +0100" channel="PORTO CANAL">
-    <title lang="pt">Cinema Batalha</title>
+  <programme start="20230622092000 +0100" stop="20230622102000 +0100" channel="Q HD">
+    <title lang="pt">A Rede</title>
   </programme>
-  <programme start="20230615210000 +0100" stop="20230615213000 +0100" channel="PORTO CANAL">
-    <title lang="pt">Pole Position</title>
+  <programme start="20230622102000 +0100" stop="20230622110000 +0100" channel="Q HD">
+    <title lang="pt">Inmusic Portugal</title>
   </programme>
-  <programme start="20230615213000 +0100" stop="20230615230000 +0100" channel="PORTO CANAL">
-    <title lang="pt">Noite Informativa</title>
+  <programme start="20230622110000 +0100" stop="20230622113000 +0100" channel="Q HD">
+    <title lang="pt">Querem Drama?</title>
   </programme>
-  <programme start="20230615230000 +0100" stop="20230616000000 +0100" channel="PORTO CANAL">
-    <title lang="pt">Hora Dos Craques</title>
+  <programme start="20230622113000 +0100" stop="20230622121000 +0100" channel="Q HD">
+    <title lang="pt">Quem Desdenha</title>
   </programme>
-  <programme start="20230616000000 +0100" stop="20230616003000 +0100" channel="PORTO CANAL">
-    <title lang="pt">Noite Informativa</title>
+  <programme start="20230622121000 +0100" stop="20230622122500 +0100" channel="Q HD">
+    <title lang="pt">Temperos De Amor</title>
+  </programme>
+  <programme start="20230622122500 +0100" stop="20230622124500 +0100" channel="Q HD">
+    <title lang="pt">Car Online</title>
+  </programme>
+  <programme start="20230622124500 +0100" stop="20230622132500 +0100" channel="Q HD">
+    <title lang="pt">Quem Desdenha</title>
+  </programme>
+  <programme start="20230622132500 +0100" stop="20230622142500 +0100" channel="Q HD">
+    <title lang="pt">Baseado Numa História Verídica</title>
+  </programme>
+  <programme start="20230622142500 +0100" stop="20230622150500 +0100" channel="Q HD">
+    <title lang="pt">Conta-Me Tudo</title>
+  </programme>
+  <programme start="20230622150500 +0100" stop="20230622151500 +0100" channel="Q HD">
+    <title lang="pt">V Séries</title>
+  </programme>
+  <programme start="20230622151500 +0100" stop="20230622155500 +0100" channel="Q HD">
+    <title lang="pt">Querem Drama?</title>
+  </programme>
+  <programme start="20230622155500 +0100" stop="20230622161500 +0100" channel="Q HD">
+    <title lang="pt">Car Online</title>
+  </programme>
+  <programme start="20230622161500 +0100" stop="20230622163000 +0100" channel="Q HD">
+    <title lang="pt">Temperos De Amor</title>
   </programme>
   <programme start="20230616003000 +0100" stop="20230616023000 +0100" channel="PORTO CANAL">
     <title lang="pt">Noite Desportiva</title>
@@ -8673,126 +8175,6 @@
   </programme>
   <programme start="20230620060000 +0100" stop="20230620070000 +0100" channel="PORTO CANAL">
     <title lang="pt">PORTO CANAL</title>
-  </programme>
-  <programme start="20230615005400 +0100" stop="20230615014300 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Dallas</title>
-  </programme>
-  <programme start="20230615014300 +0100" stop="20230615023300 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Um Anjo Na Terra</title>
-  </programme>
-  <programme start="20230615023300 +0100" stop="20230615033400 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">5 Para A Meia-Noite</title>
-  </programme>
-  <programme start="20230615033400 +0100" stop="20230615034400 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Retrovisor</title>
-  </programme>
-  <programme start="20230615034400 +0100" stop="20230615043300 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">A Odisseia de Homero</title>
-  </programme>
-  <programme start="20230615043300 +0100" stop="20230615051700 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Quebra-Cabeças</title>
-  </programme>
-  <programme start="20230615051700 +0100" stop="20230615060000 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Bem-Vindos A Beirais</title>
-  </programme>
-  <programme start="20230615060000 +0100" stop="20230615062800 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">A Alma E A Gente</title>
-  </programme>
-  <programme start="20230615062800 +0100" stop="20230615065600 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Falaescreveacertaganha</title>
-  </programme>
-  <programme start="20230615065600 +0100" stop="20230615070000 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">A Música Portuguesa A Gostar Dela Própria</title>
-  </programme>
-  <programme start="20230615070000 +0100" stop="20230615074200 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Roseira Brava</title>
-  </programme>
-  <programme start="20230615074200 +0100" stop="20230615081300 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Origens</title>
-  </programme>
-  <programme start="20230615081300 +0100" stop="20230615081900 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Roteiros De Portugal</title>
-  </programme>
-  <programme start="20230615081900 +0100" stop="20230615084400 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Príncipes Do Nada</title>
-  </programme>
-  <programme start="20230615084400 +0100" stop="20230615085900 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Praias Portuguesas (Factos De Banho)</title>
-  </programme>
-  <programme start="20230615085900 +0100" stop="20230615094200 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">O Leão Da Estrela</title>
-  </programme>
-  <programme start="20230615094200 +0100" stop="20230615094800 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Guarda-Factos Micro</title>
-  </programme>
-  <programme start="20230615094800 +0100" stop="20230615100000 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Vamos Jogar No Totobola</title>
-  </programme>
-  <programme start="20230615100000 +0100" stop="20230615105400 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Sociedade Recreativa</title>
-  </programme>
-  <programme start="20230615105400 +0100" stop="20230615110000 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Dora E Dário</title>
-  </programme>
-  <programme start="20230615110000 +0100" stop="20230615114300 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Regresso A Sizalinda</title>
-  </programme>
-  <programme start="20230615114300 +0100" stop="20230615123000 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Ajuste De Contas</title>
-  </programme>
-  <programme start="20230615123000 +0100" stop="20230615130000 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Sozinhos Em Casa</title>
-  </programme>
-  <programme start="20230615130000 +0100" stop="20230615134500 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Ensaio</title>
-  </programme>
-  <programme start="20230615134500 +0100" stop="20230615140600 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Intervenção Artística</title>
-  </programme>
-  <programme start="20230615140600 +0100" stop="20230615143100 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Nico D´Obra</title>
-  </programme>
-  <programme start="20230615143100 +0100" stop="20230615150000 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Nico D´Obra</title>
-  </programme>
-  <programme start="20230615150000 +0100" stop="20230615154800 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Bem-Vindos A Beirais</title>
-  </programme>
-  <programme start="20230615154800 +0100" stop="20230615164200 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Eu Show Nico</title>
-  </programme>
-  <programme start="20230615164200 +0100" stop="20230615170000 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Boião De Cultura</title>
-  </programme>
-  <programme start="20230615170000 +0100" stop="20230615173100 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Os Lobos</title>
-  </programme>
-  <programme start="20230615173100 +0100" stop="20230615181700 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Diário de Maria</title>
-  </programme>
-  <programme start="20230615181700 +0100" stop="20230615190900 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Só Visto!</title>
-  </programme>
-  <programme start="20230615190900 +0100" stop="20230615200100 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Estado De Graça</title>
-  </programme>
-  <programme start="20230615200100 +0100" stop="20230615210000 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Melodias De Sempre</title>
-  </programme>
-  <programme start="20230615210000 +0100" stop="20230615214800 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Bem-Vindos A Beirais</title>
-  </programme>
-  <programme start="20230615214800 +0100" stop="20230615223100 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Marés Vivas</title>
-  </programme>
-  <programme start="20230615223100 +0100" stop="20230615231900 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Dallas</title>
-  </programme>
-  <programme start="20230615231900 +0100" stop="20230616000700 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Um Anjo Na Terra</title>
-  </programme>
-  <programme start="20230616000700 +0100" stop="20230616004900 +0100" channel="RTP MEMÓRIA">
-    <title lang="pt">Marés Vivas</title>
   </programme>
   <programme start="20230616004900 +0100" stop="20230616013800 +0100" channel="RTP MEMÓRIA">
     <title lang="pt">Dallas</title>
@@ -9448,83 +8830,80 @@
   <programme start="20230621231500 +0100" stop="20230622000500 +0100" channel="RTP MEMÓRIA">
     <title lang="pt">Um Anjo Na Terra</title>
   </programme>
-  <programme start="20230615005800 +0100" stop="20230615012600 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Repórter África - 2ª Edição</title>
+  <programme start="20230622000500 +0100" stop="20230622005000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Marés Vivas</title>
   </programme>
-  <programme start="20230615012600 +0100" stop="20230615022900 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Sociedade Civil</title>
+  <programme start="20230622005000 +0100" stop="20230622014000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Dallas</title>
   </programme>
-  <programme start="20230615022900 +0100" stop="20230615024100 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Zoom África</title>
+  <programme start="20230622014000 +0100" stop="20230622022900 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Um Anjo Na Terra</title>
   </programme>
-  <programme start="20230615024100 +0100" stop="20230615045000 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Bem-vindos</title>
+  <programme start="20230622022900 +0100" stop="20230622034000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">5 Para A Meia-Noite</title>
   </programme>
-  <programme start="20230615045000 +0100" stop="20230615051700 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Pecado da Gula</title>
+  <programme start="20230622034000 +0100" stop="20230622043500 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">A Odisseia de Homero</title>
   </programme>
-  <programme start="20230615051700 +0100" stop="20230615054800 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Fórum África</title>
+  <programme start="20230622043500 +0100" stop="20230622051500 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Quebra-Cabeças</title>
   </programme>
-  <programme start="20230615054800 +0100" stop="20230615063000 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Os Nossos Dias</title>
+  <programme start="20230622051500 +0100" stop="20230622060000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Bem-Vindos A Beirais</title>
   </programme>
-  <programme start="20230615063000 +0100" stop="20230615070000 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Repórter África - 2ª Edição</title>
+  <programme start="20230622060000 +0100" stop="20230622063000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">A Alma E A Gente</title>
   </programme>
-  <programme start="20230615070000 +0100" stop="20230615100000 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Bom Dia Portugal</title>
+  <programme start="20230622063000 +0100" stop="20230622070000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Falaescreveacertaganha</title>
   </programme>
-  <programme start="20230615100000 +0100" stop="20230615103100 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Fórum África</title>
+  <programme start="20230622070000 +0100" stop="20230622074500 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Roseira Brava</title>
   </programme>
-  <programme start="20230615103100 +0100" stop="20230615110300 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Gente Da Minha Rua</title>
+  <programme start="20230622074500 +0100" stop="20230622081500 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Origens</title>
   </programme>
-  <programme start="20230615110300 +0100" stop="20230615115600 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Donos Disto Tudo</title>
+  <programme start="20230622081500 +0100" stop="20230622082000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Roteiros De Portugal</title>
   </programme>
-  <programme start="20230615115600 +0100" stop="20230615125900 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Porquinho Mealheiro</title>
+  <programme start="20230622082000 +0100" stop="20230622084500 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Príncipes Do Nada</title>
   </programme>
-  <programme start="20230615125900 +0100" stop="20230615141700 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Jornal da Tarde</title>
+  <programme start="20230622084500 +0100" stop="20230622090000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Praias Portuguesas (Factos De Banho)</title>
   </programme>
-  <programme start="20230615141700 +0100" stop="20230615144900 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Repórter África - 1ª Edição</title>
+  <programme start="20230622090000 +0100" stop="20230622095400 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">O Leão Da Estrela</title>
   </programme>
-  <programme start="20230615144900 +0100" stop="20230615152600 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">África Global</title>
+  <programme start="20230622095400 +0100" stop="20230622100000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Vamos Jogar No Totobola</title>
   </programme>
-  <programme start="20230615152600 +0100" stop="20230615161200 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Brainstorm</title>
+  <programme start="20230622100000 +0100" stop="20230622110000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Sociedade Recreativa</title>
   </programme>
-  <programme start="20230615161200 +0100" stop="20230615162400 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Zoom África</title>
+  <programme start="20230622110000 +0100" stop="20230622114500 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Regresso A Sizalinda</title>
   </programme>
-  <programme start="20230615162400 +0100" stop="20230615171100 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Programa a designar</title>
+  <programme start="20230622114500 +0100" stop="20230622123000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Ajuste De Contas</title>
   </programme>
-  <programme start="20230615171100 +0100" stop="20230615185800 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Bem-vindos</title>
+  <programme start="20230622123000 +0100" stop="20230622130000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Meu Querido Avô</title>
   </programme>
-  <programme start="20230615185800 +0100" stop="20230615193000 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">África Global</title>
+  <programme start="20230622130000 +0100" stop="20230622140000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Programa A Designar</title>
   </programme>
-  <programme start="20230615193000 +0100" stop="20230615195900 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Repórter África - 2ª Edição</title>
+  <programme start="20230622140000 +0100" stop="20230622143000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Nico D´Obra</title>
   </programme>
-  <programme start="20230615195900 +0100" stop="20230615210100 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Telejornal</title>
+  <programme start="20230622143000 +0100" stop="20230622150000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Nico D´Obra</title>
   </programme>
-  <programme start="20230615210100 +0100" stop="20230615225000 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Conversas ao Sul</title>
+  <programme start="20230622150000 +0100" stop="20230622155000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Bem-Vindos A Beirais</title>
   </programme>
-  <programme start="20230615225000 +0100" stop="20230615231700 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Outras Histórias</title>
-  </programme>
-  <programme start="20230615231700 +0100" stop="20230616000700 +0100" channel="RTP ÁFRICA">
-    <title lang="pt">Crónica dos Bons Malandros</title>
+  <programme start="20230622155000 +0100" stop="20230622165000 +0100" channel="RTP MEMÓRIA">
+    <title lang="pt">Eu Show Nico</title>
   </programme>
   <programme start="20230616000700 +0100" stop="20230616010600 +0100" channel="RTP ÁFRICA">
     <title lang="pt">24 Horas</title>
@@ -10039,110 +9418,65 @@
   <programme start="20230621233000 +0100" stop="20230622000000 +0100" channel="RTP ÁFRICA">
     <title lang="pt">Pecado da Gula</title>
   </programme>
-  <programme start="20230615003000 +0100" stop="20230615020000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Sorrindo Pra Vida</title>
+  <programme start="20230622000000 +0100" stop="20230622010000 +0100" channel="RTP ÁFRICA">
+    <title lang="pt">24 Horas</title>
   </programme>
-  <programme start="20230615020000 +0100" stop="20230615030000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Manhã Viva</title>
+  <programme start="20230622010000 +0100" stop="20230622012700 +0100" channel="RTP ÁFRICA">
+    <title lang="pt">Repórter África - 2ª Edição</title>
   </programme>
-  <programme start="20230615030000 +0100" stop="20230615033000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Terço Da Misericórdia</title>
+  <programme start="20230622012700 +0100" stop="20230622023000 +0100" channel="RTP ÁFRICA">
+    <title lang="pt">Sociedade Civil</title>
   </programme>
-  <programme start="20230615033000 +0100" stop="20230615040000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Oficio Da Imaculada - 1ª Exibição</title>
+  <programme start="20230622023000 +0100" stop="20230622024500 +0100" channel="RTP ÁFRICA">
+    <title lang="pt">Zoom África</title>
   </programme>
-  <programme start="20230615040000 +0100" stop="20230615050000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Vem Louvar</title>
+  <programme start="20230622024500 +0100" stop="20230622043000 +0100" channel="RTP ÁFRICA">
+    <title lang="pt">Bem-vindos</title>
   </programme>
-  <programme start="20230615050000 +0100" stop="20230615060000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Catequese Com O Papa</title>
+  <programme start="20230622043000 +0100" stop="20230622050000 +0100" channel="RTP ÁFRICA">
+    <title lang="pt">Pecado da Gula</title>
   </programme>
-  <programme start="20230615060000 +0100" stop="20230615070000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Revolução Jesus</title>
+  <programme start="20230622050000 +0100" stop="20230622053000 +0100" channel="RTP ÁFRICA">
+    <title lang="pt">Fórum África</title>
   </programme>
-  <programme start="20230615070000 +0100" stop="20230615080000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Minha Família É Assim</title>
+  <programme start="20230622053000 +0100" stop="20230622063000 +0100" channel="RTP ÁFRICA">
+    <title lang="pt">Os Nossos Dias</title>
   </programme>
-  <programme start="20230615080000 +0100" stop="20230615083500 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Santo Terço - Mistérios Luminosos - 1ª Exibição</title>
+  <programme start="20230622063000 +0100" stop="20230622070000 +0100" channel="RTP ÁFRICA">
+    <title lang="pt">Repórter África - 2ª Edição</title>
   </programme>
-  <programme start="20230615083500 +0100" stop="20230615084000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Música Canção Nova</title>
+  <programme start="20230622070000 +0100" stop="20230622100000 +0100" channel="RTP ÁFRICA">
+    <title lang="pt">Bom Dia Portugal</title>
   </programme>
-  <programme start="20230615084000 +0100" stop="20230615090000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Biblia No Meu Dia A Dia - 1ª Exibição</title>
+  <programme start="20230622100000 +0100" stop="20230622103000 +0100" channel="RTP ÁFRICA">
+    <title lang="pt">Fórum África</title>
   </programme>
-  <programme start="20230615090000 +0100" stop="20230615100000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Manhã Viva</title>
+  <programme start="20230622103000 +0100" stop="20230622110000 +0100" channel="RTP ÁFRICA">
+    <title lang="pt">Gente da Minha Rua</title>
   </programme>
-  <programme start="20230615100000 +0100" stop="20230615105900 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Adoração Ao Santíssimo Sacramento - Direto</title>
+  <programme start="20230622110000 +0100" stop="20230622120000 +0100" channel="RTP ÁFRICA">
+    <title lang="pt">Donos Disto Tudo</title>
   </programme>
-  <programme start="20230615105900 +0100" stop="20230615120000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Santa Missa - Direto</title>
+  <programme start="20230622120000 +0100" stop="20230622125900 +0100" channel="RTP ÁFRICA">
+    <title lang="pt">Porquinho Mealheiro</title>
   </programme>
-  <programme start="20230615120000 +0100" stop="20230615133000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Sorrindo Pra Vida - Direto</title>
+  <programme start="20230622125900 +0100" stop="20230622141700 +0100" channel="RTP ÁFRICA">
+    <title lang="pt">Jornal da Tarde</title>
   </programme>
-  <programme start="20230615133000 +0100" stop="20230615134500 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Oração Ao Pai Das Misericórdias - 1ª Exibição</title>
+  <programme start="20230622141700 +0100" stop="20230622144900 +0100" channel="RTP ÁFRICA">
+    <title lang="pt">Repórter África - 1ª Edição</title>
   </programme>
-  <programme start="20230615134500 +0100" stop="20230615140000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Mais Saúde - 1ª Exibição</title>
+  <programme start="20230622144900 +0100" stop="20230622151500 +0100" channel="RTP ÁFRICA">
+    <title lang="pt">África Global</title>
   </programme>
-  <programme start="20230615140000 +0100" stop="20230615142000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Biblia No Meu Dia A Dia</title>
+  <programme start="20230622151500 +0100" stop="20230622160000 +0100" channel="RTP ÁFRICA">
+    <title lang="pt">Brainstorm</title>
   </programme>
-  <programme start="20230615142000 +0100" stop="20230615143000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Música Canção Nova</title>
+  <programme start="20230622160000 +0100" stop="20230622161500 +0100" channel="RTP ÁFRICA">
+    <title lang="pt">Zoom África</title>
   </programme>
-  <programme start="20230615143000 +0100" stop="20230615150000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Na Escola Dos Apóstolos</title>
-  </programme>
-  <programme start="20230615150000 +0100" stop="20230615153000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Terço Da Misericórdia - 1ª Exibição</title>
-  </programme>
-  <programme start="20230615153000 +0100" stop="20230615160000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Luz Da Fé</title>
-  </programme>
-  <programme start="20230615160000 +0100" stop="20230615164700 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Santa Missa - Direto</title>
-  </programme>
-  <programme start="20230615164700 +0100" stop="20230615170000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Oração Ao Pai Das Misericórdias</title>
-  </programme>
-  <programme start="20230615170000 +0100" stop="20230615173000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Parte De Nós</title>
-  </programme>
-  <programme start="20230615173000 +0100" stop="20230615180000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">No Colo Da Mãe</title>
-  </programme>
-  <programme start="20230615180000 +0100" stop="20230615182900 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Loja Cn</title>
-  </programme>
-  <programme start="20230615182900 +0100" stop="20230615190300 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Santo Terço - Direto</title>
-  </programme>
-  <programme start="20230615190300 +0100" stop="20230615193000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Oficio Da Imaculada</title>
-  </programme>
-  <programme start="20230615193000 +0100" stop="20230615200000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Sob O Manto De Maria - Direto</title>
-  </programme>
-  <programme start="20230615200000 +0100" stop="20230615213000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Quinta-Feira De Adoração (Santa Missa) - Direto</title>
-  </programme>
-  <programme start="20230615213000 +0100" stop="20230615223000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Escola Da Fé - 1ª Exibição</title>
-  </programme>
-  <programme start="20230615223000 +0100" stop="20230615230000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Leveza Feminina - 1ª Exibição</title>
-  </programme>
-  <programme start="20230615230000 +0100" stop="20230616000000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">Procissão Das Luzes</title>
-  </programme>
-  <programme start="20230616000000 +0100" stop="20230616003000 +0100" channel="CANÇÃO NOVA HD">
-    <title lang="pt">No Colo Da Mãe</title>
+  <programme start="20230622161500 +0100" stop="20230622170000 +0100" channel="RTP ÁFRICA">
+    <title lang="pt">Príncipes do Nada</title>
   </programme>
   <programme start="20230616003000 +0100" stop="20230616020000 +0100" channel="CANÇÃO NOVA HD">
     <title lang="pt">Sorrindo Pra Vida</title>
@@ -10744,23 +10078,74 @@
   <programme start="20230621230000 +0100" stop="20230622003000 +0100" channel="CANÇÃO NOVA HD">
     <title lang="pt">Tarde Em Família</title>
   </programme>
-  <programme start="20230615010000 +0100" stop="20230615050000 +0100" channel="ARTV">
-    <title lang="pt">Assembleia da República TV</title>
+  <programme start="20230622003000 +0100" stop="20230622020000 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Sorrindo Pra Vida</title>
   </programme>
-  <programme start="20230615050000 +0100" stop="20230615090000 +0100" channel="ARTV">
-    <title lang="pt">Assembleia da República TV</title>
+  <programme start="20230622020000 +0100" stop="20230622030000 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Manhã Viva</title>
   </programme>
-  <programme start="20230615090000 +0100" stop="20230615130000 +0100" channel="ARTV">
-    <title lang="pt">Assembleia da República TV</title>
+  <programme start="20230622030000 +0100" stop="20230622033000 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Terço Da Misericórdia</title>
   </programme>
-  <programme start="20230615130000 +0100" stop="20230615170000 +0100" channel="ARTV">
-    <title lang="pt">Assembleia da República TV</title>
+  <programme start="20230622033000 +0100" stop="20230622040000 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Oficio Da Imaculada - 1ª Exibição</title>
   </programme>
-  <programme start="20230615170000 +0100" stop="20230615210000 +0100" channel="ARTV">
-    <title lang="pt">Assembleia da República TV</title>
+  <programme start="20230622040000 +0100" stop="20230622050000 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Nossa Missão - 1ª Exibição</title>
   </programme>
-  <programme start="20230615210000 +0100" stop="20230616010000 +0100" channel="ARTV">
-    <title lang="pt">Assembleia da República TV</title>
+  <programme start="20230622050000 +0100" stop="20230622060000 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Catequese Com O Papa</title>
+  </programme>
+  <programme start="20230622060000 +0100" stop="20230622070000 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Revolução Jesus</title>
+  </programme>
+  <programme start="20230622070000 +0100" stop="20230622080000 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Minha Família É Assim</title>
+  </programme>
+  <programme start="20230622080000 +0100" stop="20230622083500 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Santo Terço - Mistérios Luminosos - 1ª Exibição</title>
+  </programme>
+  <programme start="20230622083500 +0100" stop="20230622084000 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Música Canção Nova</title>
+  </programme>
+  <programme start="20230622084000 +0100" stop="20230622090000 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Biblia No Meu Dia A Dia - 1ª Exibição</title>
+  </programme>
+  <programme start="20230622090000 +0100" stop="20230622100000 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Manhã Viva</title>
+  </programme>
+  <programme start="20230622100000 +0100" stop="20230622105900 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Adoração Ao Santíssimo Sacramento - Direto</title>
+  </programme>
+  <programme start="20230622105900 +0100" stop="20230622120000 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Santa Missa - Direto</title>
+  </programme>
+  <programme start="20230622120000 +0100" stop="20230622133000 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Sorrindo Pra Vida - Direto</title>
+  </programme>
+  <programme start="20230622133000 +0100" stop="20230622134500 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Oração Ao Pai Das Misericórdias - 1ª Exibição</title>
+  </programme>
+  <programme start="20230622134500 +0100" stop="20230622140000 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Mais Saúde - 1ª Exibição</title>
+  </programme>
+  <programme start="20230622140000 +0100" stop="20230622142000 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Biblia No Meu Dia A Dia</title>
+  </programme>
+  <programme start="20230622142000 +0100" stop="20230622143000 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Música Canção Nova</title>
+  </programme>
+  <programme start="20230622143000 +0100" stop="20230622150000 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Na Escola Dos Apóstolos</title>
+  </programme>
+  <programme start="20230622150000 +0100" stop="20230622153000 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Terço Da Misericórdia - 1ª Exibição</title>
+  </programme>
+  <programme start="20230622153000 +0100" stop="20230622160000 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Luz Da Fé</title>
+  </programme>
+  <programme start="20230622160000 +0100" stop="20230622164700 +0100" channel="CANÇÃO NOVA HD">
+    <title lang="pt">Santa Missa - Direto</title>
   </programme>
   <programme start="20230616010000 +0100" stop="20230616050000 +0100" channel="ARTV">
     <title lang="pt">Assembleia da República TV</title>
@@ -10870,98 +10255,17 @@
   <programme start="20230621210000 +0100" stop="20230622010000 +0100" channel="ARTV">
     <title lang="pt">Assembleia da República TV</title>
   </programme>
-  <programme start="20230615004000 +0100" stop="20230615012000 +0100" channel="GLOBO">
-    <title lang="pt">Amor Perfeito</title>
+  <programme start="20230622010000 +0100" stop="20230622050000 +0100" channel="ARTV">
+    <title lang="pt">Assembleia da República TV</title>
   </programme>
-  <programme start="20230615012000 +0100" stop="20230615021000 +0100" channel="GLOBO">
-    <title lang="pt">Quanto Mais Vida, Melhor!</title>
+  <programme start="20230622050000 +0100" stop="20230622090000 +0100" channel="ARTV">
+    <title lang="pt">Assembleia da República TV</title>
   </programme>
-  <programme start="20230615021000 +0100" stop="20230615025500 +0100" channel="GLOBO">
-    <title lang="pt">Vai Na Fé</title>
+  <programme start="20230622090000 +0100" stop="20230622130000 +0100" channel="ARTV">
+    <title lang="pt">Assembleia da República TV</title>
   </programme>
-  <programme start="20230615025500 +0100" stop="20230615035000 +0100" channel="GLOBO">
-    <title lang="pt">A Lei Do Amor</title>
-  </programme>
-  <programme start="20230615035000 +0100" stop="20230615043500 +0100" channel="GLOBO">
-    <title lang="pt">Lado a Lado</title>
-  </programme>
-  <programme start="20230615043500 +0100" stop="20230615050500 +0100" channel="GLOBO">
-    <title lang="pt">Malhação - Conectados</title>
-  </programme>
-  <programme start="20230615050500 +0100" stop="20230615055000 +0100" channel="GLOBO">
-    <title lang="pt">Era Uma Vez...</title>
-  </programme>
-  <programme start="20230615055000 +0100" stop="20230615063500 +0100" channel="GLOBO">
-    <title lang="pt">Rock Story</title>
-  </programme>
-  <programme start="20230615063500 +0100" stop="20230615071500 +0100" channel="GLOBO">
-    <title lang="pt">Amor Perfeito</title>
-  </programme>
-  <programme start="20230615071500 +0100" stop="20230615080000 +0100" channel="GLOBO">
-    <title lang="pt">Quanto Mais Vida, Melhor!</title>
-  </programme>
-  <programme start="20230615080000 +0100" stop="20230615083500 +0100" channel="GLOBO">
-    <title lang="pt">Vai Na Fé</title>
-  </programme>
-  <programme start="20230615083500 +0100" stop="20230615093000 +0100" channel="GLOBO">
-    <title lang="pt">A Lei Do Amor</title>
-  </programme>
-  <programme start="20230615093000 +0100" stop="20230615101500 +0100" channel="GLOBO">
-    <title lang="pt">Lado a Lado</title>
-  </programme>
-  <programme start="20230615101500 +0100" stop="20230615104500 +0100" channel="GLOBO">
-    <title lang="pt">Malhação - Conectados</title>
-  </programme>
-  <programme start="20230615104500 +0100" stop="20230615113000 +0100" channel="GLOBO">
-    <title lang="pt">Era Uma Vez...</title>
-  </programme>
-  <programme start="20230615113000 +0100" stop="20230615121500 +0100" channel="GLOBO">
-    <title lang="pt">Rock Story</title>
-  </programme>
-  <programme start="20230615121500 +0100" stop="20230615130000 +0100" channel="GLOBO">
-    <title lang="pt">Amor Perfeito</title>
-  </programme>
-  <programme start="20230615130000 +0100" stop="20230615135000 +0100" channel="GLOBO">
-    <title lang="pt">Quanto Mais Vida, Melhor!</title>
-  </programme>
-  <programme start="20230615135000 +0100" stop="20230615144000 +0100" channel="GLOBO">
-    <title lang="pt">Vai Na Fé</title>
-  </programme>
-  <programme start="20230615144000 +0100" stop="20230615154500 +0100" channel="GLOBO">
-    <title lang="pt">A Lei Do Amor</title>
-  </programme>
-  <programme start="20230615154500 +0100" stop="20230615163500 +0100" channel="GLOBO">
-    <title lang="pt">Lado a Lado</title>
-  </programme>
-  <programme start="20230615163500 +0100" stop="20230615170000 +0100" channel="GLOBO">
-    <title lang="pt">Malhação - Conectados</title>
-  </programme>
-  <programme start="20230615170000 +0100" stop="20230615180000 +0100" channel="GLOBO">
-    <title lang="pt">Era Uma Vez...</title>
-  </programme>
-  <programme start="20230615180000 +0100" stop="20230615184500 +0100" channel="GLOBO">
-    <title lang="pt">Rock Story</title>
-  </programme>
-  <programme start="20230615184500 +0100" stop="20230615193500 +0100" channel="GLOBO">
-    <title lang="pt">Amor Perfeito</title>
-  </programme>
-  <programme start="20230615193500 +0100" stop="20230615203000 +0100" channel="GLOBO">
-    <title lang="pt">Quanto Mais Vida, Melhor!</title>
-  </programme>
-  <programme start="20230615203000 +0100" stop="20230615212000 +0100" channel="GLOBO">
-    <title lang="pt">Vai Na Fé</title>
-  </programme>
-  <programme start="20230615212000 +0100" stop="20230615223000 +0100" channel="GLOBO">
-    <title lang="pt">A Lei Do Amor</title>
-  </programme>
-  <programme start="20230615223000 +0100" stop="20230615232000 +0100" channel="GLOBO">
-    <title lang="pt">Lado a Lado</title>
-  </programme>
-  <programme start="20230615232000 +0100" stop="20230616000500 +0100" channel="GLOBO">
-    <title lang="pt">Era Uma Vez...</title>
-  </programme>
-  <programme start="20230616000500 +0100" stop="20230616005000 +0100" channel="GLOBO">
-    <title lang="pt">Rock Story</title>
+  <programme start="20230622130000 +0100" stop="20230622170000 +0100" channel="ARTV">
+    <title lang="pt">Assembleia da República TV</title>
   </programme>
   <programme start="20230616005000 +0100" stop="20230616013500 +0100" channel="GLOBO">
     <title lang="pt">Amor Perfeito</title>
@@ -11309,6 +10613,21 @@
     <title lang="pt">Globo</title>
   </programme>
   <programme start="20230621200000 +0100" stop="20230622000000 +0100" channel="GLOBO">
+    <title lang="pt">Globo</title>
+  </programme>
+  <programme start="20230622000000 +0100" stop="20230622040000 +0100" channel="GLOBO">
+    <title lang="pt">Globo</title>
+  </programme>
+  <programme start="20230622040000 +0100" stop="20230622080000 +0100" channel="GLOBO">
+    <title lang="pt">Globo</title>
+  </programme>
+  <programme start="20230622080000 +0100" stop="20230622120000 +0100" channel="GLOBO">
+    <title lang="pt">Globo</title>
+  </programme>
+  <programme start="20230622120000 +0100" stop="20230622160000 +0100" channel="GLOBO">
+    <title lang="pt">Globo</title>
+  </programme>
+  <programme start="20230622160000 +0100" stop="20230622200000 +0100" channel="GLOBO">
     <title lang="pt">Globo</title>
   </programme>
 </tv>
