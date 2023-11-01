@@ -75,577 +75,12 @@
   </channel>
   <channel id="EUROSPORT 1">
     <display-name lang="pt">EUROSPORT 1</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/eurosport-1.png" />
     <url>http://www.meo.pt</url>
   </channel>
   <channel id="EUROSPORT 2">
     <display-name lang="pt">EUROSPORT 2</display-name>
     <url>http://www.meo.pt</url>
   </channel>
-  <programme start="20231026005000 +0100" stop="20231026011500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Os Milagres De Jesus</title>
-  </programme>
-  <programme start="20231026011500 +0100" stop="20231026014500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Saindo Da Depressão</title>
-  </programme>
-  <programme start="20231026014500 +0100" stop="20231026021500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Prosperidade Com Deus</title>
-  </programme>
-  <programme start="20231026021500 +0100" stop="20231026024500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Terapia Do Amor</title>
-  </programme>
-  <programme start="20231026024500 +0100" stop="20231026025500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Lisboa</title>
-  </programme>
-  <programme start="20231026025500 +0100" stop="20231026031500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Vencendo Os Vícios</title>
-  </programme>
-  <programme start="20231026031500 +0100" stop="20231026033500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Luxemburgo</title>
-  </programme>
-  <programme start="20231026033500 +0100" stop="20231026035500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Alemanha</title>
-  </programme>
-  <programme start="20231026035500 +0100" stop="20231026042000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa França</title>
-  </programme>
-  <programme start="20231026042000 +0100" stop="20231026043000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Porto</title>
-  </programme>
-  <programme start="20231026043000 +0100" stop="20231026045000 +0100" channel="RECORD TV HD">
-    <title lang="pt">A Hora Do Milagre</title>
-  </programme>
-  <programme start="20231026045000 +0100" stop="20231026051000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Itália</title>
-  </programme>
-  <programme start="20231026051000 +0100" stop="20231026052000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Lisboa</title>
-  </programme>
-  <programme start="20231026052000 +0100" stop="20231026054000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Madeira</title>
-  </programme>
-  <programme start="20231026054000 +0100" stop="20231026060000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Suíça</title>
-  </programme>
-  <programme start="20231026060000 +0100" stop="20231026061500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20231026061500 +0100" stop="20231026064000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa França</title>
-  </programme>
-  <programme start="20231026064000 +0100" stop="20231026070000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Coimbra</title>
-  </programme>
-  <programme start="20231026070000 +0100" stop="20231026073000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Hora Do Milagre</title>
-  </programme>
-  <programme start="20231026073000 +0100" stop="20231026080000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Não Desista</title>
-  </programme>
-  <programme start="20231026080000 +0100" stop="20231026090000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Café Com Fé</title>
-  </programme>
-  <programme start="20231026090000 +0100" stop="20231026103000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Hoje Em Dia</title>
-  </programme>
-  <programme start="20231026103000 +0100" stop="20231026123000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Balanço Geral - SP</title>
-  </programme>
-  <programme start="20231026123000 +0100" stop="20231026140000 +0100" channel="RECORD TV HD">
-    <title lang="pt">A Fazenda - Tudo A Ver</title>
-  </programme>
-  <programme start="20231026140000 +0100" stop="20231026140500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Portugal No Ar - Destaques</title>
-  </programme>
-  <programme start="20231026140500 +0100" stop="20231026150000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Bicho Do Mato</title>
-  </programme>
-  <programme start="20231026150000 +0100" stop="20231026153000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Os Milagres De Jesus</title>
-  </programme>
-  <programme start="20231026153000 +0100" stop="20231026163000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Reis</title>
-  </programme>
-  <programme start="20231026163000 +0100" stop="20231026173000 +0100" channel="RECORD TV HD">
-    <title lang="pt">A Terra Prometida</title>
-  </programme>
-  <programme start="20231026173000 +0100" stop="20231026181500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Quando Me Apaixono</title>
-  </programme>
-  <programme start="20231026181500 +0100" stop="20231026191500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Bicho Do Mato</title>
-  </programme>
-  <programme start="20231026191500 +0100" stop="20231026200000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Fala Portugal</title>
-  </programme>
-  <programme start="20231026200000 +0100" stop="20231026210000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Reis</title>
-  </programme>
-  <programme start="20231026210000 +0100" stop="20231026220000 +0100" channel="RECORD TV HD">
-    <title lang="pt">A Terra Prometida</title>
-  </programme>
-  <programme start="20231026220000 +0100" stop="20231027000000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Cidade Alerta - SP</title>
-  </programme>
-  <programme start="20231027000000 +0100" stop="20231027005000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20231027005000 +0100" stop="20231027011500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Os Milagres De Jesus</title>
-  </programme>
-  <programme start="20231027011500 +0100" stop="20231027014500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Saindo Da Depressão</title>
-  </programme>
-  <programme start="20231027014500 +0100" stop="20231027021500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Prosperidade Com Deus</title>
-  </programme>
-  <programme start="20231027021500 +0100" stop="20231027024500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Terapia Do Amor</title>
-  </programme>
-  <programme start="20231027024500 +0100" stop="20231027025500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Lisboa</title>
-  </programme>
-  <programme start="20231027025500 +0100" stop="20231027031500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Vencendo Os Vícios</title>
-  </programme>
-  <programme start="20231027031500 +0100" stop="20231027033500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Luxemburgo</title>
-  </programme>
-  <programme start="20231027033500 +0100" stop="20231027035500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Alemanha</title>
-  </programme>
-  <programme start="20231027035500 +0100" stop="20231027042000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa França</title>
-  </programme>
-  <programme start="20231027042000 +0100" stop="20231027043000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Porto</title>
-  </programme>
-  <programme start="20231027043000 +0100" stop="20231027045000 +0100" channel="RECORD TV HD">
-    <title lang="pt">A Hora Do Milagre</title>
-  </programme>
-  <programme start="20231027045000 +0100" stop="20231027051000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Itália</title>
-  </programme>
-  <programme start="20231027051000 +0100" stop="20231027052000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Lisboa</title>
-  </programme>
-  <programme start="20231027052000 +0100" stop="20231027054000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Madeira</title>
-  </programme>
-  <programme start="20231027054000 +0100" stop="20231027060000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Suíça</title>
-  </programme>
-  <programme start="20231027060000 +0100" stop="20231027061500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20231027061500 +0100" stop="20231027064000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa França</title>
-  </programme>
-  <programme start="20231027064000 +0100" stop="20231027070000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Coimbra</title>
-  </programme>
-  <programme start="20231027070000 +0100" stop="20231027073000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Hora Do Milagre</title>
-  </programme>
-  <programme start="20231027073000 +0100" stop="20231027080000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Não Desista</title>
-  </programme>
-  <programme start="20231027080000 +0100" stop="20231027090000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Café Com Fé</title>
-  </programme>
-  <programme start="20231027090000 +0100" stop="20231027103000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Hoje Em Dia</title>
-  </programme>
-  <programme start="20231027103000 +0100" stop="20231027123000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Balanço Geral - SP</title>
-  </programme>
-  <programme start="20231027123000 +0100" stop="20231027140000 +0100" channel="RECORD TV HD">
-    <title lang="pt">A Fazenda - Tudo A Ver</title>
-  </programme>
-  <programme start="20231027140000 +0100" stop="20231027140500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Portugal No Ar - Destaques</title>
-  </programme>
-  <programme start="20231027140500 +0100" stop="20231027150000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Bicho Do Mato</title>
-  </programme>
-  <programme start="20231027150000 +0100" stop="20231027153000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Os Milagres De Jesus</title>
-  </programme>
-  <programme start="20231027153000 +0100" stop="20231027163000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Reis</title>
-  </programme>
-  <programme start="20231027163000 +0100" stop="20231027173000 +0100" channel="RECORD TV HD">
-    <title lang="pt">A Terra Prometida</title>
-  </programme>
-  <programme start="20231027173000 +0100" stop="20231027181500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Quando Me Apaixono</title>
-  </programme>
-  <programme start="20231027181500 +0100" stop="20231027191500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Bicho Do Mato</title>
-  </programme>
-  <programme start="20231027191500 +0100" stop="20231027200000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Fala Portugal</title>
-  </programme>
-  <programme start="20231027200000 +0100" stop="20231027210000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Reis</title>
-  </programme>
-  <programme start="20231027210000 +0100" stop="20231027220000 +0100" channel="RECORD TV HD">
-    <title lang="pt">A Terra Prometida</title>
-  </programme>
-  <programme start="20231027220000 +0100" stop="20231028000000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Cidade Alerta - SP</title>
-  </programme>
-  <programme start="20231028000000 +0100" stop="20231028005000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20231028005000 +0100" stop="20231028011500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Os Milagres De Jesus</title>
-  </programme>
-  <programme start="20231028011500 +0100" stop="20231028014500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Hora Do Milagre</title>
-  </programme>
-  <programme start="20231028014500 +0100" stop="20231028021500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Prosperidade Com Deus</title>
-  </programme>
-  <programme start="20231028021500 +0100" stop="20231028024500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Terapia Do Amor</title>
-  </programme>
-  <programme start="20231028024500 +0100" stop="20231028030500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Vencendo Os Vícios</title>
-  </programme>
-  <programme start="20231028030500 +0100" stop="20231028032500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Luxemburgo</title>
-  </programme>
-  <programme start="20231028032500 +0100" stop="20231028034000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Alemanha</title>
-  </programme>
-  <programme start="20231028034000 +0100" stop="20231028040000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Coimbra</title>
-  </programme>
-  <programme start="20231028040000 +0100" stop="20231028041000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Lisboa</title>
-  </programme>
-  <programme start="20231028041000 +0100" stop="20231028043000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Itália</title>
-  </programme>
-  <programme start="20231028043000 +0100" stop="20231028045000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Madeira</title>
-  </programme>
-  <programme start="20231028045000 +0100" stop="20231028051000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa Suíça</title>
-  </programme>
-  <programme start="20231028051000 +0100" stop="20231028052000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Lisboa</title>
-  </programme>
-  <programme start="20231028052000 +0100" stop="20231028054500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Programa França</title>
-  </programme>
-  <programme start="20231028054500 +0100" stop="20231028060000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20231028060000 +0100" stop="20231028063000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Prosperidade Com Deus</title>
-  </programme>
-  <programme start="20231028063000 +0100" stop="20231028070000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Hora Do Milagre</title>
-  </programme>
-  <programme start="20231028070000 +0100" stop="20231028073000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Não Desista</title>
-  </programme>
-  <programme start="20231028073000 +0100" stop="20231028080000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Problemas E Soluções</title>
-  </programme>
-  <programme start="20231028080000 +0100" stop="20231028090000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Record Kids</title>
-  </programme>
-  <programme start="20231028090000 +0100" stop="20231028104500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Hoje Em Dia</title>
-  </programme>
-  <programme start="20231028104500 +0100" stop="20231028113000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Soltando Os Bichos</title>
-  </programme>
-  <programme start="20231028113000 +0100" stop="20231028123000 +0100" channel="RECORD TV HD">
-    <title lang="pt">The Love School</title>
-  </programme>
-  <programme start="20231028123000 +0100" stop="20231028130000 +0100" channel="RECORD TV HD">
-    <title lang="pt">A Fazenda - Tudo A Ver</title>
-  </programme>
-  <programme start="20231028130000 +0100" stop="20231028153000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Quando Me Apaixono - Compacto</title>
-  </programme>
-  <programme start="20231028153000 +0100" stop="20231028164500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Câmera Record</title>
-  </programme>
-  <programme start="20231028164500 +0100" stop="20231028193000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Vai Dar Namoro &amp; Dança Gatinho</title>
-  </programme>
-  <programme start="20231028193000 +0100" stop="20231028200000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Giro</title>
-  </programme>
-  <programme start="20231028200000 +0100" stop="20231029000000 +0100" channel="RECORD TV HD">
-    <title lang="pt">A Terra Prometida - Compacto</title>
-  </programme>
-  <programme start="20231029000000 +0100" stop="20231029005000 +0100" channel="RECORD TV HD">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20231029005000 +0100" stop="20231029012500 +0100" channel="RECORD TV HD">
-    <title lang="pt">Entrelinhas</title>
-  </programme>
-  <programme start="20231029012500 +0100" stop="20231029022500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Santo Culto - Bispo Macedo</title>
-  </programme>
-  <programme start="20231029025500 +0000" stop="20231029031500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Vencendo Os Vícios</title>
-  </programme>
-  <programme start="20231029031500 +0000" stop="20231029033000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Alemanha</title>
-  </programme>
-  <programme start="20231029033000 +0000" stop="20231029035500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa França</title>
-  </programme>
-  <programme start="20231029035500 +0000" stop="20231029041500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Itália</title>
-  </programme>
-  <programme start="20231029041500 +0000" stop="20231029043500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Madeira</title>
-  </programme>
-  <programme start="20231029043500 +0000" stop="20231029045500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Vencendo Os Vícios</title>
-  </programme>
-  <programme start="20231029045500 +0000" stop="20231029051500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Suíça</title>
-  </programme>
-  <programme start="20231029051500 +0000" stop="20231029053500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Coimbra</title>
-  </programme>
-  <programme start="20231029053500 +0000" stop="20231029054500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Lisboa</title>
-  </programme>
-  <programme start="20231029054500 +0000" stop="20231029060000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20231029060000 +0000" stop="20231029063000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Prosperidade Com Deus</title>
-  </programme>
-  <programme start="20231029063000 +0000" stop="20231029070000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Hora Do Milagre</title>
-  </programme>
-  <programme start="20231029070000 +0000" stop="20231029073000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Não Desista</title>
-  </programme>
-  <programme start="20231029073000 +0000" stop="20231029080000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Problemas E Soluções</title>
-  </programme>
-  <programme start="20231029080000 +0000" stop="20231029090000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Santo Culto - Bispo Macedo</title>
-  </programme>
-  <programme start="20231029090000 +0000" stop="20231029111500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Record Kids</title>
-  </programme>
-  <programme start="20231029111500 +0000" stop="20231029143000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Domingo Espetacular</title>
-  </programme>
-  <programme start="20231029143000 +0000" stop="20231029144500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Insólito</title>
-  </programme>
-  <programme start="20231029144500 +0000" stop="20231029170000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Reis - Compacto</title>
-  </programme>
-  <programme start="20231029170000 +0000" stop="20231029173000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Palco</title>
-  </programme>
-  <programme start="20231029173000 +0000" stop="20231029220000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Hora Do Faro</title>
-  </programme>
-  <programme start="20231029220000 +0000" stop="20231030010000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Entrelinhas</title>
-  </programme>
-  <programme start="20231030010000 +0000" stop="20231030043000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Domingo Espetacular</title>
-  </programme>
-  <programme start="20231030043000 +0000" stop="20231030050000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Prosperidade Com Deus</title>
-  </programme>
-  <programme start="20231030050000 +0000" stop="20231030052000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Madeira</title>
-  </programme>
-  <programme start="20231030052000 +0000" stop="20231030054000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Vencendo Os Vícios</title>
-  </programme>
-  <programme start="20231030054000 +0000" stop="20231030060000 +0000" channel="RECORD TV HD">
-    <title lang="pt">A Hora Do Milagre</title>
-  </programme>
-  <programme start="20231030060000 +0000" stop="20231030061500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20231030061500 +0000" stop="20231030064000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa França</title>
-  </programme>
-  <programme start="20231030064000 +0000" stop="20231030065000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Lisboa</title>
-  </programme>
-  <programme start="20231030065000 +0000" stop="20231030071000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Coimbra</title>
-  </programme>
-  <programme start="20231030071000 +0000" stop="20231030073000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Vencendo Os Vícios</title>
-  </programme>
-  <programme start="20231030073000 +0000" stop="20231030080000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Hora Do Milagre</title>
-  </programme>
-  <programme start="20231030080000 +0000" stop="20231030090000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Café Com Fé</title>
-  </programme>
-  <programme start="20231030090000 +0000" stop="20231030123000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Domingo Espetacular</title>
-  </programme>
-  <programme start="20231030123000 +0000" stop="20231030140000 +0000" channel="RECORD TV HD">
-    <title lang="pt">A Fazenda - Tudo A Ver</title>
-  </programme>
-  <programme start="20231030140000 +0000" stop="20231030140500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Portugal No Ar - Destaques</title>
-  </programme>
-  <programme start="20231030140500 +0000" stop="20231030150000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Bicho Do Mato</title>
-  </programme>
-  <programme start="20231030150000 +0000" stop="20231030153000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Os Milagres De Jesus</title>
-  </programme>
-  <programme start="20231030153000 +0000" stop="20231030163000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Reis</title>
-  </programme>
-  <programme start="20231030163000 +0000" stop="20231030173000 +0000" channel="RECORD TV HD">
-    <title lang="pt">A Terra Prometida</title>
-  </programme>
-  <programme start="20231030173000 +0000" stop="20231030181500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Quando Me Apaixono</title>
-  </programme>
-  <programme start="20231030181500 +0000" stop="20231030191500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Bicho Do Mato</title>
-  </programme>
-  <programme start="20231030191500 +0000" stop="20231030200000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Fala Portugal</title>
-  </programme>
-  <programme start="20231030200000 +0000" stop="20231030210000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Reis</title>
-  </programme>
-  <programme start="20231030210000 +0000" stop="20231030220000 +0000" channel="RECORD TV HD">
-    <title lang="pt">A Terra Prometida</title>
-  </programme>
-  <programme start="20231030220000 +0000" stop="20231030230000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Alerta Portugal</title>
-  </programme>
-  <programme start="20231030230000 +0000" stop="20231031000000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Cidade Alerta - SP</title>
-  </programme>
-  <programme start="20231031000000 +0000" stop="20231031005000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20231031005000 +0000" stop="20231031011500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Os Milagres De Jesus</title>
-  </programme>
-  <programme start="20231031011500 +0000" stop="20231031014500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Saindo Da Depressão</title>
-  </programme>
-  <programme start="20231031014500 +0000" stop="20231031015500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Lisboa</title>
-  </programme>
-  <programme start="20231031015500 +0000" stop="20231031022500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Prosperidade Com Deus</title>
-  </programme>
-  <programme start="20231031022500 +0000" stop="20231031025500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Terapia Do Amor</title>
-  </programme>
-  <programme start="20231031025500 +0000" stop="20231031031500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Vencendo Os Vícios</title>
-  </programme>
-  <programme start="20231031031500 +0000" stop="20231031033500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Luxemburgo</title>
-  </programme>
-  <programme start="20231031033500 +0000" stop="20231031034500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Porto</title>
-  </programme>
-  <programme start="20231031034500 +0000" stop="20231031040500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Alemanha</title>
-  </programme>
-  <programme start="20231031040500 +0000" stop="20231031043000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa França</title>
-  </programme>
-  <programme start="20231031043000 +0000" stop="20231031044000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Lisboa</title>
-  </programme>
-  <programme start="20231031044000 +0000" stop="20231031050000 +0000" channel="RECORD TV HD">
-    <title lang="pt">A Hora Do Milagre</title>
-  </programme>
-  <programme start="20231031050000 +0000" stop="20231031052000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Itália</title>
-  </programme>
-  <programme start="20231031052000 +0000" stop="20231031054000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Madeira</title>
-  </programme>
-  <programme start="20231031054000 +0000" stop="20231031060000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Suíça</title>
-  </programme>
-  <programme start="20231031060000 +0000" stop="20231031061500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20231031061500 +0000" stop="20231031064000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa França</title>
-  </programme>
-  <programme start="20231031064000 +0000" stop="20231031070000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Coimbra</title>
-  </programme>
-  <programme start="20231031070000 +0000" stop="20231031073000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Hora Do Milagre</title>
-  </programme>
-  <programme start="20231031073000 +0000" stop="20231031080000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Não Desista</title>
-  </programme>
-  <programme start="20231031080000 +0000" stop="20231031090000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Café Com Fé</title>
-  </programme>
-  <programme start="20231031090000 +0000" stop="20231031103000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Hoje Em Dia</title>
-  </programme>
-  <programme start="20231031103000 +0000" stop="20231031123000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Balanço Geral - SP</title>
-  </programme>
-  <programme start="20231031123000 +0000" stop="20231031140000 +0000" channel="RECORD TV HD">
-    <title lang="pt">A Fazenda - Tudo A Ver</title>
-  </programme>
-  <programme start="20231031140000 +0000" stop="20231031140500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Portugal No Ar - Destaques</title>
-  </programme>
-  <programme start="20231031140500 +0000" stop="20231031150000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Bicho Do Mato</title>
-  </programme>
-  <programme start="20231031150000 +0000" stop="20231031153000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Os Milagres De Jesus</title>
-  </programme>
-  <programme start="20231031153000 +0000" stop="20231031163000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Reis</title>
-  </programme>
-  <programme start="20231031163000 +0000" stop="20231031173000 +0000" channel="RECORD TV HD">
-    <title lang="pt">A Terra Prometida</title>
-  </programme>
-  <programme start="20231031173000 +0000" stop="20231031181500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Quando Me Apaixono</title>
-  </programme>
-  <programme start="20231031181500 +0000" stop="20231031191500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Bicho Do Mato</title>
-  </programme>
-  <programme start="20231031191500 +0000" stop="20231031200000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Fala Portugal</title>
-  </programme>
-  <programme start="20231031200000 +0000" stop="20231031210000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Reis</title>
-  </programme>
-  <programme start="20231031210000 +0000" stop="20231031220000 +0000" channel="RECORD TV HD">
-    <title lang="pt">A Terra Prometida</title>
-  </programme>
-  <programme start="20231031220000 +0000" stop="20231101000000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Cidade Alerta - SP</title>
-  </programme>
   <programme start="20231101000000 +0000" stop="20231101005000 +0000" channel="RECORD TV HD">
     <title lang="pt">Palavra Amiga - Bispo Macedo</title>
   </programme>
@@ -751,391 +186,574 @@
   <programme start="20231101220000 +0000" stop="20231102000000 +0000" channel="RECORD TV HD">
     <title lang="pt">Cidade Alerta - SP</title>
   </programme>
-  <programme start="20231026003000 +0100" stop="20231026020000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231102000000 +0000" stop="20231102005000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
   </programme>
-  <programme start="20231026020000 +0100" stop="20231026040000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Trail: World Series</title>
+  <programme start="20231102005000 +0000" stop="20231102011500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Os Milagres De Jesus</title>
   </programme>
-  <programme start="20231026040000 +0100" stop="20231026053000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231102011500 +0000" stop="20231102014500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Saindo Da Depressão</title>
   </programme>
-  <programme start="20231026053000 +0100" stop="20231026073000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo: Volta a França</title>
+  <programme start="20231102014500 +0000" stop="20231102021500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Prosperidade Com Deus</title>
   </programme>
-  <programme start="20231026073000 +0100" stop="20231026093000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231102021500 +0000" stop="20231102024500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Terapia Do Amor</title>
   </programme>
-  <programme start="20231026093000 +0100" stop="20231026103000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Trail: World Series</title>
+  <programme start="20231102024500 +0000" stop="20231102025500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Lisboa</title>
   </programme>
-  <programme start="20231026103000 +0100" stop="20231026120000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Triatlo: Super Liga, Neom</title>
+  <programme start="20231102025500 +0000" stop="20231102031500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Vencendo Os Vícios</title>
   </programme>
-  <programme start="20231026120000 +0100" stop="20231026130000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231102031500 +0000" stop="20231102033500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Luxemburgo</title>
   </programme>
-  <programme start="20231026130000 +0100" stop="20231026170000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte (Direto)</title>
+  <programme start="20231102033500 +0000" stop="20231102035500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Alemanha</title>
   </programme>
-  <programme start="20231026170000 +0100" stop="20231026183000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo Pista: Liga dos Campeões, Maiorca</title>
+  <programme start="20231102035500 +0000" stop="20231102042000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa França</title>
   </programme>
-  <programme start="20231026183000 +0100" stop="20231026190000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">BTT: Taça Mundo, Girona Barcelona</title>
+  <programme start="20231102042000 +0000" stop="20231102043000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Porto</title>
   </programme>
-  <programme start="20231026190000 +0100" stop="20231026230000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte (Direto)</title>
+  <programme start="20231102043000 +0000" stop="20231102045000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Hora Do Milagre</title>
   </programme>
-  <programme start="20231026230000 +0100" stop="20231027003000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo Pista: Liga dos Campeões, Maiorca</title>
+  <programme start="20231102045000 +0000" stop="20231102051000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Itália</title>
   </programme>
-  <programme start="20231027003000 +0100" stop="20231027020000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231102051000 +0000" stop="20231102052000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Lisboa</title>
   </programme>
-  <programme start="20231027020000 +0100" stop="20231027040000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo: Volta a França, Apresentação Percurso</title>
+  <programme start="20231102052000 +0000" stop="20231102054000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Madeira</title>
   </programme>
-  <programme start="20231027040000 +0100" stop="20231027060000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231102054000 +0000" stop="20231102060000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Suíça</title>
   </programme>
-  <programme start="20231027060000 +0100" stop="20231027073000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Trail: World Series, Il Golfo dell Isola</title>
+  <programme start="20231102060000 +0000" stop="20231102061500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
   </programme>
-  <programme start="20231027073000 +0100" stop="20231027093000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231102061500 +0000" stop="20231102064000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa França</title>
   </programme>
-  <programme start="20231027093000 +0100" stop="20231027110000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Triatlo</title>
+  <programme start="20231102064000 +0000" stop="20231102070000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Coimbra</title>
   </programme>
-  <programme start="20231027110000 +0100" stop="20231027114500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231102070000 +0000" stop="20231102073000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Hora Do Milagre</title>
   </programme>
-  <programme start="20231027114500 +0100" stop="20231027180000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte (Direto)</title>
+  <programme start="20231102073000 +0000" stop="20231102080000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Não Desista</title>
   </programme>
-  <programme start="20231027180000 +0100" stop="20231027184500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Triatlo</title>
+  <programme start="20231102080000 +0000" stop="20231102090000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Café Com Fé</title>
   </programme>
-  <programme start="20231027184500 +0100" stop="20231027220500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte (Direto)</title>
+  <programme start="20231102090000 +0000" stop="20231102103000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Hoje Em Dia</title>
   </programme>
-  <programme start="20231027220500 +0100" stop="20231027230000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo Pista: Liga dos Campeões, Maiorca</title>
+  <programme start="20231102103000 +0000" stop="20231102123000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Balanço Geral - SP</title>
   </programme>
-  <programme start="20231027230000 +0100" stop="20231028003000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Triatlo: Super Liga, Neom</title>
+  <programme start="20231102123000 +0000" stop="20231102140000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Fazenda - Tudo A Ver</title>
   </programme>
-  <programme start="20231028003000 +0100" stop="20231028020000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231102140000 +0000" stop="20231102140500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Portugal No Ar - Destaques</title>
   </programme>
-  <programme start="20231028020000 +0100" stop="20231028030000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Trail: World Series, Il Golfo dell Isola</title>
+  <programme start="20231102140500 +0000" stop="20231102150000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Bicho Do Mato</title>
   </programme>
-  <programme start="20231028030000 +0100" stop="20231028040000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Breakdancing: BC One</title>
+  <programme start="20231102150000 +0000" stop="20231102153000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Os Milagres De Jesus</title>
   </programme>
-  <programme start="20231028040000 +0100" stop="20231028060000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231102153000 +0000" stop="20231102163000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Reis</title>
   </programme>
-  <programme start="20231028060000 +0100" stop="20231028073500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Triatlo: Super Liga, Neom</title>
+  <programme start="20231102163000 +0000" stop="20231102173000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Terra Prometida</title>
   </programme>
-  <programme start="20231028073500 +0100" stop="20231028084500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231102173000 +0000" stop="20231102181500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Quando Me Apaixono</title>
   </programme>
-  <programme start="20231028084500 +0100" stop="20231028103000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden (Direto)</title>
+  <programme start="20231102181500 +0000" stop="20231102191500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Bicho Do Mato</title>
   </programme>
-  <programme start="20231028103000 +0100" stop="20231028111500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231102191500 +0000" stop="20231102200000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Fala Portugal</title>
   </programme>
-  <programme start="20231028111500 +0100" stop="20231028114500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231102200000 +0000" stop="20231102210000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Reis</title>
   </programme>
-  <programme start="20231028114500 +0100" stop="20231028130000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden (Direto)</title>
+  <programme start="20231102210000 +0000" stop="20231102220000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Terra Prometida</title>
   </programme>
-  <programme start="20231028130000 +0100" stop="20231028163000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte (Direto)</title>
+  <programme start="20231102220000 +0000" stop="20231103000000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Cidade Alerta - SP</title>
   </programme>
-  <programme start="20231028163000 +0100" stop="20231028165500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231103000000 +0000" stop="20231103005000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
   </programme>
-  <programme start="20231028165500 +0100" stop="20231028172500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231103005000 +0000" stop="20231103011500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Os Milagres De Jesus</title>
   </programme>
-  <programme start="20231028172500 +0100" stop="20231028173000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo Pista: Unlocked</title>
+  <programme start="20231103011500 +0000" stop="20231103014500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Saindo Da Depressão</title>
   </programme>
-  <programme start="20231028173000 +0100" stop="20231028200000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo Pista: Liga dos Campeões, Berlim (Direto)</title>
+  <programme start="20231103014500 +0000" stop="20231103021500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Prosperidade Com Deus</title>
   </programme>
-  <programme start="20231028200000 +0100" stop="20231028223000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte (Direto)</title>
+  <programme start="20231103021500 +0000" stop="20231103024500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Terapia Do Amor</title>
   </programme>
-  <programme start="20231028223000 +0100" stop="20231028233000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Hipismo: Global Champions Tour, Riade</title>
+  <programme start="20231103024500 +0000" stop="20231103025500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Lisboa</title>
   </programme>
-  <programme start="20231028233000 +0100" stop="20231029000000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231103025500 +0000" stop="20231103031500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Vencendo Os Vícios</title>
   </programme>
-  <programme start="20231029000000 +0100" stop="20231029003000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231103031500 +0000" stop="20231103033500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Luxemburgo</title>
   </programme>
-  <programme start="20231029003000 +0100" stop="20231029020000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231103033500 +0000" stop="20231103035500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Alemanha</title>
   </programme>
-  <programme start="20231029020000 +0100" stop="20231029030000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo Pista: Liga dos Campeões, Berlim</title>
+  <programme start="20231103035500 +0000" stop="20231103042000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa França</title>
   </programme>
-  <programme start="20231029030000 +0100" stop="20231029040000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Hipismo: Global Champions Tour, Riade</title>
+  <programme start="20231103042000 +0000" stop="20231103043000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Porto</title>
   </programme>
-  <programme start="20231029040000 +0100" stop="20231029050000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231103043000 +0000" stop="20231103045000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Hora Do Milagre</title>
   </programme>
-  <programme start="20231029050000 +0100" stop="20231029060000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231103045000 +0000" stop="20231103051000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Itália</title>
   </programme>
-  <programme start="20231029060000 +0100" stop="20231029073000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo Pista: Liga dos Campeões, Berlim</title>
+  <programme start="20231103051000 +0000" stop="20231103052000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Lisboa</title>
   </programme>
-  <programme start="20231029073000 +0100" stop="20231029080000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231103052000 +0000" stop="20231103054000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Madeira</title>
   </programme>
-  <programme start="20231029080000 +0100" stop="20231029084500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231103054000 +0000" stop="20231103060000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Suíça</title>
   </programme>
-  <programme start="20231029084500 +0100" stop="20231029103000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden (Direto)</title>
+  <programme start="20231103060000 +0000" stop="20231103061500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
   </programme>
-  <programme start="20231029103000 +0100" stop="20231029111500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo Pista: Liga dos Campeões, Berlim</title>
+  <programme start="20231103061500 +0000" stop="20231103064000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa França</title>
   </programme>
-  <programme start="20231029111500 +0100" stop="20231029114500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231103064000 +0000" stop="20231103070000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Coimbra</title>
   </programme>
-  <programme start="20231029114500 +0100" stop="20231029130000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden (Direto)</title>
+  <programme start="20231103070000 +0000" stop="20231103073000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Hora Do Milagre</title>
   </programme>
-  <programme start="20231029130000 +0100" stop="20231029160000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte (Direto)</title>
+  <programme start="20231103073000 +0000" stop="20231103080000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Não Desista</title>
   </programme>
-  <programme start="20231029160000 +0100" stop="20231029170000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231103080000 +0000" stop="20231103090000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Café Com Fé</title>
   </programme>
-  <programme start="20231029170000 +0100" stop="20231029180000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231103090000 +0000" stop="20231103103000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Hoje Em Dia</title>
   </programme>
-  <programme start="20231029180000 +0100" stop="20231029184500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231103103000 +0000" stop="20231103123000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Balanço Geral - SP</title>
   </programme>
-  <programme start="20231029184500 +0100" stop="20231029220000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte (Direto)</title>
+  <programme start="20231103123000 +0000" stop="20231103140000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Fazenda - Tudo A Ver</title>
   </programme>
-  <programme start="20231029220000 +0100" stop="20231029230000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Hipismo: Taça Mundo, Washington</title>
+  <programme start="20231103140000 +0000" stop="20231103140500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Portugal No Ar - Destaques</title>
   </programme>
-  <programme start="20231029230000 +0100" stop="20231030000000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231103140500 +0000" stop="20231103150000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Bicho Do Mato</title>
   </programme>
-  <programme start="20231030000000 +0100" stop="20231030003000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231103150000 +0000" stop="20231103153000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Os Milagres De Jesus</title>
   </programme>
-  <programme start="20231030003000 +0100" stop="20231030020000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231103153000 +0000" stop="20231103163000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Reis</title>
   </programme>
-  <programme start="20231030020000 +0100" stop="20231030030000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231103163000 +0000" stop="20231103173000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Terra Prometida</title>
   </programme>
-  <programme start="20231030030000 +0100" stop="20231030040000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231103173000 +0000" stop="20231103181500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Quando Me Apaixono</title>
   </programme>
-  <programme start="20231030040000 +0100" stop="20231030060000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231103181500 +0000" stop="20231103191500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Bicho Do Mato</title>
   </programme>
-  <programme start="20231030060000 +0100" stop="20231030064500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231103191500 +0000" stop="20231103200000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Fala Portugal</title>
   </programme>
-  <programme start="20231030064500 +0100" stop="20231030073000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231103200000 +0000" stop="20231103210000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Reis</title>
   </programme>
-  <programme start="20231030073000 +0100" stop="20231030083000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Escalada: Torneio Qualificação Olímpica, Laval</title>
+  <programme start="20231103210000 +0000" stop="20231103220000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Terra Prometida</title>
   </programme>
-  <programme start="20231030083000 +0100" stop="20231030093000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Escalada: Torneio Qualificação Olímpica, Laval</title>
+  <programme start="20231103220000 +0000" stop="20231104000000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Cidade Alerta - SP</title>
   </programme>
-  <programme start="20231030093000 +0100" stop="20231030103000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231104000000 +0000" stop="20231104005000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
   </programme>
-  <programme start="20231030103000 +0100" stop="20231030113000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231104005000 +0000" stop="20231104011500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Os Milagres De Jesus</title>
   </programme>
-  <programme start="20231030113000 +0100" stop="20231030130000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo Pista: Liga dos Campeões, Berlim</title>
+  <programme start="20231104011500 +0000" stop="20231104014500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Hora Do Milagre</title>
   </programme>
-  <programme start="20231030130000 +0100" stop="20231030150000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231104014500 +0000" stop="20231104021500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Prosperidade Com Deus</title>
   </programme>
-  <programme start="20231030150000 +0100" stop="20231030160000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231104021500 +0000" stop="20231104024500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Terapia Do Amor</title>
   </programme>
-  <programme start="20231030160000 +0100" stop="20231030170000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231104024500 +0000" stop="20231104030500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Vencendo Os Vícios</title>
   </programme>
-  <programme start="20231030170000 +0100" stop="20231030173000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Escalada: Climbing Show</title>
+  <programme start="20231104030500 +0000" stop="20231104032500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Luxemburgo</title>
   </programme>
-  <programme start="20231030173000 +0100" stop="20231030193000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231104032500 +0000" stop="20231104034000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Alemanha</title>
   </programme>
-  <programme start="20231030193000 +0100" stop="20231030200000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Escalada: Climbing Show</title>
+  <programme start="20231104034000 +0000" stop="20231104040000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Coimbra</title>
   </programme>
-  <programme start="20231030200000 +0100" stop="20231030210000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo Pista: Liga dos Campeões, Berlim</title>
+  <programme start="20231104040000 +0000" stop="20231104041000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Lisboa</title>
   </programme>
-  <programme start="20231030210000 +0100" stop="20231030223000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo: Singapura</title>
+  <programme start="20231104041000 +0000" stop="20231104043000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Itália</title>
   </programme>
-  <programme start="20231030223000 +0100" stop="20231031003000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231104043000 +0000" stop="20231104045000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Madeira</title>
   </programme>
-  <programme start="20231031003000 +0100" stop="20231031011500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231104045000 +0000" stop="20231104051000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Suíça</title>
   </programme>
-  <programme start="20231031011500 +0100" stop="20231031020000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231104051000 +0000" stop="20231104052000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Lisboa</title>
   </programme>
-  <programme start="20231031020000 +0100" stop="20231031040000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231104052000 +0000" stop="20231104054500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa França</title>
   </programme>
-  <programme start="20231031040000 +0100" stop="20231031050000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231104054500 +0000" stop="20231104060000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
   </programme>
-  <programme start="20231031050000 +0100" stop="20231031060000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231104060000 +0000" stop="20231104063000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Prosperidade Com Deus</title>
   </programme>
-  <programme start="20231031060000 +0100" stop="20231031073000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231104063000 +0000" stop="20231104070000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Hora Do Milagre</title>
   </programme>
-  <programme start="20231031073000 +0100" stop="20231031081500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231104070000 +0000" stop="20231104073000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Não Desista</title>
   </programme>
-  <programme start="20231031081500 +0100" stop="20231031090000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231104073000 +0000" stop="20231104080000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Problemas E Soluções</title>
   </programme>
-  <programme start="20231031090000 +0100" stop="20231031093000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Escalada: Climbing Show</title>
+  <programme start="20231104080000 +0000" stop="20231104090000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Record Kids</title>
   </programme>
-  <programme start="20231031093000 +0100" stop="20231031113000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231104090000 +0000" stop="20231104104500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Hoje Em Dia</title>
   </programme>
-  <programme start="20231031113000 +0100" stop="20231031121500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231104104500 +0000" stop="20231104113000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Soltando Os Bichos</title>
   </programme>
-  <programme start="20231031121500 +0100" stop="20231031130000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231104113000 +0000" stop="20231104123000 +0000" channel="RECORD TV HD">
+    <title lang="pt">The Love School</title>
   </programme>
-  <programme start="20231031130000 +0100" stop="20231031134500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231104123000 +0000" stop="20231104130000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Fazenda - Tudo A Ver</title>
   </programme>
-  <programme start="20231031134500 +0100" stop="20231031143000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231104130000 +0000" stop="20231104153000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Quando Me Apaixono - Compacto</title>
   </programme>
-  <programme start="20231031143000 +0100" stop="20231031153000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo Pista: Liga dos Campeões, Berlim</title>
+  <programme start="20231104153000 +0000" stop="20231104164500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Câmera Record</title>
   </programme>
-  <programme start="20231031153000 +0100" stop="20231031173000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231104164500 +0000" stop="20231104193000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Vai Dar Namoro &amp; Dança Gatinho</title>
   </programme>
-  <programme start="20231031173000 +0100" stop="20231031181500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231104193000 +0000" stop="20231104200000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Giro</title>
   </programme>
-  <programme start="20231031181500 +0100" stop="20231031190000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231104200000 +0000" stop="20231105000000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Terra Prometida - Compacto</title>
   </programme>
-  <programme start="20231031190000 +0100" stop="20231031200000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo Pista: Liga dos Campeões, Berlim</title>
+  <programme start="20231105000000 +0000" stop="20231105005000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
   </programme>
-  <programme start="20231031200000 +0100" stop="20231031210000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">BMX: Taça Mundo, Resumo</title>
+  <programme start="20231105005000 +0000" stop="20231105015500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Entrelinhas</title>
   </programme>
-  <programme start="20231031210000 +0100" stop="20231031213000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Rally: Rali Marrocos</title>
+  <programme start="20231105015500 +0000" stop="20231105022500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Prosperidade Com Deus</title>
   </programme>
-  <programme start="20231031213000 +0100" stop="20231031223000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231105022500 +0000" stop="20231105025500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Terapia Do Amor</title>
   </programme>
-  <programme start="20231031223000 +0100" stop="20231101003000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo Pista: Liga dos Campeões, Berlim</title>
+  <programme start="20231105025500 +0000" stop="20231105031500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Vencendo Os Vícios</title>
   </programme>
-  <programme start="20231101003000 +0100" stop="20231101020000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231105031500 +0000" stop="20231105033000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Alemanha</title>
   </programme>
-  <programme start="20231101020000 +0100" stop="20231101030000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Escalada: Torneio Qualificação Olímpica, Laval</title>
+  <programme start="20231105033000 +0000" stop="20231105035500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa França</title>
   </programme>
-  <programme start="20231101030000 +0100" stop="20231101040000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Escalada: Torneio Qualificação Olímpica, Laval</title>
+  <programme start="20231105035500 +0000" stop="20231105041500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Itália</title>
   </programme>
-  <programme start="20231101040000 +0100" stop="20231101050000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">BMX: Taça Mundo, Resumo</title>
+  <programme start="20231105041500 +0000" stop="20231105043500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Madeira</title>
   </programme>
-  <programme start="20231101050000 +0100" stop="20231101060000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo Pista: Liga dos Campeões, Berlim</title>
+  <programme start="20231105043500 +0000" stop="20231105045500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Vencendo Os Vícios</title>
   </programme>
-  <programme start="20231101060000 +0100" stop="20231101064500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231105045500 +0000" stop="20231105051500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Suíça</title>
   </programme>
-  <programme start="20231101064500 +0100" stop="20231101073000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231105051500 +0000" stop="20231105053500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Coimbra</title>
   </programme>
-  <programme start="20231101073000 +0100" stop="20231101094500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Home Nations Series, Open Irlanda Norte</title>
+  <programme start="20231105053500 +0000" stop="20231105054500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Lisboa</title>
   </programme>
-  <programme start="20231101094500 +0100" stop="20231101104500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Escalada: Torneio Qualificação Olímpica, Laval</title>
+  <programme start="20231105054500 +0000" stop="20231105060000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
   </programme>
-  <programme start="20231101104500 +0100" stop="20231101115000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclocrosse: Trophy Veldrjden (Direto)</title>
+  <programme start="20231105060000 +0000" stop="20231105063000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Prosperidade Com Deus</title>
   </programme>
-  <programme start="20231101115000 +0100" stop="20231101125500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo Pista: Liga dos Campeões, Berlim</title>
+  <programme start="20231105063000 +0000" stop="20231105070000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Hora Do Milagre</title>
   </programme>
-  <programme start="20231101125500 +0100" stop="20231101141500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclocrosse: Trophy Veldrjden (Direto)</title>
+  <programme start="20231105070000 +0000" stop="20231105073000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Não Desista</title>
   </programme>
-  <programme start="20231101141500 +0100" stop="20231101150000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclocrosse: Trophy Veldrjden</title>
+  <programme start="20231105073000 +0000" stop="20231105080000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Problemas E Soluções</title>
   </programme>
-  <programme start="20231101150000 +0100" stop="20231101160000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">BTT: Taça Mundo, Portes du Soleil</title>
+  <programme start="20231105080000 +0000" stop="20231105090000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Santo Culto - Bispo Macedo</title>
   </programme>
-  <programme start="20231101160000 +0100" stop="20231101170000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">BTT: Taça Mundo, Portes du Soleil</title>
+  <programme start="20231105090000 +0000" stop="20231105111500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Record Kids</title>
   </programme>
-  <programme start="20231101170000 +0100" stop="20231101190000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: European Series, Masters Europa</title>
+  <programme start="20231105111500 +0000" stop="20231105143000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Domingo Espetacular</title>
   </programme>
-  <programme start="20231101190000 +0100" stop="20231101210000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Snooker: Masters Xangai</title>
+  <programme start="20231105143000 +0000" stop="20231105144500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Insólito</title>
   </programme>
-  <programme start="20231101210000 +0100" stop="20231101220000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Ciclismo Pista: Liga dos Campeões, Berlim</title>
+  <programme start="20231105144500 +0000" stop="20231105170000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Reis - Compacto</title>
   </programme>
-  <programme start="20231101220000 +0100" stop="20231101221500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Jogos Olímpicos: The Power of the Olympics</title>
+  <programme start="20231105170000 +0000" stop="20231105173000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Palco</title>
   </programme>
-  <programme start="20231101221500 +0100" stop="20231101231500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Jogos Olímpicos: Story of Women at the Games</title>
+  <programme start="20231105173000 +0000" stop="20231105220000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Hora Do Faro</title>
   </programme>
-  <programme start="20231101231500 +0100" stop="20231101232500 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Jogos Olímpicos: The Olympians</title>
+  <programme start="20231105220000 +0000" stop="20231106010000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Entrelinhas</title>
   </programme>
-  <programme start="20231101232500 +0100" stop="20231102000000 +0100" channel="EUROSPORT 1">
-    <title lang="pt">Esqui Alpino: Taça Mundo, Sölden</title>
+  <programme start="20231106010000 +0000" stop="20231106043000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Domingo Espetacular</title>
+  </programme>
+  <programme start="20231106043000 +0000" stop="20231106050000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Prosperidade Com Deus</title>
+  </programme>
+  <programme start="20231106050000 +0000" stop="20231106052000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Madeira</title>
+  </programme>
+  <programme start="20231106052000 +0000" stop="20231106054000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Vencendo Os Vícios</title>
+  </programme>
+  <programme start="20231106054000 +0000" stop="20231106060000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Hora Do Milagre</title>
+  </programme>
+  <programme start="20231106060000 +0000" stop="20231106061500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
+  </programme>
+  <programme start="20231106061500 +0000" stop="20231106064000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa França</title>
+  </programme>
+  <programme start="20231106064000 +0000" stop="20231106065000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Lisboa</title>
+  </programme>
+  <programme start="20231106065000 +0000" stop="20231106071000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Coimbra</title>
+  </programme>
+  <programme start="20231106071000 +0000" stop="20231106073000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Vencendo Os Vícios</title>
+  </programme>
+  <programme start="20231106073000 +0000" stop="20231106080000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Hora Do Milagre</title>
+  </programme>
+  <programme start="20231106080000 +0000" stop="20231106090000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Café Com Fé</title>
+  </programme>
+  <programme start="20231106090000 +0000" stop="20231106123000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Domingo Espetacular</title>
+  </programme>
+  <programme start="20231106123000 +0000" stop="20231106140000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Fazenda - Tudo A Ver</title>
+  </programme>
+  <programme start="20231106140000 +0000" stop="20231106140500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Portugal No Ar - Destaques</title>
+  </programme>
+  <programme start="20231106140500 +0000" stop="20231106150000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Bicho Do Mato</title>
+  </programme>
+  <programme start="20231106150000 +0000" stop="20231106153000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Os Milagres De Jesus</title>
+  </programme>
+  <programme start="20231106153000 +0000" stop="20231106163000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Reis</title>
+  </programme>
+  <programme start="20231106163000 +0000" stop="20231106173000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Terra Prometida</title>
+  </programme>
+  <programme start="20231106173000 +0000" stop="20231106181500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Quando Me Apaixono</title>
+  </programme>
+  <programme start="20231106181500 +0000" stop="20231106191500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Bicho Do Mato</title>
+  </programme>
+  <programme start="20231106191500 +0000" stop="20231106200000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Fala Portugal</title>
+  </programme>
+  <programme start="20231106200000 +0000" stop="20231106210000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Reis</title>
+  </programme>
+  <programme start="20231106210000 +0000" stop="20231106220000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Terra Prometida</title>
+  </programme>
+  <programme start="20231106220000 +0000" stop="20231106230000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Alerta Portugal</title>
+  </programme>
+  <programme start="20231106230000 +0000" stop="20231107000000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Cidade Alerta - SP</title>
+  </programme>
+  <programme start="20231107000000 +0000" stop="20231107005000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
+  </programme>
+  <programme start="20231107005000 +0000" stop="20231107011500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Os Milagres De Jesus</title>
+  </programme>
+  <programme start="20231107011500 +0000" stop="20231107014500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Saindo Da Depressão</title>
+  </programme>
+  <programme start="20231107014500 +0000" stop="20231107015500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Lisboa</title>
+  </programme>
+  <programme start="20231107015500 +0000" stop="20231107022500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Prosperidade Com Deus</title>
+  </programme>
+  <programme start="20231107022500 +0000" stop="20231107025500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Terapia Do Amor</title>
+  </programme>
+  <programme start="20231107025500 +0000" stop="20231107031500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Vencendo Os Vícios</title>
+  </programme>
+  <programme start="20231107031500 +0000" stop="20231107033500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Luxemburgo</title>
+  </programme>
+  <programme start="20231107033500 +0000" stop="20231107034500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Porto</title>
+  </programme>
+  <programme start="20231107034500 +0000" stop="20231107040500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Alemanha</title>
+  </programme>
+  <programme start="20231107040500 +0000" stop="20231107043000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa França</title>
+  </programme>
+  <programme start="20231107043000 +0000" stop="20231107044000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Lisboa</title>
+  </programme>
+  <programme start="20231107044000 +0000" stop="20231107050000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Hora Do Milagre</title>
+  </programme>
+  <programme start="20231107050000 +0000" stop="20231107052000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Itália</title>
+  </programme>
+  <programme start="20231107052000 +0000" stop="20231107054000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Madeira</title>
+  </programme>
+  <programme start="20231107054000 +0000" stop="20231107060000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Suíça</title>
+  </programme>
+  <programme start="20231107060000 +0000" stop="20231107061500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
+  </programme>
+  <programme start="20231107061500 +0000" stop="20231107064000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa França</title>
+  </programme>
+  <programme start="20231107064000 +0000" stop="20231107070000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Coimbra</title>
+  </programme>
+  <programme start="20231107070000 +0000" stop="20231107073000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Hora Do Milagre</title>
+  </programme>
+  <programme start="20231107073000 +0000" stop="20231107080000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Não Desista</title>
+  </programme>
+  <programme start="20231107080000 +0000" stop="20231107090000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Café Com Fé</title>
+  </programme>
+  <programme start="20231107090000 +0000" stop="20231107103000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Hoje Em Dia</title>
+  </programme>
+  <programme start="20231107103000 +0000" stop="20231107123000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Balanço Geral - SP</title>
+  </programme>
+  <programme start="20231107123000 +0000" stop="20231107140000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Fazenda - Tudo A Ver</title>
+  </programme>
+  <programme start="20231107140000 +0000" stop="20231107140500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Portugal No Ar - Destaques</title>
+  </programme>
+  <programme start="20231107140500 +0000" stop="20231107150000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Bicho Do Mato</title>
+  </programme>
+  <programme start="20231107150000 +0000" stop="20231107153000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Os Milagres De Jesus</title>
+  </programme>
+  <programme start="20231107153000 +0000" stop="20231107163000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Reis</title>
+  </programme>
+  <programme start="20231107163000 +0000" stop="20231107173000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Terra Prometida</title>
+  </programme>
+  <programme start="20231107173000 +0000" stop="20231107181500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Quando Me Apaixono</title>
+  </programme>
+  <programme start="20231107181500 +0000" stop="20231107191500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Bicho Do Mato</title>
+  </programme>
+  <programme start="20231107191500 +0000" stop="20231107200000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Fala Portugal</title>
+  </programme>
+  <programme start="20231107200000 +0000" stop="20231107210000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Reis</title>
+  </programme>
+  <programme start="20231107210000 +0000" stop="20231107220000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Terra Prometida</title>
+  </programme>
+  <programme start="20231107220000 +0000" stop="20231108000000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Cidade Alerta - SP</title>
   </programme>
 </tv>
