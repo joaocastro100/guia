@@ -81,330 +81,6 @@
     <display-name lang="pt">EUROSPORT 2</display-name>
     <url>http://www.meo.pt</url>
   </channel>
-  <programme start="20231108000000 +0000" stop="20231108005000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20231108005000 +0000" stop="20231108011500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Os Milagres De Jesus</title>
-  </programme>
-  <programme start="20231108011500 +0000" stop="20231108014500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Saindo Da Depressão</title>
-  </programme>
-  <programme start="20231108014500 +0000" stop="20231108021500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Prosperidade Com Deus</title>
-  </programme>
-  <programme start="20231108021500 +0000" stop="20231108024500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Terapia Do Amor</title>
-  </programme>
-  <programme start="20231108024500 +0000" stop="20231108030500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Vencendo Os Vícios</title>
-  </programme>
-  <programme start="20231108030500 +0000" stop="20231108032500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Luxemburgo</title>
-  </programme>
-  <programme start="20231108032500 +0000" stop="20231108033500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Lisboa</title>
-  </programme>
-  <programme start="20231108033500 +0000" stop="20231108035500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Alemanha</title>
-  </programme>
-  <programme start="20231108035500 +0000" stop="20231108042000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa França</title>
-  </programme>
-  <programme start="20231108042000 +0000" stop="20231108043000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Porto</title>
-  </programme>
-  <programme start="20231108043000 +0000" stop="20231108045000 +0000" channel="RECORD TV HD">
-    <title lang="pt">A Hora Do Milagre</title>
-  </programme>
-  <programme start="20231108045000 +0000" stop="20231108051000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Itália</title>
-  </programme>
-  <programme start="20231108051000 +0000" stop="20231108052000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Lisboa</title>
-  </programme>
-  <programme start="20231108052000 +0000" stop="20231108054000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Madeira</title>
-  </programme>
-  <programme start="20231108054000 +0000" stop="20231108060000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Suíça</title>
-  </programme>
-  <programme start="20231108060000 +0000" stop="20231108061500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20231108061500 +0000" stop="20231108064000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa França</title>
-  </programme>
-  <programme start="20231108064000 +0000" stop="20231108070000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Coimbra</title>
-  </programme>
-  <programme start="20231108070000 +0000" stop="20231108073000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Hora Do Milagre</title>
-  </programme>
-  <programme start="20231108073000 +0000" stop="20231108080000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Não Desista</title>
-  </programme>
-  <programme start="20231108080000 +0000" stop="20231108090000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Café Com Fé</title>
-  </programme>
-  <programme start="20231108090000 +0000" stop="20231108103000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Hoje Em Dia</title>
-  </programme>
-  <programme start="20231108103000 +0000" stop="20231108123000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Balanço Geral - SP</title>
-  </programme>
-  <programme start="20231108123000 +0000" stop="20231108140000 +0000" channel="RECORD TV HD">
-    <title lang="pt">A Fazenda - Tudo A Ver</title>
-  </programme>
-  <programme start="20231108140000 +0000" stop="20231108140500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Portugal No Ar - Destaques</title>
-  </programme>
-  <programme start="20231108140500 +0000" stop="20231108150000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Bicho Do Mato</title>
-  </programme>
-  <programme start="20231108150000 +0000" stop="20231108153000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Os Milagres De Jesus</title>
-  </programme>
-  <programme start="20231108153000 +0000" stop="20231108163000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Reis</title>
-  </programme>
-  <programme start="20231108163000 +0000" stop="20231108173000 +0000" channel="RECORD TV HD">
-    <title lang="pt">A Terra Prometida</title>
-  </programme>
-  <programme start="20231108173000 +0000" stop="20231108181500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Quando Me Apaixono</title>
-  </programme>
-  <programme start="20231108181500 +0000" stop="20231108191500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Bicho Do Mato</title>
-  </programme>
-  <programme start="20231108191500 +0000" stop="20231108200000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Fala Portugal</title>
-  </programme>
-  <programme start="20231108200000 +0000" stop="20231108210000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Reis</title>
-  </programme>
-  <programme start="20231108210000 +0000" stop="20231108220000 +0000" channel="RECORD TV HD">
-    <title lang="pt">A Terra Prometida</title>
-  </programme>
-  <programme start="20231108220000 +0000" stop="20231109000000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Cidade Alerta - SP</title>
-  </programme>
-  <programme start="20231109000000 +0000" stop="20231109005000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20231109005000 +0000" stop="20231109011500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Os Milagres De Jesus</title>
-  </programme>
-  <programme start="20231109011500 +0000" stop="20231109014500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Saindo Da Depressão</title>
-  </programme>
-  <programme start="20231109014500 +0000" stop="20231109021500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Prosperidade Com Deus</title>
-  </programme>
-  <programme start="20231109021500 +0000" stop="20231109024500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Terapia Do Amor</title>
-  </programme>
-  <programme start="20231109024500 +0000" stop="20231109025500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Lisboa</title>
-  </programme>
-  <programme start="20231109025500 +0000" stop="20231109031500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Vencendo Os Vícios</title>
-  </programme>
-  <programme start="20231109031500 +0000" stop="20231109033500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Luxemburgo</title>
-  </programme>
-  <programme start="20231109033500 +0000" stop="20231109035500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Alemanha</title>
-  </programme>
-  <programme start="20231109035500 +0000" stop="20231109042000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa França</title>
-  </programme>
-  <programme start="20231109042000 +0000" stop="20231109043000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Porto</title>
-  </programme>
-  <programme start="20231109043000 +0000" stop="20231109045000 +0000" channel="RECORD TV HD">
-    <title lang="pt">A Hora Do Milagre</title>
-  </programme>
-  <programme start="20231109045000 +0000" stop="20231109051000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Itália</title>
-  </programme>
-  <programme start="20231109051000 +0000" stop="20231109052000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Lisboa</title>
-  </programme>
-  <programme start="20231109052000 +0000" stop="20231109054000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Madeira</title>
-  </programme>
-  <programme start="20231109054000 +0000" stop="20231109060000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Suíça</title>
-  </programme>
-  <programme start="20231109060000 +0000" stop="20231109061500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20231109061500 +0000" stop="20231109064000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa França</title>
-  </programme>
-  <programme start="20231109064000 +0000" stop="20231109070000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Coimbra</title>
-  </programme>
-  <programme start="20231109070000 +0000" stop="20231109073000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Hora Do Milagre</title>
-  </programme>
-  <programme start="20231109073000 +0000" stop="20231109080000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Não Desista</title>
-  </programme>
-  <programme start="20231109080000 +0000" stop="20231109090000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Café Com Fé</title>
-  </programme>
-  <programme start="20231109090000 +0000" stop="20231109103000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Hoje Em Dia</title>
-  </programme>
-  <programme start="20231109103000 +0000" stop="20231109123000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Balanço Geral - SP</title>
-  </programme>
-  <programme start="20231109123000 +0000" stop="20231109140000 +0000" channel="RECORD TV HD">
-    <title lang="pt">A Fazenda - Tudo A Ver</title>
-  </programme>
-  <programme start="20231109140000 +0000" stop="20231109140500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Portugal No Ar - Destaques</title>
-  </programme>
-  <programme start="20231109140500 +0000" stop="20231109150000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Bicho Do Mato</title>
-  </programme>
-  <programme start="20231109150000 +0000" stop="20231109153000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Os Milagres De Jesus</title>
-  </programme>
-  <programme start="20231109153000 +0000" stop="20231109163000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Reis</title>
-  </programme>
-  <programme start="20231109163000 +0000" stop="20231109173000 +0000" channel="RECORD TV HD">
-    <title lang="pt">A Terra Prometida</title>
-  </programme>
-  <programme start="20231109173000 +0000" stop="20231109181500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Quando Me Apaixono</title>
-  </programme>
-  <programme start="20231109181500 +0000" stop="20231109191500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Bicho Do Mato</title>
-  </programme>
-  <programme start="20231109191500 +0000" stop="20231109200000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Fala Portugal</title>
-  </programme>
-  <programme start="20231109200000 +0000" stop="20231109210000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Reis</title>
-  </programme>
-  <programme start="20231109210000 +0000" stop="20231109220000 +0000" channel="RECORD TV HD">
-    <title lang="pt">A Terra Prometida</title>
-  </programme>
-  <programme start="20231109220000 +0000" stop="20231110000000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Cidade Alerta - SP</title>
-  </programme>
-  <programme start="20231110000000 +0000" stop="20231110005000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20231110005000 +0000" stop="20231110011500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Os Milagres De Jesus</title>
-  </programme>
-  <programme start="20231110011500 +0000" stop="20231110014500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Saindo Da Depressão</title>
-  </programme>
-  <programme start="20231110014500 +0000" stop="20231110021500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Prosperidade Com Deus</title>
-  </programme>
-  <programme start="20231110021500 +0000" stop="20231110024500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Terapia Do Amor</title>
-  </programme>
-  <programme start="20231110024500 +0000" stop="20231110025500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Lisboa</title>
-  </programme>
-  <programme start="20231110025500 +0000" stop="20231110031500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Vencendo Os Vícios</title>
-  </programme>
-  <programme start="20231110031500 +0000" stop="20231110033500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Luxemburgo</title>
-  </programme>
-  <programme start="20231110033500 +0000" stop="20231110035500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Alemanha</title>
-  </programme>
-  <programme start="20231110035500 +0000" stop="20231110042000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa França</title>
-  </programme>
-  <programme start="20231110042000 +0000" stop="20231110043000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Porto</title>
-  </programme>
-  <programme start="20231110043000 +0000" stop="20231110045000 +0000" channel="RECORD TV HD">
-    <title lang="pt">A Hora Do Milagre</title>
-  </programme>
-  <programme start="20231110045000 +0000" stop="20231110051000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Itália</title>
-  </programme>
-  <programme start="20231110051000 +0000" stop="20231110052000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Ponto De Luz - Lisboa</title>
-  </programme>
-  <programme start="20231110052000 +0000" stop="20231110054000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Madeira</title>
-  </programme>
-  <programme start="20231110054000 +0000" stop="20231110060000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Suíça</title>
-  </programme>
-  <programme start="20231110060000 +0000" stop="20231110061500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
-  </programme>
-  <programme start="20231110061500 +0000" stop="20231110064000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa França</title>
-  </programme>
-  <programme start="20231110064000 +0000" stop="20231110070000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Programa Coimbra</title>
-  </programme>
-  <programme start="20231110070000 +0000" stop="20231110073000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Hora Do Milagre</title>
-  </programme>
-  <programme start="20231110073000 +0000" stop="20231110080000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Não Desista</title>
-  </programme>
-  <programme start="20231110080000 +0000" stop="20231110090000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Café Com Fé</title>
-  </programme>
-  <programme start="20231110090000 +0000" stop="20231110103000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Hoje Em Dia</title>
-  </programme>
-  <programme start="20231110103000 +0000" stop="20231110123000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Balanço Geral - SP</title>
-  </programme>
-  <programme start="20231110123000 +0000" stop="20231110140000 +0000" channel="RECORD TV HD">
-    <title lang="pt">A Fazenda - Tudo A Ver</title>
-  </programme>
-  <programme start="20231110140000 +0000" stop="20231110140500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Portugal No Ar - Destaques</title>
-  </programme>
-  <programme start="20231110140500 +0000" stop="20231110150000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Bicho Do Mato</title>
-  </programme>
-  <programme start="20231110150000 +0000" stop="20231110153000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Os Milagres De Jesus</title>
-  </programme>
-  <programme start="20231110153000 +0000" stop="20231110163000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Reis</title>
-  </programme>
-  <programme start="20231110163000 +0000" stop="20231110173000 +0000" channel="RECORD TV HD">
-    <title lang="pt">A Terra Prometida</title>
-  </programme>
-  <programme start="20231110173000 +0000" stop="20231110181500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Quando Me Apaixono</title>
-  </programme>
-  <programme start="20231110181500 +0000" stop="20231110191500 +0000" channel="RECORD TV HD">
-    <title lang="pt">Bicho Do Mato</title>
-  </programme>
-  <programme start="20231110191500 +0000" stop="20231110200000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Fala Portugal</title>
-  </programme>
-  <programme start="20231110200000 +0000" stop="20231110210000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Reis</title>
-  </programme>
-  <programme start="20231110210000 +0000" stop="20231110220000 +0000" channel="RECORD TV HD">
-    <title lang="pt">A Terra Prometida</title>
-  </programme>
-  <programme start="20231110220000 +0000" stop="20231111000000 +0000" channel="RECORD TV HD">
-    <title lang="pt">Cidade Alerta - SP</title>
-  </programme>
   <programme start="20231111000000 +0000" stop="20231111005000 +0000" channel="RECORD TV HD">
     <title lang="pt">Palavra Amiga - Bispo Macedo</title>
   </programme>
@@ -757,6 +433,330 @@
     <title lang="pt">A Terra Prometida</title>
   </programme>
   <programme start="20231114220000 +0000" stop="20231115000000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Cidade Alerta - SP</title>
+  </programme>
+  <programme start="20231115000000 +0000" stop="20231115005000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
+  </programme>
+  <programme start="20231115005000 +0000" stop="20231115011500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Os Milagres De Jesus</title>
+  </programme>
+  <programme start="20231115011500 +0000" stop="20231115014500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Saindo Da Depressão</title>
+  </programme>
+  <programme start="20231115014500 +0000" stop="20231115021500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Prosperidade Com Deus</title>
+  </programme>
+  <programme start="20231115021500 +0000" stop="20231115024500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Terapia Do Amor</title>
+  </programme>
+  <programme start="20231115024500 +0000" stop="20231115030500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Vencendo Os Vícios</title>
+  </programme>
+  <programme start="20231115030500 +0000" stop="20231115032500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Luxemburgo</title>
+  </programme>
+  <programme start="20231115032500 +0000" stop="20231115033500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Lisboa</title>
+  </programme>
+  <programme start="20231115033500 +0000" stop="20231115035500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Alemanha</title>
+  </programme>
+  <programme start="20231115035500 +0000" stop="20231115042000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa França</title>
+  </programme>
+  <programme start="20231115042000 +0000" stop="20231115043000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Porto</title>
+  </programme>
+  <programme start="20231115043000 +0000" stop="20231115045000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Hora Do Milagre</title>
+  </programme>
+  <programme start="20231115045000 +0000" stop="20231115051000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Itália</title>
+  </programme>
+  <programme start="20231115051000 +0000" stop="20231115052000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Lisboa</title>
+  </programme>
+  <programme start="20231115052000 +0000" stop="20231115054000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Madeira</title>
+  </programme>
+  <programme start="20231115054000 +0000" stop="20231115060000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Suíça</title>
+  </programme>
+  <programme start="20231115060000 +0000" stop="20231115061500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
+  </programme>
+  <programme start="20231115061500 +0000" stop="20231115064000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa França</title>
+  </programme>
+  <programme start="20231115064000 +0000" stop="20231115070000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Coimbra</title>
+  </programme>
+  <programme start="20231115070000 +0000" stop="20231115073000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Hora Do Milagre</title>
+  </programme>
+  <programme start="20231115073000 +0000" stop="20231115080000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Não Desista</title>
+  </programme>
+  <programme start="20231115080000 +0000" stop="20231115090000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Café Com Fé</title>
+  </programme>
+  <programme start="20231115090000 +0000" stop="20231115103000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Hoje Em Dia</title>
+  </programme>
+  <programme start="20231115103000 +0000" stop="20231115123000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Balanço Geral - SP</title>
+  </programme>
+  <programme start="20231115123000 +0000" stop="20231115140000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Fazenda - Tudo A Ver</title>
+  </programme>
+  <programme start="20231115140000 +0000" stop="20231115140500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Portugal No Ar - Destaques</title>
+  </programme>
+  <programme start="20231115140500 +0000" stop="20231115150000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Bicho Do Mato</title>
+  </programme>
+  <programme start="20231115150000 +0000" stop="20231115153000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Os Milagres De Jesus</title>
+  </programme>
+  <programme start="20231115153000 +0000" stop="20231115163000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Reis</title>
+  </programme>
+  <programme start="20231115163000 +0000" stop="20231115173000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Terra Prometida</title>
+  </programme>
+  <programme start="20231115173000 +0000" stop="20231115181500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Quando Me Apaixono</title>
+  </programme>
+  <programme start="20231115181500 +0000" stop="20231115191500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Bicho Do Mato</title>
+  </programme>
+  <programme start="20231115191500 +0000" stop="20231115200000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Fala Portugal</title>
+  </programme>
+  <programme start="20231115200000 +0000" stop="20231115210000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Reis</title>
+  </programme>
+  <programme start="20231115210000 +0000" stop="20231115220000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Terra Prometida</title>
+  </programme>
+  <programme start="20231115220000 +0000" stop="20231116000000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Cidade Alerta - SP</title>
+  </programme>
+  <programme start="20231116000000 +0000" stop="20231116005000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
+  </programme>
+  <programme start="20231116005000 +0000" stop="20231116011500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Os Milagres De Jesus</title>
+  </programme>
+  <programme start="20231116011500 +0000" stop="20231116014500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Saindo Da Depressão</title>
+  </programme>
+  <programme start="20231116014500 +0000" stop="20231116021500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Prosperidade Com Deus</title>
+  </programme>
+  <programme start="20231116021500 +0000" stop="20231116024500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Terapia Do Amor</title>
+  </programme>
+  <programme start="20231116024500 +0000" stop="20231116025500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Lisboa</title>
+  </programme>
+  <programme start="20231116025500 +0000" stop="20231116031500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Vencendo Os Vícios</title>
+  </programme>
+  <programme start="20231116031500 +0000" stop="20231116033500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Luxemburgo</title>
+  </programme>
+  <programme start="20231116033500 +0000" stop="20231116035500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Alemanha</title>
+  </programme>
+  <programme start="20231116035500 +0000" stop="20231116042000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa França</title>
+  </programme>
+  <programme start="20231116042000 +0000" stop="20231116043000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Porto</title>
+  </programme>
+  <programme start="20231116043000 +0000" stop="20231116045000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Hora Do Milagre</title>
+  </programme>
+  <programme start="20231116045000 +0000" stop="20231116051000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Itália</title>
+  </programme>
+  <programme start="20231116051000 +0000" stop="20231116052000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Lisboa</title>
+  </programme>
+  <programme start="20231116052000 +0000" stop="20231116054000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Madeira</title>
+  </programme>
+  <programme start="20231116054000 +0000" stop="20231116060000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Suíça</title>
+  </programme>
+  <programme start="20231116060000 +0000" stop="20231116061500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
+  </programme>
+  <programme start="20231116061500 +0000" stop="20231116064000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa França</title>
+  </programme>
+  <programme start="20231116064000 +0000" stop="20231116070000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Coimbra</title>
+  </programme>
+  <programme start="20231116070000 +0000" stop="20231116073000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Hora Do Milagre</title>
+  </programme>
+  <programme start="20231116073000 +0000" stop="20231116080000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Não Desista</title>
+  </programme>
+  <programme start="20231116080000 +0000" stop="20231116090000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Café Com Fé</title>
+  </programme>
+  <programme start="20231116090000 +0000" stop="20231116103000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Hoje Em Dia</title>
+  </programme>
+  <programme start="20231116103000 +0000" stop="20231116123000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Balanço Geral - SP</title>
+  </programme>
+  <programme start="20231116123000 +0000" stop="20231116140000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Fazenda - Tudo A Ver</title>
+  </programme>
+  <programme start="20231116140000 +0000" stop="20231116140500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Portugal No Ar - Destaques</title>
+  </programme>
+  <programme start="20231116140500 +0000" stop="20231116150000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Bicho Do Mato</title>
+  </programme>
+  <programme start="20231116150000 +0000" stop="20231116153000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Os Milagres De Jesus</title>
+  </programme>
+  <programme start="20231116153000 +0000" stop="20231116163000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Reis</title>
+  </programme>
+  <programme start="20231116163000 +0000" stop="20231116173000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Terra Prometida</title>
+  </programme>
+  <programme start="20231116173000 +0000" stop="20231116181500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Quando Me Apaixono</title>
+  </programme>
+  <programme start="20231116181500 +0000" stop="20231116191500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Bicho Do Mato</title>
+  </programme>
+  <programme start="20231116191500 +0000" stop="20231116200000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Fala Portugal</title>
+  </programme>
+  <programme start="20231116200000 +0000" stop="20231116210000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Reis</title>
+  </programme>
+  <programme start="20231116210000 +0000" stop="20231116220000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Terra Prometida</title>
+  </programme>
+  <programme start="20231116220000 +0000" stop="20231117000000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Cidade Alerta - SP</title>
+  </programme>
+  <programme start="20231117000000 +0000" stop="20231117005000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
+  </programme>
+  <programme start="20231117005000 +0000" stop="20231117011500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Os Milagres De Jesus</title>
+  </programme>
+  <programme start="20231117011500 +0000" stop="20231117014500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Saindo Da Depressão</title>
+  </programme>
+  <programme start="20231117014500 +0000" stop="20231117021500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Prosperidade Com Deus</title>
+  </programme>
+  <programme start="20231117021500 +0000" stop="20231117024500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Terapia Do Amor</title>
+  </programme>
+  <programme start="20231117024500 +0000" stop="20231117025500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Lisboa</title>
+  </programme>
+  <programme start="20231117025500 +0000" stop="20231117031500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Vencendo Os Vícios</title>
+  </programme>
+  <programme start="20231117031500 +0000" stop="20231117033500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Luxemburgo</title>
+  </programme>
+  <programme start="20231117033500 +0000" stop="20231117035500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Alemanha</title>
+  </programme>
+  <programme start="20231117035500 +0000" stop="20231117042000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa França</title>
+  </programme>
+  <programme start="20231117042000 +0000" stop="20231117043000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Porto</title>
+  </programme>
+  <programme start="20231117043000 +0000" stop="20231117045000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Hora Do Milagre</title>
+  </programme>
+  <programme start="20231117045000 +0000" stop="20231117051000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Itália</title>
+  </programme>
+  <programme start="20231117051000 +0000" stop="20231117052000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Ponto De Luz - Lisboa</title>
+  </programme>
+  <programme start="20231117052000 +0000" stop="20231117054000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Madeira</title>
+  </programme>
+  <programme start="20231117054000 +0000" stop="20231117060000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Suíça</title>
+  </programme>
+  <programme start="20231117060000 +0000" stop="20231117061500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Palavra Amiga - Bispo Macedo</title>
+  </programme>
+  <programme start="20231117061500 +0000" stop="20231117064000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa França</title>
+  </programme>
+  <programme start="20231117064000 +0000" stop="20231117070000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Programa Coimbra</title>
+  </programme>
+  <programme start="20231117070000 +0000" stop="20231117073000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Hora Do Milagre</title>
+  </programme>
+  <programme start="20231117073000 +0000" stop="20231117080000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Não Desista</title>
+  </programme>
+  <programme start="20231117080000 +0000" stop="20231117090000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Café Com Fé</title>
+  </programme>
+  <programme start="20231117090000 +0000" stop="20231117103000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Hoje Em Dia</title>
+  </programme>
+  <programme start="20231117103000 +0000" stop="20231117123000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Balanço Geral - SP</title>
+  </programme>
+  <programme start="20231117123000 +0000" stop="20231117140000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Fazenda - Tudo A Ver</title>
+  </programme>
+  <programme start="20231117140000 +0000" stop="20231117140500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Portugal No Ar - Destaques</title>
+  </programme>
+  <programme start="20231117140500 +0000" stop="20231117150000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Bicho Do Mato</title>
+  </programme>
+  <programme start="20231117150000 +0000" stop="20231117153000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Os Milagres De Jesus</title>
+  </programme>
+  <programme start="20231117153000 +0000" stop="20231117163000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Reis</title>
+  </programme>
+  <programme start="20231117163000 +0000" stop="20231117173000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Terra Prometida</title>
+  </programme>
+  <programme start="20231117173000 +0000" stop="20231117181500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Quando Me Apaixono</title>
+  </programme>
+  <programme start="20231117181500 +0000" stop="20231117191500 +0000" channel="RECORD TV HD">
+    <title lang="pt">Bicho Do Mato</title>
+  </programme>
+  <programme start="20231117191500 +0000" stop="20231117200000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Fala Portugal</title>
+  </programme>
+  <programme start="20231117200000 +0000" stop="20231117210000 +0000" channel="RECORD TV HD">
+    <title lang="pt">Reis</title>
+  </programme>
+  <programme start="20231117210000 +0000" stop="20231117220000 +0000" channel="RECORD TV HD">
+    <title lang="pt">A Terra Prometida</title>
+  </programme>
+  <programme start="20231117220000 +0000" stop="20231118000000 +0000" channel="RECORD TV HD">
     <title lang="pt">Cidade Alerta - SP</title>
   </programme>
 </tv>

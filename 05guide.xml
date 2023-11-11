@@ -51,526 +51,265 @@
     <icon src="https://www.meo.pt/PublishingImages/canais/playboy-tv.png" />
     <url>http://www.meo.pt</url>
   </channel>
-  <programme start="20231108000500 +0000" stop="20231108002700 +0000" channel="MTV Portugal HD">
+  <programme start="20231111000800 +0000" stop="20231111003000 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231108002700 +0000" stop="20231108004700 +0000" channel="MTV Portugal HD">
+  <programme start="20231111003000 +0000" stop="20231111005100 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231108004700 +0000" stop="20231108013200 +0000" channel="MTV Portugal HD">
+  <programme start="20231111005100 +0000" stop="20231111013600 +0000" channel="MTV Portugal HD">
     <title lang="pt">Geordie Shore</title>
   </programme>
-  <programme start="20231108013200 +0000" stop="20231108021600 +0000" channel="MTV Portugal HD">
+  <programme start="20231111013600 +0000" stop="20231111022100 +0000" channel="MTV Portugal HD">
     <title lang="pt">Geordie Shore</title>
   </programme>
-  <programme start="20231108021600 +0000" stop="20231108023700 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
+  <programme start="20231111022100 +0000" stop="20231111030700 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV World Stage: Gorillaz</title>
   </programme>
-  <programme start="20231108023700 +0000" stop="20231108025800 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231108025800 +0000" stop="20231108060000 +0000" channel="MTV Portugal HD">
+  <programme start="20231111030700 +0000" stop="20231111060000 +0000" channel="MTV Portugal HD">
     <title lang="pt">Night Videos</title>
   </programme>
-  <programme start="20231108060000 +0000" stop="20231108070100 +0000" channel="MTV Portugal HD">
+  <programme start="20231111060000 +0000" stop="20231111070200 +0000" channel="MTV Portugal HD">
     <title lang="pt">Wake Up</title>
   </programme>
-  <programme start="20231108070100 +0000" stop="20231108083500 +0000" channel="MTV Portugal HD">
+  <programme start="20231111070200 +0000" stop="20231111090400 +0000" channel="MTV Portugal HD">
     <title lang="pt">MTV Breakfast Club</title>
   </programme>
-  <programme start="20231108083500 +0000" stop="20231108105100 +0000" channel="MTV Portugal HD">
+  <programme start="20231111090400 +0000" stop="20231111111200 +0000" channel="MTV Portugal HD">
     <title lang="pt">MTV Into The Music</title>
   </programme>
-  <programme start="20231108105100 +0000" stop="20231108134600 +0000" channel="MTV Portugal HD">
+  <programme start="20231111111200 +0000" stop="20231111140500 +0000" channel="MTV Portugal HD">
     <title lang="pt">Non Stop Hits</title>
   </programme>
-  <programme start="20231108134600 +0000" stop="20231108143000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">MTV Cribs Collection</title>
-  </programme>
-  <programme start="20231108143000 +0000" stop="20231108151300 +0000" channel="MTV Portugal HD">
-    <title lang="pt">MTV Cribs Collection</title>
-  </programme>
-  <programme start="20231108151300 +0000" stop="20231108155700 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Love &amp; Hip Hop Atlanta</title>
-  </programme>
-  <programme start="20231108155700 +0000" stop="20231108164000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Love &amp; Hip Hop Atlanta</title>
-  </programme>
-  <programme start="20231108164000 +0000" stop="20231108170200 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231108170200 +0000" stop="20231108172500 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231108172500 +0000" stop="20231108174700 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231108174700 +0000" stop="20231108175400 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Fresh Out Live</title>
-  </programme>
-  <programme start="20231108175400 +0000" stop="20231108183300 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Dallas Cowboys Cheerleaders</title>
-  </programme>
-  <programme start="20231108183300 +0000" stop="20231108191800 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Dallas Cowboys Cheerleaders</title>
-  </programme>
-  <programme start="20231108191800 +0000" stop="20231108200200 +0000" channel="MTV Portugal HD">
+  <programme start="20231111140500 +0000" stop="20231111144900 +0000" channel="MTV Portugal HD">
     <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20231108200200 +0000" stop="20231108204900 +0000" channel="MTV Portugal HD">
+  <programme start="20231111144900 +0000" stop="20231111153000 +0000" channel="MTV Portugal HD">
     <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20231108204900 +0000" stop="20231108210900 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231108210900 +0000" stop="20231108213400 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231108213400 +0000" stop="20231108215900 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231108215900 +0000" stop="20231108224200 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Caught In The Act: Unfaithful</title>
-  </programme>
-  <programme start="20231108224200 +0000" stop="20231108232500 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Love &amp; Hip Hop Atlanta</title>
-  </programme>
-  <programme start="20231108232500 +0000" stop="20231108234700 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231108234700 +0000" stop="20231109001000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231109001000 +0000" stop="20231109003200 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231109003200 +0000" stop="20231109005200 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231109005200 +0000" stop="20231109014000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Geordie Shore</title>
-  </programme>
-  <programme start="20231109014000 +0000" stop="20231109022500 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Geordie Shore</title>
-  </programme>
-  <programme start="20231109022500 +0000" stop="20231109024500 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231109024500 +0000" stop="20231109030600 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231109030600 +0000" stop="20231109060000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Night Videos</title>
-  </programme>
-  <programme start="20231109060000 +0000" stop="20231109070500 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Wake Up</title>
-  </programme>
-  <programme start="20231109070500 +0000" stop="20231109091000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">MTV Breakfast Club</title>
-  </programme>
-  <programme start="20231109091000 +0000" stop="20231109111000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">MTV Into The Music</title>
-  </programme>
-  <programme start="20231109111000 +0000" stop="20231109135500 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Non Stop Hits</title>
-  </programme>
-  <programme start="20231109135500 +0000" stop="20231109143800 +0000" channel="MTV Portugal HD">
-    <title lang="pt">MTV Cribs Collection</title>
-  </programme>
-  <programme start="20231109143800 +0000" stop="20231109152000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">MTV Cribs Collection</title>
-  </programme>
-  <programme start="20231109152000 +0000" stop="20231109160400 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Love &amp; Hip Hop Atlanta</title>
-  </programme>
-  <programme start="20231109160400 +0000" stop="20231109164900 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Love &amp; Hip Hop Atlanta</title>
-  </programme>
-  <programme start="20231109164900 +0000" stop="20231109170900 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231109170900 +0000" stop="20231109173200 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231109173200 +0000" stop="20231109175400 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231109175400 +0000" stop="20231109183300 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Dallas Cowboys Cheerleaders</title>
-  </programme>
-  <programme start="20231109183300 +0000" stop="20231109191900 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Dallas Cowboys Cheerleaders</title>
-  </programme>
-  <programme start="20231109191900 +0000" stop="20231109200100 +0000" channel="MTV Portugal HD">
+  <programme start="20231111153000 +0000" stop="20231111161100 +0000" channel="MTV Portugal HD">
     <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20231109200100 +0000" stop="20231109205000 +0000" channel="MTV Portugal HD">
+  <programme start="20231111161100 +0000" stop="20231111165300 +0000" channel="MTV Portugal HD">
     <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20231109205000 +0000" stop="20231109211100 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231109211100 +0000" stop="20231109213400 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231109213400 +0000" stop="20231109215900 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231109215900 +0000" stop="20231109224300 +0000" channel="MTV Portugal HD">
-    <title lang="pt">The Love Experiment</title>
-  </programme>
-  <programme start="20231109224300 +0000" stop="20231109232400 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Jersey Shore Family Vacation</title>
-  </programme>
-  <programme start="20231109232400 +0000" stop="20231109234700 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231109234700 +0000" stop="20231110000900 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231110000900 +0000" stop="20231110002500 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231110002500 +0000" stop="20231110004500 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231110004500 +0000" stop="20231110012900 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Geordie Shore</title>
-  </programme>
-  <programme start="20231110012900 +0000" stop="20231110021500 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Geordie Shore</title>
-  </programme>
-  <programme start="20231110021500 +0000" stop="20231110023700 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231110023700 +0000" stop="20231110030000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231110030000 +0000" stop="20231110060000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Night Videos</title>
-  </programme>
-  <programme start="20231110060000 +0000" stop="20231110070000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Wake Up</title>
-  </programme>
-  <programme start="20231110070000 +0000" stop="20231110090000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">MTV Breakfast Club</title>
-  </programme>
-  <programme start="20231110090000 +0000" stop="20231110110000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">MTV Into The Music</title>
-  </programme>
-  <programme start="20231110110000 +0000" stop="20231110132500 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Non Stop Hits</title>
-  </programme>
-  <programme start="20231110132500 +0000" stop="20231110141400 +0000" channel="MTV Portugal HD">
-    <title lang="pt">MTV Cribs Collection</title>
-  </programme>
-  <programme start="20231110141400 +0000" stop="20231110150000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">MTV Cribs Collection</title>
-  </programme>
-  <programme start="20231110150000 +0000" stop="20231110154900 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Love &amp; Hip Hop Atlanta</title>
-  </programme>
-  <programme start="20231110154900 +0000" stop="20231110163400 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Love &amp; Hip Hop Atlanta</title>
-  </programme>
-  <programme start="20231110163400 +0000" stop="20231110165800 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231110165800 +0000" stop="20231110172200 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231110172200 +0000" stop="20231110174600 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231110174600 +0000" stop="20231110183000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Dallas Cowboys Cheerleaders</title>
-  </programme>
-  <programme start="20231110183000 +0000" stop="20231110191800 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Dallas Cowboys Cheerleaders</title>
-  </programme>
-  <programme start="20231110191800 +0000" stop="20231110200200 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Behind The Music (2021)</title>
-  </programme>
-  <programme start="20231110200200 +0000" stop="20231110205000 +0000" channel="MTV Portugal HD">
+  <programme start="20231111165300 +0000" stop="20231111173500 +0000" channel="MTV Portugal HD">
     <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20231110205000 +0000" stop="20231110211100 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231110211100 +0000" stop="20231110213400 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231110213400 +0000" stop="20231110220000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231110220000 +0000" stop="20231110224500 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Love &amp; Hip Hop Atlanta</title>
-  </programme>
-  <programme start="20231110224500 +0000" stop="20231110233000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">The Love Experiment</title>
-  </programme>
-  <programme start="20231110233000 +0000" stop="20231110235500 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231110235500 +0000" stop="20231111001800 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231111001800 +0000" stop="20231111004200 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231111004200 +0000" stop="20231111010200 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Ridiculousness</title>
-  </programme>
-  <programme start="20231111010200 +0000" stop="20231111015200 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Geordie Shore</title>
-  </programme>
-  <programme start="20231111015200 +0000" stop="20231111032300 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Geordie Shore</title>
-  </programme>
-  <programme start="20231111032300 +0000" stop="20231111060000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Night Videos</title>
-  </programme>
-  <programme start="20231111060000 +0000" stop="20231111070000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Wake Up</title>
-  </programme>
-  <programme start="20231111070000 +0000" stop="20231111090000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">MTV Breakfast Club</title>
-  </programme>
-  <programme start="20231111090000 +0000" stop="20231111110000 +0000" channel="MTV Portugal HD">
-    <title lang="pt">MTV Into The Music</title>
-  </programme>
-  <programme start="20231111110000 +0000" stop="20231111134500 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Non Stop Hits</title>
-  </programme>
-  <programme start="20231111134500 +0000" stop="20231111142800 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Catfish: The TV Show</title>
-  </programme>
-  <programme start="20231111142800 +0000" stop="20231111151100 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Catfish: The TV Show</title>
-  </programme>
-  <programme start="20231111151100 +0000" stop="20231111155600 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Catfish: The TV Show</title>
-  </programme>
-  <programme start="20231111155600 +0000" stop="20231111164100 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Catfish: The TV Show</title>
-  </programme>
-  <programme start="20231111164100 +0000" stop="20231111172300 +0000" channel="MTV Portugal HD">
-    <title lang="pt">Catfish: The TV Show</title>
-  </programme>
-  <programme start="20231111172300 +0000" stop="20231111180600 +0000" channel="MTV Portugal HD">
+  <programme start="20231111173500 +0000" stop="20231111181500 +0000" channel="MTV Portugal HD">
     <title lang="pt">Siesta Key: Miami Moves</title>
   </programme>
-  <programme start="20231111180600 +0000" stop="20231111185100 +0000" channel="MTV Portugal HD">
+  <programme start="20231111181500 +0000" stop="20231111185900 +0000" channel="MTV Portugal HD">
     <title lang="pt">Siesta Key: Miami Moves</title>
   </programme>
-  <programme start="20231111185100 +0000" stop="20231111185600 +0000" channel="MTV Portugal HD">
+  <programme start="20231111185900 +0000" stop="20231111190500 +0000" channel="MTV Portugal HD">
     <title lang="pt">Fresh Out Live</title>
   </programme>
-  <programme start="20231111185600 +0000" stop="20231111194200 +0000" channel="MTV Portugal HD">
+  <programme start="20231111190500 +0000" stop="20231111195000 +0000" channel="MTV Portugal HD">
     <title lang="pt">The Love Experiment</title>
   </programme>
-  <programme start="20231111194200 +0000" stop="20231111202600 +0000" channel="MTV Portugal HD">
+  <programme start="20231111195000 +0000" stop="20231111203300 +0000" channel="MTV Portugal HD">
     <title lang="pt">The Love Experiment</title>
   </programme>
-  <programme start="20231111202600 +0000" stop="20231111211200 +0000" channel="MTV Portugal HD">
+  <programme start="20231111203300 +0000" stop="20231111211600 +0000" channel="MTV Portugal HD">
     <title lang="pt">Love &amp; Hip Hop Atlanta</title>
   </programme>
-  <programme start="20231111211200 +0000" stop="20231111220000 +0000" channel="MTV Portugal HD">
+  <programme start="20231111211600 +0000" stop="20231111220000 +0000" channel="MTV Portugal HD">
     <title lang="pt">Love &amp; Hip Hop Atlanta</title>
   </programme>
   <programme start="20231111220000 +0000" stop="20231111224400 +0000" channel="MTV Portugal HD">
     <title lang="pt">All Star Shore</title>
   </programme>
-  <programme start="20231111224400 +0000" stop="20231111233100 +0000" channel="MTV Portugal HD">
+  <programme start="20231111224400 +0000" stop="20231111232900 +0000" channel="MTV Portugal HD">
     <title lang="pt">Jersey Shore Family Vacation</title>
   </programme>
-  <programme start="20231111233100 +0000" stop="20231111235400 +0000" channel="MTV Portugal HD">
+  <programme start="20231111232900 +0000" stop="20231111235100 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231111235400 +0000" stop="20231112001600 +0000" channel="MTV Portugal HD">
+  <programme start="20231111235100 +0000" stop="20231112001100 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231112001600 +0000" stop="20231112003900 +0000" channel="MTV Portugal HD">
+  <programme start="20231112001100 +0000" stop="20231112003300 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231112003900 +0000" stop="20231112010200 +0000" channel="MTV Portugal HD">
+  <programme start="20231112003300 +0000" stop="20231112005400 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231112010200 +0000" stop="20231112015100 +0000" channel="MTV Portugal HD">
+  <programme start="20231112005400 +0000" stop="20231112013900 +0000" channel="MTV Portugal HD">
     <title lang="pt">Geordie Shore</title>
   </programme>
-  <programme start="20231112015100 +0000" stop="20231112024300 +0000" channel="MTV Portugal HD">
+  <programme start="20231112013900 +0000" stop="20231112022500 +0000" channel="MTV Portugal HD">
     <title lang="pt">Geordie Shore</title>
   </programme>
-  <programme start="20231112024300 +0000" stop="20231112030300 +0000" channel="MTV Portugal HD">
+  <programme start="20231112022500 +0000" stop="20231112024600 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231112030300 +0000" stop="20231112032300 +0000" channel="MTV Portugal HD">
+  <programme start="20231112024600 +0000" stop="20231112030700 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231112032300 +0000" stop="20231112060000 +0000" channel="MTV Portugal HD">
+  <programme start="20231112030700 +0000" stop="20231112060000 +0000" channel="MTV Portugal HD">
     <title lang="pt">Night Videos</title>
   </programme>
-  <programme start="20231112060000 +0000" stop="20231112072500 +0000" channel="MTV Portugal HD">
+  <programme start="20231112060000 +0000" stop="20231112065500 +0000" channel="MTV Portugal HD">
     <title lang="pt">MTV Top 20</title>
   </programme>
-  <programme start="20231112072500 +0000" stop="20231112090000 +0000" channel="MTV Portugal HD">
+  <programme start="20231112065500 +0000" stop="20231112085200 +0000" channel="MTV Portugal HD">
     <title lang="pt">MTV Breakfast Club</title>
   </programme>
-  <programme start="20231112090000 +0000" stop="20231112110000 +0000" channel="MTV Portugal HD">
+  <programme start="20231112085200 +0000" stop="20231112110500 +0000" channel="MTV Portugal HD">
     <title lang="pt">MTV Into The Music</title>
   </programme>
-  <programme start="20231112110000 +0000" stop="20231112134700 +0000" channel="MTV Portugal HD">
+  <programme start="20231112110500 +0000" stop="20231112140200 +0000" channel="MTV Portugal HD">
     <title lang="pt">Non Stop Hits</title>
   </programme>
-  <programme start="20231112134700 +0000" stop="20231112143000 +0000" channel="MTV Portugal HD">
+  <programme start="20231112140200 +0000" stop="20231112144300 +0000" channel="MTV Portugal HD">
     <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20231112143000 +0000" stop="20231112151200 +0000" channel="MTV Portugal HD">
+  <programme start="20231112144300 +0000" stop="20231112152500 +0000" channel="MTV Portugal HD">
     <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20231112151200 +0000" stop="20231112155600 +0000" channel="MTV Portugal HD">
+  <programme start="20231112152500 +0000" stop="20231112160500 +0000" channel="MTV Portugal HD">
     <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20231112155600 +0000" stop="20231112164100 +0000" channel="MTV Portugal HD">
+  <programme start="20231112160500 +0000" stop="20231112164800 +0000" channel="MTV Portugal HD">
     <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20231112164100 +0000" stop="20231112172500 +0000" channel="MTV Portugal HD">
+  <programme start="20231112164800 +0000" stop="20231112172900 +0000" channel="MTV Portugal HD">
     <title lang="pt">Teen Mom: The Next Chapter</title>
   </programme>
-  <programme start="20231112172500 +0000" stop="20231112180800 +0000" channel="MTV Portugal HD">
+  <programme start="20231112172900 +0000" stop="20231112181000 +0000" channel="MTV Portugal HD">
     <title lang="pt">Teen Mom: The Next Chapter</title>
   </programme>
-  <programme start="20231112180800 +0000" stop="20231112185600 +0000" channel="MTV Portugal HD">
+  <programme start="20231112181000 +0000" stop="20231112185400 +0000" channel="MTV Portugal HD">
     <title lang="pt">Love &amp; Hip Hop Atlanta</title>
   </programme>
-  <programme start="20231112185600 +0000" stop="20231112194200 +0000" channel="MTV Portugal HD">
+  <programme start="20231112185400 +0000" stop="20231112193700 +0000" channel="MTV Portugal HD">
     <title lang="pt">Love &amp; Hip Hop Atlanta</title>
   </programme>
-  <programme start="20231112194200 +0000" stop="20231112202800 +0000" channel="MTV Portugal HD">
+  <programme start="20231112193700 +0000" stop="20231112202000 +0000" channel="MTV Portugal HD">
     <title lang="pt">Caught In The Act: Unfaithful</title>
   </programme>
-  <programme start="20231112202800 +0000" stop="20231112211100 +0000" channel="MTV Portugal HD">
+  <programme start="20231112202000 +0000" stop="20231112210100 +0000" channel="MTV Portugal HD">
     <title lang="pt">Caught In The Act: Unfaithful</title>
   </programme>
-  <programme start="20231112211100 +0000" stop="20231112220000 +0000" channel="MTV Portugal HD">
+  <programme start="20231112210100 +0000" stop="20231112214800 +0000" channel="MTV Portugal HD">
     <title lang="pt">Jersey Shore Family Vacation</title>
   </programme>
-  <programme start="20231112220000 +0000" stop="20231112224700 +0000" channel="MTV Portugal HD">
+  <programme start="20231112214800 +0000" stop="20231112223300 +0000" channel="MTV Portugal HD">
     <title lang="pt">Jersey Shore Family Vacation</title>
   </programme>
-  <programme start="20231112224700 +0000" stop="20231112233200 +0000" channel="MTV Portugal HD">
+  <programme start="20231112223300 +0000" stop="20231112231500 +0000" channel="MTV Portugal HD">
     <title lang="pt">All Star Shore</title>
   </programme>
-  <programme start="20231112233200 +0000" stop="20231113001700 +0000" channel="MTV Portugal HD">
+  <programme start="20231112231500 +0000" stop="20231112235800 +0000" channel="MTV Portugal HD">
     <title lang="pt">All Star Shore</title>
   </programme>
-  <programme start="20231113001700 +0000" stop="20231113004000 +0000" channel="MTV Portugal HD">
+  <programme start="20231112235800 +0000" stop="20231113001900 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231113004000 +0000" stop="20231113010400 +0000" channel="MTV Portugal HD">
+  <programme start="20231113001900 +0000" stop="20231113004200 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231113010400 +0000" stop="20231113015200 +0000" channel="MTV Portugal HD">
+  <programme start="20231113004200 +0000" stop="20231113012600 +0000" channel="MTV Portugal HD">
     <title lang="pt">Geordie Shore</title>
   </programme>
-  <programme start="20231113015200 +0000" stop="20231113024300 +0000" channel="MTV Portugal HD">
+  <programme start="20231113012600 +0000" stop="20231113021300 +0000" channel="MTV Portugal HD">
     <title lang="pt">Geordie Shore</title>
   </programme>
-  <programme start="20231113024300 +0000" stop="20231113030300 +0000" channel="MTV Portugal HD">
+  <programme start="20231113021300 +0000" stop="20231113023500 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231113030300 +0000" stop="20231113032300 +0000" channel="MTV Portugal HD">
+  <programme start="20231113023500 +0000" stop="20231113025600 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231113032300 +0000" stop="20231113060000 +0000" channel="MTV Portugal HD">
+  <programme start="20231113025600 +0000" stop="20231113060000 +0000" channel="MTV Portugal HD">
     <title lang="pt">Night Videos</title>
   </programme>
-  <programme start="20231113060000 +0000" stop="20231113070000 +0000" channel="MTV Portugal HD">
+  <programme start="20231113060000 +0000" stop="20231113070400 +0000" channel="MTV Portugal HD">
     <title lang="pt">Wake Up</title>
   </programme>
-  <programme start="20231113070000 +0000" stop="20231113090000 +0000" channel="MTV Portugal HD">
+  <programme start="20231113070400 +0000" stop="20231113085900 +0000" channel="MTV Portugal HD">
     <title lang="pt">MTV Breakfast Club</title>
   </programme>
-  <programme start="20231113090000 +0000" stop="20231113110000 +0000" channel="MTV Portugal HD">
+  <programme start="20231113085900 +0000" stop="20231113110500 +0000" channel="MTV Portugal HD">
     <title lang="pt">MTV Into The Music</title>
   </programme>
-  <programme start="20231113110000 +0000" stop="20231113132500 +0000" channel="MTV Portugal HD">
+  <programme start="20231113110500 +0000" stop="20231113134100 +0000" channel="MTV Portugal HD">
     <title lang="pt">Non Stop Hits</title>
   </programme>
-  <programme start="20231113132500 +0000" stop="20231113141400 +0000" channel="MTV Portugal HD">
+  <programme start="20231113134100 +0000" stop="20231113142900 +0000" channel="MTV Portugal HD">
     <title lang="pt">MTV Cribs Collection</title>
   </programme>
-  <programme start="20231113141400 +0000" stop="20231113150000 +0000" channel="MTV Portugal HD">
+  <programme start="20231113142900 +0000" stop="20231113151100 +0000" channel="MTV Portugal HD">
     <title lang="pt">MTV Cribs</title>
   </programme>
-  <programme start="20231113150000 +0000" stop="20231113154900 +0000" channel="MTV Portugal HD">
+  <programme start="20231113151100 +0000" stop="20231113155500 +0000" channel="MTV Portugal HD">
     <title lang="pt">Love &amp; Hip Hop Atlanta</title>
   </programme>
-  <programme start="20231113154900 +0000" stop="20231113163400 +0000" channel="MTV Portugal HD">
+  <programme start="20231113155500 +0000" stop="20231113164100 +0000" channel="MTV Portugal HD">
     <title lang="pt">Are You The One? - Global Edition</title>
   </programme>
-  <programme start="20231113163400 +0000" stop="20231113165800 +0000" channel="MTV Portugal HD">
+  <programme start="20231113164100 +0000" stop="20231113170400 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231113165800 +0000" stop="20231113172200 +0000" channel="MTV Portugal HD">
+  <programme start="20231113170400 +0000" stop="20231113172800 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231113172200 +0000" stop="20231113174600 +0000" channel="MTV Portugal HD">
+  <programme start="20231113172800 +0000" stop="20231113175000 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231113174600 +0000" stop="20231113183000 +0000" channel="MTV Portugal HD">
+  <programme start="20231113175000 +0000" stop="20231113183300 +0000" channel="MTV Portugal HD">
     <title lang="pt">Dallas Cowboys Cheerleaders</title>
   </programme>
-  <programme start="20231113183000 +0000" stop="20231113191800 +0000" channel="MTV Portugal HD">
+  <programme start="20231113183300 +0000" stop="20231113191900 +0000" channel="MTV Portugal HD">
     <title lang="pt">Dallas Cowboys Cheerleaders</title>
   </programme>
-  <programme start="20231113191800 +0000" stop="20231113200200 +0000" channel="MTV Portugal HD">
+  <programme start="20231113191900 +0000" stop="20231113200300 +0000" channel="MTV Portugal HD">
     <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20231113200200 +0000" stop="20231113205000 +0000" channel="MTV Portugal HD">
+  <programme start="20231113200300 +0000" stop="20231113205100 +0000" channel="MTV Portugal HD">
     <title lang="pt">Catfish: The TV Show</title>
   </programme>
-  <programme start="20231113205000 +0000" stop="20231113211100 +0000" channel="MTV Portugal HD">
+  <programme start="20231113205100 +0000" stop="20231113211100 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231113211100 +0000" stop="20231113213400 +0000" channel="MTV Portugal HD">
+  <programme start="20231113211100 +0000" stop="20231113213600 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231113213400 +0000" stop="20231113220000 +0000" channel="MTV Portugal HD">
+  <programme start="20231113213600 +0000" stop="20231113220000 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231113220000 +0000" stop="20231113225000 +0000" channel="MTV Portugal HD">
+  <programme start="20231113220000 +0000" stop="20231113224900 +0000" channel="MTV Portugal HD">
     <title lang="pt">Jersey Shore Family Vacation</title>
   </programme>
-  <programme start="20231113225000 +0000" stop="20231113233500 +0000" channel="MTV Portugal HD">
+  <programme start="20231113224900 +0000" stop="20231113233200 +0000" channel="MTV Portugal HD">
     <title lang="pt">All Star Shore</title>
   </programme>
-  <programme start="20231113233500 +0000" stop="20231113235900 +0000" channel="MTV Portugal HD">
+  <programme start="20231113233200 +0000" stop="20231113235400 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231113235900 +0000" stop="20231114002000 +0000" channel="MTV Portugal HD">
+  <programme start="20231113235400 +0000" stop="20231114001500 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231114002000 +0000" stop="20231114004300 +0000" channel="MTV Portugal HD">
+  <programme start="20231114001500 +0000" stop="20231114003600 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231114004300 +0000" stop="20231114010500 +0000" channel="MTV Portugal HD">
+  <programme start="20231114003600 +0000" stop="20231114005700 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231114010500 +0000" stop="20231114015500 +0000" channel="MTV Portugal HD">
+  <programme start="20231114005700 +0000" stop="20231114014300 +0000" channel="MTV Portugal HD">
     <title lang="pt">Geordie Shore</title>
   </programme>
-  <programme start="20231114015500 +0000" stop="20231114024400 +0000" channel="MTV Portugal HD">
+  <programme start="20231114014300 +0000" stop="20231114022900 +0000" channel="MTV Portugal HD">
     <title lang="pt">Geordie Shore</title>
   </programme>
-  <programme start="20231114024400 +0000" stop="20231114030500 +0000" channel="MTV Portugal HD">
+  <programme start="20231114022900 +0000" stop="20231114025000 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231114030500 +0000" stop="20231114032500 +0000" channel="MTV Portugal HD">
+  <programme start="20231114025000 +0000" stop="20231114031000 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231114032500 +0000" stop="20231114060000 +0000" channel="MTV Portugal HD">
+  <programme start="20231114031000 +0000" stop="20231114060000 +0000" channel="MTV Portugal HD">
     <title lang="pt">Night Videos</title>
   </programme>
   <programme start="20231114060000 +0000" stop="20231114070000 +0000" channel="MTV Portugal HD">
@@ -645,71 +384,287 @@
   <programme start="20231114235900 +0000" stop="20231115002000 +0000" channel="MTV Portugal HD">
     <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231108050000 +0000" stop="20231108080000 +0000" channel="MCM POP">
-    <title lang="pt">Pop Tonic 'Morning'</title>
+  <programme start="20231115002000 +0000" stop="20231115004300 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231108080000 +0000" stop="20231108100000 +0000" channel="MCM POP">
-    <title lang="pt">Pop List</title>
+  <programme start="20231115004300 +0000" stop="20231115010500 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231108100000 +0000" stop="20231108120000 +0000" channel="MCM POP">
-    <title lang="pt">Hit RFM</title>
+  <programme start="20231115010500 +0000" stop="20231115015500 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Geordie Shore</title>
   </programme>
-  <programme start="20231108120000 +0000" stop="20231108200000 +0000" channel="MCM POP">
-    <title lang="pt">Pop List</title>
+  <programme start="20231115015500 +0000" stop="20231115024400 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Geordie Shore</title>
   </programme>
-  <programme start="20231108200000 +0000" stop="20231108203000 +0000" channel="MCM POP">
-    <title lang="pt">Pop Culte</title>
+  <programme start="20231115024400 +0000" stop="20231115030500 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231108203000 +0000" stop="20231108230000 +0000" channel="MCM POP">
-    <title lang="pt">Disco Pop</title>
+  <programme start="20231115030500 +0000" stop="20231115032500 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231108230000 +0000" stop="20231109050000 +0000" channel="MCM POP">
-    <title lang="pt">Pop List</title>
+  <programme start="20231115032500 +0000" stop="20231115060000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Night Videos</title>
   </programme>
-  <programme start="20231109050000 +0000" stop="20231109080000 +0000" channel="MCM POP">
-    <title lang="pt">Pop Tonic 'Morning'</title>
+  <programme start="20231115060000 +0000" stop="20231115070000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Wake Up</title>
   </programme>
-  <programme start="20231109080000 +0000" stop="20231109100000 +0000" channel="MCM POP">
-    <title lang="pt">Pop List</title>
+  <programme start="20231115070000 +0000" stop="20231115090000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Breakfast Club</title>
   </programme>
-  <programme start="20231109100000 +0000" stop="20231109110000 +0000" channel="MCM POP">
-    <title lang="pt">Pop Legend</title>
+  <programme start="20231115090000 +0000" stop="20231115110000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Into The Music</title>
   </programme>
-  <programme start="20231109110000 +0000" stop="20231109200000 +0000" channel="MCM POP">
-    <title lang="pt">Pop List</title>
+  <programme start="20231115110000 +0000" stop="20231115132500 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Non Stop Hits</title>
   </programme>
-  <programme start="20231109200000 +0000" stop="20231109203000 +0000" channel="MCM POP">
-    <title lang="pt">Pop Culte</title>
+  <programme start="20231115132500 +0000" stop="20231115134900 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Cribs International</title>
   </programme>
-  <programme start="20231109203000 +0000" stop="20231109223000 +0000" channel="MCM POP">
-    <title lang="pt">Hit RFM</title>
+  <programme start="20231115134900 +0000" stop="20231115141400 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Cribs International</title>
   </programme>
-  <programme start="20231109223000 +0000" stop="20231110050000 +0000" channel="MCM POP">
-    <title lang="pt">Pop List</title>
+  <programme start="20231115141400 +0000" stop="20231115143800 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Cribs International</title>
   </programme>
-  <programme start="20231110050000 +0000" stop="20231110080000 +0000" channel="MCM POP">
-    <title lang="pt">Pop Tonic 'Morning'</title>
+  <programme start="20231115143800 +0000" stop="20231115150000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Cribs International</title>
   </programme>
-  <programme start="20231110080000 +0000" stop="20231110100000 +0000" channel="MCM POP">
-    <title lang="pt">Pop List</title>
+  <programme start="20231115150000 +0000" stop="20231115154900 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Are You The One? - Global Edition</title>
   </programme>
-  <programme start="20231110100000 +0000" stop="20231110103000 +0000" channel="MCM POP">
-    <title lang="pt">Hit RFM</title>
+  <programme start="20231115154900 +0000" stop="20231115163400 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Are You The One? - Global Edition</title>
   </programme>
-  <programme start="20231110103000 +0000" stop="20231110110000 +0000" channel="MCM POP">
-    <title lang="pt">Pop 80'</title>
+  <programme start="20231115163400 +0000" stop="20231115165800 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231110110000 +0000" stop="20231110200000 +0000" channel="MCM POP">
-    <title lang="pt">Pop List</title>
+  <programme start="20231115165800 +0000" stop="20231115172200 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231110200000 +0000" stop="20231110203000 +0000" channel="MCM POP">
-    <title lang="pt">Hit RFM</title>
+  <programme start="20231115172200 +0000" stop="20231115174300 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
-  <programme start="20231110203000 +0000" stop="20231110230000 +0000" channel="MCM POP">
-    <title lang="pt">Pop Rock</title>
+  <programme start="20231115174300 +0000" stop="20231115174600 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Fresh Out Live</title>
   </programme>
-  <programme start="20231110230000 +0000" stop="20231111050000 +0000" channel="MCM POP">
-    <title lang="pt">Pop List</title>
+  <programme start="20231115174600 +0000" stop="20231115183000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Dallas Cowboys Cheerleaders: Making The Team</title>
+  </programme>
+  <programme start="20231115183000 +0000" stop="20231115191800 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Dallas Cowboys Cheerleaders: Making The Team</title>
+  </programme>
+  <programme start="20231115191800 +0000" stop="20231115200200 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20231115200200 +0000" stop="20231115205000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20231115205000 +0000" stop="20231115211100 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231115211100 +0000" stop="20231115213400 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231115213400 +0000" stop="20231115220000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231115220000 +0000" stop="20231115225000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Caught In The Act: Unfaithful</title>
+  </programme>
+  <programme start="20231115225000 +0000" stop="20231115233500 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Love &amp; Hip Hop Atlanta</title>
+  </programme>
+  <programme start="20231115233500 +0000" stop="20231115235900 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231115235900 +0000" stop="20231116002000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231116002000 +0000" stop="20231116004300 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231116004300 +0000" stop="20231116010500 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231116010500 +0000" stop="20231116015500 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Geordie Shore</title>
+  </programme>
+  <programme start="20231116015500 +0000" stop="20231116024400 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Geordie Shore</title>
+  </programme>
+  <programme start="20231116024400 +0000" stop="20231116030500 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231116030500 +0000" stop="20231116032400 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231116032400 +0000" stop="20231116060000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Night Videos</title>
+  </programme>
+  <programme start="20231116060000 +0000" stop="20231116070000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Wake Up</title>
+  </programme>
+  <programme start="20231116070000 +0000" stop="20231116090000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Breakfast Club</title>
+  </programme>
+  <programme start="20231116090000 +0000" stop="20231116110000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Into The Music</title>
+  </programme>
+  <programme start="20231116110000 +0000" stop="20231116132500 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Non Stop Hits</title>
+  </programme>
+  <programme start="20231116132500 +0000" stop="20231116134900 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Cribs International</title>
+  </programme>
+  <programme start="20231116134900 +0000" stop="20231116141400 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Cribs International</title>
+  </programme>
+  <programme start="20231116141400 +0000" stop="20231116143800 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Cribs International</title>
+  </programme>
+  <programme start="20231116143800 +0000" stop="20231116150000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Cribs International</title>
+  </programme>
+  <programme start="20231116150000 +0000" stop="20231116154900 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Are You The One? - Global Edition</title>
+  </programme>
+  <programme start="20231116154900 +0000" stop="20231116163400 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Are You The One? - Global Edition</title>
+  </programme>
+  <programme start="20231116163400 +0000" stop="20231116165800 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231116165800 +0000" stop="20231116172200 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231116172200 +0000" stop="20231116174600 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231116174600 +0000" stop="20231116183000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Dallas Cowboys Cheerleaders: Making The Team</title>
+  </programme>
+  <programme start="20231116183000 +0000" stop="20231116191800 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Dallas Cowboys Cheerleaders: Making The Team</title>
+  </programme>
+  <programme start="20231116191800 +0000" stop="20231116200200 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20231116200200 +0000" stop="20231116205000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20231116205000 +0000" stop="20231116211100 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231116211100 +0000" stop="20231116213400 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231116213400 +0000" stop="20231116220000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231116220000 +0000" stop="20231116225000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">The Love Experiment</title>
+  </programme>
+  <programme start="20231116225000 +0000" stop="20231116233500 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Jersey Shore Family Vacation</title>
+  </programme>
+  <programme start="20231116233500 +0000" stop="20231116235900 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231116235900 +0000" stop="20231117002000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231117002000 +0000" stop="20231117004300 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231117004300 +0000" stop="20231117010500 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231117010500 +0000" stop="20231117015500 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Geordie Shore</title>
+  </programme>
+  <programme start="20231117015500 +0000" stop="20231117024400 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Geordie Shore</title>
+  </programme>
+  <programme start="20231117024400 +0000" stop="20231117030500 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231117030500 +0000" stop="20231117032500 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231117032500 +0000" stop="20231117060000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Night Videos</title>
+  </programme>
+  <programme start="20231117060000 +0000" stop="20231117070000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Wake Up</title>
+  </programme>
+  <programme start="20231117070000 +0000" stop="20231117090000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Breakfast Club</title>
+  </programme>
+  <programme start="20231117090000 +0000" stop="20231117110000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Into The Music</title>
+  </programme>
+  <programme start="20231117110000 +0000" stop="20231117132500 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Non Stop Hits</title>
+  </programme>
+  <programme start="20231117132500 +0000" stop="20231117134900 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Cribs International</title>
+  </programme>
+  <programme start="20231117134900 +0000" stop="20231117141400 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Cribs International</title>
+  </programme>
+  <programme start="20231117141400 +0000" stop="20231117143800 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Cribs International</title>
+  </programme>
+  <programme start="20231117143800 +0000" stop="20231117150000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">MTV Cribs International</title>
+  </programme>
+  <programme start="20231117150000 +0000" stop="20231117154900 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Are You The One? - Global Edition</title>
+  </programme>
+  <programme start="20231117154900 +0000" stop="20231117163400 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Are You The One? - Global Edition</title>
+  </programme>
+  <programme start="20231117163400 +0000" stop="20231117165800 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231117165800 +0000" stop="20231117172200 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231117172200 +0000" stop="20231117174600 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231117174600 +0000" stop="20231117183000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Dallas Cowboys Cheerleaders: Making The Team</title>
+  </programme>
+  <programme start="20231117183000 +0000" stop="20231117191800 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Dallas Cowboys Cheerleaders: Making The Team</title>
+  </programme>
+  <programme start="20231117191800 +0000" stop="20231117200200 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Behind The Music (2021)</title>
+  </programme>
+  <programme start="20231117200200 +0000" stop="20231117205000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Catfish: The TV Show</title>
+  </programme>
+  <programme start="20231117205000 +0000" stop="20231117211100 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231117211100 +0000" stop="20231117213400 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231117213400 +0000" stop="20231117220000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231117220000 +0000" stop="20231117224500 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Love &amp; Hip Hop Atlanta</title>
+  </programme>
+  <programme start="20231117224500 +0000" stop="20231117233000 +0000" channel="MTV Portugal HD">
+    <title lang="pt">The Love Experiment</title>
+  </programme>
+  <programme start="20231117233000 +0000" stop="20231117235500 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
+  </programme>
+  <programme start="20231117235500 +0000" stop="20231118001800 +0000" channel="MTV Portugal HD">
+    <title lang="pt">Ridiculousness</title>
   </programme>
   <programme start="20231111050000 +0000" stop="20231111080000 +0000" channel="MCM POP">
     <title lang="pt">Pop Tonic 'Morning'</title>
@@ -801,107 +756,74 @@
   <programme start="20231114223000 +0000" stop="20231115050000 +0000" channel="MCM POP">
     <title lang="pt">Pop List</title>
   </programme>
-  <programme start="20231108040000 +0000" stop="20231108100000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Urban Vibes</title>
+  <programme start="20231115050000 +0000" stop="20231115080000 +0000" channel="MCM POP">
+    <title lang="pt">Pop Tonic 'Morning'</title>
   </programme>
-  <programme start="20231108100000 +0000" stop="20231108160000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
+  <programme start="20231115080000 +0000" stop="20231115100000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
   </programme>
-  <programme start="20231108160000 +0000" stop="20231108164500 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Hit 10</title>
+  <programme start="20231115100000 +0000" stop="20231115103000 +0000" channel="MCM POP">
+    <title lang="pt">Hit RFM</title>
   </programme>
-  <programme start="20231108164500 +0000" stop="20231108170000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
+  <programme start="20231115103000 +0000" stop="20231115110000 +0000" channel="MCM POP">
+    <title lang="pt">Pop 80'</title>
   </programme>
-  <programme start="20231108170000 +0000" stop="20231108180000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Hits &amp; Lyrics</title>
+  <programme start="20231115110000 +0000" stop="20231115200000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
   </programme>
-  <programme start="20231108180000 +0000" stop="20231108184500 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Top 10 US</title>
+  <programme start="20231115200000 +0000" stop="20231115203000 +0000" channel="MCM POP">
+    <title lang="pt">Hit RFM</title>
   </programme>
-  <programme start="20231108184500 +0000" stop="20231108190000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
+  <programme start="20231115203000 +0000" stop="20231115230000 +0000" channel="MCM POP">
+    <title lang="pt">Pop Rock</title>
   </programme>
-  <programme start="20231108190000 +0000" stop="20231108200000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
+  <programme start="20231115230000 +0000" stop="20231116050000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
   </programme>
-  <programme start="20231108200000 +0000" stop="20231108210000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Stream It</title>
+  <programme start="20231116050000 +0000" stop="20231116080000 +0000" channel="MCM POP">
+    <title lang="pt">Pop Tonic 'Morning'</title>
   </programme>
-  <programme start="20231108210000 +0000" stop="20231108220000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">New</title>
+  <programme start="20231116080000 +0000" stop="20231116100000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
   </programme>
-  <programme start="20231108220000 +0000" stop="20231109040000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Sounds Of Trace</title>
+  <programme start="20231116100000 +0000" stop="20231116110000 +0000" channel="MCM POP">
+    <title lang="pt">Pop Legend</title>
   </programme>
-  <programme start="20231109040000 +0000" stop="20231109100000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Urban Vibes</title>
+  <programme start="20231116110000 +0000" stop="20231116200000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
   </programme>
-  <programme start="20231109100000 +0000" stop="20231109160000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
+  <programme start="20231116200000 +0000" stop="20231116203000 +0000" channel="MCM POP">
+    <title lang="pt">Pop Culte</title>
   </programme>
-  <programme start="20231109160000 +0000" stop="20231109164500 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Hit 10</title>
+  <programme start="20231116203000 +0000" stop="20231116223000 +0000" channel="MCM POP">
+    <title lang="pt">Hit RFM</title>
   </programme>
-  <programme start="20231109164500 +0000" stop="20231109170000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
+  <programme start="20231116223000 +0000" stop="20231117050000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
   </programme>
-  <programme start="20231109170000 +0000" stop="20231109180000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Hits &amp; Lyrics</title>
+  <programme start="20231117050000 +0000" stop="20231117080000 +0000" channel="MCM POP">
+    <title lang="pt">Pop Tonic 'Morning'</title>
   </programme>
-  <programme start="20231109180000 +0000" stop="20231109184500 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Top 10 Pop</title>
+  <programme start="20231117080000 +0000" stop="20231117100000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
   </programme>
-  <programme start="20231109184500 +0000" stop="20231109190000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
+  <programme start="20231117100000 +0000" stop="20231117103000 +0000" channel="MCM POP">
+    <title lang="pt">Hit RFM</title>
   </programme>
-  <programme start="20231109190000 +0000" stop="20231109200000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
+  <programme start="20231117103000 +0000" stop="20231117110000 +0000" channel="MCM POP">
+    <title lang="pt">Pop 80'</title>
   </programme>
-  <programme start="20231109200000 +0000" stop="20231109210000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Stream It</title>
+  <programme start="20231117110000 +0000" stop="20231117200000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
   </programme>
-  <programme start="20231109210000 +0000" stop="20231109220000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">New</title>
+  <programme start="20231117200000 +0000" stop="20231117203000 +0000" channel="MCM POP">
+    <title lang="pt">Hit RFM</title>
   </programme>
-  <programme start="20231109220000 +0000" stop="20231110040000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Sounds Of Trace</title>
+  <programme start="20231117203000 +0000" stop="20231117230000 +0000" channel="MCM POP">
+    <title lang="pt">Pop Rock</title>
   </programme>
-  <programme start="20231110040000 +0000" stop="20231110100000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Urban Vibes</title>
-  </programme>
-  <programme start="20231110100000 +0000" stop="20231110160000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
-  </programme>
-  <programme start="20231110160000 +0000" stop="20231110164500 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Hit 10</title>
-  </programme>
-  <programme start="20231110164500 +0000" stop="20231110170000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
-  </programme>
-  <programme start="20231110170000 +0000" stop="20231110180000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Hits &amp; Lyrics</title>
-  </programme>
-  <programme start="20231110180000 +0000" stop="20231110184500 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Top 10 Club</title>
-  </programme>
-  <programme start="20231110184500 +0000" stop="20231110190000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
-  </programme>
-  <programme start="20231110190000 +0000" stop="20231110195600 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">20 Years Of Hits</title>
-  </programme>
-  <programme start="20231110195600 +0000" stop="20231110200000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Hits Non Stop</title>
-  </programme>
-  <programme start="20231110200000 +0000" stop="20231110210000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Stream It</title>
-  </programme>
-  <programme start="20231110210000 +0000" stop="20231110220000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">New</title>
-  </programme>
-  <programme start="20231110220000 +0000" stop="20231111040000 +0000" channel="TRACE URBAN HD">
-    <title lang="pt">Sounds Of Trace</title>
+  <programme start="20231117230000 +0000" stop="20231118050000 +0000" channel="MCM POP">
+    <title lang="pt">Pop List</title>
   </programme>
   <programme start="20231111040000 +0000" stop="20231111080000 +0000" channel="TRACE URBAN HD">
     <title lang="pt">Weekend Vibes</title>
@@ -1035,221 +957,107 @@
   <programme start="20231114220000 +0000" stop="20231115040000 +0000" channel="TRACE URBAN HD">
     <title lang="pt">Sounds Of Trace</title>
   </programme>
-  <programme start="20231108085300 +0000" stop="20231108092700 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Love</title>
+  <programme start="20231115040000 +0000" stop="20231115100000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Urban Vibes</title>
   </programme>
-  <programme start="20231108092700 +0000" stop="20231108095800 +0000" channel="AFRO MUSIC">
-    <title lang="pt">African Vibes</title>
+  <programme start="20231115100000 +0000" stop="20231115160000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20231108095800 +0000" stop="20231108103200 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Around The World</title>
+  <programme start="20231115160000 +0000" stop="20231115164500 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Hit 10</title>
   </programme>
-  <programme start="20231108103200 +0000" stop="20231108110000 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Ao Nosso Ritmo</title>
+  <programme start="20231115164500 +0000" stop="20231115170000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20231108110000 +0000" stop="20231108115000 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Fresh Music</title>
+  <programme start="20231115170000 +0000" stop="20231115180000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Hits &amp; Lyrics</title>
   </programme>
-  <programme start="20231108115000 +0000" stop="20231108123300 +0000" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
+  <programme start="20231115180000 +0000" stop="20231115184500 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Top 10 US</title>
   </programme>
-  <programme start="20231108123300 +0000" stop="20231108130700 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Love</title>
+  <programme start="20231115184500 +0000" stop="20231115190000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20231108130700 +0000" stop="20231108134000 +0000" channel="AFRO MUSIC">
-    <title lang="pt">African Vibes</title>
+  <programme start="20231115190000 +0000" stop="20231115200000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20231108134000 +0000" stop="20231108142300 +0000" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
+  <programme start="20231115200000 +0000" stop="20231115210000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Stream It</title>
   </programme>
-  <programme start="20231108142300 +0000" stop="20231108150100 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Around The World</title>
+  <programme start="20231115210000 +0000" stop="20231115220000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">New</title>
   </programme>
-  <programme start="20231108150100 +0000" stop="20231108153800 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Ao Nosso Ritmo</title>
+  <programme start="20231115220000 +0000" stop="20231116040000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Sounds Of Trace</title>
   </programme>
-  <programme start="20231108153800 +0000" stop="20231108162800 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Fresh Music</title>
+  <programme start="20231116040000 +0000" stop="20231116100000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Urban Vibes</title>
   </programme>
-  <programme start="20231108162800 +0000" stop="20231108171200 +0000" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
+  <programme start="20231116100000 +0000" stop="20231116160000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20231108171200 +0000" stop="20231108174900 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Love</title>
+  <programme start="20231116160000 +0000" stop="20231116164500 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Hit 10</title>
   </programme>
-  <programme start="20231108174900 +0000" stop="20231108182300 +0000" channel="AFRO MUSIC">
-    <title lang="pt">African Vibes</title>
+  <programme start="20231116164500 +0000" stop="20231116170000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20231108182300 +0000" stop="20231108191300 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Fresh Music</title>
+  <programme start="20231116170000 +0000" stop="20231116180000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Hits &amp; Lyrics</title>
   </programme>
-  <programme start="20231108191300 +0000" stop="20231108194800 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Around The World</title>
+  <programme start="20231116180000 +0000" stop="20231116184500 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Top 10 Pop</title>
   </programme>
-  <programme start="20231108194800 +0000" stop="20231108202400 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Ao Nosso Ritmo</title>
+  <programme start="20231116184500 +0000" stop="20231116190000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20231108202400 +0000" stop="20231108210900 +0000" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
+  <programme start="20231116190000 +0000" stop="20231116200000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20231108210900 +0000" stop="20231108214100 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Best Hits</title>
+  <programme start="20231116200000 +0000" stop="20231116210000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Stream It</title>
   </programme>
-  <programme start="20231108214100 +0000" stop="20231108221700 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Love</title>
+  <programme start="20231116210000 +0000" stop="20231116220000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">New</title>
   </programme>
-  <programme start="20231108221700 +0000" stop="20231108225000 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Fresh Music</title>
+  <programme start="20231116220000 +0000" stop="20231117040000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Sounds Of Trace</title>
   </programme>
-  <programme start="20231108225000 +0000" stop="20231108230000 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Around The World</title>
+  <programme start="20231117040000 +0000" stop="20231117100000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Urban Vibes</title>
   </programme>
-  <programme start="20231108230000 +0000" stop="20231109085300 +0000" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
+  <programme start="20231117100000 +0000" stop="20231117160000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20231109085300 +0000" stop="20231109092700 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Love</title>
+  <programme start="20231117160000 +0000" stop="20231117164500 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Hit 10</title>
   </programme>
-  <programme start="20231109092700 +0000" stop="20231109095800 +0000" channel="AFRO MUSIC">
-    <title lang="pt">African Vibes</title>
+  <programme start="20231117164500 +0000" stop="20231117170000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20231109095800 +0000" stop="20231109103200 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Around The World</title>
+  <programme start="20231117170000 +0000" stop="20231117180000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Hits &amp; Lyrics</title>
   </programme>
-  <programme start="20231109103200 +0000" stop="20231109110000 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Ao Nosso Ritmo</title>
+  <programme start="20231117180000 +0000" stop="20231117184500 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Top 10 Club</title>
   </programme>
-  <programme start="20231109110000 +0000" stop="20231109115000 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Fresh Music</title>
+  <programme start="20231117184500 +0000" stop="20231117190000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20231109115000 +0000" stop="20231109123300 +0000" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
+  <programme start="20231117190000 +0000" stop="20231117195600 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">20 Years Of Hits</title>
   </programme>
-  <programme start="20231109123300 +0000" stop="20231109130700 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Love</title>
+  <programme start="20231117195600 +0000" stop="20231117200000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Hits Non Stop</title>
   </programme>
-  <programme start="20231109130700 +0000" stop="20231109134000 +0000" channel="AFRO MUSIC">
-    <title lang="pt">African Vibes</title>
+  <programme start="20231117200000 +0000" stop="20231117210000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Stream It</title>
   </programme>
-  <programme start="20231109134000 +0000" stop="20231109142300 +0000" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
+  <programme start="20231117210000 +0000" stop="20231117220000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">New</title>
   </programme>
-  <programme start="20231109142300 +0000" stop="20231109150100 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Around The World</title>
-  </programme>
-  <programme start="20231109150100 +0000" stop="20231109153800 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Ao Nosso Ritmo</title>
-  </programme>
-  <programme start="20231109153800 +0000" stop="20231109162800 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Fresh Music</title>
-  </programme>
-  <programme start="20231109162800 +0000" stop="20231109171200 +0000" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
-  </programme>
-  <programme start="20231109171200 +0000" stop="20231109174900 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Love</title>
-  </programme>
-  <programme start="20231109174900 +0000" stop="20231109182300 +0000" channel="AFRO MUSIC">
-    <title lang="pt">African Vibes</title>
-  </programme>
-  <programme start="20231109182300 +0000" stop="20231109191300 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Fresh Music</title>
-  </programme>
-  <programme start="20231109191300 +0000" stop="20231109194800 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Around The World</title>
-  </programme>
-  <programme start="20231109194800 +0000" stop="20231109202400 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Ao Nosso Ritmo</title>
-  </programme>
-  <programme start="20231109202400 +0000" stop="20231109210900 +0000" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
-  </programme>
-  <programme start="20231109210900 +0000" stop="20231109214100 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Best Hits</title>
-  </programme>
-  <programme start="20231109214100 +0000" stop="20231109221700 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Love</title>
-  </programme>
-  <programme start="20231109221700 +0000" stop="20231109225000 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Fresh Music</title>
-  </programme>
-  <programme start="20231109225000 +0000" stop="20231109230000 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Around The World</title>
-  </programme>
-  <programme start="20231109230000 +0000" stop="20231110085300 +0000" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
-  </programme>
-  <programme start="20231110085300 +0000" stop="20231110092700 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Love</title>
-  </programme>
-  <programme start="20231110092700 +0000" stop="20231110095800 +0000" channel="AFRO MUSIC">
-    <title lang="pt">African Vibes</title>
-  </programme>
-  <programme start="20231110095800 +0000" stop="20231110103200 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Around The World</title>
-  </programme>
-  <programme start="20231110103200 +0000" stop="20231110110000 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Ao Nosso Ritmo</title>
-  </programme>
-  <programme start="20231110110000 +0000" stop="20231110115000 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Fresh Music</title>
-  </programme>
-  <programme start="20231110115000 +0000" stop="20231110123300 +0000" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
-  </programme>
-  <programme start="20231110123300 +0000" stop="20231110130700 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Love</title>
-  </programme>
-  <programme start="20231110130700 +0000" stop="20231110134000 +0000" channel="AFRO MUSIC">
-    <title lang="pt">African Vibes</title>
-  </programme>
-  <programme start="20231110134000 +0000" stop="20231110142300 +0000" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
-  </programme>
-  <programme start="20231110142300 +0000" stop="20231110150100 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Around The World</title>
-  </programme>
-  <programme start="20231110150100 +0000" stop="20231110153800 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Ao Nosso Ritmo</title>
-  </programme>
-  <programme start="20231110153800 +0000" stop="20231110162800 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Fresh Music</title>
-  </programme>
-  <programme start="20231110162800 +0000" stop="20231110171200 +0000" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
-  </programme>
-  <programme start="20231110171200 +0000" stop="20231110174900 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Love</title>
-  </programme>
-  <programme start="20231110174900 +0000" stop="20231110182300 +0000" channel="AFRO MUSIC">
-    <title lang="pt">African Vibes</title>
-  </programme>
-  <programme start="20231110182300 +0000" stop="20231110191300 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Fresh Music</title>
-  </programme>
-  <programme start="20231110191300 +0000" stop="20231110194800 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Around The World</title>
-  </programme>
-  <programme start="20231110194800 +0000" stop="20231110202400 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Ao Nosso Ritmo</title>
-  </programme>
-  <programme start="20231110202400 +0000" stop="20231110210900 +0000" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
-  </programme>
-  <programme start="20231110210900 +0000" stop="20231110214100 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Best Hits</title>
-  </programme>
-  <programme start="20231110214100 +0000" stop="20231110221700 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Love</title>
-  </programme>
-  <programme start="20231110221700 +0000" stop="20231110225000 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Fresh Music</title>
-  </programme>
-  <programme start="20231110225000 +0000" stop="20231110230000 +0000" channel="AFRO MUSIC">
-    <title lang="pt">Around The World</title>
-  </programme>
-  <programme start="20231110230000 +0000" stop="20231111085300 +0000" channel="AFRO MUSIC">
-    <title lang="pt">100 Pausas</title>
+  <programme start="20231117220000 +0000" stop="20231118040000 +0000" channel="TRACE URBAN HD">
+    <title lang="pt">Sounds Of Trace</title>
   </programme>
   <programme start="20231111085300 +0000" stop="20231111092700 +0000" channel="AFRO MUSIC">
     <title lang="pt">Love</title>
@@ -1539,173 +1347,221 @@
   <programme start="20231114230000 +0000" stop="20231115085300 +0000" channel="AFRO MUSIC">
     <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20231108000000 +0000" stop="20231108011400 +0000" channel="HOT HD">
-    <title lang="pt">Traição Consentida</title>
+  <programme start="20231115085300 +0000" stop="20231115092700 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
   </programme>
-  <programme start="20231108011400 +0000" stop="20231108030700 +0000" channel="HOT HD">
-    <title lang="pt">Mon Cherie: Um Bombom De Mulher</title>
+  <programme start="20231115092700 +0000" stop="20231115095800 +0000" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
   </programme>
-  <programme start="20231108030700 +0000" stop="20231108045100 +0000" channel="HOT HD">
-    <title lang="pt">O Melhor Sexo Da Algarvia Noa Volume 1</title>
+  <programme start="20231115095800 +0000" stop="20231115103200 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Around The World</title>
   </programme>
-  <programme start="20231108045100 +0000" stop="20231108061300 +0000" channel="HOT HD">
-    <title lang="pt">Castigo Anal</title>
+  <programme start="20231115103200 +0000" stop="20231115110000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
   </programme>
-  <programme start="20231108061300 +0000" stop="20231108072500 +0000" channel="HOT HD">
-    <title lang="pt">Amor Anal</title>
+  <programme start="20231115110000 +0000" stop="20231115115000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
   </programme>
-  <programme start="20231108072500 +0000" stop="20231108085500 +0000" channel="HOT HD">
-    <title lang="pt">Velhas E Novas, Marcha Tudo!</title>
+  <programme start="20231115115000 +0000" stop="20231115123300 +0000" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20231108085500 +0000" stop="20231108101400 +0000" channel="HOT HD">
-    <title lang="pt">Fisting Com A Minha Mãe</title>
+  <programme start="20231115123300 +0000" stop="20231115130700 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
   </programme>
-  <programme start="20231108101400 +0000" stop="20231108112600 +0000" channel="HOT HD">
-    <title lang="pt">Casting , Mas Só No Cu!</title>
+  <programme start="20231115130700 +0000" stop="20231115134000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
   </programme>
-  <programme start="20231108112600 +0000" stop="20231108125900 +0000" channel="HOT HD">
-    <title lang="pt">Um Presente De Aniversário Inesperado</title>
+  <programme start="20231115134000 +0000" stop="20231115142300 +0000" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20231108125900 +0000" stop="20231108134600 +0000" channel="HOT HD">
-    <title lang="pt">Pais A Verem Filhos Foderem-Lhe A Mulher</title>
+  <programme start="20231115142300 +0000" stop="20231115150100 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Around The World</title>
   </programme>
-  <programme start="20231108134600 +0000" stop="20231108144400 +0000" channel="HOT HD">
-    <title lang="pt">Amor Entre Mães E Filhas</title>
+  <programme start="20231115150100 +0000" stop="20231115153800 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
   </programme>
-  <programme start="20231108144400 +0000" stop="20231108160000 +0000" channel="HOT HD">
-    <title lang="pt">Casting De Francesinhas</title>
+  <programme start="20231115153800 +0000" stop="20231115162800 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
   </programme>
-  <programme start="20231108160000 +0000" stop="20231108173800 +0000" channel="HOT HD">
-    <title lang="pt">Orgia De Marrões</title>
+  <programme start="20231115162800 +0000" stop="20231115171200 +0000" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20231108173800 +0000" stop="20231108191600 +0000" channel="HOT HD">
-    <title lang="pt">Orgia Madura</title>
+  <programme start="20231115171200 +0000" stop="20231115174900 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
   </programme>
-  <programme start="20231108191600 +0000" stop="20231108204400 +0000" channel="HOT HD">
-    <title lang="pt">O Melhor Sexo Da Algarvia Noa Volume 2</title>
+  <programme start="20231115174900 +0000" stop="20231115182300 +0000" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
   </programme>
-  <programme start="20231108204400 +0000" stop="20231108214400 +0000" channel="HOT HD">
-    <title lang="pt">Impulsos De Padrasto</title>
+  <programme start="20231115182300 +0000" stop="20231115191300 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
   </programme>
-  <programme start="20231108214400 +0000" stop="20231108224300 +0000" channel="HOT HD">
-    <title lang="pt">Festa De São Valentim</title>
+  <programme start="20231115191300 +0000" stop="20231115194800 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Around The World</title>
   </programme>
-  <programme start="20231108224300 +0000" stop="20231109000000 +0000" channel="HOT HD">
-    <title lang="pt">Orgias Para Todas As Idades</title>
+  <programme start="20231115194800 +0000" stop="20231115202400 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
   </programme>
-  <programme start="20231109000000 +0000" stop="20231109010200 +0000" channel="HOT HD">
-    <title lang="pt">Troquei O Marido Por Um Puto</title>
+  <programme start="20231115202400 +0000" stop="20231115210900 +0000" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20231109010200 +0000" stop="20231109020100 +0000" channel="HOT HD">
-    <title lang="pt">A Mulher Da Minha Vida</title>
+  <programme start="20231115210900 +0000" stop="20231115214100 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Best Hits</title>
   </programme>
-  <programme start="20231109020100 +0000" stop="20231109032600 +0000" channel="HOT HD">
-    <title lang="pt">O Poder De Uma Boa Massagem</title>
+  <programme start="20231115214100 +0000" stop="20231115221700 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
   </programme>
-  <programme start="20231109032600 +0000" stop="20231109042400 +0000" channel="HOT HD">
-    <title lang="pt">O Padrasto Comeu A Enteada Eu Comi A Madrasta</title>
+  <programme start="20231115221700 +0000" stop="20231115225000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
   </programme>
-  <programme start="20231109042400 +0000" stop="20231109053100 +0000" channel="HOT HD">
-    <title lang="pt">Sexo Em Grupo Interracial</title>
+  <programme start="20231115225000 +0000" stop="20231115230000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Around The World</title>
   </programme>
-  <programme start="20231109053100 +0000" stop="20231109063900 +0000" channel="HOT HD">
-    <title lang="pt">Loucas Por Levar Na Bilha</title>
+  <programme start="20231115230000 +0000" stop="20231116085300 +0000" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20231109063900 +0000" stop="20231109075000 +0000" channel="HOT HD">
-    <title lang="pt">Prova De Aferição</title>
+  <programme start="20231116085300 +0000" stop="20231116092700 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
   </programme>
-  <programme start="20231109075000 +0000" stop="20231109085000 +0000" channel="HOT HD">
-    <title lang="pt">Famíla Em Stress</title>
+  <programme start="20231116092700 +0000" stop="20231116095800 +0000" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
   </programme>
-  <programme start="20231109085000 +0000" stop="20231109102400 +0000" channel="HOT HD">
-    <title lang="pt">Paguei A Um Preto Para Foder A Minha Mulher</title>
+  <programme start="20231116095800 +0000" stop="20231116103200 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Around The World</title>
   </programme>
-  <programme start="20231109102400 +0000" stop="20231109113200 +0000" channel="HOT HD">
-    <title lang="pt">Desculpa, Fodi A Tua Mamã</title>
+  <programme start="20231116103200 +0000" stop="20231116110000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
   </programme>
-  <programme start="20231109113200 +0000" stop="20231109132200 +0000" channel="HOT HD">
-    <title lang="pt">Sexo Sem Compromisso</title>
+  <programme start="20231116110000 +0000" stop="20231116115000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
   </programme>
-  <programme start="20231109132200 +0000" stop="20231109154100 +0000" channel="HOT HD">
-    <title lang="pt">Férias De Swing E Sexo Em Grupo</title>
+  <programme start="20231116115000 +0000" stop="20231116123300 +0000" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20231109154100 +0000" stop="20231109165100 +0000" channel="HOT HD">
-    <title lang="pt">Anal Com O Meu Namorada E Um Amigo</title>
+  <programme start="20231116123300 +0000" stop="20231116130700 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
   </programme>
-  <programme start="20231109165100 +0000" stop="20231109180600 +0000" channel="HOT HD">
-    <title lang="pt">Divorciadas Em Busca De Negros</title>
+  <programme start="20231116130700 +0000" stop="20231116134000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
   </programme>
-  <programme start="20231109180600 +0000" stop="20231109190000 +0000" channel="HOT HD">
-    <title lang="pt">Encornei A Minha Mãe</title>
+  <programme start="20231116134000 +0000" stop="20231116142300 +0000" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20231109190000 +0000" stop="20231109201500 +0000" channel="HOT HD">
-    <title lang="pt">A Rata Da Mulher Do Meu Amigo Esguincha!</title>
+  <programme start="20231116142300 +0000" stop="20231116150100 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Around The World</title>
   </programme>
-  <programme start="20231109201500 +0000" stop="20231109210200 +0000" channel="HOT HD">
-    <title lang="pt">Trai O Meu Marido Com A Amante Dele</title>
+  <programme start="20231116150100 +0000" stop="20231116153800 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
   </programme>
-  <programme start="20231109210200 +0000" stop="20231109215900 +0000" channel="HOT HD">
-    <title lang="pt">Aventuras Com As Secretárias</title>
+  <programme start="20231116153800 +0000" stop="20231116162800 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
   </programme>
-  <programme start="20231109215900 +0000" stop="20231110000000 +0000" channel="HOT HD">
-    <title lang="pt">Todo No Cu Das Donas De Casa</title>
+  <programme start="20231116162800 +0000" stop="20231116171200 +0000" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20231110000000 +0000" stop="20231110015400 +0000" channel="HOT HD">
-    <title lang="pt">Mamalhudas Insaciáveis</title>
+  <programme start="20231116171200 +0000" stop="20231116174900 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
   </programme>
-  <programme start="20231110015400 +0000" stop="20231110032600 +0000" channel="HOT HD">
-    <title lang="pt">As Lambe Rabos</title>
+  <programme start="20231116174900 +0000" stop="20231116182300 +0000" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
   </programme>
-  <programme start="20231110032600 +0000" stop="20231110042100 +0000" channel="HOT HD">
-    <title lang="pt">Quero Uma Secretária Assim!</title>
+  <programme start="20231116182300 +0000" stop="20231116191300 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
   </programme>
-  <programme start="20231110042100 +0000" stop="20231110060500 +0000" channel="HOT HD">
-    <title lang="pt">É Dura A Vida De Madura</title>
+  <programme start="20231116191300 +0000" stop="20231116194800 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Around The World</title>
   </programme>
-  <programme start="20231110060500 +0000" stop="20231110071100 +0000" channel="HOT HD">
-    <title lang="pt">No Cu Das Quarentonas</title>
+  <programme start="20231116194800 +0000" stop="20231116202400 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
   </programme>
-  <programme start="20231110071100 +0000" stop="20231110081600 +0000" channel="HOT HD">
-    <title lang="pt">Amadoras Levadas Ao Limite</title>
+  <programme start="20231116202400 +0000" stop="20231116210900 +0000" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20231110081600 +0000" stop="20231110092600 +0000" channel="HOT HD">
-    <title lang="pt">O 1º Gangbang De Tasha Reign</title>
+  <programme start="20231116210900 +0000" stop="20231116214100 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Best Hits</title>
   </programme>
-  <programme start="20231110092600 +0000" stop="20231110102900 +0000" channel="HOT HD">
-    <title lang="pt">Cornudos Em Família</title>
+  <programme start="20231116214100 +0000" stop="20231116221700 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
   </programme>
-  <programme start="20231110102900 +0000" stop="20231110120500 +0000" channel="HOT HD">
-    <title lang="pt">Deixei O Meu Padastro Comer-Me</title>
+  <programme start="20231116221700 +0000" stop="20231116225000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
   </programme>
-  <programme start="20231110120500 +0000" stop="20231110130900 +0000" channel="HOT HD">
-    <title lang="pt">É Um Casa Portuguesa Com Certeza!</title>
+  <programme start="20231116225000 +0000" stop="20231116230000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Around The World</title>
   </programme>
-  <programme start="20231110130900 +0000" stop="20231110141700 +0000" channel="HOT HD">
-    <title lang="pt">Conas Levadas Ao Limite</title>
+  <programme start="20231116230000 +0000" stop="20231117085300 +0000" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20231110141700 +0000" stop="20231110154400 +0000" channel="HOT HD">
-    <title lang="pt">A Mamã Lambeu-Me O Rabo</title>
+  <programme start="20231117085300 +0000" stop="20231117092700 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
   </programme>
-  <programme start="20231110154400 +0000" stop="20231110163800 +0000" channel="HOT HD">
-    <title lang="pt">Mulher Zangada Rata Esborralhada</title>
+  <programme start="20231117092700 +0000" stop="20231117095800 +0000" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
   </programme>
-  <programme start="20231110163800 +0000" stop="20231110172700 +0000" channel="HOT HD">
-    <title lang="pt">Corno Bravo</title>
+  <programme start="20231117095800 +0000" stop="20231117103200 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Around The World</title>
   </programme>
-  <programme start="20231110172700 +0000" stop="20231110193100 +0000" channel="HOT HD">
-    <title lang="pt">Mamã, Ensina-Me A Ejacular</title>
+  <programme start="20231117103200 +0000" stop="20231117110000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
   </programme>
-  <programme start="20231110193100 +0000" stop="20231110204500 +0000" channel="HOT HD">
-    <title lang="pt">Orgasmos Cósmicos</title>
+  <programme start="20231117110000 +0000" stop="20231117115000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
   </programme>
-  <programme start="20231110204500 +0000" stop="20231110214400 +0000" channel="HOT HD">
-    <title lang="pt">Fodidas Ao Vivo No Eros Porto 2018</title>
+  <programme start="20231117115000 +0000" stop="20231117123300 +0000" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
-  <programme start="20231110214400 +0000" stop="20231110225400 +0000" channel="HOT HD">
-    <title lang="pt">O Cu Da Vizinha É Melhor Do Que O Da Minha</title>
+  <programme start="20231117123300 +0000" stop="20231117130700 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
   </programme>
-  <programme start="20231110225400 +0000" stop="20231111000000 +0000" channel="HOT HD">
-    <title lang="pt">Violei A Mulher Do Meu Amigo</title>
+  <programme start="20231117130700 +0000" stop="20231117134000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20231117134000 +0000" stop="20231117142300 +0000" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20231117142300 +0000" stop="20231117150100 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Around The World</title>
+  </programme>
+  <programme start="20231117150100 +0000" stop="20231117153800 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20231117153800 +0000" stop="20231117162800 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20231117162800 +0000" stop="20231117171200 +0000" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20231117171200 +0000" stop="20231117174900 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20231117174900 +0000" stop="20231117182300 +0000" channel="AFRO MUSIC">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20231117182300 +0000" stop="20231117191300 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20231117191300 +0000" stop="20231117194800 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Around The World</title>
+  </programme>
+  <programme start="20231117194800 +0000" stop="20231117202400 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20231117202400 +0000" stop="20231117210900 +0000" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20231117210900 +0000" stop="20231117214100 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Best Hits</title>
+  </programme>
+  <programme start="20231117214100 +0000" stop="20231117221700 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20231117221700 +0000" stop="20231117225000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20231117225000 +0000" stop="20231117230000 +0000" channel="AFRO MUSIC">
+    <title lang="pt">Around The World</title>
+  </programme>
+  <programme start="20231117230000 +0000" stop="20231118085300 +0000" channel="AFRO MUSIC">
+    <title lang="pt">100 Pausas</title>
   </programme>
   <programme start="20231111000000 +0000" stop="20231111005900 +0000" channel="HOT HD">
     <title lang="pt">Sessão De Sexo Com A Mamã</title>
@@ -1929,263 +1785,176 @@
   <programme start="20231114214200 +0000" stop="20231115000000 +0000" channel="HOT HD">
     <title lang="pt">Aos 45 Elas Dão O Cu</title>
   </programme>
-  <programme start="20231108000400 +0000" stop="20231108001300 +0000" channel="VENUS">
-    <title lang="pt">Atrevida Minha Madrasta</title>
+  <programme start="20231115000000 +0000" stop="20231115010600 +0000" channel="HOT HD">
+    <title lang="pt">Enraba-Me Com Tudo</title>
   </programme>
-  <programme start="20231108001300 +0000" stop="20231108014100 +0000" channel="VENUS">
-    <title lang="pt">Gostosas De Lingerie</title>
+  <programme start="20231115010600 +0000" stop="20231115032400 +0000" channel="HOT HD">
+    <title lang="pt">Fode-Me E O Meu Namorado Filma</title>
   </programme>
-  <programme start="20231108014100 +0000" stop="20231108015100 +0000" channel="VENUS">
-    <title lang="pt">Gozadas Airlines</title>
+  <programme start="20231115032400 +0000" stop="20231115044600 +0000" channel="HOT HD">
+    <title lang="pt">40 Anos E Pronta Para Sexo Anal</title>
   </programme>
-  <programme start="20231108015100 +0000" stop="20231108031900 +0000" channel="VENUS">
-    <title lang="pt">Ela Gosta De Garotas? 2</title>
+  <programme start="20231115044600 +0000" stop="20231115054500 +0000" channel="HOT HD">
+    <title lang="pt">Fuga À Rotina</title>
   </programme>
-  <programme start="20231108031900 +0000" stop="20231108033100 +0000" channel="VENUS">
-    <title lang="pt">Aluna Excepcioanal</title>
+  <programme start="20231115054500 +0000" stop="20231115063600 +0000" channel="HOT HD">
+    <title lang="pt">As Alunas Violaram A Professora De Ginástica</title>
   </programme>
-  <programme start="20231108033100 +0000" stop="20231108045300 +0000" channel="VENUS">
-    <title lang="pt">Pervertido O Exxxtremo</title>
+  <programme start="20231115063600 +0000" stop="20231115074800 +0000" channel="HOT HD">
+    <title lang="pt">A Minha Mulher E 2 Amigas</title>
   </programme>
-  <programme start="20231108045300 +0000" stop="20231108050300 +0000" channel="VENUS">
-    <title lang="pt">Aprendiz Safada</title>
+  <programme start="20231115074800 +0000" stop="20231115085400 +0000" channel="HOT HD">
+    <title lang="pt">A Mamã Gosta De Ver</title>
   </programme>
-  <programme start="20231108050300 +0000" stop="20231108062300 +0000" channel="VENUS">
-    <title lang="pt">Brincadeira Erótica</title>
+  <programme start="20231115085400 +0000" stop="20231115093900 +0000" channel="HOT HD">
+    <title lang="pt">O Papá Está Velho Mas Ainda Mexe</title>
   </programme>
-  <programme start="20231108062300 +0000" stop="20231108063200 +0000" channel="VENUS">
-    <title lang="pt">Atrevida Minha Madrasta</title>
+  <programme start="20231115093900 +0000" stop="20231115113600 +0000" channel="HOT HD">
+    <title lang="pt">Clube Das Mamãs Taradas</title>
   </programme>
-  <programme start="20231108063200 +0000" stop="20231108080000 +0000" channel="VENUS">
-    <title lang="pt">Conheça A Nikki Delano 2</title>
+  <programme start="20231115113600 +0000" stop="20231115124300 +0000" channel="HOT HD">
+    <title lang="pt">Fode-Me O Cu Vem-Te Na Minha Boca</title>
   </programme>
-  <programme start="20231108080000 +0000" stop="20231108092100 +0000" channel="VENUS">
-    <title lang="pt">Amigas Que Chupam</title>
+  <programme start="20231115124300 +0000" stop="20231115134100 +0000" channel="HOT HD">
+    <title lang="pt">Polícias E Ladrões De Conas</title>
   </programme>
-  <programme start="20231108092100 +0000" stop="20231108095000 +0000" channel="VENUS">
-    <title lang="pt">Clímax Anal</title>
+  <programme start="20231115134100 +0000" stop="20231115153000 +0000" channel="HOT HD">
+    <title lang="pt">Trocas E Baldrocas</title>
   </programme>
-  <programme start="20231108095000 +0000" stop="20231108111300 +0000" channel="VENUS">
-    <title lang="pt">Lubrifadas Para Gozar</title>
+  <programme start="20231115153000 +0000" stop="20231115161900 +0000" channel="HOT HD">
+    <title lang="pt">A Sorte Bateu-Me À Porta</title>
   </programme>
-  <programme start="20231108111300 +0000" stop="20231108112300 +0000" channel="VENUS">
-    <title lang="pt">Aprendiz Safada</title>
+  <programme start="20231115161900 +0000" stop="20231115172600 +0000" channel="HOT HD">
+    <title lang="pt">Punição Anal</title>
   </programme>
-  <programme start="20231108112300 +0000" stop="20231108125000 +0000" channel="VENUS">
-    <title lang="pt">Plug Do Amor</title>
+  <programme start="20231115172600 +0000" stop="20231115184800 +0000" channel="HOT HD">
+    <title lang="pt">Limites Negros</title>
   </programme>
-  <programme start="20231108125000 +0000" stop="20231108125900 +0000" channel="VENUS">
-    <title lang="pt">Atrevida Minha Madrasta</title>
+  <programme start="20231115184800 +0000" stop="20231115195800 +0000" channel="HOT HD">
+    <title lang="pt">Politicamente Incurreto</title>
   </programme>
-  <programme start="20231108125900 +0000" stop="20231108142400 +0000" channel="VENUS">
-    <title lang="pt">Minha Madrasta Adora Gozar</title>
+  <programme start="20231115195800 +0000" stop="20231115211300 +0000" channel="HOT HD">
+    <title lang="pt">Negócio Fechado</title>
   </programme>
-  <programme start="20231108142400 +0000" stop="20231108145300 +0000" channel="VENUS">
-    <title lang="pt">Clímax Anal</title>
+  <programme start="20231115211300 +0000" stop="20231115225900 +0000" channel="HOT HD">
+    <title lang="pt">Castings Anais À Moda De Itália</title>
   </programme>
-  <programme start="20231108145300 +0000" stop="20231108162100 +0000" channel="VENUS">
-    <title lang="pt">Gostosas De Lingerie</title>
+  <programme start="20231115225900 +0000" stop="20231116000000 +0000" channel="HOT HD">
+    <title lang="pt">Maduras E Apaixonadas</title>
   </programme>
-  <programme start="20231108162100 +0000" stop="20231108163100 +0000" channel="VENUS">
-    <title lang="pt">Amor À Três</title>
+  <programme start="20231116000000 +0000" stop="20231116005800 +0000" channel="HOT HD">
+    <title lang="pt">Todo No Cu Das Pitas</title>
   </programme>
-  <programme start="20231108163100 +0000" stop="20231108180000 +0000" channel="VENUS">
-    <title lang="pt">Ela Gosta De Garotas? 2</title>
+  <programme start="20231116005800 +0000" stop="20231116015600 +0000" channel="HOT HD">
+    <title lang="pt">Impulsos De Padrasto</title>
   </programme>
-  <programme start="20231108180000 +0000" stop="20231108181000 +0000" channel="VENUS">
-    <title lang="pt">Em Flagrante</title>
+  <programme start="20231116015600 +0000" stop="20231116031100 +0000" channel="HOT HD">
+    <title lang="pt">Uma Na Jovem Outra Na Madura</title>
   </programme>
-  <programme start="20231108181000 +0000" stop="20231108193600 +0000" channel="VENUS">
-    <title lang="pt">Brincando Com A Tua Bundinha</title>
+  <programme start="20231116031100 +0000" stop="20231116042300 +0000" channel="HOT HD">
+    <title lang="pt">Traição Consentida</title>
   </programme>
-  <programme start="20231108193600 +0000" stop="20231108194700 +0000" channel="VENUS">
-    <title lang="pt">Aprendiz Safada</title>
+  <programme start="20231116042300 +0000" stop="20231116061500 +0000" channel="HOT HD">
+    <title lang="pt">Mon Cherie: Um Bombom De Mulher</title>
   </programme>
-  <programme start="20231108194700 +0000" stop="20231108210700 +0000" channel="VENUS">
-    <title lang="pt">Tentação Na Sala De Aula</title>
+  <programme start="20231116061500 +0000" stop="20231116073500 +0000" channel="HOT HD">
+    <title lang="pt">Os 3 Amantes</title>
   </programme>
-  <programme start="20231108210700 +0000" stop="20231108211700 +0000" channel="VENUS">
-    <title lang="pt">Corpaço Para Anal</title>
+  <programme start="20231116073500 +0000" stop="20231116085700 +0000" channel="HOT HD">
+    <title lang="pt">Castigo Anal</title>
   </programme>
-  <programme start="20231108211700 +0000" stop="20231108224500 +0000" channel="VENUS">
-    <title lang="pt">Garotas Bi E Safadas</title>
+  <programme start="20231116085700 +0000" stop="20231116100700 +0000" channel="HOT HD">
+    <title lang="pt">Amor Anal</title>
   </programme>
-  <programme start="20231108224500 +0000" stop="20231108225500 +0000" channel="VENUS">
-    <title lang="pt">Atrevida Minha Madrasta</title>
+  <programme start="20231116100700 +0000" stop="20231116113600 +0000" channel="HOT HD">
+    <title lang="pt">Velhas E Novas, Marcha Tudo!</title>
   </programme>
-  <programme start="20231108225500 +0000" stop="20231109002300 +0000" channel="VENUS">
-    <title lang="pt">Expert Em Curvas</title>
+  <programme start="20231116113600 +0000" stop="20231116122000 +0000" channel="HOT HD">
+    <title lang="pt">O Professor Dotado</title>
   </programme>
-  <programme start="20231109002300 +0000" stop="20231109005300 +0000" channel="VENUS">
-    <title lang="pt">Balé Do Sexo</title>
+  <programme start="20231116122000 +0000" stop="20231116134600 +0000" channel="HOT HD">
+    <title lang="pt">Fantasias Extremas Anais De Maduras</title>
   </programme>
-  <programme start="20231109005300 +0000" stop="20231109022100 +0000" channel="VENUS">
-    <title lang="pt">Analista De Piroca</title>
+  <programme start="20231116134600 +0000" stop="20231116151700 +0000" channel="HOT HD">
+    <title lang="pt">Um Presente De Aniversário Inesperado</title>
   </programme>
-  <programme start="20231109022100 +0000" stop="20231109023300 +0000" channel="VENUS">
-    <title lang="pt">Bunda Bombástica</title>
+  <programme start="20231116151700 +0000" stop="20231116162900 +0000" channel="HOT HD">
+    <title lang="pt">Casting , Mas Só No Cu!</title>
   </programme>
-  <programme start="20231109023300 +0000" stop="20231109035900 +0000" channel="VENUS">
-    <title lang="pt">Escola De Lésbicas</title>
+  <programme start="20231116162900 +0000" stop="20231116181800 +0000" channel="HOT HD">
+    <title lang="pt">Amadoras Comidas À Canzana</title>
   </programme>
-  <programme start="20231109035900 +0000" stop="20231109042900 +0000" channel="VENUS">
-    <title lang="pt">Clímax Anal</title>
+  <programme start="20231116181800 +0000" stop="20231116202500 +0000" channel="HOT HD">
+    <title lang="pt">O Chá Das 5</title>
   </programme>
-  <programme start="20231109042900 +0000" stop="20231109055200 +0000" channel="VENUS">
-    <title lang="pt">Pervertido O Exxxtremo</title>
+  <programme start="20231116202500 +0000" stop="20231116211300 +0000" channel="HOT HD">
+    <title lang="pt">Encontro De Irmãs</title>
   </programme>
-  <programme start="20231109055200 +0000" stop="20231109060200 +0000" channel="VENUS">
-    <title lang="pt">Aprendiz Safada</title>
+  <programme start="20231116211300 +0000" stop="20231116225100 +0000" channel="HOT HD">
+    <title lang="pt">Orgia De Marrões</title>
   </programme>
-  <programme start="20231109060200 +0000" stop="20231109073000 +0000" channel="VENUS">
-    <title lang="pt">Plug Do Amor</title>
+  <programme start="20231116225100 +0000" stop="20231117000000 +0000" channel="HOT HD">
+    <title lang="pt">Loiras Burras, Pau No Cu</title>
   </programme>
-  <programme start="20231109073000 +0000" stop="20231109080000 +0000" channel="VENUS">
-    <title lang="pt">Balé Do Sexo</title>
+  <programme start="20231117000000 +0000" stop="20231117010300 +0000" channel="HOT HD">
+    <title lang="pt">A Minha Primeira Vez</title>
   </programme>
-  <programme start="20231109080000 +0000" stop="20231109092800 +0000" channel="VENUS">
-    <title lang="pt">Ela Gosta De Garotas? 2</title>
+  <programme start="20231117010300 +0000" stop="20231117021700 +0000" channel="HOT HD">
+    <title lang="pt">A Rata Da Mulher Do Meu Amigo Esguincha!</title>
   </programme>
-  <programme start="20231109092800 +0000" stop="20231109095700 +0000" channel="VENUS">
-    <title lang="pt">Clímax Anal</title>
+  <programme start="20231117021700 +0000" stop="20231117032300 +0000" channel="HOT HD">
+    <title lang="pt">Peste Negra</title>
   </programme>
-  <programme start="20231109095700 +0000" stop="20231109100700 +0000" channel="VENUS">
-    <title lang="pt">Pornô No Meu Sofá</title>
+  <programme start="20231117032300 +0000" stop="20231117052400 +0000" channel="HOT HD">
+    <title lang="pt">Todo No Cu Das Donas De Casa</title>
   </programme>
-  <programme start="20231109100700 +0000" stop="20231109112800 +0000" channel="VENUS">
-    <title lang="pt">Lésbicas Sem Pudor</title>
+  <programme start="20231117052400 +0000" stop="20231117061900 +0000" channel="HOT HD">
+    <title lang="pt">Aventuras Com As Secretárias</title>
   </programme>
-  <programme start="20231109112800 +0000" stop="20231109115700 +0000" channel="VENUS">
-    <title lang="pt">Clímax Anal</title>
+  <programme start="20231117061900 +0000" stop="20231117072000 +0000" channel="HOT HD">
+    <title lang="pt">Troquei O Marido Por Um Puto</title>
   </programme>
-  <programme start="20231109115700 +0000" stop="20231109132400 +0000" channel="VENUS">
-    <title lang="pt">Brincando Com A Tua Bundinha</title>
+  <programme start="20231117072000 +0000" stop="20231117081800 +0000" channel="HOT HD">
+    <title lang="pt">A Mulher Da Minha Vida</title>
   </programme>
-  <programme start="20231109132400 +0000" stop="20231109133400 +0000" channel="VENUS">
-    <title lang="pt">Aprendiz Safada</title>
+  <programme start="20231117081800 +0000" stop="20231117085900 +0000" channel="HOT HD">
+    <title lang="pt">A Rata Da Portuguesa Scarllet É Trolhada</title>
   </programme>
-  <programme start="20231109133400 +0000" stop="20231109150100 +0000" channel="VENUS">
-    <title lang="pt">Dançando No Pau</title>
+  <programme start="20231117085900 +0000" stop="20231117095200 +0000" channel="HOT HD">
+    <title lang="pt">A Minha Mulher É Toda Tua</title>
   </programme>
-  <programme start="20231109150100 +0000" stop="20231109151100 +0000" channel="VENUS">
-    <title lang="pt">Pornô No Meu Sofá</title>
+  <programme start="20231117095200 +0000" stop="20231117105000 +0000" channel="HOT HD">
+    <title lang="pt">O Padrasto Comeu A Enteada Eu Comi A Madrasta</title>
   </programme>
-  <programme start="20231109151100 +0000" stop="20231109163900 +0000" channel="VENUS">
-    <title lang="pt">Expert Em Curvas</title>
+  <programme start="20231117105000 +0000" stop="20231117115700 +0000" channel="HOT HD">
+    <title lang="pt">Sexo Em Grupo Interracial</title>
   </programme>
-  <programme start="20231109163900 +0000" stop="20231109164800 +0000" channel="VENUS">
-    <title lang="pt">Atrevida Minha Madrasta</title>
+  <programme start="20231117115700 +0000" stop="20231117130400 +0000" channel="HOT HD">
+    <title lang="pt">Loucas Por Levar Na Bilha</title>
   </programme>
-  <programme start="20231109164800 +0000" stop="20231109181600 +0000" channel="VENUS">
-    <title lang="pt">Analista De Piroca</title>
+  <programme start="20231117130400 +0000" stop="20231117142500 +0000" channel="HOT HD">
+    <title lang="pt">Mãe, Filho E Filha</title>
   </programme>
-  <programme start="20231109181600 +0000" stop="20231109182600 +0000" channel="VENUS">
-    <title lang="pt">Amor À Três</title>
+  <programme start="20231117142500 +0000" stop="20231117152700 +0000" channel="HOT HD">
+    <title lang="pt">Famíla Em Stress</title>
   </programme>
-  <programme start="20231109182600 +0000" stop="20231109194800 +0000" channel="VENUS">
-    <title lang="pt">Minha Amiga Adora Minha</title>
+  <programme start="20231117152700 +0000" stop="20231117170000 +0000" channel="HOT HD">
+    <title lang="pt">Paguei A Um Preto Para Foder A Minha Mulher</title>
   </programme>
-  <programme start="20231109194800 +0000" stop="20231109201700 +0000" channel="VENUS">
-    <title lang="pt">Clímax Anal</title>
+  <programme start="20231117170000 +0000" stop="20231117175300 +0000" channel="HOT HD">
+    <title lang="pt">Mulher Zangada Rata Esborralhada</title>
   </programme>
-  <programme start="20231109201700 +0000" stop="20231109213800 +0000" channel="VENUS">
-    <title lang="pt">Amigas Que Chupam</title>
+  <programme start="20231117175300 +0000" stop="20231117190100 +0000" channel="HOT HD">
+    <title lang="pt">Desculpa, Fodi A Tua Mamã</title>
   </programme>
-  <programme start="20231109213800 +0000" stop="20231109214800 +0000" channel="VENUS">
-    <title lang="pt">Em Flagrante</title>
+  <programme start="20231117190100 +0000" stop="20231117203000 +0000" channel="HOT HD">
+    <title lang="pt">Jovens E Loiras</title>
   </programme>
-  <programme start="20231109214800 +0000" stop="20231109231400 +0000" channel="VENUS">
-    <title lang="pt">Latinas Sem Pudor 2</title>
+  <programme start="20231117203000 +0000" stop="20231117225000 +0000" channel="HOT HD">
+    <title lang="pt">Férias De Swing E Sexo Em Grupo</title>
   </programme>
-  <programme start="20231109231400 +0000" stop="20231109234300 +0000" channel="VENUS">
-    <title lang="pt">Clímax Anal</title>
-  </programme>
-  <programme start="20231109234300 +0000" stop="20231109235300 +0000" channel="VENUS">
-    <title lang="pt">Aprendiz Safada</title>
-  </programme>
-  <programme start="20231109235300 +0000" stop="20231110011900 +0000" channel="VENUS">
-    <title lang="pt">Madastra Cheia De Tesão</title>
-  </programme>
-  <programme start="20231110011900 +0000" stop="20231110013000 +0000" channel="VENUS">
-    <title lang="pt">Corpaço Para Anal</title>
-  </programme>
-  <programme start="20231110013000 +0000" stop="20231110025100 +0000" channel="VENUS">
-    <title lang="pt">Festival De Porra</title>
-  </programme>
-  <programme start="20231110025100 +0000" stop="20231110030100 +0000" channel="VENUS">
-    <title lang="pt">Atrevida Minha Madrasta</title>
-  </programme>
-  <programme start="20231110030100 +0000" stop="20231110042700 +0000" channel="VENUS">
-    <title lang="pt">Madrastas Orgulhosas</title>
-  </programme>
-  <programme start="20231110042700 +0000" stop="20231110043800 +0000" channel="VENUS">
-    <title lang="pt">Pornô No Meu Sofá</title>
-  </programme>
-  <programme start="20231110043800 +0000" stop="20231110060400 +0000" channel="VENUS">
-    <title lang="pt">Escola De Lésbicas</title>
-  </programme>
-  <programme start="20231110060400 +0000" stop="20231110063300 +0000" channel="VENUS">
-    <title lang="pt">Clímax Anal</title>
-  </programme>
-  <programme start="20231110063300 +0000" stop="20231110080000 +0000" channel="VENUS">
-    <title lang="pt">Meu Melhor Vídeo Amador</title>
-  </programme>
-  <programme start="20231110080000 +0000" stop="20231110092800 +0000" channel="VENUS">
-    <title lang="pt">Analista De Piroca</title>
-  </programme>
-  <programme start="20231110092800 +0000" stop="20231110093800 +0000" channel="VENUS">
-    <title lang="pt">Orgia Das Motoqueiras</title>
-  </programme>
-  <programme start="20231110093800 +0000" stop="20231110110600 +0000" channel="VENUS">
-    <title lang="pt">Gostosas De Lingerie</title>
-  </programme>
-  <programme start="20231110110600 +0000" stop="20231110111600 +0000" channel="VENUS">
-    <title lang="pt">Pornô No Meu Sofá</title>
-  </programme>
-  <programme start="20231110111600 +0000" stop="20231110124400 +0000" channel="VENUS">
-    <title lang="pt">Garotas Bi E Safadas</title>
-  </programme>
-  <programme start="20231110124400 +0000" stop="20231110131300 +0000" channel="VENUS">
-    <title lang="pt">Clímax Anal</title>
-  </programme>
-  <programme start="20231110131300 +0000" stop="20231110143400 +0000" channel="VENUS">
-    <title lang="pt">1 Trio 4 Peitões</title>
-  </programme>
-  <programme start="20231110143400 +0000" stop="20231110144400 +0000" channel="VENUS">
-    <title lang="pt">Orgia Das Motoqueiras</title>
-  </programme>
-  <programme start="20231110144400 +0000" stop="20231110160900 +0000" channel="VENUS">
-    <title lang="pt">Madastra Cheia De Tesão</title>
-  </programme>
-  <programme start="20231110160900 +0000" stop="20231110161900 +0000" channel="VENUS">
-    <title lang="pt">Aprendiz Safada</title>
-  </programme>
-  <programme start="20231110161900 +0000" stop="20231110174000 +0000" channel="VENUS">
-    <title lang="pt">Festival De Porra</title>
-  </programme>
-  <programme start="20231110174000 +0000" stop="20231110174900 +0000" channel="VENUS">
-    <title lang="pt">Atrevida Minha Madrasta</title>
-  </programme>
-  <programme start="20231110174900 +0000" stop="20231110191100 +0000" channel="VENUS">
-    <title lang="pt">Lésbicas Sem Pudor</title>
-  </programme>
-  <programme start="20231110191100 +0000" stop="20231110192100 +0000" channel="VENUS">
-    <title lang="pt">Pornô No Meu Sofá</title>
-  </programme>
-  <programme start="20231110192100 +0000" stop="20231110204400 +0000" channel="VENUS">
-    <title lang="pt">Chupa Que Eu Filmo 2</title>
-  </programme>
-  <programme start="20231110204400 +0000" stop="20231110211300 +0000" channel="VENUS">
-    <title lang="pt">3 vs 2: Orgia Sob A Água</title>
-  </programme>
-  <programme start="20231110211300 +0000" stop="20231110223500 +0000" channel="VENUS">
-    <title lang="pt">10 Clubes De Orgia</title>
-  </programme>
-  <programme start="20231110223500 +0000" stop="20231110224400 +0000" channel="VENUS">
-    <title lang="pt">Gina Valentina Vale Todo</title>
-  </programme>
-  <programme start="20231110224400 +0000" stop="20231111000300 +0000" channel="VENUS">
-    <title lang="pt">Doçura Lésbica</title>
+  <programme start="20231117225000 +0000" stop="20231118000000 +0000" channel="HOT HD">
+    <title lang="pt">Anal Com O Meu Namorada E Um Amigo</title>
   </programme>
   <programme start="20231111000300 +0000" stop="20231111001400 +0000" channel="VENUS">
     <title lang="pt">Em Flagrante</title>
@@ -2520,365 +2289,251 @@
   <programme start="20231114233000 +0000" stop="20231115005600 +0000" channel="VENUS">
     <title lang="pt">Boneca Asiática</title>
   </programme>
-  <programme start="20231108000100 +0000" stop="20231108003200 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy'S Amateur Girls I</title>
+  <programme start="20231115005600 +0000" stop="20231115012500 +0000" channel="VENUS">
+    <title lang="pt">Clímax Anal</title>
   </programme>
-  <programme start="20231108003200 +0000" stop="20231108010200 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Surfing Attraction</title>
+  <programme start="20231115012500 +0000" stop="20231115025000 +0000" channel="VENUS">
+    <title lang="pt">Minha Madrasta Adora Gozar</title>
   </programme>
-  <programme start="20231108010200 +0000" stop="20231108013000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Pleasure Parlour</title>
+  <programme start="20231115025000 +0000" stop="20231115030000 +0000" channel="VENUS">
+    <title lang="pt">Uma Mãe Pra Tirar Onda</title>
   </programme>
-  <programme start="20231108013000 +0000" stop="20231108020000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Nino Dolce Hotel</title>
+  <programme start="20231115030000 +0000" stop="20231115042600 +0000" channel="VENUS">
+    <title lang="pt">Plug Do Amor</title>
   </programme>
-  <programme start="20231108020000 +0000" stop="20231108023000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy'S Amateur Girls I</title>
+  <programme start="20231115042600 +0000" stop="20231115044900 +0000" channel="VENUS">
+    <title lang="pt">Gostosa Da América Central</title>
   </programme>
-  <programme start="20231108023000 +0000" stop="20231108030000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Suite Rendezvous Bcd</title>
+  <programme start="20231115044900 +0000" stop="20231115061100 +0000" channel="VENUS">
+    <title lang="pt">Um Presente: A Enteada</title>
   </programme>
-  <programme start="20231108030000 +0000" stop="20231108033000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Suite Rendezvous Bcd</title>
+  <programme start="20231115061100 +0000" stop="20231115063200 +0000" channel="VENUS">
+    <title lang="pt">100 Cm De Peito Latino</title>
   </programme>
-  <programme start="20231108033000 +0000" stop="20231108050400 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Black Pussy White Cock (Soft)</title>
+  <programme start="20231115063200 +0000" stop="20231115080000 +0000" channel="VENUS">
+    <title lang="pt">Gostosas De Lingerie</title>
   </programme>
-  <programme start="20231108050400 +0000" stop="20231108053400 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Naked Happy Girls II</title>
+  <programme start="20231115080000 +0000" stop="20231115092700 +0000" channel="VENUS">
+    <title lang="pt">As Delícias Do Mês Vol.2</title>
   </programme>
-  <programme start="20231108053400 +0000" stop="20231108060400 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Spa X II</title>
+  <programme start="20231115092700 +0000" stop="20231115093600 +0000" channel="VENUS">
+    <title lang="pt">Gozadas Airlines</title>
   </programme>
-  <programme start="20231108060400 +0000" stop="20231108063200 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Surfing Attraction</title>
+  <programme start="20231115093600 +0000" stop="20231115105900 +0000" channel="VENUS">
+    <title lang="pt">Penetrada Pelo Chefe</title>
   </programme>
-  <programme start="20231108063200 +0000" stop="20231108070000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Pleasure Parlour</title>
+  <programme start="20231115105900 +0000" stop="20231115112100 +0000" channel="VENUS">
+    <title lang="pt">Gostosa Da América Central</title>
   </programme>
-  <programme start="20231108070000 +0000" stop="20231108073000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Frolicme Stories II</title>
+  <programme start="20231115112100 +0000" stop="20231115124700 +0000" channel="VENUS">
+    <title lang="pt">Escola De Lésbicas</title>
   </programme>
-  <programme start="20231108073000 +0000" stop="20231108080000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">E-Rotic</title>
+  <programme start="20231115124700 +0000" stop="20231115130900 +0000" channel="VENUS">
+    <title lang="pt">100 Cm De Peito Latino</title>
   </programme>
-  <programme start="20231108080000 +0000" stop="20231108083000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy'S Amateur Girls I</title>
+  <programme start="20231115130900 +0000" stop="20231115143700 +0000" channel="VENUS">
+    <title lang="pt">Analista De Piroca</title>
   </programme>
-  <programme start="20231108083000 +0000" stop="20231108090000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Nino Dolce Hotel</title>
+  <programme start="20231115143700 +0000" stop="20231115150700 +0000" channel="VENUS">
+    <title lang="pt">Balé Do Sexo</title>
   </programme>
-  <programme start="20231108090000 +0000" stop="20231108100400 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Czech Milf Bad Decisions</title>
+  <programme start="20231115150700 +0000" stop="20231115163300 +0000" channel="VENUS">
+    <title lang="pt">Boneca Asiática</title>
   </programme>
-  <programme start="20231108100400 +0000" stop="20231108103300 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Naked Happy Girls II</title>
+  <programme start="20231115163300 +0000" stop="20231115165900 +0000" channel="VENUS">
+    <title lang="pt">Passa De Ano E Te Como</title>
   </programme>
-  <programme start="20231108103300 +0000" stop="20231108110300 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Spa X II</title>
+  <programme start="20231115165900 +0000" stop="20231115182400 +0000" channel="VENUS">
+    <title lang="pt">Minha Madrasta Adora Gozar</title>
   </programme>
-  <programme start="20231108110300 +0000" stop="20231108113300 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Frolicme Stories II</title>
+  <programme start="20231115182400 +0000" stop="20231115183400 +0000" channel="VENUS">
+    <title lang="pt">Uma Mãe Pra Tirar Onda</title>
   </programme>
-  <programme start="20231108113300 +0000" stop="20231108120300 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">E-Rotic</title>
+  <programme start="20231115183400 +0000" stop="20231115195300 +0000" channel="VENUS">
+    <title lang="pt">Doçura Lésbica</title>
   </programme>
-  <programme start="20231108120300 +0000" stop="20231108123300 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy'S Amateur Girls I</title>
+  <programme start="20231115195300 +0000" stop="20231115200300 +0000" channel="VENUS">
+    <title lang="pt">Traseiro Para Brincar</title>
   </programme>
-  <programme start="20231108123300 +0000" stop="20231108130300 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Surfing Attraction</title>
+  <programme start="20231115200300 +0000" stop="20231115212800 +0000" channel="VENUS">
+    <title lang="pt">Sex Hotel</title>
   </programme>
-  <programme start="20231108130300 +0000" stop="20231108133100 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Pleasure Parlour</title>
+  <programme start="20231115212800 +0000" stop="20231115213800 +0000" channel="VENUS">
+    <title lang="pt">Orgia Das Motoqueiras</title>
   </programme>
-  <programme start="20231108133100 +0000" stop="20231108140100 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Nino Dolce Hotel</title>
+  <programme start="20231115213800 +0000" stop="20231115230300 +0000" channel="VENUS">
+    <title lang="pt">100% Pornstars</title>
   </programme>
-  <programme start="20231108140100 +0000" stop="20231108150200 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Xconfessions Xtreme I: Movie Magic</title>
+  <programme start="20231115230300 +0000" stop="20231115233200 +0000" channel="VENUS">
+    <title lang="pt">Balé Do Sexo</title>
   </programme>
-  <programme start="20231108150200 +0000" stop="20231108163000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">I Screwed My Teacher (Soft)</title>
+  <programme start="20231115233200 +0000" stop="20231116005900 +0000" channel="VENUS">
+    <title lang="pt">Ménage Das Ruivas</title>
   </programme>
-  <programme start="20231108163000 +0000" stop="20231108170000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Naked Happy Girls II</title>
+  <programme start="20231116005900 +0000" stop="20231116010900 +0000" channel="VENUS">
+    <title lang="pt">Pornô No Meu Sofá</title>
   </programme>
-  <programme start="20231108170000 +0000" stop="20231108173000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Spa X II</title>
+  <programme start="20231116010900 +0000" stop="20231116023600 +0000" channel="VENUS">
+    <title lang="pt">Dançando No Pau</title>
   </programme>
-  <programme start="20231108173000 +0000" stop="20231108175800 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Surfing Attraction</title>
+  <programme start="20231116023600 +0000" stop="20231116030300 +0000" channel="VENUS">
+    <title lang="pt">Passa De Ano E Te Como</title>
   </programme>
-  <programme start="20231108175800 +0000" stop="20231108182600 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Pleasure Parlour</title>
+  <programme start="20231116030300 +0000" stop="20231116042900 +0000" channel="VENUS">
+    <title lang="pt">Meu Melhor Vídeo Amador</title>
   </programme>
-  <programme start="20231108182600 +0000" stop="20231108185600 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy Centerfolds III</title>
+  <programme start="20231116042900 +0000" stop="20231116043900 +0000" channel="VENUS">
+    <title lang="pt">Gozadas Airlines</title>
   </programme>
-  <programme start="20231108185600 +0000" stop="20231108192600 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy Centerfolds III</title>
+  <programme start="20231116043900 +0000" stop="20231116060800 +0000" channel="VENUS">
+    <title lang="pt">Conheça A Nikki Delano 2</title>
   </programme>
-  <programme start="20231108192600 +0000" stop="20231108195600 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy'S Amateur Girls I</title>
+  <programme start="20231116060800 +0000" stop="20231116063100 +0000" channel="VENUS">
+    <title lang="pt">Gostosa Da América Central</title>
   </programme>
-  <programme start="20231108195600 +0000" stop="20231108202600 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Nino Dolce Hotel</title>
+  <programme start="20231116063100 +0000" stop="20231116080000 +0000" channel="VENUS">
+    <title lang="pt">Expert Em Curvas</title>
   </programme>
-  <programme start="20231108202600 +0000" stop="20231108220000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Black Pussy White Cock (Soft)</title>
+  <programme start="20231116080000 +0000" stop="20231116092500 +0000" channel="VENUS">
+    <title lang="pt">Minha Madrasta Adora Gozar</title>
   </programme>
-  <programme start="20231108220000 +0000" stop="20231108223100 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Naked Happy Girls II</title>
+  <programme start="20231116092500 +0000" stop="20231116095400 +0000" channel="VENUS">
+    <title lang="pt">Balé Do Sexo</title>
   </programme>
-  <programme start="20231108223100 +0000" stop="20231108230200 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Spa X II</title>
+  <programme start="20231116095400 +0000" stop="20231116111700 +0000" channel="VENUS">
+    <title lang="pt">Amo Gritar</title>
   </programme>
-  <programme start="20231108230200 +0000" stop="20231108233300 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Frolicme Stories II</title>
+  <programme start="20231116111700 +0000" stop="20231116112700 +0000" channel="VENUS">
+    <title lang="pt">Gozadas Airlines</title>
   </programme>
-  <programme start="20231108233300 +0000" stop="20231109000400 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">E-Rotic</title>
+  <programme start="20231116112700 +0000" stop="20231116125300 +0000" channel="VENUS">
+    <title lang="pt">Madrastas Orgulhosas</title>
   </programme>
-  <programme start="20231109000400 +0000" stop="20231109003500 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy'S Amateur Girls I</title>
+  <programme start="20231116125300 +0000" stop="20231116131500 +0000" channel="VENUS">
+    <title lang="pt">Gostosa Da América Central</title>
   </programme>
-  <programme start="20231109003500 +0000" stop="20231109010400 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Surfing Attraction</title>
+  <programme start="20231116131500 +0000" stop="20231116143500 +0000" channel="VENUS">
+    <title lang="pt">Festival De Porra</title>
   </programme>
-  <programme start="20231109010400 +0000" stop="20231109013200 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Pleasure Parlour</title>
+  <programme start="20231116143500 +0000" stop="20231116144500 +0000" channel="VENUS">
+    <title lang="pt">Traseiro Para Brincar</title>
   </programme>
-  <programme start="20231109013200 +0000" stop="20231109020000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Nino Dolce Hotel</title>
+  <programme start="20231116144500 +0000" stop="20231116161200 +0000" channel="VENUS">
+    <title lang="pt">Ménage Das Ruivas</title>
   </programme>
-  <programme start="20231109020000 +0000" stop="20231109023000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy'S Amateur Girls I</title>
+  <programme start="20231116161200 +0000" stop="20231116163400 +0000" channel="VENUS">
+    <title lang="pt">100 Cm De Peito Latino</title>
   </programme>
-  <programme start="20231109023000 +0000" stop="20231109033200 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Xconfessions Xtreme I: Food</title>
+  <programme start="20231116163400 +0000" stop="20231116180000 +0000" channel="VENUS">
+    <title lang="pt">Dançando No Pau</title>
   </programme>
-  <programme start="20231109033200 +0000" stop="20231109045800 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Milfs For Sale (Soft)</title>
+  <programme start="20231116180000 +0000" stop="20231116182600 +0000" channel="VENUS">
+    <title lang="pt">Passa De Ano E Te Como</title>
   </programme>
-  <programme start="20231109045800 +0000" stop="20231109052900 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Naked Happy Girls II</title>
+  <programme start="20231116182600 +0000" stop="20231116194900 +0000" channel="VENUS">
+    <title lang="pt">Penetrada Pelo Chefe</title>
   </programme>
-  <programme start="20231109052900 +0000" stop="20231109060000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Spa X II</title>
+  <programme start="20231116194900 +0000" stop="20231116201800 +0000" channel="VENUS">
+    <title lang="pt">Balé Do Sexo</title>
   </programme>
-  <programme start="20231109060000 +0000" stop="20231109062900 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Surfing Attraction</title>
+  <programme start="20231116201800 +0000" stop="20231116214500 +0000" channel="VENUS">
+    <title lang="pt">As Delícias Do Mês Vol.2</title>
   </programme>
-  <programme start="20231109062900 +0000" stop="20231109065800 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Pleasure Parlour</title>
+  <programme start="20231116214500 +0000" stop="20231116215500 +0000" channel="VENUS">
+    <title lang="pt">Uma Mãe Pra Tirar Onda</title>
   </programme>
-  <programme start="20231109065800 +0000" stop="20231109072900 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy Centerfolds III</title>
+  <programme start="20231116215500 +0000" stop="20231116232300 +0000" channel="VENUS">
+    <title lang="pt">Fonte De Creme</title>
   </programme>
-  <programme start="20231109072900 +0000" stop="20231109080000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy Centerfolds III</title>
+  <programme start="20231116232300 +0000" stop="20231116233300 +0000" channel="VENUS">
+    <title lang="pt">Traseiro Para Brincar</title>
   </programme>
-  <programme start="20231109080000 +0000" stop="20231109083100 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy'S Amateur Girls I</title>
+  <programme start="20231116233300 +0000" stop="20231117004600 +0000" channel="VENUS">
+    <title lang="pt">Wasteland Ultra: Part 1</title>
   </programme>
-  <programme start="20231109083100 +0000" stop="20231109090000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Nino Dolce Hotel</title>
+  <programme start="20231117004600 +0000" stop="20231117005600 +0000" channel="VENUS">
+    <title lang="pt">Orgia Das Motoqueiras</title>
   </programme>
-  <programme start="20231109090000 +0000" stop="20231109102800 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">I Screwed My Teacher (Soft)</title>
+  <programme start="20231117005600 +0000" stop="20231117022000 +0000" channel="VENUS">
+    <title lang="pt">Lição Das Safadas</title>
   </programme>
-  <programme start="20231109102800 +0000" stop="20231109105800 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Naked Happy Girls II</title>
+  <programme start="20231117022000 +0000" stop="20231117025000 +0000" channel="VENUS">
+    <title lang="pt">Balé Do Sexo</title>
   </programme>
-  <programme start="20231109105800 +0000" stop="20231109112800 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Spa X II</title>
+  <programme start="20231117025000 +0000" stop="20231117041500 +0000" channel="VENUS">
+    <title lang="pt">Ruivas Viciantes</title>
   </programme>
-  <programme start="20231109112800 +0000" stop="20231109115800 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy Centerfolds III</title>
+  <programme start="20231117041500 +0000" stop="20231117044400 +0000" channel="VENUS">
+    <title lang="pt">Balé Do Sexo</title>
   </programme>
-  <programme start="20231109115800 +0000" stop="20231109122800 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy Centerfolds III</title>
+  <programme start="20231117044400 +0000" stop="20231117061300 +0000" channel="VENUS">
+    <title lang="pt">Black Porn Stars 4</title>
   </programme>
-  <programme start="20231109122800 +0000" stop="20231109125800 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy'S Amateur Girls I</title>
+  <programme start="20231117061300 +0000" stop="20231117062300 +0000" channel="VENUS">
+    <title lang="pt">Gozadas Airlines</title>
   </programme>
-  <programme start="20231109125800 +0000" stop="20231109132700 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Surfing Attraction</title>
+  <programme start="20231117062300 +0000" stop="20231117074900 +0000" channel="VENUS">
+    <title lang="pt">Madastra Cheia De Tesão</title>
   </programme>
-  <programme start="20231109132700 +0000" stop="20231109135500 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Pleasure Parlour</title>
+  <programme start="20231117074900 +0000" stop="20231117080000 +0000" channel="VENUS">
+    <title lang="pt">Traseiro Para Brincar</title>
   </programme>
-  <programme start="20231109135500 +0000" stop="20231109142200 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Nino Dolce Hotel</title>
+  <programme start="20231117080000 +0000" stop="20231117092600 +0000" channel="VENUS">
+    <title lang="pt">Dançando No Pau</title>
   </programme>
-  <programme start="20231109142200 +0000" stop="20231109145000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Show Us Your Wits</title>
+  <programme start="20231117092600 +0000" stop="20231117093600 +0000" channel="VENUS">
+    <title lang="pt">Corpaço Para Anal</title>
   </programme>
-  <programme start="20231109145000 +0000" stop="20231109151800 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Show Us Your Wits</title>
+  <programme start="20231117093600 +0000" stop="20231117110200 +0000" channel="VENUS">
+    <title lang="pt">Boneca Asiática</title>
   </programme>
-  <programme start="20231109151800 +0000" stop="20231109163600 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Blondes Beg For Cock (Soft)</title>
+  <programme start="20231117110200 +0000" stop="20231117113100 +0000" channel="VENUS">
+    <title lang="pt">Balé Do Sexo</title>
   </programme>
-  <programme start="20231109163600 +0000" stop="20231109170600 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Naked Happy Girls II</title>
+  <programme start="20231117113100 +0000" stop="20231117125700 +0000" channel="VENUS">
+    <title lang="pt">100% Pornstars</title>
   </programme>
-  <programme start="20231109170600 +0000" stop="20231109173600 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Spa X II</title>
+  <programme start="20231117125700 +0000" stop="20231117130600 +0000" channel="VENUS">
+    <title lang="pt">Gozadas Airlines</title>
   </programme>
-  <programme start="20231109173600 +0000" stop="20231109180500 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Surfing Attraction</title>
+  <programme start="20231117130600 +0000" stop="20231117143400 +0000" channel="VENUS">
+    <title lang="pt">Quase Infiéis</title>
   </programme>
-  <programme start="20231109180500 +0000" stop="20231109183300 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Pleasure Parlour</title>
+  <programme start="20231117143400 +0000" stop="20231117144500 +0000" channel="VENUS">
+    <title lang="pt">Bundinha Viral</title>
   </programme>
-  <programme start="20231109183300 +0000" stop="20231109190400 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy Centerfolds III</title>
+  <programme start="20231117144500 +0000" stop="20231117155800 +0000" channel="VENUS">
+    <title lang="pt">Wasteland Ultra: Part 1</title>
   </programme>
-  <programme start="20231109190400 +0000" stop="20231109193500 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy Centerfolds III</title>
+  <programme start="20231117155800 +0000" stop="20231117162000 +0000" channel="VENUS">
+    <title lang="pt">Gostosa Da América Central</title>
   </programme>
-  <programme start="20231109193500 +0000" stop="20231109200600 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy'S Amateur Girls I</title>
+  <programme start="20231117162000 +0000" stop="20231117174500 +0000" channel="VENUS">
+    <title lang="pt">Lição Das Safadas</title>
   </programme>
-  <programme start="20231109200600 +0000" stop="20231109203500 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Nino Dolce Hotel</title>
+  <programme start="20231117174500 +0000" stop="20231117180700 +0000" channel="VENUS">
+    <title lang="pt">100 Cm De Peito Latino</title>
   </programme>
-  <programme start="20231109203500 +0000" stop="20231109220000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Milfs For Sale (Soft)</title>
+  <programme start="20231117180700 +0000" stop="20231117193000 +0000" channel="VENUS">
+    <title lang="pt">Amo Gritar</title>
   </programme>
-  <programme start="20231109220000 +0000" stop="20231109223100 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Naked Happy Girls II</title>
+  <programme start="20231117193000 +0000" stop="20231117194000 +0000" channel="VENUS">
+    <title lang="pt">Traseiro Para Brincar</title>
   </programme>
-  <programme start="20231109223100 +0000" stop="20231109230200 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Spa X II</title>
+  <programme start="20231117194000 +0000" stop="20231117210300 +0000" channel="VENUS">
+    <title lang="pt">Loucura Universitária</title>
   </programme>
-  <programme start="20231109230200 +0000" stop="20231109233300 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy Centerfolds III</title>
+  <programme start="20231117210300 +0000" stop="20231117211400 +0000" channel="VENUS">
+    <title lang="pt">Elsa Jean XXX</title>
   </programme>
-  <programme start="20231109233300 +0000" stop="20231110000400 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy Centerfolds III</title>
+  <programme start="20231117211400 +0000" stop="20231117223900 +0000" channel="VENUS">
+    <title lang="pt">Orgia Pela Europa</title>
   </programme>
-  <programme start="20231110000400 +0000" stop="20231110003500 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy'S Amateur Girls I</title>
+  <programme start="20231117223900 +0000" stop="20231117224900 +0000" channel="VENUS">
+    <title lang="pt">Real Bdsm</title>
   </programme>
-  <programme start="20231110003500 +0000" stop="20231110010400 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Surfing Attraction</title>
-  </programme>
-  <programme start="20231110010400 +0000" stop="20231110013300 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Pleasure Parlour</title>
-  </programme>
-  <programme start="20231110013300 +0000" stop="20231110020200 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Nino Dolce Hotel</title>
-  </programme>
-  <programme start="20231110020200 +0000" stop="20231110023300 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy'S Amateur Girls I</title>
-  </programme>
-  <programme start="20231110023300 +0000" stop="20231110030200 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Show Us Your Wits</title>
-  </programme>
-  <programme start="20231110030200 +0000" stop="20231110033100 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Show Us Your Wits</title>
-  </programme>
-  <programme start="20231110033100 +0000" stop="20231110043700 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Gianna Dior And Friends Love Big Dick (Soft)</title>
-  </programme>
-  <programme start="20231110043700 +0000" stop="20231110050700 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Naked Happy Girls II</title>
-  </programme>
-  <programme start="20231110050700 +0000" stop="20231110053700 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Spa X II</title>
-  </programme>
-  <programme start="20231110053700 +0000" stop="20231110060500 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Surfing Attraction</title>
-  </programme>
-  <programme start="20231110060500 +0000" stop="20231110063300 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Pleasure Parlour</title>
-  </programme>
-  <programme start="20231110063300 +0000" stop="20231110070300 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy Centerfolds III</title>
-  </programme>
-  <programme start="20231110070300 +0000" stop="20231110073300 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy Centerfolds III</title>
-  </programme>
-  <programme start="20231110073300 +0000" stop="20231110080300 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy'S Amateur Girls I</title>
-  </programme>
-  <programme start="20231110080300 +0000" stop="20231110083100 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Nino Dolce Hotel</title>
-  </programme>
-  <programme start="20231110083100 +0000" stop="20231110090000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Pleasure Parlour</title>
-  </programme>
-  <programme start="20231110090000 +0000" stop="20231110101800 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Blondes Beg For Cock (Soft)</title>
-  </programme>
-  <programme start="20231110101800 +0000" stop="20231110104800 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Naked Happy Girls II</title>
-  </programme>
-  <programme start="20231110104800 +0000" stop="20231110111800 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Spa X II</title>
-  </programme>
-  <programme start="20231110111800 +0000" stop="20231110114800 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy Centerfolds III</title>
-  </programme>
-  <programme start="20231110114800 +0000" stop="20231110121800 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy Centerfolds III</title>
-  </programme>
-  <programme start="20231110121800 +0000" stop="20231110124800 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy'S Amateur Girls I</title>
-  </programme>
-  <programme start="20231110124800 +0000" stop="20231110131500 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Surfing Attraction</title>
-  </programme>
-  <programme start="20231110131500 +0000" stop="20231110134300 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Pleasure Parlour</title>
-  </programme>
-  <programme start="20231110134300 +0000" stop="20231110141300 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Nino Dolce Hotel</title>
-  </programme>
-  <programme start="20231110141300 +0000" stop="20231110151800 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Teenage Stranger Sex (Soft)</title>
-  </programme>
-  <programme start="20231110151800 +0000" stop="20231110154800 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Adult Stars: Up Close III</title>
-  </programme>
-  <programme start="20231110154800 +0000" stop="20231110161800 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Adult Stars: Up Close III</title>
-  </programme>
-  <programme start="20231110161800 +0000" stop="20231110175000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">The Realty Group Sex (Soft)</title>
-  </programme>
-  <programme start="20231110175000 +0000" stop="20231110182000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Naked Happy Girls II</title>
-  </programme>
-  <programme start="20231110182000 +0000" stop="20231110185000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Spa X II</title>
-  </programme>
-  <programme start="20231110185000 +0000" stop="20231110191800 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Surfing Attraction</title>
-  </programme>
-  <programme start="20231110191800 +0000" stop="20231110194600 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Pleasure Parlour</title>
-  </programme>
-  <programme start="20231110194600 +0000" stop="20231110205200 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Teenage Stranger Sex (Soft)</title>
-  </programme>
-  <programme start="20231110205200 +0000" stop="20231110220000 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Gianna Dior And Friends Love Big Dick (Soft)</title>
-  </programme>
-  <programme start="20231110220000 +0000" stop="20231110223100 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Naked Happy Girls II</title>
-  </programme>
-  <programme start="20231110223100 +0000" stop="20231110230200 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Spa X II</title>
-  </programme>
-  <programme start="20231110230200 +0000" stop="20231110233200 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Nino Dolce Hotel</title>
-  </programme>
-  <programme start="20231110233200 +0000" stop="20231111000300 +0000" channel="PLAYBOY TV HD">
-    <title lang="pt">Playboy Centerfolds III</title>
+  <programme start="20231117224900 +0000" stop="20231118000500 +0000" channel="VENUS">
+    <title lang="pt">Wasteland Ultra: Part 2</title>
   </programme>
   <programme start="20231111000300 +0000" stop="20231111003400 +0000" channel="PLAYBOY TV HD">
     <title lang="pt">Playboy Centerfolds III</title>
@@ -3368,5 +3023,368 @@
   </programme>
   <programme start="20231114233300 +0000" stop="20231115000400 +0000" channel="PLAYBOY TV HD">
     <title lang="pt">E-Rotic</title>
+  </programme>
+  <programme start="20231115000400 +0000" stop="20231115003500 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy'S Amateur Girls I</title>
+  </programme>
+  <programme start="20231115003500 +0000" stop="20231115010300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Surfing Attraction</title>
+  </programme>
+  <programme start="20231115010300 +0000" stop="20231115013200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Pleasure Parlour</title>
+  </programme>
+  <programme start="20231115013200 +0000" stop="20231115020000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Nino Dolce Hotel</title>
+  </programme>
+  <programme start="20231115020000 +0000" stop="20231115023100 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy'S Amateur Girls I</title>
+  </programme>
+  <programme start="20231115023100 +0000" stop="20231115030200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Suite Rendezvous Bcd</title>
+  </programme>
+  <programme start="20231115030200 +0000" stop="20231115033300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Suite Rendezvous Bcd</title>
+  </programme>
+  <programme start="20231115033300 +0000" stop="20231115044000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Gianna Dior And Friends Love Big Dick (Soft)</title>
+  </programme>
+  <programme start="20231115044000 +0000" stop="20231115051000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Naked Happy Girls II</title>
+  </programme>
+  <programme start="20231115051000 +0000" stop="20231115053700 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Nino Dolce Hotel</title>
+  </programme>
+  <programme start="20231115053700 +0000" stop="20231115060700 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X II</title>
+  </programme>
+  <programme start="20231115060700 +0000" stop="20231115063500 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Surfing Attraction</title>
+  </programme>
+  <programme start="20231115063500 +0000" stop="20231115070300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Pleasure Parlour</title>
+  </programme>
+  <programme start="20231115070300 +0000" stop="20231115073300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories II</title>
+  </programme>
+  <programme start="20231115073300 +0000" stop="20231115080200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">E-Rotic</title>
+  </programme>
+  <programme start="20231115080200 +0000" stop="20231115083200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy'S Amateur Girls I</title>
+  </programme>
+  <programme start="20231115083200 +0000" stop="20231115090000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Nino Dolce Hotel</title>
+  </programme>
+  <programme start="20231115090000 +0000" stop="20231115100600 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Gianna Dior And Friends Love Big Dick (Soft)</title>
+  </programme>
+  <programme start="20231115100600 +0000" stop="20231115103600 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Naked Happy Girls II</title>
+  </programme>
+  <programme start="20231115103600 +0000" stop="20231115110600 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X II</title>
+  </programme>
+  <programme start="20231115110600 +0000" stop="20231115113600 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories II</title>
+  </programme>
+  <programme start="20231115113600 +0000" stop="20231115120600 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">E-Rotic</title>
+  </programme>
+  <programme start="20231115120600 +0000" stop="20231115123600 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy'S Amateur Girls I</title>
+  </programme>
+  <programme start="20231115123600 +0000" stop="20231115130300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Surfing Attraction</title>
+  </programme>
+  <programme start="20231115130300 +0000" stop="20231115133100 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Pleasure Parlour</title>
+  </programme>
+  <programme start="20231115133100 +0000" stop="20231115140100 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Nino Dolce Hotel</title>
+  </programme>
+  <programme start="20231115140100 +0000" stop="20231115150300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Xconfessions Xtreme I: Food</title>
+  </programme>
+  <programme start="20231115150300 +0000" stop="20231115162200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Greased Up Milfs Love Huge Cock (Soft)</title>
+  </programme>
+  <programme start="20231115162200 +0000" stop="20231115165300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Naked Happy Girls II</title>
+  </programme>
+  <programme start="20231115165300 +0000" stop="20231115172400 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X II</title>
+  </programme>
+  <programme start="20231115172400 +0000" stop="20231115175200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Surfing Attraction</title>
+  </programme>
+  <programme start="20231115175200 +0000" stop="20231115182100 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Pleasure Parlour</title>
+  </programme>
+  <programme start="20231115182100 +0000" stop="20231115185200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy Centerfolds III</title>
+  </programme>
+  <programme start="20231115185200 +0000" stop="20231115192300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy Centerfolds III</title>
+  </programme>
+  <programme start="20231115192300 +0000" stop="20231115195400 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy'S Amateur Girls I</title>
+  </programme>
+  <programme start="20231115195400 +0000" stop="20231115202400 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Nino Dolce Hotel</title>
+  </programme>
+  <programme start="20231115202400 +0000" stop="20231115213100 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Gianna Dior And Friends Love Big Dick (Soft)</title>
+  </programme>
+  <programme start="20231115213100 +0000" stop="20231115220000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Surfing Attraction</title>
+  </programme>
+  <programme start="20231115220000 +0000" stop="20231115223100 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Naked Happy Girls II</title>
+  </programme>
+  <programme start="20231115223100 +0000" stop="20231115230200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X II</title>
+  </programme>
+  <programme start="20231115230200 +0000" stop="20231115233300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Frolicme Stories II</title>
+  </programme>
+  <programme start="20231115233300 +0000" stop="20231116000300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">E-Rotic</title>
+  </programme>
+  <programme start="20231116000300 +0000" stop="20231116003400 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy'S Amateur Girls I</title>
+  </programme>
+  <programme start="20231116003400 +0000" stop="20231116010300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Surfing Attraction</title>
+  </programme>
+  <programme start="20231116010300 +0000" stop="20231116013200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Pleasure Parlour</title>
+  </programme>
+  <programme start="20231116013200 +0000" stop="20231116020200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Nino Dolce Hotel</title>
+  </programme>
+  <programme start="20231116020200 +0000" stop="20231116023300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy'S Amateur Girls I</title>
+  </programme>
+  <programme start="20231116023300 +0000" stop="20231116033500 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Xconfessions Xtreme I: Role Playing</title>
+  </programme>
+  <programme start="20231116033500 +0000" stop="20231116045300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Greased Up Milfs Love Huge Cock (Soft)</title>
+  </programme>
+  <programme start="20231116045300 +0000" stop="20231116052400 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Naked Happy Girls II</title>
+  </programme>
+  <programme start="20231116052400 +0000" stop="20231116055500 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X II</title>
+  </programme>
+  <programme start="20231116055500 +0000" stop="20231116062400 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Surfing Attraction</title>
+  </programme>
+  <programme start="20231116062400 +0000" stop="20231116065300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Pleasure Parlour</title>
+  </programme>
+  <programme start="20231116065300 +0000" stop="20231116072500 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy Centerfolds III</title>
+  </programme>
+  <programme start="20231116072500 +0000" stop="20231116075700 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy Centerfolds III</title>
+  </programme>
+  <programme start="20231116075700 +0000" stop="20231116082900 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy'S Amateur Girls I</title>
+  </programme>
+  <programme start="20231116082900 +0000" stop="20231116090000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Nino Dolce Hotel</title>
+  </programme>
+  <programme start="20231116090000 +0000" stop="20231116101700 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Greased Up Milfs Love Huge Cock (Soft)</title>
+  </programme>
+  <programme start="20231116101700 +0000" stop="20231116104700 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Naked Happy Girls II</title>
+  </programme>
+  <programme start="20231116104700 +0000" stop="20231116111700 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X II</title>
+  </programme>
+  <programme start="20231116111700 +0000" stop="20231116114700 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy Centerfolds III</title>
+  </programme>
+  <programme start="20231116114700 +0000" stop="20231116121700 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy Centerfolds III</title>
+  </programme>
+  <programme start="20231116121700 +0000" stop="20231116124700 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy'S Amateur Girls I</title>
+  </programme>
+  <programme start="20231116124700 +0000" stop="20231116131500 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Surfing Attraction</title>
+  </programme>
+  <programme start="20231116131500 +0000" stop="20231116134400 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Pleasure Parlour</title>
+  </programme>
+  <programme start="20231116134400 +0000" stop="20231116141300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Nino Dolce Hotel</title>
+  </programme>
+  <programme start="20231116141300 +0000" stop="20231116144200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Show Us Your Wits</title>
+  </programme>
+  <programme start="20231116144200 +0000" stop="20231116151100 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Show Us Your Wits</title>
+  </programme>
+  <programme start="20231116151100 +0000" stop="20231116164000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">My Stepdaddy Love Cosplay (Soft)</title>
+  </programme>
+  <programme start="20231116164000 +0000" stop="20231116171000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Naked Happy Girls II</title>
+  </programme>
+  <programme start="20231116171000 +0000" stop="20231116174100 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X II</title>
+  </programme>
+  <programme start="20231116174100 +0000" stop="20231116181000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Surfing Attraction</title>
+  </programme>
+  <programme start="20231116181000 +0000" stop="20231116183900 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Pleasure Parlour</title>
+  </programme>
+  <programme start="20231116183900 +0000" stop="20231116191000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy Centerfolds III</title>
+  </programme>
+  <programme start="20231116191000 +0000" stop="20231116194100 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy Centerfolds III</title>
+  </programme>
+  <programme start="20231116194100 +0000" stop="20231116201200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy'S Amateur Girls I</title>
+  </programme>
+  <programme start="20231116201200 +0000" stop="20231116204100 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Nino Dolce Hotel</title>
+  </programme>
+  <programme start="20231116204100 +0000" stop="20231116220000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Greased Up Milfs Love Huge Cock (Soft)</title>
+  </programme>
+  <programme start="20231116220000 +0000" stop="20231116223100 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Naked Happy Girls II</title>
+  </programme>
+  <programme start="20231116223100 +0000" stop="20231116230200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X II</title>
+  </programme>
+  <programme start="20231116230200 +0000" stop="20231116233300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy Centerfolds III</title>
+  </programme>
+  <programme start="20231116233300 +0000" stop="20231117000400 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy Centerfolds III</title>
+  </programme>
+  <programme start="20231117000400 +0000" stop="20231117003500 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy'S Amateur Girls I</title>
+  </programme>
+  <programme start="20231117003500 +0000" stop="20231117010500 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Surfing Attraction</title>
+  </programme>
+  <programme start="20231117010500 +0000" stop="20231117013400 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Pleasure Parlour</title>
+  </programme>
+  <programme start="20231117013400 +0000" stop="20231117020400 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Nino Dolce Hotel</title>
+  </programme>
+  <programme start="20231117020400 +0000" stop="20231117023500 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy'S Amateur Girls I</title>
+  </programme>
+  <programme start="20231117023500 +0000" stop="20231117030300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Show Us Your Wits</title>
+  </programme>
+  <programme start="20231117030300 +0000" stop="20231117033200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Show Us Your Wits</title>
+  </programme>
+  <programme start="20231117033200 +0000" stop="20231117045200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Tattooed Teens Like It Hard (Soft)</title>
+  </programme>
+  <programme start="20231117045200 +0000" stop="20231117052300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Naked Happy Girls II</title>
+  </programme>
+  <programme start="20231117052300 +0000" stop="20231117055400 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X II</title>
+  </programme>
+  <programme start="20231117055400 +0000" stop="20231117062400 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Surfing Attraction</title>
+  </programme>
+  <programme start="20231117062400 +0000" stop="20231117065300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Pleasure Parlour</title>
+  </programme>
+  <programme start="20231117065300 +0000" stop="20231117072500 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy Centerfolds III</title>
+  </programme>
+  <programme start="20231117072500 +0000" stop="20231117075700 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy Centerfolds III</title>
+  </programme>
+  <programme start="20231117075700 +0000" stop="20231117082900 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy'S Amateur Girls I</title>
+  </programme>
+  <programme start="20231117082900 +0000" stop="20231117090000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Nino Dolce Hotel</title>
+  </programme>
+  <programme start="20231117090000 +0000" stop="20231117102800 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">My Stepdaddy Love Cosplay (Soft)</title>
+  </programme>
+  <programme start="20231117102800 +0000" stop="20231117105900 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Naked Happy Girls II</title>
+  </programme>
+  <programme start="20231117105900 +0000" stop="20231117113000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X II</title>
+  </programme>
+  <programme start="20231117113000 +0000" stop="20231117120100 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy Centerfolds III</title>
+  </programme>
+  <programme start="20231117120100 +0000" stop="20231117123200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy Centerfolds III</title>
+  </programme>
+  <programme start="20231117123200 +0000" stop="20231117130300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy'S Amateur Girls I</title>
+  </programme>
+  <programme start="20231117130300 +0000" stop="20231117133200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Surfing Attraction</title>
+  </programme>
+  <programme start="20231117133200 +0000" stop="20231117140100 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Pleasure Parlour</title>
+  </programme>
+  <programme start="20231117140100 +0000" stop="20231117143000 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Nino Dolce Hotel</title>
+  </programme>
+  <programme start="20231117143000 +0000" stop="20231117150100 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Adult Stars: Up Close III</title>
+  </programme>
+  <programme start="20231117150100 +0000" stop="20231117153200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Adult Stars: Up Close III</title>
+  </programme>
+  <programme start="20231117153200 +0000" stop="20231117170700 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Black Pussy White Cock (Soft)</title>
+  </programme>
+  <programme start="20231117170700 +0000" stop="20231117173800 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Naked Happy Girls II</title>
+  </programme>
+  <programme start="20231117173800 +0000" stop="20231117180900 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X II</title>
+  </programme>
+  <programme start="20231117180900 +0000" stop="20231117183700 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Surfing Attraction</title>
+  </programme>
+  <programme start="20231117183700 +0000" stop="20231117190600 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Pleasure Parlour</title>
+  </programme>
+  <programme start="20231117190600 +0000" stop="20231117201200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Teenage Stranger Sex (Soft)</title>
+  </programme>
+  <programme start="20231117201200 +0000" stop="20231117204200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Nino Dolce Hotel</title>
+  </programme>
+  <programme start="20231117204200 +0000" stop="20231117220200 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Tattooed Teens Like It Hard (Soft)</title>
+  </programme>
+  <programme start="20231117220200 +0000" stop="20231117223300 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Naked Happy Girls II</title>
+  </programme>
+  <programme start="20231117223300 +0000" stop="20231117230400 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Spa X II</title>
+  </programme>
+  <programme start="20231117230400 +0000" stop="20231117233500 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy Centerfolds III</title>
+  </programme>
+  <programme start="20231117233500 +0000" stop="20231118000600 +0000" channel="PLAYBOY TV HD">
+    <title lang="pt">Playboy Centerfolds III</title>
   </programme>
 </tv>
